@@ -1,0 +1,18 @@
+---
+title: "Lectures"
+image: "/files/images/hex-Energy-Climate-Policy.png"
+description-meta: "{{< meta website.description >}}"
+listing:
+  contents: lectures
+  sort: "date asc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+#page-layout: full
+page-navigation: true
+title-block-banner: false
+---
+
+

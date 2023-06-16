@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Energy and Climate Policy"
+  description: "An open course on Energy and Climate Policy developed by Dr. Gang He."
+  navbar:
+    background: light
+    left:
+      - text: Syllabus
+        href: syllabus.qmd
+      - text: Schedule
+        href: schedule.qmd
+      - text: Lectures
+        href: lectures.qmd
+      - text: Assignments
+        href: assignments.qmd    
+      - text: Policy Memo
+        href: policymemo.qmd
+      - text: Resources
+        href: resources.qmd
+      - text: Dr. Gang He
+        href: http://drganghe.github.io        
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
+  page-navigation: true
+  page-footer: 
+    left: "&copy; 2023 [Gang He](http://drganghe.github.io)" 
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/energy-climate-policy-2023
+      - icon: twitter 
+        href: https://twitter.com/DrGangHe
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/energy-climate-policy-2023
+  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true
+  #  creator: "@DrGangHe"
+  #  image: "/lectures/lecture2/images/boe-equations.png"
+  site-url: "https://drganghe.github.io/energy-climate-policy-2023"
+  google-analytics:
+    tracking-id: "G-X3EWB1872J"
+    anonymize-ip: true
+
+bibliography: readings.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+    #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+
+comments:
+  hypothesis: false
+  
+

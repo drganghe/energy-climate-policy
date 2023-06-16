@@ -1,0 +1,65 @@
+/* css styles */
+
+
+.reveal h1 {
+font-size: 64px;
+}
+
+/* source: https://github.com/hakimel/reveal.js/issues/1897 */
+.reveal h2 {
+text-align: center;
+}
+
+
+.reveal .centeralign {
+text-align: center;
+}
+
+
+.reveal .slide div.aside {
+font-size: 12px;
+}
+
+.reveal .scrollable {
+    height: 700px;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+/* Share buttons */
+
+ul.share-buttons{
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul.share-buttons li{
+    display: inline;
+  }
+  
+  ul.share-buttons .sr-only{
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+
+/*https://stackoverflow.com/questions/35814653/automatic-height-when-embedding-a-youtube-video*/
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

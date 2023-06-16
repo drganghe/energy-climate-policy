@@ -1,0 +1,75 @@
+---
+title: Syllabus
+description-meta: "{{< meta website.description >}}"
+---
+
+## Course Information
+
+**Department of Technology \& Society**
+
+**Course Name**: EST 603 (#96063), Energy Systems Analysis
+
+**Instructor**: Gang He
+
+**Email**: <gang.he@stonybrook.edu>	
+
+**Office Hours**: Wed 11am-1pm
+
+**Office Location**: Online <https://goo.gl/oMjKuj> 
+
+
+{{< include /files/includes/_coursedescription.qmd >}}
+
+
+## Learning Objectives 
+
+- Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
+- Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
+- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
+- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
+
+## Class Readings
+
+This is a restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally, but they are optional.
+
+- Masters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.
+- MacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.
+- Readings and materials will be posted online.
+
+## Grading
+
+Final grades will be calculated as follows:
+
+<div style="width:550px">
+Item                           | Weight | Notes
+-------------------------------|--------|-------------------------------------
+Homework                       | 40 %   | 4 homeworks
+Final Project: Proposal        | 10 %   | 
+Final Project: Presentation    | 20 %   |
+Final Project: Report          | 30 %   |
+
+</div>
+
+**Late submission**: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice.
+
+## Grading Scale
+
+<div style="width:400px">
+Grade  | Range       | Grade | Range
+-------|-------------|-------|------------
+A      | 93 - 100%   | C     | 73 - 76.99%
+A-     | 90 - 92.99% | C-    | 70 - 72.99%
+B+     | 87 - 89.99% | D+    | 67 - 69.99%
+B      | 83 - 86.99% | D     | 63 - 66.99%
+B-     | 80 - 82.99% | D-    | 60 - 62.99%
+C+     | 77 - 79.99% | F     | < 60%
+</div>
+
+We do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded.
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

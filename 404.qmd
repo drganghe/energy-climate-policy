@@ -1,0 +1,7 @@
+---
+title: Page Unplugged
+---
+
+The page you requested cannot be found (perhaps it was unplugged).
+
+You may want to try searching to find the page's new plug.
