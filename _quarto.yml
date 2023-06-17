@@ -45,7 +45,7 @@ website:
   #  image: "/lectures/lecture2/images/boe-equations.png"
   site-url: "https://drganghe.github.io/energy-climate-policy-2023"
   google-analytics:
-    tracking-id: "G-X3EWB1872J"
+    tracking-id: "G-GG4GM3TPXK"
     anonymize-ip: true
 
 bibliography: readings.bib

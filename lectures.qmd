@@ -1,7 +1,6 @@
 ---
 title: "Lectures"
 image: "/files/images/hex-Energy-Climate-Policy.png"
-description-meta: "{{< meta website.description >}}"
 listing:
   contents: lectures
   sort: "date asc"
