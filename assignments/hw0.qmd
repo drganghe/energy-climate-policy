@@ -1,8 +1,5 @@
 ---
 title: Homework 0 IRA emission reduction assessment
-description-meta: "{{< meta website.description >}}"
-#aliases:
-#  - /homeworks/hw0.html
 format: 
   html: 
     theme: cosmo
@@ -23,6 +20,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
+draft: true
 ---
 This is a "get a taste of the field" homework. 
 

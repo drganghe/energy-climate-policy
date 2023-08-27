@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.6">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -55,17 +55,18 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-X3EWB1872J"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG4GM3TPXK"></script>
 
 <script type="text/javascript">
 
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
-gtag('config', 'G-X3EWB1872J', { 'anonymize_ip': true});
+gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </script>
 
 
@@ -126,7 +127,7 @@ gtag('config', 'G-X3EWB1872J', { 'anonymize_ip': true});
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drganghe/est603-energy-systems-analysis-2022-fall" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/drganghe/energy-climate-policy-2023" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -184,19 +185,14 @@ gtag('config', 'G-X3EWB1872J', { 'anonymize_ip': true});
 
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics from previous students.</p>
+<p>Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.</p>
 <section id="sample-policy-memo-topics" class="level3">
 <h3 class="anchored" data-anchor-id="sample-policy-memo-topics">Sample policy memo topics</h3>
 <ul>
-<li>Cost benefit analysis of installing solar PV in SBU<br>
-</li>
-<li>Offshore wind resources potential in New York State<br>
-</li>
-<li>Efficiency and Cost Analysis of Perovskite Solar Cells vs.&nbsp;Silicon Solar Cells<br>
-</li>
-<li>Market barrier analysis of EV deployment<br>
-</li>
-<li>Comparing the costs of solar with nuclear</li>
+<li>What would be an opitimal congestion price in NYC?</li>
+<li>Policies to enhance supply chains of offshore wind in NYS?</li>
+<li>What NYSERDA should do to promote heat pump installations?</li>
+<li></li>
 </ul>
 </section>
 </section>
@@ -209,31 +205,22 @@ gtag('config', 'G-X3EWB1872J', { 'anonymize_ip': true});
 <p>Your presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. Please submit both the video and slides.</p>
 <p>Your presentation will be graded by the following criteria:</p>
 <ol type="1">
-<li>Nice presence [4pt]<br>
-</li>
-<li>Clear presentation of project ideas and insights [4pt]<br>
-</li>
-<li>Mastery of the subject [4pt]<br>
-</li>
-<li>Presentation design and style [4pt]<br>
-</li>
-<li>Overall impression [4pt]<br>
-</li>
+<li>Nice presence [4pt]</li>
+<li>Clear presentation of project ideas and insights [4pt]</li>
+<li>Mastery of the subject [4pt]</li>
+<li>Presentation design and style [4pt]</li>
+<li>Overall impression [4pt]</li>
 </ol>
 </section>
 <section id="policy-memo" class="level2">
 <h2 class="anchored" data-anchor-id="policy-memo">Policy Memo</h2>
-<p>A typical research paper includes an introduction (research questions), literature review, methods and data, results (findings), conclusion and discussion (policy recommendation). Your paper should be double space, 10-15 pages long, excluding appropriately cited references.</p>
-<p>Your paper will be graded by the following criteria:</p>
+<p>A typical policy includes an introduction (topic or problem), scope of problem, current approach, <strong>proposed approach/policies and evidences</strong>, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.</p>
+<p>Your policy will be graded by the following criteria:</p>
 <ol type="1">
-<li>Creativity in defifing a topic/problem [5pt]<br>
-</li>
-<li>Rigorous analysis [10pt]<br>
-</li>
-<li>Clear writing, presentation, visulization [10pt]<br>
-</li>
-<li>Overall impression [5pt]<br>
-</li>
+<li>Creativity in defifing a topic/problem [5pt]</li>
+<li>Rigorous analysis [5]</li>
+<li>Clear writing, presentation, visulization [5]</li>
+<li>Overall impression [5pt]</li>
 </ol>
 </section>
 <section id="references" class="level2">
@@ -350,30 +337,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, function() {
-      let href = xref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (id.startsWith('sec-')) {
-        // Special case sections, only their first couple elements
-        const container = document.createElement("div");
-        if (note.children.length > 2) {
-          for (let i = 0; i < 2; i++) {
-            container.appendChild(note.children[i].cloneNode(true));
-          }
-          return container.innerHTML
-        } else {
-          return note.innerHTML;
-        }
-      } else {
-        return note.innerHTML;
-      }
     });
   }
       let selectedAnnoteEl;

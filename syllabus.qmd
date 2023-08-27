@@ -1,21 +1,20 @@
 ---
 title: Syllabus
-description-meta: "{{< meta website.description >}}"
 ---
 
 ## Course Information
 
-**Department of Technology \& Society**
+**Marxe School of Public and International Affairs**
 
-**Course Name**: EST 603 (#96063), Energy Systems Analysis
+**Course Name**: PAF 9199 (54435), Energy and Climate Policy
 
 **Instructor**: Gang He
 
-**Email**: <gang.he@stonybrook.edu>	
+**Email**: <gang.he@baruch.cuny.edu>	
 
-**Office Hours**: Wed 11am-1pm
+**Office Hours**: Thu 1-3pm
 
-**Office Location**: Online <https://goo.gl/oMjKuj> 
+**Office Location**: Online 
 
 
 {{< include /files/includes/_coursedescription.qmd >}}
@@ -25,7 +24,7 @@ description-meta: "{{< meta website.description >}}"
 
 - Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
 - Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
-- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
+- Get introduced to major analytical concepts and modeling tools used in energy and climate policy analysis; 
 - Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
 
 ## Class Readings
@@ -43,10 +42,11 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Homework                       | 40 %   | 4 homeworks
-Final Project: Proposal        | 10 %   | 
-Final Project: Presentation    | 20 %   |
-Final Project: Report          | 30 %   |
+Weekly policy response         | 20 %   | 10 responses
+Assignments                    | 30 %   | 5 assignments
+Project: Proposal              | 10 %   | 
+Project: Presentation          | 20 %   |
+Project: Policy memo           | 30 %   |
 
 </div>
 

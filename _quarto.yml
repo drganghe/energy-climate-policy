@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Energy and Climate Policy"
-  description: "An open course on Energy and Climate Policy developed by Dr. Gang He."
+  description: "PAF9199 Energy and Climate Policy developed by Dr. Gang He."
   navbar:
     background: light
     left:
@@ -24,7 +24,7 @@ website:
         href: http://drganghe.github.io        
     right: 
       - icon: github
-        href: https://github.com/drganghe/est603-energy-systems-analysis-2022-fall
+        href: https://github.com/drganghe/energy-climate-policy-2023
   page-navigation: true
   page-footer: 
     left: "&copy; 2023 [Gang He](http://drganghe.github.io)" 
