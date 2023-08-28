@@ -1,5 +1,6 @@
 ---
 title: Assignments
+repo-actions: false
 ---
 
 | # | Topic | pdf | Due Date |

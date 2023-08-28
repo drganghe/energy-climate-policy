@@ -10,8 +10,9 @@ listing:
   filter-ui: false
   feed: false
 #page-layout: full
-page-navigation: true
+page-navigation: false
 title-block-banner: false
+repo-actions: false
 ---
 
 

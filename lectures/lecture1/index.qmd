@@ -4,7 +4,7 @@ description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: Aug 28, 2023
 date-format: long
-image: "images/economy-environment-energy.jpeg"
+image: "/lectures/images/1/economy-environment-energy.jpeg"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,15 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy-2023/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+---
+
+![](../images/1/420ppm.png)
+
+::: footer
+Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
+:::
+
 ---
 
 ## Welcome and icebreaker
@@ -39,11 +47,11 @@ How to evaluate its impact to the emission reduction?
 
 ::: columns
 ::: {.column width="50%"}
-![](images/biden-sign.jpeg){fig-align="center"}
+![](../images/1/biden-sign.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](images/ira1year.jpeg){fig-align="center"}
+![](../images/1/ira1year.jpeg){fig-align="center"}
 :::
 :::
 
@@ -62,7 +70,7 @@ Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/st
 
 -   Syllabus
 -   Blackboard
--   Course website: <https://drganghe.github.io/energy-climate-policy-2023/>
+-   Course website: <https://drganghe.github.io/energy-climate-policy/>
 -   Policy response (10): 20%
 -   Assignments (5): 30%
 -   Proposal: 10%
@@ -108,7 +116,7 @@ Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/st
 :::
 
 ::: {.column width="50%"}
-![](images/climate-curriculum.png){fig-align="center"}
+![](../images/1/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -127,7 +135,6 @@ Using analytic tool to answer questions such as:
 -   What will be the impact to carbon emission of IRA?
 -   How NYS/NYC could achieve its climate goals?
 
-
 ## Models can be useful
 
 -   Prediction/Projection
@@ -143,11 +150,11 @@ Models help us think
 
 ::: columns
 ::: {.column width="50%"}
-![](images/EIA-coal-consumption-forecasts.png){fig-align="center"}
+![](../images/1/EIA-coal-consumption-forecasts.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](images/WEO-PV-projections.png){fig-align="center"}
+![](../images/1/WEO-PV-projections.png){fig-align="center"}
 :::
 :::
 
@@ -163,7 +170,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ## Why: climate and energy systems are both complicated
 
-![](images/us-energy-infrastructure.png){fig-align="center"}
+![](../images/1/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -173,7 +180,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](images/world-energy-trilemma-2021.png){fig-align="center"}
+![](../images/1/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -197,7 +204,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](images/economy-environment-energy.jpeg){fig-align="center"}
+![](../images/1/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -215,7 +222,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievement
 
-![](images/energy-great-achievement.png){fig-align="center"}
+![](../images/1/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -223,7 +230,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](images/un-sdg.png){fig-align="center"}
+![](../images/1/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -231,7 +238,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](images/iea-net-zero.png){fig-align="center"}
+![](../images/1/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -246,7 +253,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity: a structural change
 
-![](images/irena-re-costs-2021.png){fig-align="center"}
+![](../images/1/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -256,11 +263,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](images/accelerate-re-china.png){fig-align="center"}
+<br> ![](../images/1/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](images/re-costs-and-ccs.jpg){fig-align="center"}
+![](../images/1/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 
@@ -296,5 +303,5 @@ Source: @hogan_energy_2002, @huntington_modeling_1982
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy-2023/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy-2023/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy-2023/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

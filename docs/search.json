@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction"
   },
   {
     "objectID": "lectures/lecture1/index.html#welcome-and-icebreaker",
@@ -39,7 +39,7 @@
     "href": "lectures/lecture1/index.html#organization",
     "title": "Lecture 1 Introduction",
     "section": "Organization",
-    "text": "Organization\n\nSyllabus\nBlackboard\nCourse website: https://drganghe.github.io/energy-climate-policy-2023/\nPolicy response (10): 20%\nAssignments (5): 30%\nProposal: 10%\nFinal presentations: 20%\nPolicy memo: 20%"
+    "text": "Organization\n\nSyllabus\nBlackboard\nCourse website: https://drganghe.github.io/energy-climate-policy/\nPolicy response (10): 20%\nAssignments (5): 30%\nProposal: 10%\nFinal presentations: 20%\nPolicy memo: 20%"
   },
   {
     "objectID": "lectures/lecture1/index.html#contents",
@@ -158,7 +158,7 @@
     "href": "lectures/lecture1/index.html#references",
     "title": "Lecture 1 Introduction",
     "section": "",
-    "text": "References\n\n\nGrant, Neil, Adam Hawkes, Tamaryn Napp, and Ajay Gambhir. 2021. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways.” One Earth 4 (11): 1588–1601. https://doi.org/10.1016/j.oneear.2021.10.024.\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\n\n\nHogan, William W. 2002. “Energy Modeling for Policy Studies.” Operations Research 50 (1): 89–95. https://doi.org/10.1287/opre.50.1.89.17803.\n\n\nHuntington, Hillard G, John P Weyant, and James L Sweeney. 1982. “Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum.” Omega 10 (5): 449–62. https://doi.org/10.1016/0305-0483(82)90002-0.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nIRENA. 2021. “Renewable Power Generation Costs in 2021.” Abu Dhabi: International Renewable Energy Agency. https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy-2023/"
+    "text": "References\n\n\nGrant, Neil, Adam Hawkes, Tamaryn Napp, and Ajay Gambhir. 2021. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways.” One Earth 4 (11): 1588–1601. https://doi.org/10.1016/j.oneear.2021.10.024.\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\n\n\nHogan, William W. 2002. “Energy Modeling for Policy Studies.” Operations Research 50 (1): 89–95. https://doi.org/10.1287/opre.50.1.89.17803.\n\n\nHuntington, Hillard G, John P Weyant, and James L Sweeney. 1982. “Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum.” Omega 10 (5): 449–62. https://doi.org/10.1016/0305-0483(82)90002-0.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nIRENA. 2021. “Renewable Power Generation Costs in 2021.” Abu Dhabi: International Renewable Energy Agency. https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   },
   {
     "objectID": "lectures.html",
@@ -172,14 +172,14 @@
     "href": "policymemo.html",
     "title": "Policy Memo",
     "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?"
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
   },
   {
     "objectID": "policymemo.html#introduction",
     "href": "policymemo.html#introduction",
     "title": "Policy Memo",
     "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?"
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
   },
   {
     "objectID": "policymemo.html#proposal",
@@ -298,14 +298,14 @@
     "href": "syllabus.html#grading",
     "title": "Syllabus",
     "section": "Grading",
-    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly policy response\n20 %\n10 responses\n\n\nAssignments\n30 %\n5 assignments\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Policy memo\n30 %\n\n\n\n\n\nLate submission: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice."
+    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly policy response\n20 %\n10 responses\n\n\nAssignments\n30 %\n5 assignments\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Policy memo\n20 %\n\n\n\n\n\nLate submission: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice."
   },
   {
     "objectID": "syllabus.html#grading-scale",
     "href": "syllabus.html#grading-scale",
     "title": "Syllabus",
     "section": "Grading Scale",
-    "text": "Grading Scale\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93 - 100%\nC\n73 - 76.99%\n\n\nA-\n90 - 92.99%\nC-\n70 - 72.99%\n\n\nB+\n87 - 89.99%\nD+\n67 - 69.99%\n\n\nB\n83 - 86.99%\nD\n63 - 66.99%\n\n\nB-\n80 - 82.99%\nD-\n60 - 62.99%\n\n\nC+\n77 - 79.99%\nF\n&lt; 60%\n\n\n\n\nWe do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded."
+    "text": "Grading Scale\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93 - 100%\nC\n73 - 76.99%\n\n\nA-\n90 - 92.99%\nC-\n70 - 72.99%\n\n\nB+\n87 - 89.99%\nD+\n67 - 69.99%\n\n\nB\n83 - 86.99%\nD\n63 - 66.99%\n\n\nB-\n80 - 82.99%\nD-\n60 - 62.99%\n\n\nC+\n77 - 79.99%\nF\n&lt; 60%"
   },
   {
     "objectID": "resources.html",

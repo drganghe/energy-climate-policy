@@ -46,7 +46,7 @@ Weekly policy response         | 20 %   | 10 responses
 Assignments                    | 30 %   | 5 assignments
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
-Project: Policy memo           | 30 %   |
+Project: Policy memo           | 20 %   |
 
 </div>
 
@@ -64,9 +64,6 @@ B      | 83 - 86.99% | D     | 63 - 66.99%
 B-     | 80 - 82.99% | D-    | 60 - 62.99%
 C+     | 77 - 79.99% | F     | < 60%
 </div>
-
-We do NOT offer extra credit or bump up grade. Please do your work to bump up your grade. No grade bump requests will be responded.
-
 
 
 
