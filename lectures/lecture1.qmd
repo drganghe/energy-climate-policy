@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-![](../images/1/420ppm.png)
+![](/lectures/images/1/420ppm.png)
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -47,16 +47,16 @@ How to evaluate its impact to the emission reduction?
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/biden-sign.jpeg){fig-align="center"}
+![](/lectures/images/1/biden-sign.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](../images/1/ira1year.jpeg){fig-align="center"}
+![](/lectures/images/1/ira1year.jpeg){fig-align="center"}
 :::
 :::
 
 ::: footer
-Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/1694454990381649953)
+Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/1694454990381649953)
 :::
 
 ## Why PAF9199?
@@ -116,7 +116,7 @@ Source: Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/st
 :::
 
 ::: {.column width="50%"}
-![](../images/1/climate-curriculum.png){fig-align="center"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -135,6 +135,23 @@ Using analytic tool to answer questions such as:
 -   What will be the impact to carbon emission of IRA?
 -   How NYS/NYC could achieve its climate goals?
 
+## Two quotes about models
+
+::: columns
+::: {.column width="50%"}
+George Box:
+
+>All models are wrong, but some are useful.
+:::
+
+::: {.column width="50%"}
+Albert Einstein:
+
+>Everything should be made as simple as possible, but not simpler.
+:::
+:::
+
+
 ## Models can be useful
 
 -   Prediction/Projection
@@ -150,11 +167,11 @@ Models help us think
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/EIA-coal-consumption-forecasts.png){fig-align="center"}
+![](/lectures/images/1/EIA-coal-consumption-forecasts.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](../images/1/WEO-PV-projections.png){fig-align="center"}
+![](/lectures/images/1/WEO-PV-projections.png){fig-align="center"}
 :::
 :::
 
@@ -170,7 +187,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ## Why: climate and energy systems are both complicated
 
-![](../images/1/us-energy-infrastructure.png){fig-align="center"}
+![](/lectures/images/1/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -180,7 +197,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/world-energy-trilemma-2021.png){fig-align="center"}
+![](/lectures/images/1/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -204,7 +221,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](../images/1/economy-environment-energy.jpeg){fig-align="center"}
+![](/lectures/images/1/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -222,7 +239,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievement
 
-![](../images/1/energy-great-achievement.png){fig-align="center"}
+![](/lectures/images/1/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -230,7 +247,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](../images/1/un-sdg.png){fig-align="center"}
+![](/lectures/images/1/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -238,7 +255,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](../images/1/iea-net-zero.png){fig-align="center"}
+![](/lectures/images/1/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -253,7 +270,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity: a structural change
 
-![](../images/1/irena-re-costs-2021.png){fig-align="center"}
+![](/lectures/images/1/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -263,11 +280,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](../images/1/accelerate-re-china.png){fig-align="center"}
+<br> ![](/lectures/images/1/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](../images/1/re-costs-and-ccs.jpg){fig-align="center"}
+![](/lectures/images/1/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 

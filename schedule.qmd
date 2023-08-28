@@ -1,11 +1,12 @@
 ---
 title: Course Schedule
+repo-actions: false
 ---
 
 
 | Week | Date  | Lecture    | Assignment     |
 |-----------------|-----------------|---------------------|-----------------|
-| 1    | 8/28  | [Introduction](lectures/lecture1/index.qmd)  |   |
+| 1    | 8/28  | [Introduction](lectures/lecture1.qmd)  |   |
 <!--
 | 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)  |       |
