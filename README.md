@@ -1,6 +1,6 @@
-# EST603 Energy and Climate Policy (2023 Fall)
+# PAF9199 Energy and Climate Policy (2023 Fall)
 
-This is the website for Energy and Climate Policy 2023 Fall. I will share the slides, homework, and source files here.  
+This is the website for Energy and Climate Policy 2023 Fall. I will share the slides, assignments, and source files here.  
 
 ## Acknowledgment
 
