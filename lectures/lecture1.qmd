@@ -131,7 +131,7 @@ Data-driven, evidence-based, energy and climate policy
 Using analytic tool to answer questions such as:
 
 -   What will be the climate future if we do nothing?
--   What technology to invest to achieve out climate goal?
+-   What technology to invest to achieve our climate goal?
 -   What will be the impact to carbon emission of IRA?
 -   How NYS/NYC could achieve its climate goals?
 
