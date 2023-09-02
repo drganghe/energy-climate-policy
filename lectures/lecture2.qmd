@@ -1,0 +1,229 @@
+---
+title: "Lecture 2 Make Sense of Numbers and Fundamentals"
+description-meta: "Make sense of energy and climate numbers and data sources"
+author: "Gang He"
+date: September 11, 2023
+date-format: long
+image: "/lectures/images/2/boe-equations.png"
+#suppress-bibliography: true
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+---
+
+## {background-color="black" background-image="/lectures/images/2/one-ton-co2.jpg"}
+
+::: footer
+Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
+:::
+
+
+## NYC's daily carbon dioxide emissions as one-tonne spheres
+
+![](/lectures/images/2/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+
+::: footer
+Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
+:::
+
+
+## Climate stripes
+
+![](/lectures/images/2/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+
+::: footer
+Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
+:::
+
+
+## Carbon budget
+
+![](/lectures/images/2/system-carbon-budget.png){fig-align="center"}
+
+::: footer
+Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+:::
+
+## Emission and concentration
+
+![](/lectures/images/2/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
+
+::: footer
+Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
+:::
+
+
+## Get comfortable with units
+
+![](/lectures/images/2/energy-units.png){fig-align="center"}
+
+::: footer
+Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
+:::
+
+
+## Scale of numbers
+
+![](/lectures/images/2/energy-units-scale.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+:::
+
+
+## Comparing the world's energy resources
+
+![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Energy stock and flow
+
+![](/lectures/images/2/energy-stock-flow.png){fig-align="center"}
+
+::: footer
+Source: @hermann2006quantifying 
+:::
+
+
+## Energy vs. power
+
+![](/lectures/images/2/Power-vs-Energy.png){fig-align="center"}
+
+::: footer
+Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
+:::
+
+
+## Energy vs power
+::: columns
+::: {.column width="50%"}
+- Energy is the ability to do work. Energy is power integrated over **time**.
+- Basic unit: joule = watt<span>&#183;</span>second
+:::
+
+::: {.column width="50%"}
+- Power is the **rate** at which work is done, or energy is transmitted.
+- Basic unit: watt = jourle/second
+:::
+:::
+
+We need to know what we are talking about!
+
+## Back-of-the-envelope estimation
+
+![](/lectures/images/2/boe-equations.png){fig-align="center"}
+
+::: footer
+Source: Gang He
+:::
+
+
+## Art Rosenfeld
+
+![](/lectures/images/2/art-rosenfeld.jpeg){fig-align="center"}
+
+::: footer
+Source: [LBL](https://artrosenfeld.lbl.gov/)
+:::
+
+## Rosenfeld Effect
+
+![](/lectures/images/2/art-rosenfeld-effect.png){fig-align="center"}
+
+::: footer
+Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/), @koomey2010defining 
+:::
+
+## Comparing with the Three Gorges Dam
+
+![](/lectures/images/2/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+
+::: footer
+Source: @fridley2016impacts 
+:::
+
+
+## Common sources of energy and climate data {.smaller}
+
+::: columns
+::: {.column width="33%"}
+**Energy**:   
+- IEA (OECD)  
+- EIA  
+- UN  
+- WB  
+- BP Statistical Review of World Energy 
+:::
+
+::: {.column width="33%"}
+**Climate**:   
+- NASA  
+- NCAR  
+- EUCCI  
+- UNEP  
+- NOAA  
+:::
+
+::: {.column width="33%"}
+**Carbon**:   
+- CDIAC (Carbon Dioxide Information Analysis Center)  
+- EDGAR (emissions database for global atmospheric research system)  
+- Carbon Budget Project  
+- Carbon Monitor
+:::
+:::
+
+::: footer
+Source: @macknick_energy_2011 
+:::
+
+## Data quality
+
+- Availability  
+- Accessibility  
+- Credibility  
+
+Comparison, Validation, Verification
+
+## Use data tools
+
+- API  
+- Packages   
+- Open-souce tools
+
+## Big data and AI era
+
+- Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters
+- Data driven approaches
+
+Big data doesnot necessarily mean big picture   
+
+AI doesnot necessarily mean better insights
+
+
+
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture2.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
