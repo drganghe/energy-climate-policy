@@ -21,4 +21,4 @@ Please feel free to reuse any material that you find helpful. Copyrights belong 
 
 ## How to help  
 
-If you find any issue, please use the "Report an issue" on the right side of a specific page. Any comments and suggestions are very welcome.
+If you like this work, please **Star** this repository. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.

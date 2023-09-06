@@ -1,6 +1,6 @@
 ---
 title: "Lecture 2 Make Sense of Numbers and Fundamentals"
-description-meta: "Make sense of energy and climate numbers and data sources"
+description-meta: "Make sense of energy and climate numbers, data sources, and climate fundamentals"
 author: "Gang He"
 date: September 11, 2023
 date-format: long
@@ -19,7 +19,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
 ## {background-color="black" background-image="/lectures/images/2/one-ton-co2.jpg"}
@@ -71,6 +71,15 @@ Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/unde
 ::: footer
 Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 :::
+
+
+## Foundamental energy units{.smaller}
+
+- Joule: $J\rightarrow newton \times meter$
+- calorie: $cal\rightarrow gram \times 1^\circ C \$, $1 cal=4.184 J$
+  - human daily intake: 1,800-3,000 kcal
+- Btu: $Btu\rightarrow pound \times 1 F \$, $1 Btu=1,055 J$
+- electricity: $1 kWh = 3.6 MJ$
 
 
 ## Scale of numbers
@@ -216,7 +225,154 @@ Big data doesnot necessarily mean big picture
 AI doesnot necessarily mean better insights
 
 
+## GHG effect
 
+![](/lectures/images/2/ghg-effect.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
+:::
+
+## Greenhouse Gases(GHG){.smaller}
+
+| GHG                           | GWP-100   | Lifetime (Years) |
+|-------------------------------|-----------|------------------|
+| Carbon Dioxide (CO2)          | 1         | hundreds         |
+| Methane (CH4)                 | 29.8±11   | 11.8 ± 1.8       |
+| Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
+| Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
+
+Other:  
+
+- Sulphur hexafluoride (SF6) 
+- PFC-14 (CF4) 
+- Water vapour 
+
+::: footer
+Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
+:::
+
+## From emissions to warming
+
+![](/lectures/images/2/emission-co2-warming.png){fig-align="center"}
+
+::: footer
+Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
+:::
+
+
+## Warming since measurement
+
+![](/lectures/images/2/co2-1958-2022.png){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+## Warming in context of geological history
+
+![](/lectures/images/2/co2_historical.jpeg){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/evidence/)
+:::
+
+## Warmer and Warmer
+
+![](/lectures/images/2/temp-anomaly-1850-1900.png){fig-align="center"}
+
+::: footer
+Source: @koomey_solving_2022
+:::
+
+## Climate spireal
+
+![](/lectures/images/2/climate-spiral-1880-2022-circle.png){fig-align="center"}
+
+::: footer
+Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
+:::
+
+
+## Temprature anomaly distribution
+
+![](/lectures/images/2/temp-anomaly-distribution.jpeg){fig-align="center"}
+
+::: footer
+Source: @hansen_perception_2012
+:::
+
+## Human vs nature
+
+![](/lectures/images/2/human-vs-nature.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Human component is the major driver of warming
+
+![](/lectures/images/2/drivers-of-warming.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Scientific understanding: climate systems
+
+![](/lectures/images/2/climate-system-framework.png){fig-align="center"}
+
+::: footer
+Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+
+## Scientific community and process
+
+- What is the IPCC?
+- How does the IPCC select its authors?
+- What literature does the IPCC assess?
+- How does the IPCC review process work?
+- How does the IPCC approve reports?
+- How does the IPCC deal with alleged errors?
+- What is an Expert Reviewer of IPCC?
+
+::: footer
+Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
+:::
+
+## Five stages of climate denial
+
+- Stage 1: Deny the Problem Exists
+- Stage 2: Deny We're the Cause 
+  - Stage 2b: Consensus Denial 
+- Stage 3: Deny It's a Problem  
+- Stage 4: Deny We can Solve It  
+- Stage 5: It's too Late  
+
+::: footer
+Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)
+:::
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  **It's warming**
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
 
 ---
 ### References
@@ -225,5 +381,5 @@ AI doesnot necessarily mean better insights
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-society/lectures/lecture2.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-society/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture2.html#title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
