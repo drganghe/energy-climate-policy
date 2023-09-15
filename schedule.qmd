@@ -7,6 +7,9 @@ repo-actions: false
 | Week | Date  | Lecture    | Assignment     |
 |-----------------|-----------------|---------------------|-----------------|
 | 1    | 8/28  | [Introduction](lectures/lecture1.qmd)  |   |
+| 2    | 9/4 | Labor Day - No session  |   |
+| 3    | 9/11  | [Make sense of number and fundamentals](lectures/lecture2.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
+| 3    | 9/18  | [Climate impacts and responses](lectures/lecture3.qmd)  |  |
 <!--
 | 2    | 8/29  | [Make sense of energy numbers](lectures/lecture2/index.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
 | 3    | 9/5   | [Energy systems overview](lectures/lecture3/index.qmd)  |       |

@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\n\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\nHW1 assigned\n\n\n3\n9/18\nClimate impacts and responses"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -53,7 +53,7 @@
     "href": "lectures/lecture2.html#foundamental-energy-units",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Foundamental energy units",
-    "text": "Foundamental energy units\n\nJoule: \\(J\\rightarrow newton \\times meter\\)\ncalorie: $calgram ^C $, \\(1 cal=4.184 J\\)\n\nhuman daily intake: 1,800-3,000 kcal\n\nBtu: $Btupound F $, \\(1 Btu=1,055 J\\)\nelectricity: \\(1 kWh = 3.6 MJ\\)"
+    "text": "Foundamental energy units\n\nJoule: \\(J\\rightarrow newton \\times meter\\)\ncalorie: \\(cal \\rightarrow gram \\times 1^\\circ C\\) , \\(1 cal=4.184 J\\)\n\nhuman daily intake: 1,800-3,000 kcal\n\nBtu: \\(Btu \\rightarrow pound \\times 1 F\\) , \\(1 Btu=1,055 J\\)\nelectricity: \\(1 kWh = 3.6 MJ\\)"
   },
   {
     "objectID": "lectures/lecture2.html#scale-of-numbers",
@@ -109,7 +109,7 @@
     "href": "lectures/lecture2.html#rosenfeld-effect",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Rosenfeld Effect",
-    "text": "Rosenfeld Effect\n\n\nSource: LBL, Koomey et al. (2010)"
+    "text": "Rosenfeld Effect\n\n\nSource: LBL"
   },
   {
     "objectID": "lectures/lecture2.html#comparing-with-the-three-gorges-dam",
@@ -396,7 +396,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
@@ -578,7 +578,7 @@
     "href": "resources.html#models-we-discuss-in-the-class",
     "title": "Resources",
     "section": "Models we discuss in the class",
-    "text": "Models we discuss in the class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nPLEXOS, PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
+    "text": "Models we discuss in the class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE) DICE 2023\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
   },
   {
     "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
@@ -600,5 +600,187 @@
     "title": "Resources",
     "section": "Programming language",
     "text": "Programming language\nR, a free software environment for statistical computing and graphics\nPython, work quickly and integrate systems more effectively\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia, a high-level, high-performance, dynamic programming language"
+  },
+  {
+    "objectID": "lectures/lecture2.html#defining-a-rosenfeld-plant",
+    "href": "lectures/lecture2.html#defining-a-rosenfeld-plant",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Defining a Rosenfeld Plant",
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+  },
+  {
+    "objectID": "resources.html#modelling-community",
+    "href": "resources.html#modelling-community",
+    "title": "Resources",
+    "section": "Modelling community",
+    "text": "Modelling community\nIntegrated Assessment Modeling Consortium\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nStanford University, Energy Modeling Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
+  },
+  {
+    "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture3.html#adverse-impacts-of-climate-change",
+    "href": "lectures/lecture3.html#adverse-impacts-of-climate-change",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Adverse impacts of climate change",
+    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
+  },
+  {
+    "objectID": "lectures/lecture3.html#the-impacts-are-global",
+    "href": "lectures/lecture3.html#the-impacts-are-global",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "The impacts are global",
+    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
+  },
+  {
+    "objectID": "lectures/lecture3.html#vulnerable-population-suffers-more",
+    "href": "lectures/lecture3.html#vulnerable-population-suffers-more",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Vulnerable population suffers more",
+    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
+  },
+  {
+    "objectID": "lectures/lecture3.html#conventional-focues",
+    "href": "lectures/lecture3.html#conventional-focues",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Conventional focues",
+    "text": "Conventional focues\n\nIce melting\nSea level rising\nExtreme weathers\n\nFloods\nDroughts"
+  },
+  {
+    "objectID": "lectures/lecture3.html#damages-to-include",
+    "href": "lectures/lecture3.html#damages-to-include",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Damages to include",
+    "text": "Damages to include\n\nagriculture\nmortality\nenergy\nlow-risk labor\nhigh-risk labor\ncoastal damages\nproperty crime\nviolent crime\n\nWhat other damages to include?"
+  },
+  {
+    "objectID": "lectures/lecture3.html#social-economic-impacts",
+    "href": "lectures/lecture3.html#social-economic-impacts",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Social economic impacts",
+    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#ipat",
+    "href": "lectures/lecture3.html#ipat",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "IPAT",
+    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: Ehrlich and Holdren (1971)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#kaya-identify",
+    "href": "lectures/lecture3.html#kaya-identify",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Kaya identify",
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1808), Kaya Identity: drivers of CO₂ emissions in the World"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-wedges",
+    "href": "lectures/lecture3.html#climate-wedges",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate wedges",
+    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#the-mckinsey-cost-curve",
+    "href": "lectures/lecture3.html#the-mckinsey-cost-curve",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "The Mckinsey cost curve",
+    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "lectures/lecture3.html#social-cost-of-carbon",
+    "href": "lectures/lecture3.html#social-cost-of-carbon",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "lectures/lecture3.html#epa-social-cost-of-carbon",
+    "href": "lectures/lecture3.html#epa-social-cost-of-carbon",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "EPA social cost of carbon",
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
+  },
+  {
+    "objectID": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
+    "href": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "NYDEC ‘Value of Carbon’ Guidance",
+    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
+  },
+  {
+    "objectID": "lectures/lecture3.html#scc-updates",
+    "href": "lectures/lecture3.html#scc-updates",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "SCC updates",
+    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#what-works-whats-not",
+    "href": "lectures/lecture3.html#what-works-whats-not",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "What works what’s not",
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#best-practices",
+    "href": "lectures/lecture3.html#best-practices",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Best practices",
+    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-damage-function",
+    "href": "lectures/lecture3.html#climate-damage-function",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate damage function",
+    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: Neumann et al. (2020), Valuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (2017)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-change-and-conflicts",
+    "href": "lectures/lecture3.html#climate-change-and-conflicts",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate change and conflicts",
+    "text": "Climate change and conflicts\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-change-affects-energy-system",
+    "href": "lectures/lecture3.html#climate-change-affects-energy-system",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate change affects energy system",
+    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
+    "href": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate impact to renewable supply-demand match",
+    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#nys-climate-impacts-assessment",
+    "href": "lectures/lecture3.html#nys-climate-impacts-assessment",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "NYS climate impacts assessment",
+    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
+  },
+  {
+    "objectID": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "href": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
+    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture3.html#references",
+    "href": "lectures/lecture3.html#references",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "",
+    "text": "References\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1808. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   }
 ]

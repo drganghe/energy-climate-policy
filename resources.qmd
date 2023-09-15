@@ -7,7 +7,7 @@ title: Resources
 \-- [_Engineering Statistics Handbook_](https://www.itl.nist.gov/div898/handbook/apr/section2/apr24.htm), [George Box](https://en.wikipedia.org/wiki/George_E._P._Box)
 
 
-## Modeler’s community
+## Modelling community
 
 [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
 
@@ -29,13 +29,11 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 ## Models we discuss in the class
 
-[RICE/DICE](https://nordhaus.econ.yale.edu/dicemodels.htm), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)
+[RICE/DICE](https://williamnordhaus.com/dicerice-models), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)  [DICE 2023](https://yale.app.box.com/s/whlqcr7gtzdm4nxnrfhvap2hlzebuvvm)
 
 [SWITCH](https://www.switch-model.org), A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments
 
 [ReEDS](https://www.nrel.gov/analysis/reeds/), The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.
-
-[PLEXOS](https://www.energyexemplar.com/plexos), PLEXOS is proven power market modeling and simulation software that uses mathematical programming and stochastic optimization techniques combined with the latest data handling techniques, to provide a robust analytical framework for power market modelers.
 
 [SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
 

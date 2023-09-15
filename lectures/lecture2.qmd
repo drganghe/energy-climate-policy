@@ -75,11 +75,11 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 
 ## Foundamental energy units{.smaller}
 
-- Joule: $J\rightarrow newton \times meter$
-- calorie: $cal\rightarrow gram \times 1^\circ C \$, $1 cal=4.184 J$
+- Joule: $J\rightarrow newton \times meter$ 
+- calorie: $cal \rightarrow gram \times 1^\circ C$ , $1 cal=4.184 J$ 
   - human daily intake: 1,800-3,000 kcal
-- Btu: $Btu\rightarrow pound \times 1 F \$, $1 Btu=1,055 J$
-- electricity: $1 kWh = 3.6 MJ$
+- Btu: $Btu \rightarrow pound \times 1 F$ , $1 Btu=1,055 J$ 
+- electricity: $1 kWh = 3.6 MJ$ 
 
 
 ## Scale of numbers
@@ -155,8 +155,27 @@ Source: [LBL](https://artrosenfeld.lbl.gov/)
 ![](/lectures/images/2/art-rosenfeld-effect.png){fig-align="center"}
 
 ::: footer
-Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/), @koomey2010defining 
+Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/) 
 :::
+
+
+## Defining a Rosenfeld Plant
+
+- 500 MW
+- c.f.: 70%
+- T&D losss: 7%
+
+Results:   
+
+- 3 TWh/year  
+- 3 MtCO2/year
+
+- NYC electricity use: ~4 TWh/year
+
+::: footer
+Source: @koomey2010defining 
+:::
+
 
 ## Comparing with the Three Gorges Dam
 

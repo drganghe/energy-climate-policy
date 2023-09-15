@@ -9,6 +9,7 @@ listing:
   sort-ui: false
   filter-ui: false
   feed: false
+  fields: [image, date, title, author]
 #page-layout: full
 page-navigation: false
 title-block-banner: false
