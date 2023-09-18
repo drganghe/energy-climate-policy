@@ -14,7 +14,7 @@ title: Syllabus
 
 **Office Hours**: Thu 1-3pm
 
-**Office Location**: Online 
+**Location**: Online 
 
 
 {{< include /files/includes/_coursedescription.qmd >}}

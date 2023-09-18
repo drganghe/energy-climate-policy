@@ -93,13 +93,54 @@ Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6
 What other damages to include?
 
 
-
 ## Social economic impacts
 
 ![](/lectures/images/3/social-economic-impacts.png){fig-align="center"}
 
 ::: footer
 Source: @carleton2016social
+:::
+
+
+## Climate damage function
+
+$Economic\ Damage=f(\Delta temperature)$
+
+- It could be negative or positive
+- Integrated Assessment Models/Economic models
+  - DICE/RICE
+  - FUND
+  - PAGE
+
+::: footer
+Read more: @neumann_climate_2020, @updating_scc_2017
+:::  
+
+
+## Climate change and conflicts
+
+![](/lectures/images/3/climate-and-conflict.jpeg){fig-align="center"}
+
+::: footer
+Read more: @hsiang_quantifying_2013
+::: 
+
+
+## Climate change affects energy system
+
+![](/lectures/images/3/climate-impact-on-energy.webp){fig-align="center"}
+
+::: footer
+Source: @yalew2020impacts
+:::
+
+
+## Climate impact to renewable supply-demand match
+
+![](/lectures/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
 :::
 
 
@@ -252,46 +293,14 @@ Source: Read more: @armitage_innovation_2023
 - Policy/technology tools
 
 
-## Climate damage function
+## Policy instruments
 
-$Economic\ Damage=f(\Delta temperature)$
-
-- It could be negative or positive
-- Integrated Assessment Models/Economic models
-  - DICE/RICE
-  - FUND
-  - PAGE
+![](/lectures/images/3/policy-instruments.png){fig-align="center"}
 
 ::: footer
-Read more: @neumann_climate_2020, @updating_scc_2017
-:::  
-
-
-## Climate change and conflicts
-
-![](/lectures/images/3/climate-and-conflict.jpeg){fig-align="center"}
-
-::: footer
-Read more: @hsiang_quantifying_2013
-::: 
-
-
-## Climate change affects energy system
-
-![](/lectures/images/3/climate-impact-on-energy.webp){fig-align="center"}
-
-::: footer
-Source: @yalew2020impacts
+Source: @armitage_innovation_2023
 :::
 
-
-## Climate impact to renewable supply-demand match
-
-![](/lectures/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
-
-::: footer
-Source: @liu_climate_2023
-:::
 
 
 ## NYS climate impacts assessment{.smaller}
