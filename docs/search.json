@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\n\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\nHW1 assigned\n\n\n3\n9/18\nClimate impacts and responses"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n3\n9/18\nClimate impacts and responses\nHW2 assigned"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -347,7 +347,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18"
+    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18\n\n\n1\nUpdating a Rosenfeld plant\nhw2\n10/4"
   },
   {
     "objectID": "policymemo.html",
@@ -619,29 +619,29 @@
     "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
     "href": "lectures/lecture3.html#a-five-points-climate-haiku",
     "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "section": "",
+    "text": "It’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   },
   {
     "objectID": "lectures/lecture3.html#adverse-impacts-of-climate-change",
     "href": "lectures/lecture3.html#adverse-impacts-of-climate-change",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Adverse impacts of climate change",
-    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
+    "text": "Adverse impacts of climate change\n\n\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
   },
   {
     "objectID": "lectures/lecture3.html#the-impacts-are-global",
     "href": "lectures/lecture3.html#the-impacts-are-global",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "The impacts are global",
-    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
+    "text": "The impacts are global\n\n\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
   },
   {
     "objectID": "lectures/lecture3.html#vulnerable-population-suffers-more",
     "href": "lectures/lecture3.html#vulnerable-population-suffers-more",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Vulnerable population suffers more",
-    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
+    "text": "Vulnerable population suffers more\n\n\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
   },
   {
     "objectID": "lectures/lecture3.html#conventional-focues",
@@ -662,7 +662,7 @@
     "href": "lectures/lecture3.html#social-economic-impacts",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Social economic impacts",
-    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+    "text": "Social economic impacts\n\n\n\n\n\n\n\n\nSource: Carleton and Hsiang (2016)"
   },
   {
     "objectID": "lectures/lecture3.html#ipat",
@@ -676,21 +676,21 @@
     "href": "lectures/lecture3.html#kaya-identify",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1808), Kaya Identity: drivers of CO₂ emissions in the World"
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
   },
   {
     "objectID": "lectures/lecture3.html#climate-wedges",
     "href": "lectures/lecture3.html#climate-wedges",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Climate wedges",
-    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
+    "text": "Climate wedges\n\n\n\n\n\n\n\n\nSource: Pacala and Socolow (2004)"
   },
   {
     "objectID": "lectures/lecture3.html#the-mckinsey-cost-curve",
     "href": "lectures/lecture3.html#the-mckinsey-cost-curve",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "The Mckinsey cost curve",
-    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+    "text": "The Mckinsey cost curve\n\n\n\n\n\n\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
   },
   {
     "objectID": "lectures/lecture3.html#social-cost-of-carbon",
@@ -704,7 +704,7 @@
     "href": "lectures/lecture3.html#epa-social-cost-of-carbon",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "EPA social cost of carbon",
-    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
   },
   {
     "objectID": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
@@ -718,7 +718,7 @@
     "href": "lectures/lecture3.html#scc-updates",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "SCC updates",
-    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+    "text": "SCC updates\n\n\n\n\n\n\n\n\nSource: RFF, Rennert et al. (2022)"
   },
   {
     "objectID": "lectures/lecture3.html#what-works-whats-not",
@@ -746,35 +746,35 @@
     "href": "lectures/lecture3.html#climate-change-and-conflicts",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Climate change and conflicts",
-    "text": "Climate change and conflicts\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
+    "text": "Climate change and conflicts\n\n\n\n\n\n\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
   },
   {
     "objectID": "lectures/lecture3.html#climate-change-affects-energy-system",
     "href": "lectures/lecture3.html#climate-change-affects-energy-system",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Climate change affects energy system",
-    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+    "text": "Climate change affects energy system\n\n\n\n\n\n\n\n\nSource: Yalew et al. (2020)"
   },
   {
     "objectID": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "href": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Climate impact to renewable supply-demand match",
-    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
+    "text": "Climate impact to renewable supply-demand match\n\n\n\n\n\n\n\n\nSource: Liu et al. (2023)"
   },
   {
     "objectID": "lectures/lecture3.html#nys-climate-impacts-assessment",
     "href": "lectures/lecture3.html#nys-climate-impacts-assessment",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "NYS climate impacts assessment",
-    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
+    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\n\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
   },
   {
     "objectID": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
     "href": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
-    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
+    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\n\n\n\n\n\n\nSource: Our World in Data\n\n\n\nReferences\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture3.html#references",
@@ -788,6 +788,62 @@
     "href": "lectures/lecture3.html#policy-instruments",
     "title": "Lecture 3 Climate Impacts and Responses",
     "section": "Policy instruments",
-    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+    "text": "Policy instruments\n\n\n\n\n\n\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "assignments/hw2.html",
+    "href": "assignments/hw2.html",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "",
+    "text": "We discussed Defining a Rosenfeld Plant in Lecture 2. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.\nTo define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants, and the average transmissin losses. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself."
+  },
+  {
+    "objectID": "assignments/hw2.html#data",
+    "href": "assignments/hw2.html#data",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Data",
+    "text": "Data\nThere are a few places that you may find plant level data.\n\nEIA-860 collects generator-level specific information about existing and planned generators and associated environmental equipment at electric power plants with 1 MW or greater of combined nameplate capacity.\nEPA eGRID includes emissions, emission rates, generation, heat input, resource mix, and many other attributes.\nGlobal Energy Monitor’s Global Coal Plant Tracker (GCPT) provides information on coal-fired power units from around the world generating 30 megawatts and above.\n\nEIA’s data is comprehensieve but a bit messy, GCPT data focuses on coal plants might not have the attributes you need. Let’s use the EPA eGRID data for your analysis. Please download eGRID with 2021 data."
+  },
+  {
+    "objectID": "assignments/hw2.html#questions",
+    "href": "assignments/hw2.html#questions",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Questions",
+    "text": "Questions\nPlease use the eGRID data and work out the calculation:\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameter, what’s the total carbon emissions of an updated Rosenfeld Plant? (0.5pt)\n\nWhat’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percent point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
+  },
+  {
+    "objectID": "assignments/hw2.html#further-readings",
+    "href": "assignments/hw2.html#further-readings",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Further readings",
+    "text": "Further readings\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://doi.org/10.1088/1748-9326/5/1/014017."
+  },
+  {
+    "objectID": "assignments/hw1.html",
+    "href": "assignments/hw1.html",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "",
+    "text": "We have to deal with carbon to address climate change, so let’s have a deep dive into the carbon emission data. One of my favorite sources and visulizations is Our World in Data. The raw data is also available here. Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g. the Carbon Monitor."
+  },
+  {
+    "objectID": "assignments/hw1.html#questions",
+    "href": "assignments/hw1.html#questions",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "Questions",
+    "text": "Questions\nPlease use the most recent data and answer below questions:\n\nTop 10 countries by annual total energy related carbon emissions? (0.5pt)\nTop 10 countries by per capita average carbon emissions? (0.5pt)\nTop 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)\nTop 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)\nList all countries that have consistently reduced its carbon emission since 2000? (0.5pt)\nChange the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)\nUse global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)\nWhat technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)\n\nNote: please list countries and their corresponding data of those indicators. Plug: we will come back to this assignment when discuss sharing of “common but differntiated responsibility” in climate negotiation and governance."
+  },
+  {
+    "objectID": "assignments/hw1.html#further-readings",
+    "href": "assignments/hw1.html#further-readings",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "Further readings",
+    "text": "Further readings\n\nDou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). https://doi.org/10.1016/j.xinn.2021.100182.\nFriedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. https://doi.org/10.5194/essd-14-4811-2022."
+  },
+  {
+    "objectID": "lectures/lecture3.html",
+    "href": "lectures/lecture3.html",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "",
+    "text": "It’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   }
 ]

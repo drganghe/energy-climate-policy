@@ -20,7 +20,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true
+#draft: true
 ---
 
 We have to deal with carbon to address climate change, so let's have a deep dive into the carbon emission data. One of my favorite sources and visulizations is [Our World in Data](https://ourworldindata.org/co2-emissions). The raw data is also available [here](https://github.com/owid/co2-data/blob/master/owid-co2-data.csv). Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g. the [Carbon Monitor](https://carbonmonitor.org/).

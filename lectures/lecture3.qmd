@@ -188,7 +188,7 @@ And:
 :::
 
 ::: footer
-Source: @kaya_environment_1808, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
 :::
 
 
