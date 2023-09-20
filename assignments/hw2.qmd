@@ -3,9 +3,9 @@ title: Assignment 2 Updating a Rosenfeld Plant
 format: 
   html: 
     theme: cosmo
-#    css: styles.css
+    css: /styles.css
     toc: true
-    link-external-icon: false
+    link-external-icon: true
     link-external-newwindow: true
   pdf: 
     documentclass: article

@@ -74,6 +74,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Energy and Climate Policy - Assignment 2 Updating a Rosenfeld Plant">
 <meta property="og:description" content="PAF9199 Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
@@ -568,7 +569,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -579,6 +580,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

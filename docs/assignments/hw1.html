@@ -74,6 +74,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Energy and Climate Policy - Assignment 1 Deep dive in carbon emissions">
 <meta property="og:description" content="PAF9199 Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
@@ -200,8 +201,8 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <section id="further-readings" class="level2">
 <h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
 <ul>
-<li><p>Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al.&nbsp;2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). <a href="https://doi.org/10.1016/j.xinn.2021.100182" class="uri">https://doi.org/10.1016/j.xinn.2021.100182</a>.</p></li>
-<li><p>Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al.&nbsp;2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. <a href="https://doi.org/10.5194/essd-14-4811-2022" class="uri">https://doi.org/10.5194/essd-14-4811-2022</a>.</p></li>
+<li><p>Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al.&nbsp;2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” <em>The Innovation</em> 3 (1). <a href="https://doi.org/10.1016/j.xinn.2021.100182" class="uri">https://doi.org/10.1016/j.xinn.2021.100182</a>.</p></li>
+<li><p>Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al.&nbsp;2022. “Global Carbon Budget 2022.” <em>Earth System Science Data</em> 14 (11): 4811–4900. <a href="https://doi.org/10.5194/essd-14-4811-2022" class="uri">https://doi.org/10.5194/essd-14-4811-2022</a>.</p></li>
 </ul>
 
 
@@ -551,7 +552,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -562,6 +563,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

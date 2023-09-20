@@ -189,7 +189,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <td>9/18</td>
 </tr>
 <tr class="even">
-<td>1</td>
+<td>2</td>
 <td><a href="./assignments/hw2.html">Updating a Rosenfeld plant</a></td>
 <td><a href="assignments/hw2.pdf">hw2</a></td>
 <td>10/4</td>
@@ -549,7 +549,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -560,6 +560,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

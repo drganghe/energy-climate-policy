@@ -3,9 +3,9 @@ title: Assignment 1 Deep dive in carbon emissions
 format: 
   html: 
     theme: cosmo
-#    css: styles.css
+    css: /styles.css
     toc: true
-    link-external-icon: false
+    link-external-icon: true
     link-external-newwindow: true
   pdf: 
     documentclass: article
@@ -43,9 +43,9 @@ Plug: we will come back to this assignment when discuss sharing of "common but d
 
 ## Further readings
 
-- Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). <https://doi.org/10.1016/j.xinn.2021.100182>.
+- Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” *The Innovation* 3 (1). <https://doi.org/10.1016/j.xinn.2021.100182>.
 
-- Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. <https://doi.org/10.5194/essd-14-4811-2022>.
+- Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” *Earth System Science Data* 14 (11): 4811–4900. <https://doi.org/10.5194/essd-14-4811-2022>.
 
 
 
