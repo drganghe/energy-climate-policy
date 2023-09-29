@@ -33,13 +33,13 @@ Please use the most recent data and answer below questions:
 - Top 10 countries by per capita average carbon emissions? (0.5pt)
 - Top 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)
 - Top 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)
-- List all countries that have consistently reduced its carbon emission since 2000? (0.5pt)
+- List all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)
 - Change the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)
 - Use global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)
 - What technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)
 
 Note: please list countries and their corresponding data of those indicators.
-Plug: we will come back to this assignment when discuss sharing of "common but differntiated responsibility" in climate negotiation and governance.
+Plug: we will come back to this assignment when discuss sharing of "common but differntiated responsibilities" in climate negotiation and governance.
 
 ## Further readings
 

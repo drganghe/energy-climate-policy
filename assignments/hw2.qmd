@@ -45,9 +45,9 @@ Please use the eGRID data and work out the calculation:
 - What's the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the "PLT21" shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]   
 - What's the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]   
 - What's the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]  
-- Using the updated parameter, what's the total carbon emissions of an updated Rosenfeld Plant? (0.5pt)   
+- Using the updated parameters, what's the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)   
 - What's the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]  
-- If we can improve the average efficiency of coal plants by 1% (percent point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)   
+- If we can improve the average efficiency of coal plants by 1% (percentage point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)   
 - Further explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)   
 
 Note: please show your process to receive partial credit.   
@@ -57,6 +57,9 @@ Plug: eGRID has rich resources and we will come back to this assignment when dis
 ## Further readings
 
 - Koomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” *Environmental Research Letters* 5 (1): 014017. <https://doi.org/10.1088/1748-9326/5/1/014017>.
+
+- Grubert, Emily. 2020. “Fossil Electricity Retirement Deadlines for a Just Transition.” *Science* 370 (6521): 1171–73. <https://doi.org/10.1126/science.abe0375>.
+
 
 
 

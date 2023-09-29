@@ -18,8 +18,8 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>
-draft: true
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
 ---
 
 ## Energy systems
@@ -71,6 +71,25 @@ Source: [LLNL](https://flowcharts.llnl.gov/)
 ::: footer
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
+
+
+## Energy by source updated to 2022
+
+![](/lectures/images/4/global-energy-substitution.png){fig-align="center"}
+
+::: footer
+Source: [Our Wold in Data](https://ourworldindata.org/global-energy-200-years) 
+:::
+
+
+## Energy by source - two worlds
+
+![](/lectures/images/4/primary-sub-energy-source.png){fig-align="center"}
+
+::: footer
+Source: [Our Wold in Data](https://ourworldindata.org/grapher/primary-sub-energy-source) 
+:::
+
 
 ## Energy end-use by sector
 
@@ -173,7 +192,7 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 :::
 
 
-## Modeler’s jargon
+## Energy systems modeling
  
 - Top-down vs. bottom-up  
 - Supply-side vs. demand-side  
@@ -197,5 +216,5 @@ Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture3/#/title-slide), All [Lectures](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures.html), Course [Home](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture4.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
