@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.376">
+<meta name="generator" content="quarto-1.4.395">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -76,10 +76,10 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Energy and Climate Policy - Assignment 2 Updating a Rosenfeld Plant">
-<meta property="og:description" content="PAF9199 Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
+<meta property="og:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
 <meta name="twitter:title" content="Energy and Climate Policy - Assignment 2 Updating a Rosenfeld Plant">
-<meta name="twitter:description" content="PAF9199 Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -183,6 +183,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 </header>
 
+
 <p>We discussed <a href="https://drganghe.github.io/energy-climate-policy/lectures/lecture2.html#/defining-a-rosenfeld-plant">Defining a Rosenfeld Plant</a> in Lecture 2. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.</p>
 <p>To define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants, and the average transmissin losses. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself.</p>
 <section id="data" class="level2">
@@ -199,7 +200,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="questions">Questions</h2>
 <p>Please use the eGRID data and work out the calculation:</p>
 <ul>
-<li>What’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]<br>
+<li>What’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]<br>
 </li>
 <li>What’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]<br>
 </li>
@@ -209,7 +210,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </li>
 <li>What’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]<br>
 </li>
-<li>If we can improve the average efficiency of coal plants by 1% (percent point), e.g.&nbsp;32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)<br>
+<li>If we can improve the average efficiency of coal plants by 1% (percentage point), e.g.&nbsp;32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)<br>
 </li>
 <li>Further explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)</li>
 </ul>
@@ -355,15 +356,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
         for (let i = 0; i < 2; i++) {
           container.appendChild(note.children[i].cloneNode(true));
         }
+        typesetMath(container);
         return container.innerHTML
       } else {
+        typesetMath(note);
         return note.innerHTML;
       }
     } else {
@@ -372,6 +396,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
+      typesetMath(note);
       return note.innerHTML;
     }
   }
@@ -414,6 +439,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -489,7 +537,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     window.addEventListener(
       "resize",
       throttle(() => {
-        console.log("RESIZE");
         elRect = undefined;
         if (selectedAnnoteEl) {
           selectCodeLines(selectedAnnoteEl);
@@ -570,12 +617,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

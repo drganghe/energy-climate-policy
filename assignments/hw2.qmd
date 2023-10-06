@@ -42,7 +42,7 @@ EIA's data is comprehensieve but a bit messy, GCPT data focuses on coal plants m
 
 Please use the eGRID data and work out the calculation:
 
-- What's the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the "PLT21" shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]   
+- What's the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the "PLNT21" shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]   
 - What's the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]   
 - What's the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]  
 - Using the updated parameters, what's the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)   

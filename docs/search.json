@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics"
   },
   {
     "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
@@ -312,7 +312,7 @@
     "href": "assignments/hw2.html#questions",
     "title": "Assignment 2 Updating a Rosenfeld Plant",
     "section": "Questions",
-    "text": "Questions\nPlease use the eGRID data and work out the calculation:\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)\n\nWhat’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percent point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
+    "text": "Questions\nPlease use the eGRID data and work out the calculation:\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)\n\nWhat’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percentage point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
   },
   {
     "objectID": "assignments/hw2.html#further-readings",
@@ -368,7 +368,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Porject Economics\n\n\n\nGang He\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
@@ -978,5 +978,145 @@
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy by source - two worlds",
     "text": "Energy by source - two worlds\n\n\nSource: Our Wold in Data"
+  },
+  {
+    "objectID": "lectures/lecture5.html#sample-analytic-questions",
+    "href": "lectures/lecture5.html#sample-analytic-questions",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+  },
+  {
+    "objectID": "lectures/lecture5.html#project-economics",
+    "href": "lectures/lecture5.html#project-economics",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Project economics",
+    "text": "Project economics\n\nSimple payback\n\nDiscounting\n\nPresent/future value\n\nUniform payments (annuities)\n\nCapital recovery factor\n\nComparing technologies/costs (LCOE)\n\nLearning curve\n\nMarket and technology drivers"
+  },
+  {
+    "objectID": "lectures/lecture5.html#time-is-money",
+    "href": "lectures/lecture5.html#time-is-money",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Time is money",
+    "text": "Time is money\n\nMoney value changes in time: a dollar today worth more than a dollar tomorrow.\n\nWhen money is invested, its amount changes with the return.\n\nWhen money is transferred into assets, its value change due to depreciation and/or inflation.\n\nDiscounted cash flow is a technique that allow us to evaluate values as they change over time."
+  },
+  {
+    "objectID": "lectures/lecture5.html#payback-period",
+    "href": "lectures/lecture5.html#payback-period",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Payback period",
+    "text": "Payback period\n\n\\(Payback\\ Period = Initial\\ Investment ÷ Annual\\ Cash\\ Flow\\)\n\nSimple payback: no discounting\nPayback: with discounting"
+  },
+  {
+    "objectID": "lectures/lecture5.html#capital-recovery-factor-crf",
+    "href": "lectures/lecture5.html#capital-recovery-factor-crf",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Capital Recovery Factor (CRF)",
+    "text": "Capital Recovery Factor (CRF)\nRatio of a constant annunity to the present value of receiving that annuity for a given length of time.\n\n\\(CRF = \\frac{i(1+i)^n}{(1+i)^n - 1}\\)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#discounting",
+    "href": "lectures/lecture5.html#discounting",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Discounting",
+    "text": "Discounting\n\n\\(discount\\ rate (r) = interest\\ rate (i) + inflation\\)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#the-power-of-discounting",
+    "href": "lectures/lecture5.html#the-power-of-discounting",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "The power of discounting",
+    "text": "The power of discounting\n\n\nSource: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture5.html#declining-discounting",
+    "href": "lectures/lecture5.html#declining-discounting",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Declining discounting",
+    "text": "Declining discounting\n\n\nSource: Weitzman (2001), Arrow et al. (2013)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#lcoe",
+    "href": "lectures/lecture5.html#lcoe",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "LCOE",
+    "text": "LCOE\n\n\\(LCOE=\\frac{\\text{sum of costs over lifetime}}{\\text{sum of electricity produced over life time}}=\\frac{\\sum_{t=1}^{n}{\\frac{I_t+M_t+F_t}{(1+r)^t}}}{\\sum_{t=1}^{n}{\\frac{E_t}{(1+r)^t}}}\\)\n\n\nI: Investment costs\nM: Operation and maintaince costs\nF: Fuel costs"
+  },
+  {
+    "objectID": "lectures/lecture5.html#comparing-lcoe",
+    "href": "lectures/lecture5.html#comparing-lcoe",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Comparing LCOE",
+    "text": "Comparing LCOE\n\n\nSource: Lazard LCOE 15.0"
+  },
+  {
+    "objectID": "lectures/lecture5.html#limitations-of-lcoe",
+    "href": "lectures/lecture5.html#limitations-of-lcoe",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Limitations of LCOE",
+    "text": "Limitations of LCOE\n\nFossil: Do not include other costs (e.g. enviromental, carbon, etc.)\n\nRE: Do not include integraton costs\nFocus on economics, do not include social cultural acceptance"
+  },
+  {
+    "objectID": "lectures/lecture5.html#learning-curve",
+    "href": "lectures/lecture5.html#learning-curve",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Learning curve",
+    "text": "Learning curve\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: Yelle (1979)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#learning-of-differrent-technologies",
+    "href": "lectures/lecture5.html#learning-of-differrent-technologies",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Learning of differrent technologies",
+    "text": "Learning of differrent technologies\n\n\nSource: Grübler, Nakićenović, and Victor (1999)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#drivers-of-learning",
+    "href": "lectures/lecture5.html#drivers-of-learning",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Drivers of learning",
+    "text": "Drivers of learning\n\n\n\n\n\n\n\n\nSource: Kavlak, McNerney, and Trancik (2018), Klemun et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#source-of-learning",
+    "href": "lectures/lecture5.html#source-of-learning",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Source of learning",
+    "text": "Source of learning\nLearning by doing\n\nEconomy of scale\n\nEconomy of scope\n\nLearning by researching"
+  },
+  {
+    "objectID": "lectures/lecture5.html#how-renewables-are-getting-cheap",
+    "href": "lectures/lecture5.html#how-renewables-are-getting-cheap",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "How renewables are getting cheap",
+    "text": "How renewables are getting cheap\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture5.html#why-nuclear-costs-are-going-up",
+    "href": "lectures/lecture5.html#why-nuclear-costs-are-going-up",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Why nuclear costs are going up?",
+    "text": "Why nuclear costs are going up?\n\n\nSource: Grubler (2010)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#role-of-global-supply-chain-in-pv",
+    "href": "lectures/lecture5.html#role-of-global-supply-chain-in-pv",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Role of global supply chain in PV",
+    "text": "Role of global supply chain in PV\n\n\nSource: Helveston, He, and Davidson (2022)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#summary",
+    "href": "lectures/lecture5.html#summary",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "Summary",
+    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: Grübler, Nakićenović, and Victor (1999)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#references",
+    "href": "lectures/lecture5.html#references",
+    "title": "Lecture 5 Energy Porject Economics",
+    "section": "",
+    "text": "References\n\n\nArrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. “Determining Benefits and Costs for Future Generations.” Science 341 (6144): 349–50. https://doi.org/10.1126/science.1235665.\n\n\nGrubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” Energy Policy 38 (9): 5174–88. https://doi.org/10.1016/j.enpol.2010.05.003.\n\n\nGrübler, Arnulf, Nebojša Nakićenović, and David G Victor. 1999. “Dynamics of Energy Technologies and Global Change.” Energy Policy 27 (5): 247–80. https://doi.org/10.1016/S0301-4215(98)00067-6.\n\n\nHelveston, John, Gang He, and Michael Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nKavlak, Goksin, James McNerney, and Jessika E. Trancik. 2018. “Evaluating the Causes of Cost Reduction in Photovoltaic Modules.” Energy Policy 123 (December): 700–710. https://doi.org/10.1016/j.enpol.2018.08.015.\n\n\nKlemun, Magdalena M., Goksin Kavlak, James McNerney, and Jessika E. Trancik. 2023. “Mechanisms of Hardware and Soft Technology Evolution and the Implications for Solar Energy Cost Trends.” Nature Energy 8 (8): 827–38. https://doi.org/10.1038/s41560-023-01286-9.\n\n\nWeitzman, Martin L. 2001. “Gamma Discounting.” American Economic Review 91 (1): 260–71. https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   }
 ]

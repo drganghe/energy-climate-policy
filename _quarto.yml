@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Energy and Climate Policy"
-  description: "PAF9199 Energy and Climate Policy developed by Dr. Gang He."
+  description: "PAF9199 Energy and Climate Policy class developed by Dr. Gang He."
   navbar:
     background: light
     left:
@@ -57,7 +57,7 @@ format:
     toc: true
     citations-hover: true
     footnotes-hover: true
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
