@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics"
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics\n\n\n\n8\n10/16\nEnergy technologies: solar and wind"
   },
   {
     "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
@@ -368,7 +368,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Porject Economics\n\n\n\nGang He\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Porject Economics\n\n\n\nGang He\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Conversion Technologies: Solar and Wind\n\n\n\nGang He\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
@@ -1118,5 +1118,215 @@
     "title": "Lecture 5 Energy Porject Economics",
     "section": "",
     "text": "References\n\n\nArrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. “Determining Benefits and Costs for Future Generations.” Science 341 (6144): 349–50. https://doi.org/10.1126/science.1235665.\n\n\nGrubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” Energy Policy 38 (9): 5174–88. https://doi.org/10.1016/j.enpol.2010.05.003.\n\n\nGrübler, Arnulf, Nebojša Nakićenović, and David G Victor. 1999. “Dynamics of Energy Technologies and Global Change.” Energy Policy 27 (5): 247–80. https://doi.org/10.1016/S0301-4215(98)00067-6.\n\n\nHelveston, John, Gang He, and Michael Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nKavlak, Goksin, James McNerney, and Jessika E. Trancik. 2018. “Evaluating the Causes of Cost Reduction in Photovoltaic Modules.” Energy Policy 123 (December): 700–710. https://doi.org/10.1016/j.enpol.2018.08.015.\n\n\nKlemun, Magdalena M., Goksin Kavlak, James McNerney, and Jessika E. Trancik. 2023. “Mechanisms of Hardware and Soft Technology Evolution and the Implications for Solar Energy Cost Trends.” Nature Energy 8 (8): 827–38. https://doi.org/10.1038/s41560-023-01286-9.\n\n\nWeitzman, Martin L. 2001. “Gamma Discounting.” American Economic Review 91 (1): 260–71. https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "lectures/lecture6.html#solar",
+    "href": "lectures/lecture6.html#solar",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Solar",
+    "text": "Solar\n\n\nSource: Richard Perez"
+  },
+  {
+    "objectID": "lectures/lecture6.html#solar-spectrum",
+    "href": "lectures/lecture6.html#solar-spectrum",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Solar spectrum",
+    "text": "Solar spectrum\n\n\nSolar constant: 1.361 kW/m2\n\n\nSource: Solar Spectrum"
+  },
+  {
+    "objectID": "lectures/lecture6.html#harvesting-the-sun",
+    "href": "lectures/lecture6.html#harvesting-the-sun",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Harvesting the sun",
+    "text": "Harvesting the sun\n\n\n\n\n\nHeqing Solar Cooker Project in Zhangye\n\n\n\n\n\n\nYoung NaDEET students in Namibia learning to use a parabolic solar cooker\n\n\n\n\n\nPhoto credit: Bristol Energy, Fu Ting; Source: Solar Cooking"
+  },
+  {
+    "objectID": "lectures/lecture6.html#silicon",
+    "href": "lectures/lecture6.html#silicon",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Silicon",
+    "text": "Silicon\n\n\n\n\n\n\n\n\n\n\n\nSource: Atomic Structures"
+  },
+  {
+    "objectID": "lectures/lecture6.html#p-and-n-type",
+    "href": "lectures/lecture6.html#p-and-n-type",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "P and N type",
+    "text": "P and N type\n\n\n\n\n\n\n\n\n\n\nSource: From sunlight to electricity"
+  },
+  {
+    "objectID": "lectures/lecture6.html#p-n-junction",
+    "href": "lectures/lecture6.html#p-n-junction",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "P-N Junction",
+    "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+  },
+  {
+    "objectID": "lectures/lecture6.html#how-solar-works",
+    "href": "lectures/lecture6.html#how-solar-works",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "How solar works",
+    "text": "How solar works\n\n\n\n\n\nSource: https://www.youtube.com/watch?v=xKxrkht7CpY"
+  },
+  {
+    "objectID": "lectures/lecture6.html#solar-irradiance",
+    "href": "lectures/lecture6.html#solar-irradiance",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Solar irradiance",
+    "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
+  },
+  {
+    "objectID": "lectures/lecture6.html#key-corrections",
+    "href": "lectures/lecture6.html#key-corrections",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Key corrections",
+    "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#the-quest-for-efficiency",
+    "href": "lectures/lecture6.html#the-quest-for-efficiency",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "The quest for efficiency",
+    "text": "The quest for efficiency\n\n\nRead more: NREL, Best Research-Cell Efficiency Chart"
+  },
+  {
+    "objectID": "lectures/lecture6.html#global-and-u.s.-distribution",
+    "href": "lectures/lecture6.html#global-and-u.s.-distribution",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Global and U.S. distribution",
+    "text": "Global and U.S. distribution\n\n\nSource: Global Solar Atlas"
+  },
+  {
+    "objectID": "lectures/lecture6.html#air-pollution-and-dust",
+    "href": "lectures/lecture6.html#air-pollution-and-dust",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Air pollution and dust",
+    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\nSource: (bergin2017large?)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#prioritize-solar-installation",
+    "href": "lectures/lecture6.html#prioritize-solar-installation",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Prioritize solar installation",
+    "text": "Prioritize solar installation\n\n\nSource: Chen et al., Communications Energy & Environment, 2023 (forthcoming)."
+  },
+  {
+    "objectID": "lectures/lecture6.html#solar-thermal-csp",
+    "href": "lectures/lecture6.html#solar-thermal-csp",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Solar thermal: CSP",
+    "text": "Solar thermal: CSP\n\n\nSource: DOE"
+  },
+  {
+    "objectID": "lectures/lecture6.html#wind",
+    "href": "lectures/lecture6.html#wind",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Wind",
+    "text": "Wind\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (\\(m^2\\)) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
+  },
+  {
+    "objectID": "lectures/lecture6.html#betzs-law-59.3",
+    "href": "lectures/lecture6.html#betzs-law-59.3",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Betz’s law: 59.3%",
+    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\nSource: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#average-power",
+    "href": "lectures/lecture6.html#average-power",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Average power",
+    "text": "Average power\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#power-curve",
+    "href": "lectures/lecture6.html#power-curve",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Power curve",
+    "text": "Power curve\n\n\nRead more: NREL, Validation of Power Output for the WIND Toolkit"
+  },
+  {
+    "objectID": "lectures/lecture6.html#important-corrections",
+    "href": "lectures/lecture6.html#important-corrections",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Important corrections",
+    "text": "Important corrections\n\nTemperature: \\(\\rho = \\frac{P\\times M.W. \\times 10^{-3}}{RT}=\\frac{1 atm\\times 28.97 g/mol \\times 10^{-3}kg/g}{8.2056\\times 10^{-5}m^3\\cdot atm/(K\\cdot mol)\\times(273.15+T)K}\\)\n\nAltitude: \\(P=P_0 e^{-1.185\\times 10^{-4}H}\\) (H is elevation in meters)\n\nTower height: \\(\\frac{v}{v_0}=(\\frac{H}{H_0})^\\alpha\\) (\\(\\alpha\\) is the friction coefficient)\n\n\nRead more: Masters (2013)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#class-of-wind-resources",
+    "href": "lectures/lecture6.html#class-of-wind-resources",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Class of wind resources",
+    "text": "Class of wind resources\n\n\n\n\n\n\n\n\n\n\nClass\n10 m (33 ft)\n\n50 m (164 ft)\n\n\n\n\n\n\nWind power density (W/m2)\nSpeed m/s (mph)\nWind power density (W/m2)\nSpeed m/s (mph)\n\n\n1\n0 - 100\n0 - 4.4 (0 - 9.8)\n0 - 200\n0 - 5.6 (0 - 12.5)\n\n\n2\n100 - 150\n4.4 - 5.1 (9.8 - 11.5)\n200 - 300\n5.6 - 6.4 (12.5 - 14.3)\n\n\n3\n150 - 200\n5.1 - 5.6 (11.5 - 12.5)\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n\n\n4\n200 - 250\n5.6 - 6.0 (12.5 - 13.4)\n400 - 500\n7.0 - 7.5 (15.7 - 16.8)\n\n\n5\n250 - 300\n6.0 - 6.4 (13.4 - 14.3)\n500 - 600\n7.5 - 8.0 (16.8 - 17.9)\n\n\n6\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n600 - 800\n8.0 - 8.8 (17.9 - 19.7)\n\n\n7\n400 - 1000\n7.0 - 9.4 (15.7 - 21.1)\n800 - 2000\n8.8 - 11.9 (19.7 - 26.6)\n\n\n\n\nSource: NREL"
+  },
+  {
+    "objectID": "lectures/lecture6.html#global-wind-power-density-map",
+    "href": "lectures/lecture6.html#global-wind-power-density-map",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Global wind power density map",
+    "text": "Global wind power density map\n\n\nSource: Global Wind Atlas"
+  },
+  {
+    "objectID": "lectures/lecture6.html#higher-and-bigger",
+    "href": "lectures/lecture6.html#higher-and-bigger",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Higher and bigger",
+    "text": "Higher and bigger\n\n\n\n\n\n\n\n\nSource: Land-Based Wind Market Report 2023"
+  },
+  {
+    "objectID": "lectures/lecture6.html#offshore-wind",
+    "href": "lectures/lecture6.html#offshore-wind",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Offshore wind",
+    "text": "Offshore wind\n\n\nSource: DOE, Offshore Wind Energy"
+  },
+  {
+    "objectID": "lectures/lecture6.html#challenges",
+    "href": "lectures/lecture6.html#challenges",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Challenges",
+    "text": "Challenges\n\n\n\n\n\n\n\n\nSource: DOE, Top 10 Things You Didn’t Know About Offshore Wind Energy; NREL, Supply Chain Road Map"
+  },
+  {
+    "objectID": "lectures/lecture6.html#low-speed-wind",
+    "href": "lectures/lecture6.html#low-speed-wind",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Low speed wind",
+    "text": "Low speed wind\nSmaller generator. \\(\\rightarrow\\) Decreased generator weight and cost.\nOperating at higher capacity in lower wind speeds. \\(\\rightarrow\\) Greater generator efficiency.\nDecreased tower head mass. \\(\\rightarrow\\) Decreased foundation and tower costs.\nDecreased PE system rating. \\(\\rightarrow\\) Decreased PE system costs\n\nSource: Low Speed Wind Turbines"
+  },
+  {
+    "objectID": "lectures/lecture6.html#unexpected-benefits",
+    "href": "lectures/lecture6.html#unexpected-benefits",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Unexpected benefits",
+    "text": "Unexpected benefits\n\n\nSource: Reddit"
+  },
+  {
+    "objectID": "lectures/lecture6.html#climate-change-impact",
+    "href": "lectures/lecture6.html#climate-change-impact",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Climate change impact",
+    "text": "Climate change impact\n\n\nSource: Liu et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#pros-and-cons",
+    "href": "lectures/lecture6.html#pros-and-cons",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Pros and Cons",
+    "text": "Pros and Cons\n\n\n\nPros\nCons\n\n\n\n\nRenewables\nVariable & integration\n\n\nLow emissions\nLand use & NIMBY\n\n\nLow costs\nDistribution"
+  },
+  {
+    "objectID": "lectures/lecture6.html#hybrid-power-systems",
+    "href": "lectures/lecture6.html#hybrid-power-systems",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "Hybrid power systems",
+    "text": "Hybrid power systems\n\n\nSource: Small Wind Guidebook"
+  },
+  {
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "section": "",
+    "text": "References\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. John Wiley & Sons.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   }
 ]

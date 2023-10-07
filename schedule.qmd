@@ -13,3 +13,4 @@ repo-actions: false
 | 5    | 9/25 | Fall Regular Session: No classes scheduled  |   |
 | 6    | 10/2  | [Energy systems overview](lectures/lecture4.qmd)  |  |
 | 7    | 10/10  | [Energy project economics](lectures/lecture5.qmd)  |  |
+| 8    | 10/16  | [Energy technologies: solar and wind](lectures/lecture6.qmd)  |  |

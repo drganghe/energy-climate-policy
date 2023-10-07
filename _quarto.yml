@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+# Meta
+description-meta: "Energy and Climate Policy class developed by Dr. Gang He. Key word: energy policy, climate policy, energy and climate policy, open course."
+author-meta: "Gang He"
+
 website:
   title: "Energy and Climate Policy"
   description: "PAF9199 Energy and Climate Policy class developed by Dr. Gang He."
@@ -59,7 +63,7 @@ format:
     footnotes-hover: true
     link-external-icon: false
     link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
 comments:
   hypothesis: false

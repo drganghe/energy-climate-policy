@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Gang He">
+<meta name="description" content="Energy and Climate Policy class developed by Dr.&nbsp;Gang He. Key word: energy policy, climate policy, energy and climate policy, open course.">
 
 <title>Energy and Climate Policy - Course Schedule</title>
 <style>
@@ -223,6 +225,12 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <td>7</td>
 <td>10/10</td>
 <td><a href="./lectures/lecture5.html">Energy project economics</a></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>10/16</td>
+<td><a href="./lectures/lecture6.html">Energy technologies: solar and wind</a></td>
 <td></td>
 </tr>
 </tbody>
@@ -621,7 +629,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -632,8 +640,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
-          // default icon
-          link.classList.add("external");
       }
     }
 });
