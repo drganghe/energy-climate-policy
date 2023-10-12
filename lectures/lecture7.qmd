@@ -1,0 +1,449 @@
+---
+title: "Lecture 7 Energy Conversion Technologies: Solar and Wind"
+description-meta: "Solar and windtechnologies"
+author: "Gang He"
+date: October 23, 2023
+date-format: long
+image: "/lectures/images/7/hybrid-power-systems.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Solar
+
+![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Solar spectrum
+
+![](/lectures/images/7/Solar_spectrum.png){fig-align="center"}
+
+<center>
+**Solar constant**: 1.361 kW/m2
+</center>
+
+::: footer
+Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
+:::
+
+
+## Harvesting the sun
+
+::: columns
+::: {.column width="50%"}
+![Heqing Solar Cooker Project in Zhangye](/lectures/images/6/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/6/NaDEET_solar_cooking_training.webp){fig-align="center"}
+:::
+:::
+
+::: footer
+Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=Heqing_Solar_Cooker_photo%2C_12-20-21.png), [Fu Ting](https://solarcooking.fandom.com/wiki/Namibia?file=NaDEET_solar_cooking_training_2012%2C_2-11-13.jpg); Source: [Solar Cooking](https://solarcooking.fandom.com/)
+:::
+
+
+## Silicon
+
+<center>
+![](/lectures/images/7/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/7/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+:::
+</center>
+
+::: footer
+Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
+:::
+
+
+## P and N type
+
+::: columns
+::: {.column width="30%"}
+![](/lectures/images/7/silicon-lattice.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/7/p-type-silicon.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/7/n-type-silicon.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [From sunlight to electricity](https://www.science.org.au/curious/technology-future/solar-pv)
+:::
+
+
+## P-N Junction 
+
+![](/lectures/images/7/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+
+## How solar works
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
+:::
+
+
+## Solar irradiance{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Direct normal irradiance (DNI)   
+- Diffuse horizontal irradiance (DHI)
+- Ground reflected irradiance (GRI)      
+- Global horizontal irradiance (GHI)   
+- Plane-of-array irradiance (POA)  
+
+GHI=DNI+DHI+GRI
+
+POA = GHI $\times \cos \theta$
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/solar-irradiance.png){fig-align="center"}
+:::
+:::
+
+
+
+::: footer
+Source: Manajit Sengupta, Aron Habte, [NREL](https://www.nrel.gov/docs/fy20osti/75573.pdf)
+:::
+
+## Key corrections  
+
+- Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle   
+- Radiation: direct beam, diffusion, reflected  
+- Tracking: fixed, 1-axis, 2-axis  
+
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## The quest for efficiency
+
+![](/lectures/images/7/best-research-cell-efficiencies.webp){fig-align="center"}
+
+::: footer
+Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
+:::
+
+
+## Global and U.S. distribution
+
+![](/lectures/images/7/World_PVOUT_map.png){fig-align="center"}
+
+::: footer
+Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
+:::
+
+
+## Air pollution and dust
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/7/pm-and-solar.gif){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/global-pm-solar-reduction.jpeg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @bergin2017large
+:::
+
+
+
+## Prioritize solar installation
+
+![](/lectures/images/7/prioritizing-solar-deployment.png){fig-align="center"}
+
+::: footer
+Source: Chen et al., Communications Energy & Environment, 2023 (forthcoming).
+:::
+
+
+## Solar thermal: CSP
+
+![](/lectures/images/7/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+
+::: footer
+Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)
+:::
+
+
+## Wind 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/7/block-island-wind.jpeg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+$P=\frac{1}{2}\rho \pi r^2 v^3$
+
+<p style="font-size:16pt; color:gray">
+Where,  
+$\rho$ = Air Density  ($kg/m^3$)  
+$A$ = Swept Area  ($m^2$)  = $\pi r^2$  
+$v$ = Wind Speed  (m/s)  
+$P$ = Power (W)  
+</p>
+:::
+:::
+
+::: footer
+Photo by Gang He, Block Island Offshore Wind Farm
+:::
+
+
+## Betz's law: 59.3%
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/7/upwind-downwind.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/blade-efficiency.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @masters2013renewable 
+:::
+
+
+## Average power 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/7/wind-distribution.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Rayleigh (a special type of Weibull) distribution 
+
+$f(v)=\frac{2v}{c^2}\exp [-(\frac{v}{c})^2]$
+
+$\bar{P}=\frac{6}{\pi}\cdot \frac{1}{2}\rho \pi r^2 (\bar{v})^3=1.91P$
+
+Use average power when dealing with average wind speed 
+:::
+:::
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## Power curve
+
+![](/lectures/images/7/wind-power-curve.png){fig-align="center"}
+
+::: footer
+Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.nrel.gov/docs/fy14osti/61714.pdf)
+:::
+
+
+## Important corrections
+
+- Temperature: $\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}$   
+- Altitude: $P=P_0 e^{-1.185\times 10^{-4}H}$  (H is elevation in meters)  
+- Tower height: $\frac{v}{v_0}=(\frac{H}{H_0})^\alpha$  ($\alpha$ is the friction coefficient)  
+  
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## Class of wind resources{.smaller}
+
+| Class |        10 m (33 ft)       |                         |       50 m (164 ft)       |                          |
+|:-----:|:-------------------------:|:-----------------------:|:-------------------------:|:------------------------:|
+|       | Wind power density (W/m2) |     Speed m/s (mph)     | Wind power density (W/m2) |      Speed m/s (mph)     |
+| 1     | 0 - 100                   | 0 - 4.4 (0 - 9.8)       | 0 - 200                   | 0 - 5.6 (0 - 12.5)       |
+| 2     | 100 - 150                 | 4.4 - 5.1 (9.8 - 11.5)  | 200 - 300                 | 5.6 - 6.4 (12.5 - 14.3)  |
+| 3     | 150 - 200                 | 5.1 - 5.6 (11.5 - 12.5) | 300 - 400                 | 6.4 - 7.0 (14.3 - 15.7)  |
+| 4     | 200 - 250                 | 5.6 - 6.0 (12.5 - 13.4) | 400 - 500                 | 7.0 - 7.5 (15.7 - 16.8)  |
+| 5     | 250 - 300                 | 6.0 - 6.4 (13.4 - 14.3) | 500 - 600                 | 7.5 - 8.0 (16.8 - 17.9)  |
+| 6     | 300 - 400                 | 6.4 - 7.0 (14.3 - 15.7) | 600 - 800                 | 8.0 - 8.8 (17.9 - 19.7)  |
+| 7     | 400 - 1000                | 7.0 - 9.4 (15.7 - 21.1) | 800 - 2000                | 8.8 - 11.9 (19.7 - 26.6) |
+
+::: footer
+Source: [NREL](https://www.nrc.gov/docs/ML0720/ML072040340.pdf)
+:::
+
+## Global wind power density map
+
+![](/lectures/images/7/global-wind-power-density-map.webp){fig-align="center"}
+
+::: footer
+Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolution-maps/World)
+:::
+
+
+## Higher and bigger
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/7/turbine-hub-height-rotor-capacity.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/Turbine-Hub-Height-Chart.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [Land-Based Wind Market Report 2023](https://www.energy.gov/sites/default/files/2023-08/land-based-wind-market-report-2023-edition.pdf)
+:::
+
+
+## Offshore wind
+
+![](/lectures/images/7/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
+
+::: footer
+Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offshore)
+:::
+
+
+## Challenges
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/7/offshore-floating-turbines.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/7/resources-demand-offshore-us.png){width="70%" fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: DOE, [Top 10 Things You Didn’t Know About Offshore Wind Energy](https://www.energy.gov/eere/wind/articles/top-10-things-you-didnt-know-about-offshore-wind-energy); NREL, [Supply Chain Road Map](https://www.nrel.gov/wind/offshore-supply-chain-road-map.html)
+:::
+
+
+## Low speed wind
+
+Smaller generator. $\rightarrow$ Decreased generator weight and cost.
+
+Operating at higher capacity in lower wind speeds. $\rightarrow$ Greater generator efficiency.
+
+Decreased tower head mass. $\rightarrow$ Decreased foundation and tower costs.
+
+Decreased PE system rating. $\rightarrow$ Decreased PE system costs
+
+::: footer
+Source: [Low Speed Wind Turbines](https://faculty.washington.edu/malte/OldSite/seminar/Sp04/LowSpeedTurbines.pdf)
+:::
+
+
+## Unexpected benefits
+
+![](/lectures/images/7/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){fig-align="center"}
+
+::: footer
+Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/grazing_animals_like_sheep_enjoy_using_the/)
+:::
+
+
+
+## Climate change impact
+
+![](/lectures/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## Pros and Cons
+
+| Pros | Cons |
+|------|------|
+| Renewables     | Variable & integration     |
+| Low emissions    |  Land use & NIMBY    |
+| Low costs     |  Distribution    |
+
+
+## Hybrid power systems
+
+![](/lectures/images/7/hybrid-power-systems.png){fig-align="center"}
+
+::: footer
+Source: [Small Wind Guidebook](https://windexchange.energy.gov/small-wind-guidebook#grid)
+:::
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture7.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

@@ -380,7 +380,19 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
   document.addEventListener("keyup", (event) => {
     const { key } = event;
     const kbds = quartoSearchOptions["keyboard-shortcut"];
-    if (kbds && kbds.includes(key)) {
+    const focusedEl = document.activeElement;
+
+    const isFormElFocused = [
+      "input",
+      "select",
+      "textarea",
+      "button",
+      "option",
+    ].find((tag) => {
+      return focusedEl.tagName.toLowerCase() === tag;
+    });
+
+    if (kbds && kbds.includes(key) && !isFormElFocused) {
       event.preventDefault();
       window.quartoOpenSearch();
     }
@@ -441,15 +453,27 @@ function configurePlugins(quartoSearchOptions) {
         const algoliaInsightsPlugin = createAlgoliaInsightsPlugin({
           insightsClient: window.aa,
           onItemsChange({ insights, insightsEvents }) {
-            const events = insightsEvents.map((event) => {
-              const maxEvents = event.objectIDs.slice(0, 20);
-              return {
-                ...event,
-                objectIDs: maxEvents,
-              };
+            const events = insightsEvents.flatMap((event) => {
+              // This API limits the number of items per event to 20
+              const chunkSize = 20;
+              const itemChunks = [];
+              const eventItems = event.items;
+              for (let i = 0; i < eventItems.length; i += chunkSize) {
+                itemChunks.push(eventItems.slice(i, i + chunkSize));
+              }
+              // Split the items into multiple events that can be sent
+              const events = itemChunks.map((items) => {
+                return {
+                  ...event,
+                  items,
+                };
+              });
+              return events;
             });
 
-            insights.viewedObjectIDs(...events);
+            for (const event of events) {
+              insights.viewedObjectIDs(event);
+            }
           },
         });
         return algoliaInsightsPlugin;
@@ -1142,7 +1166,6 @@ function algoliaSearch(query, limit, algoliaOptions) {
     ],
     transformResponse: (response) => {
       if (!indexFields) {
-        console.log({ hits: response.hits });
         return response.hits.map((hit) => {
           return hit.map((item) => {
             return {
@@ -1172,7 +1195,6 @@ function algoliaSearch(query, limit, algoliaOptions) {
             return newItem;
           });
         });
-        console.log({ remap: remappedHits });
         return remappedHits;
       }
     },

@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/schedule.html</loc>
-    <lastmod>2023-10-07T20:59:19.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture3.html</loc>
-    <lastmod>2023-09-20T10:53:40.177Z</lastmod>
-  </url>
-  <url>
     <loc>https://drganghe.github.io/energy-climate-policy/syllabus.html</loc>
     <lastmod>2023-10-01T17:08:15.802Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/index.html</loc>
-    <lastmod>2023-10-01T17:08:15.384Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/assignments/hw1.html</loc>
-    <lastmod>2023-09-21T09:17:15.350Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/assignments.html</loc>
-    <lastmod>2023-10-01T17:08:14.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/assignments/hw2.html</loc>
-    <lastmod>2023-10-06T01:21:28.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/policymemo.html</loc>
-    <lastmod>2023-08-27T14:33:11.476Z</lastmod>
+    <loc>https://drganghe.github.io/energy-climate-policy/resources.html</loc>
+    <lastmod>2023-10-01T17:08:15.800Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-policy/lectures.html</loc>
     <lastmod>2023-10-01T17:08:15.384Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture1.html</loc>
-    <lastmod>2023-08-29T09:35:24.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture2.html</loc>
-    <lastmod>2023-09-08T18:53:09.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/resources.html</loc>
-    <lastmod>2023-09-23T11:03:02.544Z</lastmod>
+    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture6.html</loc>
+    <lastmod>2023-10-12T13:13:10.893Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture4.html</loc>
-    <lastmod>2023-09-23T10:50:30.229Z</lastmod>
+    <lastmod>2023-10-01T17:08:15.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture2.html</loc>
+    <lastmod>2023-10-01T17:08:15.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/index.html</loc>
+    <lastmod>2023-10-01T17:08:15.384Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/assignments/hw2.html</loc>
+    <lastmod>2023-10-06T01:21:28.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/assignments/hw1.html</loc>
+    <lastmod>2023-10-01T17:08:14.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/assignments.html</loc>
+    <lastmod>2023-10-01T17:08:14.950Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture1.html</loc>
+    <lastmod>2023-10-01T17:08:15.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture3.html</loc>
+    <lastmod>2023-10-01T17:08:15.795Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture5.html</loc>
     <lastmod>2023-10-07T20:45:08.597Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture6.html</loc>
-    <lastmod>2023-10-07T20:54:42.315Z</lastmod>
+    <loc>https://drganghe.github.io/energy-climate-policy/lectures/lecture7.html</loc>
+    <lastmod>2023-10-12T13:10:06.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/policymemo.html</loc>
+    <lastmod>2023-08-29T15:35:33.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/energy-climate-policy/schedule.html</loc>
+    <lastmod>2023-10-12T13:14:08.944Z</lastmod>
   </url>
 </urlset>

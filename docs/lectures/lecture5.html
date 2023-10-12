@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.395">
+  <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2023-10-10">
@@ -988,6 +988,9 @@ Yelle, Louis E. 1979. <span>“The Learning Curve: Historical Review and Compreh
           if (!isInternal(link.href)) {
               // target, if specified
               link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
           }
         }
     });

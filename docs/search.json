@@ -1,187 +1,5 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Course Schedule",
-    "section": "",
-    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics\n\n\n\n8\n10/16\nEnergy technologies: solar and wind"
-  },
-  {
-    "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
-    "href": "lectures/lecture3.html#a-five-points-climate-haiku",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
-  },
-  {
-    "objectID": "lectures/lecture3.html#adverse-impacts-of-climate-change",
-    "href": "lectures/lecture3.html#adverse-impacts-of-climate-change",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Adverse impacts of climate change",
-    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
-  },
-  {
-    "objectID": "lectures/lecture3.html#the-impacts-are-global",
-    "href": "lectures/lecture3.html#the-impacts-are-global",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "The impacts are global",
-    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
-  },
-  {
-    "objectID": "lectures/lecture3.html#vulnerable-population-suffers-more",
-    "href": "lectures/lecture3.html#vulnerable-population-suffers-more",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Vulnerable population suffers more",
-    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
-  },
-  {
-    "objectID": "lectures/lecture3.html#conventional-focues",
-    "href": "lectures/lecture3.html#conventional-focues",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Conventional focues",
-    "text": "Conventional focues\n\nIce melting\nSea level rising\nExtreme weathers\n\nFloods\nDroughts"
-  },
-  {
-    "objectID": "lectures/lecture3.html#damages-to-include",
-    "href": "lectures/lecture3.html#damages-to-include",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Damages to include",
-    "text": "Damages to include\n\nagriculture\nmortality\nenergy\nlow-risk labor\nhigh-risk labor\ncoastal damages\nproperty crime\nviolent crime\n\nWhat other damages to include?"
-  },
-  {
-    "objectID": "lectures/lecture3.html#social-economic-impacts",
-    "href": "lectures/lecture3.html#social-economic-impacts",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Social economic impacts",
-    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#climate-damage-function",
-    "href": "lectures/lecture3.html#climate-damage-function",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Climate damage function",
-    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: Neumann et al. (2020), Valuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (2017)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#climate-change-and-conflicts",
-    "href": "lectures/lecture3.html#climate-change-and-conflicts",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Climate change and conflicts",
-    "text": "Climate change and conflicts\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#climate-change-affects-energy-system",
-    "href": "lectures/lecture3.html#climate-change-affects-energy-system",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Climate change affects energy system",
-    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
-    "href": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Climate impact to renewable supply-demand match",
-    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#ipat",
-    "href": "lectures/lecture3.html#ipat",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "IPAT",
-    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: Ehrlich and Holdren (1971)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#kaya-identify",
-    "href": "lectures/lecture3.html#kaya-identify",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
-  },
-  {
-    "objectID": "lectures/lecture3.html#climate-wedges",
-    "href": "lectures/lecture3.html#climate-wedges",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Climate wedges",
-    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#the-mckinsey-cost-curve",
-    "href": "lectures/lecture3.html#the-mckinsey-cost-curve",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "The Mckinsey cost curve",
-    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
-  },
-  {
-    "objectID": "lectures/lecture3.html#social-cost-of-carbon",
-    "href": "lectures/lecture3.html#social-cost-of-carbon",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Social cost of carbon",
-    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
-  },
-  {
-    "objectID": "lectures/lecture3.html#epa-social-cost-of-carbon",
-    "href": "lectures/lecture3.html#epa-social-cost-of-carbon",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "EPA social cost of carbon",
-    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n\n\n2010 assessment\n\n\n\n\n\n\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
-  },
-  {
-    "objectID": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
-    "href": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "NYDEC ‘Value of Carbon’ Guidance",
-    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
-  },
-  {
-    "objectID": "lectures/lecture3.html#scc-updates",
-    "href": "lectures/lecture3.html#scc-updates",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "SCC updates",
-    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#what-works-whats-not",
-    "href": "lectures/lecture3.html#what-works-whats-not",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "What works what’s not",
-    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#best-practices",
-    "href": "lectures/lecture3.html#best-practices",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Best practices",
-    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
-  },
-  {
-    "objectID": "lectures/lecture3.html#policy-instruments",
-    "href": "lectures/lecture3.html#policy-instruments",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Policy instruments",
-    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
-  },
-  {
-    "objectID": "lectures/lecture3.html#nys-climate-impacts-assessment",
-    "href": "lectures/lecture3.html#nys-climate-impacts-assessment",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "NYS climate impacts assessment",
-    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\n\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
-  },
-  {
-    "objectID": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
-    "href": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
-    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
-  },
-  {
-    "objectID": "lectures/lecture3.html#references",
-    "href": "lectures/lecture3.html#references",
-    "title": "Lecture 3 Climate Impacts and Responses",
-    "section": "",
-    "text": "References\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -231,305 +49,347 @@
     "text": "Grading Scale\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93 - 100%\nC\n73 - 76.99%\n\n\nA-\n90 - 92.99%\nC-\n70 - 72.99%\n\n\nB+\n87 - 89.99%\nD+\n67 - 69.99%\n\n\nB\n83 - 86.99%\nD\n63 - 66.99%\n\n\nB-\n80 - 82.99%\nD-\n60 - 62.99%\n\n\nC+\n77 - 79.99%\nF\n&lt; 60%"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Energy and Climate Policy (Fall 2023)",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future."
+    "text": "All models are wrong, but some are useful”.\n-- Engineering Statistics Handbook, George Box"
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Energy and Climate Policy (Fall 2023)",
-    "section": "",
-    "text": "The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future."
+    "objectID": "resources.html#modelling-community",
+    "href": "resources.html#modelling-community",
+    "title": "Resources",
+    "section": "Modelling community",
+    "text": "Modelling community\nIntegrated Assessment Modeling Consortium\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nStanford University, Energy Modeling Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
   },
   {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Energy and Climate Policy (Fall 2023)",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
+    "objectID": "resources.html#models-we-discuss-in-the-class",
+    "href": "resources.html#models-we-discuss-in-the-class",
+    "title": "Resources",
+    "section": "Models we discuss in the class",
+    "text": "Models we discuss in the class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE) DICE 2023\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
   },
   {
-    "objectID": "index.html#reuse-of-material",
-    "href": "index.html#reuse-of-material",
-    "title": "Energy and Climate Policy (Fall 2023)",
-    "section": "Reuse of material",
-    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
+    "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
+    "href": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
+    "title": "Resources",
+    "section": "Models We Donot Discuss in the Class, but could be useful",
+    "text": "Models We Donot Discuss in the Class, but could be useful\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings."
   },
   {
-    "objectID": "index.html#how-to-help",
-    "href": "index.html#how-to-help",
-    "title": "Energy and Climate Policy (Fall 2023)",
-    "section": "How to help",
-    "text": "How to help\nIf you like this course, please Star the course repository. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome."
+    "objectID": "resources.html#open-source-efforts",
+    "href": "resources.html#open-source-efforts",
+    "title": "Resources",
+    "section": "Open-source efforts",
+    "text": "Open-source efforts\nOpen Model Initiative: Open models and open data will advance knowledge and lead to better energy policies.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment\nPyPSA: Python for Power System Analysis"
   },
   {
-    "objectID": "assignments/hw1.html",
-    "href": "assignments/hw1.html",
-    "title": "Assignment 1 Deep dive in carbon emissions",
-    "section": "",
-    "text": "We have to deal with carbon to address climate change, so let’s have a deep dive into the carbon emission data. One of my favorite sources and visulizations is Our World in Data. The raw data is also available here. Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g. the Carbon Monitor."
-  },
-  {
-    "objectID": "assignments/hw1.html#questions",
-    "href": "assignments/hw1.html#questions",
-    "title": "Assignment 1 Deep dive in carbon emissions",
-    "section": "Questions",
-    "text": "Questions\nPlease use the most recent data and answer below questions:\n\nTop 10 countries by annual total energy related carbon emissions? (0.5pt)\nTop 10 countries by per capita average carbon emissions? (0.5pt)\nTop 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)\nTop 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)\nList all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)\nChange the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)\nUse global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)\nWhat technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)\n\nNote: please list countries and their corresponding data of those indicators. Plug: we will come back to this assignment when discuss sharing of “common but differntiated responsibilities” in climate negotiation and governance."
-  },
-  {
-    "objectID": "assignments/hw1.html#further-readings",
-    "href": "assignments/hw1.html#further-readings",
-    "title": "Assignment 1 Deep dive in carbon emissions",
-    "section": "Further readings",
-    "text": "Further readings\n\nDou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). https://doi.org/10.1016/j.xinn.2021.100182.\nFriedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. https://doi.org/10.5194/essd-14-4811-2022."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18\n\n\n2\nUpdating a Rosenfeld plant\nhw2\n10/4"
-  },
-  {
-    "objectID": "assignments/hw2.html",
-    "href": "assignments/hw2.html",
-    "title": "Assignment 2 Updating a Rosenfeld Plant",
-    "section": "",
-    "text": "We discussed Defining a Rosenfeld Plant in Lecture 2. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.\nTo define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants, and the average transmissin losses. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself."
-  },
-  {
-    "objectID": "assignments/hw2.html#data",
-    "href": "assignments/hw2.html#data",
-    "title": "Assignment 2 Updating a Rosenfeld Plant",
-    "section": "Data",
-    "text": "Data\nThere are a few places that you may find plant level data.\n\nEIA-860 collects generator-level specific information about existing and planned generators and associated environmental equipment at electric power plants with 1 MW or greater of combined nameplate capacity.\nEPA eGRID includes emissions, emission rates, generation, heat input, resource mix, and many other attributes.\nGlobal Energy Monitor’s Global Coal Plant Tracker (GCPT) provides information on coal-fired power units from around the world generating 30 megawatts and above.\n\nEIA’s data is comprehensieve but a bit messy, GCPT data focuses on coal plants might not have the attributes you need. Let’s use the EPA eGRID data for your analysis. Please download eGRID with 2021 data."
-  },
-  {
-    "objectID": "assignments/hw2.html#questions",
-    "href": "assignments/hw2.html#questions",
-    "title": "Assignment 2 Updating a Rosenfeld Plant",
-    "section": "Questions",
-    "text": "Questions\nPlease use the eGRID data and work out the calculation:\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)\n\nWhat’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percentage point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
-  },
-  {
-    "objectID": "assignments/hw2.html#further-readings",
-    "href": "assignments/hw2.html#further-readings",
-    "title": "Assignment 2 Updating a Rosenfeld Plant",
-    "section": "Further readings",
-    "text": "Further readings\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://doi.org/10.1088/1748-9326/5/1/014017.\nGrubert, Emily. 2020. “Fossil Electricity Retirement Deadlines for a Just Transition.” Science 370 (6521): 1171–73. https://doi.org/10.1126/science.abe0375."
-  },
-  {
-    "objectID": "policymemo.html",
-    "href": "policymemo.html",
-    "title": "Policy Memo",
-    "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
-  },
-  {
-    "objectID": "policymemo.html#introduction",
-    "href": "policymemo.html#introduction",
-    "title": "Policy Memo",
-    "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
-  },
-  {
-    "objectID": "policymemo.html#proposal",
-    "href": "policymemo.html#proposal",
-    "title": "Policy Memo",
-    "section": "Proposal",
-    "text": "Proposal\nPlease submit an one-page proposal letting me know your topic, briefly explain why the topic, what data and analytic methods you plan to use, and any potential challenges and how would you address them."
-  },
-  {
-    "objectID": "policymemo.html#presentation",
-    "href": "policymemo.html#presentation",
-    "title": "Policy Memo",
-    "section": "Presentation",
-    "text": "Presentation\nYour presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. Please submit both the video and slides.\nYour presentation will be graded by the following criteria:\n\nNice presence [4pt]\nClear presentation of project ideas and insights [4pt]\nMastery of the subject [4pt]\nPresentation design and style [4pt]\nOverall impression [4pt]"
-  },
-  {
-    "objectID": "policymemo.html#policy-memo",
-    "href": "policymemo.html#policy-memo",
-    "title": "Policy Memo",
-    "section": "Policy Memo",
-    "text": "Policy Memo\nA typical policy includes an introduction (topic or problem), scope of problem, current approach, proposed approach/policies and evidences, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.\nYour policy will be graded by the following criteria:\n\nCreativity in defifing a topic/problem [5pt]\nRigorous analysis [5]\nClear writing, presentation, visulization [5]\nOverall impression [5pt]"
-  },
-  {
-    "objectID": "policymemo.html#references",
-    "href": "policymemo.html#references",
-    "title": "Policy Memo",
-    "section": "References",
-    "text": "References\nPolicy Memo Resources"
+    "objectID": "resources.html#programming-language",
+    "href": "resources.html#programming-language",
+    "title": "Resources",
+    "section": "Programming language",
+    "text": "Programming language\nR, a free software environment for statistical computing and graphics\nPython, work quickly and integrate systems more effectively\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia, a high-level, high-performance, dynamic programming language"
   },
   {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Porject Economics\n\n\n\nGang He\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Conversion Technologies: Solar and Wind\n\n\n\nGang He\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nAug 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts and Responses\n\n\n\nGang He\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nOct 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Porject Economics\n\n\n\nGang He\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Demand\n\n\n\nGang He\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Conversion Technologies: Solar and Wind\n\n\n\nGang He\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
-    "href": "lectures/lecture1.html#welcome-and-icebreaker",
-    "title": "Lecture 1 Introduction",
-    "section": "Welcome and icebreaker",
-    "text": "Welcome and icebreaker\n\nRose: “something that is working well or something positive”\nThorn: “something that isn’t working or something negative”\nBud: “an area of opportunity or idea yet to be explored”"
+    "objectID": "lectures/lecture6.html#sample-analytic-questions",
+    "href": "lectures/lecture6.html#sample-analytic-questions",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change changes energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
   },
   {
-    "objectID": "lectures/lecture1.html#what-brings-you-here",
-    "href": "lectures/lecture1.html#what-brings-you-here",
-    "title": "Lecture 1 Introduction",
-    "section": "What brings you here?",
-    "text": "What brings you here?\n\nConcerned topics?\nMotivations?\nDream jobs?"
+    "objectID": "lectures/lecture6.html#germany-energy-demand",
+    "href": "lectures/lecture6.html#germany-energy-demand",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Germany energy demand",
+    "text": "Germany energy demand\n\n\nRead more: Clean Energy Wire"
   },
   {
-    "objectID": "lectures/lecture1.html#us-ira-in-its-first-year",
-    "href": "lectures/lecture1.html#us-ira-in-its-first-year",
-    "title": "Lecture 1 Introduction",
-    "section": "US IRA in its first year",
-    "text": "US IRA in its first year\nHow to evaluate its impact to the emission reduction?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Secretory Jennifer Granholm"
+    "objectID": "lectures/lecture6.html#top-down-vs-bottom-up",
+    "href": "lectures/lecture6.html#top-down-vs-bottom-up",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Top-down vs bottom-up",
+    "text": "Top-down vs bottom-up\n\n\nSource: Swan and Ugursal (2009)"
   },
   {
-    "objectID": "lectures/lecture1.html#why-paf9199",
-    "href": "lectures/lecture1.html#why-paf9199",
-    "title": "Lecture 1 Introduction",
-    "section": "Why PAF9199?",
-    "text": "Why PAF9199?\n\nPolicy matters\n\nResearch\nJobs\n\nClean energy transition to achieve climate goals"
+    "objectID": "lectures/lecture6.html#ipat",
+    "href": "lectures/lecture6.html#ipat",
+    "title": "Lecture 6 Energy Demand",
+    "section": "IPAT",
+    "text": "IPAT\n\n\\(I=P\\times A\\times T\\)\n\nWhere,\n\\(I\\) = Impact\n\\(P\\) = Population\n\\(A\\) = Aflluence\n\\(T\\) = Technology\n\n\n\nRead more: Ehrlich and Holdren (1971), John Holdren A brief history of “IPAT”"
   },
   {
-    "objectID": "lectures/lecture1.html#organization",
-    "href": "lectures/lecture1.html#organization",
-    "title": "Lecture 1 Introduction",
-    "section": "Organization",
-    "text": "Organization\n\nSyllabus\nBlackboard\nCourse website: https://drganghe.github.io/energy-climate-policy/\nPolicy response (10): 20%\nAssignments (5): 30%\nProposal: 10%\nFinal presentations: 20%\nPolicy memo: 20%"
+    "objectID": "lectures/lecture6.html#population",
+    "href": "lectures/lecture6.html#population",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Population",
+    "text": "Population\n\n\nSource: UN World Population Prospects"
   },
   {
-    "objectID": "lectures/lecture1.html#contents",
-    "href": "lectures/lecture1.html#contents",
-    "title": "Lecture 1 Introduction",
-    "section": "Contents",
-    "text": "Contents\n\n\n\nClimate change\n\nImpact\nMitigation\nAdaption\nGovernance\n\n\n\n\nEnergy systems\n\nSupply\nDemand\nEconomics\nTechnology\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nEnergy-economy-environment (nexus)"
+    "objectID": "lectures/lecture6.html#economy-gdp",
+    "href": "lectures/lecture6.html#economy-gdp",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Economy (GDP)",
+    "text": "Economy (GDP)\n\n\nRead more: Lin, He, and Yuan (2016)"
   },
   {
-    "objectID": "lectures/lecture1.html#a-five-points-climate-haiku",
-    "href": "lectures/lecture1.html#a-five-points-climate-haiku",
-    "title": "Lecture 1 Introduction",
-    "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "objectID": "lectures/lecture6.html#energy-intensity",
+    "href": "lectures/lecture6.html#energy-intensity",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy intensity",
+    "text": "Energy intensity\n\n\nSource: Our World in Data"
   },
   {
-    "objectID": "lectures/lecture1.html#an-analysis-approach",
-    "href": "lectures/lecture1.html#an-analysis-approach",
-    "title": "Lecture 1 Introduction",
-    "section": "An analysis approach",
-    "text": "An analysis approach\nData-driven, evidence-based, energy and climate policy\nUsing analytic tool to answer questions such as:\n\nWhat will be the climate future if we do nothing?\nWhat technology to invest to achieve our climate goal?\nWhat will be the impact to carbon emission of IRA?\nHow NYS/NYC could achieve its climate goals?"
+    "objectID": "lectures/lecture6.html#electrification",
+    "href": "lectures/lecture6.html#electrification",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Electrification",
+    "text": "Electrification\n\n\nSource: EnerData"
   },
   {
-    "objectID": "lectures/lecture1.html#two-quotes-about-models",
-    "href": "lectures/lecture1.html#two-quotes-about-models",
-    "title": "Lecture 1 Introduction",
-    "section": "Two quotes about models",
-    "text": "Two quotes about models\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+    "objectID": "lectures/lecture6.html#ev-and-load",
+    "href": "lectures/lecture6.html#ev-and-load",
+    "title": "Lecture 6 Energy Demand",
+    "section": "EV and load",
+    "text": "EV and load\n\n\n\n\n\n\n\n\nSource: McKinsey"
   },
   {
-    "objectID": "lectures/lecture1.html#models-can-be-useful",
-    "href": "lectures/lecture1.html#models-can-be-useful",
-    "title": "Lecture 1 Introduction",
-    "section": "Models can be useful",
-    "text": "Models can be useful\n\nPrediction/Projection\nSimulation\nOptimization\nControl\nStochastic/dynamic\nPolicy: Scenarios\n\nModels help us think"
+    "objectID": "lectures/lecture6.html#energy-efficiency---first-fuel",
+    "href": "lectures/lecture6.html#energy-efficiency---first-fuel",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy efficiency - “First Fuel”",
+    "text": "Energy efficiency - “First Fuel”\n\n\nRead more: IEA, IEA (2021)"
   },
   {
-    "objectID": "lectures/lecture1.html#modeling-is-hard",
-    "href": "lectures/lecture1.html#modeling-is-hard",
-    "title": "Lecture 1 Introduction",
-    "section": "Modeling is hard",
-    "text": "Modeling is hard"
+    "objectID": "lectures/lecture6.html#adoption-curve",
+    "href": "lectures/lecture6.html#adoption-curve",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Adoption curve",
+    "text": "Adoption curve\n\n\nRead more: Diffusion of innovations"
   },
   {
-    "objectID": "lectures/lecture1.html#why",
-    "href": "lectures/lecture1.html#why",
-    "title": "Lecture 1 Introduction",
-    "section": "Why?",
-    "text": "Why?\n\nRisk: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.\nUncertainty: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.\n\n\nRead more from Jon Koomey"
+    "objectID": "lectures/lecture6.html#rebound",
+    "href": "lectures/lecture6.html#rebound",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Rebound",
+    "text": "Rebound\n\n\nRead more: CarbonBrief, Borenstein (2015), Brockway et al. (2021)"
   },
   {
-    "objectID": "lectures/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
-    "href": "lectures/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
-    "title": "Lecture 1 Introduction",
-    "section": "Why: climate and energy systems are both complicated",
-    "text": "Why: climate and energy systems are both complicated\n\n\nSource: EIA"
+    "objectID": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
+    "href": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Limit to growth, degrowth, green growth",
+    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: Meadows et al. (2018), 50-year argument"
   },
   {
-    "objectID": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
-    "href": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
-    "title": "Lecture 1 Introduction",
-    "section": "The Energy Trillemma: Balancing trade-offs",
-    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\n\n\n\n\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them\n\n\n\n\nSource: World Energy Council"
+    "objectID": "lectures/lecture6.html#decent-living",
+    "href": "lectures/lecture6.html#decent-living",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Decent living",
+    "text": "Decent living\n\n\nRead more: Rao and Min (2018)"
   },
   {
-    "objectID": "lectures/lecture1.html#energy-economy-and-environment",
-    "href": "lectures/lecture1.html#energy-economy-and-environment",
-    "title": "Lecture 1 Introduction",
-    "section": "Energy, economy, and environment",
-    "text": "Energy, economy, and environment\n\n\n\n\n\n\n\n\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints\n\n\n\nSource: ICMA"
+    "objectID": "lectures/lecture6.html#human-behavior---demand-response",
+    "href": "lectures/lecture6.html#human-behavior---demand-response",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Human behavior - demand response",
+    "text": "Human behavior - demand response\n\n\nSource: CAIOS"
   },
   {
-    "objectID": "lectures/lecture1.html#energy-great-achievement",
-    "href": "lectures/lecture1.html#energy-great-achievement",
-    "title": "Lecture 1 Introduction",
-    "section": "Energy great achievement",
-    "text": "Energy great achievement\n\n\nSource: National Academies"
+    "objectID": "lectures/lecture6.html#human-behavior-intervention",
+    "href": "lectures/lecture6.html#human-behavior-intervention",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Human behavior intervention",
+    "text": "Human behavior intervention\n\n\nRead more: IEA"
   },
   {
-    "objectID": "lectures/lecture1.html#energy-grand-challenges-sdgs",
-    "href": "lectures/lecture1.html#energy-grand-challenges-sdgs",
-    "title": "Lecture 1 Introduction",
-    "section": "Energy grand challenges: SDGs",
-    "text": "Energy grand challenges: SDGs\n\n\nSource: UN"
+    "objectID": "lectures/lecture6.html#load-forecasting",
+    "href": "lectures/lecture6.html#load-forecasting",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecasting",
+    "text": "Load forecasting\n\n\nSource: Hong and Fan (2016)"
   },
   {
-    "objectID": "lectures/lecture1.html#energy-grand-challenges-net-zero",
-    "href": "lectures/lecture1.html#energy-grand-challenges-net-zero",
-    "title": "Lecture 1 Introduction",
-    "section": "Energy grand challenges: net-zero",
-    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA (2021)"
+    "objectID": "lectures/lecture6.html#load-forecast",
+    "href": "lectures/lecture6.html#load-forecast",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecast",
+    "text": "Load forecast\n\n\nRead more: PJM, ISO New England"
   },
   {
-    "objectID": "lectures/lecture1.html#modeling-can-be-usefulinsightful-an-example",
-    "href": "lectures/lecture1.html#modeling-can-be-usefulinsightful-an-example",
-    "title": "Lecture 1 Introduction",
-    "section": "Modeling can be useful/insightful (an example)",
-    "text": "Modeling can be useful/insightful (an example)\n\nBuild the structure\nDemonstrate the relation\nVisualize the changes\nInform the impacts"
+    "objectID": "lectures/lecture6.html#summary",
+    "href": "lectures/lecture6.html#summary",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Summary",
+    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and shape of our demand\n\nLoad forecast integrates all insights to the show"
   },
   {
-    "objectID": "lectures/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
-    "href": "lectures/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
-    "title": "Lecture 1 Introduction",
-    "section": "Renewables are achieving grid parity: a structural change",
-    "text": "Renewables are achieving grid parity: a structural change\n\n\nSource: IRENA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture1.html#implications-are-profound",
-    "href": "lectures/lecture1.html#implications-are-profound",
-    "title": "Lecture 1 Introduction",
-    "section": "Implications are profound",
-    "text": "Implications are profound\n\n\n \n\n\n\n\n\n\n\n\n\n\n\nSource: He et al. (2020), Grant et al. (2021)"
-  },
-  {
-    "objectID": "lectures/lecture1.html#end-with-two-quotes",
-    "href": "lectures/lecture1.html#end-with-two-quotes",
-    "title": "Lecture 1 Introduction",
-    "section": "End with two quotes",
-    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
-  },
-  {
-    "objectID": "lectures/lecture1.html#references",
-    "href": "lectures/lecture1.html#references",
-    "title": "Lecture 1 Introduction",
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Energy Demand",
     "section": "",
-    "text": "References\n\n\nGrant, Neil, Adam Hawkes, Tamaryn Napp, and Ajay Gambhir. 2021. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways.” One Earth 4 (11): 1588–1601. https://doi.org/10.1016/j.oneear.2021.10.024.\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\n\n\nHogan, William W. 2002. “Energy Modeling for Policy Studies.” Operations Research 50 (1): 89–95. https://doi.org/10.1287/opre.50.1.89.17803.\n\n\nHuntington, Hillard G, John P Weyant, and James L Sweeney. 1982. “Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum.” Omega 10 (5): 449–62. https://doi.org/10.1016/0305-0483(82)90002-0.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nIRENA. 2021. “Renewable Power Generation Costs in 2021.” Abu Dhabi: International Renewable Energy Agency. https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+    "text": "References\n\n\nBorenstein, Severin. 2015. “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.” The Energy Journal 36 (1). https://doi.org/10.5547/01956574.36.1.1.\n\n\nBrockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.” Renewable and Sustainable Energy Reviews 141: 110781. https://doi.org/10.1016/j.rser.2021.110781.\n\n\nEhrlich, Paul R, and John P Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1097/00006254-197111000-00014.\n\n\nHong, Tao, and Shu Fan. 2016. “Probabilistic Electric Load Forecasting: A Tutorial Review.” International Journal of Forecasting 32 (3): 914–38. https://doi.org/10.1016/j.ijforecast.2015.11.011.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nLin, Jiang, Gang He, and Alexandria Yuan. 2016. “Economic Rebalancing and Electricity Demand in China.” The Electricity Journal 29 (3): 48–54. https://doi.org/10.1016/j.tej.2016.03.010.\n\n\nMeadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. “The Limits to Growth.” In Green Planet Blues, 25–29. Routledge.\n\n\nRao, Narasimha D, and Jihoon Min. 2018. “Decent Living Standards: Material Prerequisites for Human Wellbeing.” Social Indicators Research 138 (1): 225–44. https://doi.org/10.1007/s11205-017-1650-0.\n\n\nSwan, Lukas G., and V. Ismet Ugursal. 2009. “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.” Renewable and Sustainable Energy Reviews 13 (8): 1819–35. https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-systems",
+    "href": "lectures/lecture4.html#energy-systems",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#resources-vs-reserves",
+    "href": "lectures/lecture4.html#resources-vs-reserves",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Resources vs reserves",
+    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-and-their-conversions",
+    "href": "lectures/lecture4.html#energy-and-their-conversions",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy and their conversions",
+    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#global-energy-flow",
+    "href": "lectures/lecture4.html#global-energy-flow",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Global energy flow",
+    "text": "Global energy flow\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#u.s.-energy-flow",
+    "href": "lectures/lecture4.html#u.s.-energy-flow",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "U.S. energy flow",
+    "text": "U.S. energy flow\n\n\nSource: LLNL"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-supply",
+    "href": "lectures/lecture4.html#energy-by-supply",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by supply",
+    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-source-updated-to-2022",
+    "href": "lectures/lecture4.html#energy-by-source-updated-to-2022",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by source updated to 2022",
+    "text": "Energy by source updated to 2022\n\n\nSource: Our Wold in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-source---two-worlds",
+    "href": "lectures/lecture4.html#energy-by-source---two-worlds",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by source - two worlds",
+    "text": "Energy by source - two worlds\n\n\nSource: Our Wold in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-end-use-by-sector",
+    "href": "lectures/lecture4.html#energy-end-use-by-sector",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy end-use by sector",
+    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#matching-supply-and-demand",
+    "href": "lectures/lecture4.html#matching-supply-and-demand",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Matching supply and demand",
+    "text": "Matching supply and demand\nIt operates like “magic”\nBut relies on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standards\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
+    "href": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electrify eveything, where are we now",
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electrify-eveything-net-zero",
+    "href": "lectures/lecture4.html#electrify-eveything-net-zero",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electrify eveything, net zero",
+    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-efficiency",
+    "href": "lectures/lecture4.html#energy-efficiency",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
+    "href": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electric efficiency vs fossil efficiency",
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
+    "href": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Milestones for long-term energy transition",
+    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
+    "href": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "NYS Climate Leadership and Community Protection Act",
+    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
+  },
+  {
+    "objectID": "lectures/lecture4.html#u.s.-shale-gas-revolution",
+    "href": "lectures/lecture4.html#u.s.-shale-gas-revolution",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "U.S. shale gas revolution",
+    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
+    "href": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Renewable revolution: achieving grid parity",
+    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
+    "href": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Renewable revolution: solar and wind taking off",
+    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-systems-modeling",
+    "href": "lectures/lecture4.html#energy-systems-modeling",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy systems modeling",
+    "text": "Energy systems modeling\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
+  },
+  {
+    "objectID": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
+    "href": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "How modelers think about an energy system",
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication"
+  },
+  {
+    "objectID": "lectures/lecture4.html#references",
+    "href": "lectures/lecture4.html#references",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "",
+    "text": "References\n\n\nBMWi. 2015. “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy.” Federal Ministry for Economic Affairs; Energy. https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nSmil, Vaclav. 2017. Energy: A Beginner’s Guide. Simon; Schuster.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -774,7 +634,7 @@
     "href": "lectures/lecture2.html#a-five-points-climate-haiku",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   },
   {
     "objectID": "lectures/lecture2.html#references",
@@ -784,200 +644,431 @@
     "text": "References\n\n\nFridley, David, Nina Z Khanna, Nan Zhou, and Michael McNeil. 2016. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look.” In. ACEEE. https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\n\n\nHansen, James, Makiko Sato, and Reto Ruedy. 2012. “Perception of Climate Change.” Proceedings of the National Academy of Sciences 109 (37): E2415–23. https://doi.org/10.1073/pnas.1205276109.\n\n\nHermann, Weston A. 2006. “Quantifying Global Exergy Resources.” Energy 31 (12): 1685–1702. https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nKoomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. https://iopscience.iop.org/book/mono/978-0-7503-4032-8.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Energy and Climate Policy (Fall 2023)",
     "section": "",
-    "text": "All models are wrong, but some are useful”.\n-- Engineering Statistics Handbook, George Box"
+    "text": "The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future."
   },
   {
-    "objectID": "resources.html#modelling-community",
-    "href": "resources.html#modelling-community",
-    "title": "Resources",
-    "section": "Modelling community",
-    "text": "Modelling community\nIntegrated Assessment Modeling Consortium\nMacro-Energy Systems\nNational Center for Atmospheric Research, Community Earth System Model\nStanford University, Energy Modeling Forum\nStockholm Environment Institute, Community of Energy, Environment, and Development\nOpen Energy Modeling Initiative\n\nList of models\nData\n\nClimate Change AI"
-  },
-  {
-    "objectID": "resources.html#models-we-discuss-in-the-class",
-    "href": "resources.html#models-we-discuss-in-the-class",
-    "title": "Resources",
-    "section": "Models we discuss in the class",
-    "text": "Models we discuss in the class\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE) DICE 2023\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change."
-  },
-  {
-    "objectID": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
-    "href": "resources.html#models-we-donot-discuss-in-the-class-but-could-be-useful",
-    "title": "Resources",
-    "section": "Models We Donot Discuss in the Class, but could be useful",
-    "text": "Models We Donot Discuss in the Class, but could be useful\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings."
-  },
-  {
-    "objectID": "resources.html#open-source-efforts",
-    "href": "resources.html#open-source-efforts",
-    "title": "Resources",
-    "section": "Open-source efforts",
-    "text": "Open-source efforts\nOpen Model Initiative: Open models and open data will advance knowledge and lead to better energy policies.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment\nPyPSA: Python for Power System Analysis"
-  },
-  {
-    "objectID": "resources.html#programming-language",
-    "href": "resources.html#programming-language",
-    "title": "Resources",
-    "section": "Programming language",
-    "text": "Programming language\nR, a free software environment for statistical computing and graphics\nPython, work quickly and integrate systems more effectively\nGAMS, The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization\nAMPL, A Modeling Language for Mathematical Programming\nJulia, a high-level, high-performance, dynamic programming language"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-systems",
-    "href": "lectures/lecture4.html#energy-systems",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy systems",
-    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture4.html#resources-vs-reserves",
-    "href": "lectures/lecture4.html#resources-vs-reserves",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Resources vs reserves",
-    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-and-their-conversions",
-    "href": "lectures/lecture4.html#energy-and-their-conversions",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
-  },
-  {
-    "objectID": "lectures/lecture4.html#global-energy-flow",
-    "href": "lectures/lecture4.html#global-energy-flow",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Global energy flow",
-    "text": "Global energy flow\n\n\nSource: IEA"
-  },
-  {
-    "objectID": "lectures/lecture4.html#u.s.-energy-flow",
-    "href": "lectures/lecture4.html#u.s.-energy-flow",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "U.S. energy flow",
-    "text": "U.S. energy flow\n\n\nSource: LLNL"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-by-supply",
-    "href": "lectures/lecture4.html#energy-by-supply",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy by supply",
-    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-end-use-by-sector",
-    "href": "lectures/lecture4.html#energy-end-use-by-sector",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy end-use by sector",
-    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture4.html#matching-supply-and-demand",
-    "href": "lectures/lecture4.html#matching-supply-and-demand",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Matching supply and demand",
-    "text": "Matching supply and demand\nIt operates like “magic”\nBut relies on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standards\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
-  },
-  {
-    "objectID": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
-    "href": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Electrify eveything, where are we now",
-    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
-  },
-  {
-    "objectID": "lectures/lecture4.html#electrify-eveything-net-zero",
-    "href": "lectures/lecture4.html#electrify-eveything-net-zero",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Electrify eveything, net zero",
-    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-efficiency",
-    "href": "lectures/lecture4.html#energy-efficiency",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy efficiency",
-    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
-  },
-  {
-    "objectID": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
-    "href": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Electric efficiency vs fossil efficiency",
-    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
-  },
-  {
-    "objectID": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
-    "href": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Milestones for long-term energy transition",
-    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
-  },
-  {
-    "objectID": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
-    "href": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "NYS Climate Leadership and Community Protection Act",
-    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
-  },
-  {
-    "objectID": "lectures/lecture4.html#u.s.-shale-gas-revolution",
-    "href": "lectures/lecture4.html#u.s.-shale-gas-revolution",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "U.S. shale gas revolution",
-    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
-  },
-  {
-    "objectID": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
-    "href": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Renewable revolution: achieving grid parity",
-    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
-  },
-  {
-    "objectID": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
-    "href": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Renewable revolution: solar and wind taking off",
-    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
-  },
-  {
-    "objectID": "lectures/lecture4.html#energy-systems-modeling",
-    "href": "lectures/lecture4.html#energy-systems-modeling",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy systems modeling",
-    "text": "Energy systems modeling\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
-  },
-  {
-    "objectID": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
-    "href": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "How modelers think about an energy system",
-    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication"
-  },
-  {
-    "objectID": "lectures/lecture4.html#references",
-    "href": "lectures/lecture4.html#references",
-    "title": "Lecture 4 Energy Systems Overview",
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Energy and Climate Policy (Fall 2023)",
     "section": "",
-    "text": "References\n\n\nBMWi. 2015. “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy.” Federal Ministry for Economic Affairs; Energy. https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nSmil, Vaclav. 2017. Energy: A Beginner’s Guide. Simon; Schuster.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+    "text": "The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future."
   },
   {
-    "objectID": "lectures/lecture4.html#energy-by-source-updated-to-2022",
-    "href": "lectures/lecture4.html#energy-by-source-updated-to-2022",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy by source updated to 2022",
-    "text": "Energy by source updated to 2022\n\n\nSource: Our Wold in Data"
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Energy and Climate Policy (Fall 2023)",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nDevelop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;\nGain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses;\nGet introduced to major analytical concepts and modeling tools used in energy systems and policy analysis;\nDevelop basic analytical skills to translate energy systems analysis into effective policy discussion and debate."
   },
   {
-    "objectID": "lectures/lecture4.html#energy-by-source---two-worlds",
-    "href": "lectures/lecture4.html#energy-by-source---two-worlds",
-    "title": "Lecture 4 Energy Systems Overview",
-    "section": "Energy by source - two worlds",
-    "text": "Energy by source - two worlds\n\n\nSource: Our Wold in Data"
+    "objectID": "index.html#reuse-of-material",
+    "href": "index.html#reuse-of-material",
+    "title": "Energy and Climate Policy (Fall 2023)",
+    "section": "Reuse of material",
+    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
+  },
+  {
+    "objectID": "index.html#how-to-help",
+    "href": "index.html#how-to-help",
+    "title": "Energy and Climate Policy (Fall 2023)",
+    "section": "How to help",
+    "text": "How to help\nIf you like this course, please Star the course repository. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome."
+  },
+  {
+    "objectID": "assignments/hw2.html",
+    "href": "assignments/hw2.html",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "",
+    "text": "We discussed Defining a Rosenfeld Plant in Lecture 2. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.\nTo define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants, and the average transmissin losses. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself."
+  },
+  {
+    "objectID": "assignments/hw2.html#data",
+    "href": "assignments/hw2.html#data",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Data",
+    "text": "Data\nThere are a few places that you may find plant level data.\n\nEIA-860 collects generator-level specific information about existing and planned generators and associated environmental equipment at electric power plants with 1 MW or greater of combined nameplate capacity.\nEPA eGRID includes emissions, emission rates, generation, heat input, resource mix, and many other attributes.\nGlobal Energy Monitor’s Global Coal Plant Tracker (GCPT) provides information on coal-fired power units from around the world generating 30 megawatts and above.\n\nEIA’s data is comprehensieve but a bit messy, GCPT data focuses on coal plants might not have the attributes you need. Let’s use the EPA eGRID data for your analysis. Please download eGRID with 2021 data."
+  },
+  {
+    "objectID": "assignments/hw2.html#questions",
+    "href": "assignments/hw2.html#questions",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Questions",
+    "text": "Questions\nPlease use the eGRID data and work out the calculation:\n\nWhat’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]\n\nWhat’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]\n\nWhat’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]\n\nUsing the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)\n\nWhat’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]\n\nIf we can improve the average efficiency of coal plants by 1% (percentage point), e.g. 32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)\n\nFurther explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)\n\nNote: please show your process to receive partial credit.\nPlug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice."
+  },
+  {
+    "objectID": "assignments/hw2.html#further-readings",
+    "href": "assignments/hw2.html#further-readings",
+    "title": "Assignment 2 Updating a Rosenfeld Plant",
+    "section": "Further readings",
+    "text": "Further readings\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://doi.org/10.1088/1748-9326/5/1/014017.\nGrubert, Emily. 2020. “Fossil Electricity Retirement Deadlines for a Just Transition.” Science 370 (6521): 1171–73. https://doi.org/10.1126/science.abe0375."
+  },
+  {
+    "objectID": "assignments/hw1.html",
+    "href": "assignments/hw1.html",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "",
+    "text": "We have to deal with carbon to address climate change, so let’s have a deep dive into the carbon emission data. One of my favorite sources and visulizations is Our World in Data. The raw data is also available here. Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g. the Carbon Monitor."
+  },
+  {
+    "objectID": "assignments/hw1.html#questions",
+    "href": "assignments/hw1.html#questions",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "Questions",
+    "text": "Questions\nPlease use the most recent data and answer below questions:\n\nTop 10 countries by annual total energy related carbon emissions? (0.5pt)\nTop 10 countries by per capita average carbon emissions? (0.5pt)\nTop 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)\nTop 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)\nList all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)\nChange the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)\nUse global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)\nWhat technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)\n\nNote: please list countries and their corresponding data of those indicators. Plug: we will come back to this assignment when discuss sharing of “common but differntiated responsibilities” in climate negotiation and governance."
+  },
+  {
+    "objectID": "assignments/hw1.html#further-readings",
+    "href": "assignments/hw1.html#further-readings",
+    "title": "Assignment 1 Deep dive in carbon emissions",
+    "section": "Further readings",
+    "text": "Further readings\n\nDou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). https://doi.org/10.1016/j.xinn.2021.100182.\nFriedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. https://doi.org/10.5194/essd-14-4811-2022."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18\n\n\n2\nUpdating a Rosenfeld plant\nhw2\n10/4"
+  },
+  {
+    "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
+    "href": "lectures/lecture1.html#welcome-and-icebreaker",
+    "title": "Lecture 1 Introduction",
+    "section": "Welcome and icebreaker",
+    "text": "Welcome and icebreaker\n\nRose: “something that is working well or something positive”\nThorn: “something that isn’t working or something negative”\nBud: “an area of opportunity or idea yet to be explored”"
+  },
+  {
+    "objectID": "lectures/lecture1.html#what-brings-you-here",
+    "href": "lectures/lecture1.html#what-brings-you-here",
+    "title": "Lecture 1 Introduction",
+    "section": "What brings you here?",
+    "text": "What brings you here?\n\nConcerned topics?\nMotivations?\nDream jobs?"
+  },
+  {
+    "objectID": "lectures/lecture1.html#us-ira-in-its-first-year",
+    "href": "lectures/lecture1.html#us-ira-in-its-first-year",
+    "title": "Lecture 1 Introduction",
+    "section": "US IRA in its first year",
+    "text": "US IRA in its first year\nHow to evaluate its impact to the emission reduction?\n\n\n\n\n\n\n\n\nSource: Secretory Jennifer Granholm"
+  },
+  {
+    "objectID": "lectures/lecture1.html#why-paf9199",
+    "href": "lectures/lecture1.html#why-paf9199",
+    "title": "Lecture 1 Introduction",
+    "section": "Why PAF9199?",
+    "text": "Why PAF9199?\n\nPolicy matters\n\nResearch\nJobs\n\nClean energy transition to achieve climate goals"
+  },
+  {
+    "objectID": "lectures/lecture1.html#organization",
+    "href": "lectures/lecture1.html#organization",
+    "title": "Lecture 1 Introduction",
+    "section": "Organization",
+    "text": "Organization\n\nSyllabus\nBlackboard\nCourse website: https://drganghe.github.io/energy-climate-policy/\nPolicy response (10): 20%\nAssignments (5): 30%\nProposal: 10%\nFinal presentations: 20%\nPolicy memo: 20%"
+  },
+  {
+    "objectID": "lectures/lecture1.html#contents",
+    "href": "lectures/lecture1.html#contents",
+    "title": "Lecture 1 Introduction",
+    "section": "Contents",
+    "text": "Contents\n\n\n\nClimate change\n\nImpact\nMitigation\nAdaption\nGovernance\n\n\n\n\nEnergy systems\n\nSupply\nDemand\nEconomics\nTechnology\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nEnergy-economy-environment (nexus)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture1.html#a-five-points-climate-haiku",
+    "title": "Lecture 1 Introduction",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture1.html#an-analysis-approach",
+    "href": "lectures/lecture1.html#an-analysis-approach",
+    "title": "Lecture 1 Introduction",
+    "section": "An analysis approach",
+    "text": "An analysis approach\nData-driven, evidence-based, energy and climate policy\nUsing analytic tool to answer questions such as:\n\nWhat will be the climate future if we do nothing?\nWhat technology to invest to achieve our climate goal?\nWhat will be the impact to carbon emission of IRA?\nHow NYS/NYC could achieve its climate goals?"
+  },
+  {
+    "objectID": "lectures/lecture1.html#two-quotes-about-models",
+    "href": "lectures/lecture1.html#two-quotes-about-models",
+    "title": "Lecture 1 Introduction",
+    "section": "Two quotes about models",
+    "text": "Two quotes about models\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+  },
+  {
+    "objectID": "lectures/lecture1.html#models-can-be-useful",
+    "href": "lectures/lecture1.html#models-can-be-useful",
+    "title": "Lecture 1 Introduction",
+    "section": "Models can be useful",
+    "text": "Models can be useful\n\nPrediction/Projection\nSimulation\nOptimization\nControl\nStochastic/dynamic\nPolicy: Scenarios\n\nModels help us think"
+  },
+  {
+    "objectID": "lectures/lecture1.html#modeling-is-hard",
+    "href": "lectures/lecture1.html#modeling-is-hard",
+    "title": "Lecture 1 Introduction",
+    "section": "Modeling is hard",
+    "text": "Modeling is hard"
+  },
+  {
+    "objectID": "lectures/lecture1.html#why",
+    "href": "lectures/lecture1.html#why",
+    "title": "Lecture 1 Introduction",
+    "section": "Why?",
+    "text": "Why?\n\nRisk: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.\nUncertainty: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.\n\n\nRead more from Jon Koomey"
+  },
+  {
+    "objectID": "lectures/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
+    "href": "lectures/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
+    "title": "Lecture 1 Introduction",
+    "section": "Why: climate and energy systems are both complicated",
+    "text": "Why: climate and energy systems are both complicated\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
+    "href": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
+    "title": "Lecture 1 Introduction",
+    "section": "The Energy Trillemma: Balancing trade-offs",
+    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them\n\n\n\n\nSource: World Energy Council"
+  },
+  {
+    "objectID": "lectures/lecture1.html#energy-economy-and-environment",
+    "href": "lectures/lecture1.html#energy-economy-and-environment",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy, economy, and environment",
+    "text": "Energy, economy, and environment\n\n\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints\n\n\n\nSource: ICMA"
+  },
+  {
+    "objectID": "lectures/lecture1.html#energy-great-achievement",
+    "href": "lectures/lecture1.html#energy-great-achievement",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy great achievement",
+    "text": "Energy great achievement\n\n\nSource: National Academies"
+  },
+  {
+    "objectID": "lectures/lecture1.html#energy-grand-challenges-sdgs",
+    "href": "lectures/lecture1.html#energy-grand-challenges-sdgs",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy grand challenges: SDGs",
+    "text": "Energy grand challenges: SDGs\n\n\nSource: UN"
+  },
+  {
+    "objectID": "lectures/lecture1.html#energy-grand-challenges-net-zero",
+    "href": "lectures/lecture1.html#energy-grand-challenges-net-zero",
+    "title": "Lecture 1 Introduction",
+    "section": "Energy grand challenges: net-zero",
+    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#modeling-can-be-usefulinsightful-an-example",
+    "href": "lectures/lecture1.html#modeling-can-be-usefulinsightful-an-example",
+    "title": "Lecture 1 Introduction",
+    "section": "Modeling can be useful/insightful (an example)",
+    "text": "Modeling can be useful/insightful (an example)\n\nBuild the structure\nDemonstrate the relation\nVisualize the changes\nInform the impacts"
+  },
+  {
+    "objectID": "lectures/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
+    "href": "lectures/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
+    "title": "Lecture 1 Introduction",
+    "section": "Renewables are achieving grid parity: a structural change",
+    "text": "Renewables are achieving grid parity: a structural change\n\n\nSource: IRENA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#implications-are-profound",
+    "href": "lectures/lecture1.html#implications-are-profound",
+    "title": "Lecture 1 Introduction",
+    "section": "Implications are profound",
+    "text": "Implications are profound\n\n\n \n\n\n\n\n\nSource: He et al. (2020), Grant et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#end-with-two-quotes",
+    "href": "lectures/lecture1.html#end-with-two-quotes",
+    "title": "Lecture 1 Introduction",
+    "section": "End with two quotes",
+    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#references",
+    "href": "lectures/lecture1.html#references",
+    "title": "Lecture 1 Introduction",
+    "section": "",
+    "text": "References\n\n\nGrant, Neil, Adam Hawkes, Tamaryn Napp, and Ajay Gambhir. 2021. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways.” One Earth 4 (11): 1588–1601. https://doi.org/10.1016/j.oneear.2021.10.024.\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\n\n\nHogan, William W. 2002. “Energy Modeling for Policy Studies.” Operations Research 50 (1): 89–95. https://doi.org/10.1287/opre.50.1.89.17803.\n\n\nHuntington, Hillard G, John P Weyant, and James L Sweeney. 1982. “Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum.” Omega 10 (5): 449–62. https://doi.org/10.1016/0305-0483(82)90002-0.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency.\n\n\nIRENA. 2021. “Renewable Power Generation Costs in 2021.” Abu Dhabi: International Renewable Energy Agency. https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture3.html#a-five-points-climate-haiku",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture3.html#adverse-impacts-of-climate-change",
+    "href": "lectures/lecture3.html#adverse-impacts-of-climate-change",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Adverse impacts of climate change",
+    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
+  },
+  {
+    "objectID": "lectures/lecture3.html#the-impacts-are-global",
+    "href": "lectures/lecture3.html#the-impacts-are-global",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "The impacts are global",
+    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
+  },
+  {
+    "objectID": "lectures/lecture3.html#vulnerable-population-suffers-more",
+    "href": "lectures/lecture3.html#vulnerable-population-suffers-more",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Vulnerable population suffers more",
+    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
+  },
+  {
+    "objectID": "lectures/lecture3.html#conventional-focues",
+    "href": "lectures/lecture3.html#conventional-focues",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Conventional focues",
+    "text": "Conventional focues\n\nIce melting\nSea level rising\nExtreme weathers\n\nFloods\nDroughts"
+  },
+  {
+    "objectID": "lectures/lecture3.html#damages-to-include",
+    "href": "lectures/lecture3.html#damages-to-include",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Damages to include",
+    "text": "Damages to include\n\nagriculture\nmortality\nenergy\nlow-risk labor\nhigh-risk labor\ncoastal damages\nproperty crime\nviolent crime\n\nWhat other damages to include?"
+  },
+  {
+    "objectID": "lectures/lecture3.html#social-economic-impacts",
+    "href": "lectures/lecture3.html#social-economic-impacts",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Social economic impacts",
+    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-damage-function",
+    "href": "lectures/lecture3.html#climate-damage-function",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate damage function",
+    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: Neumann et al. (2020), Valuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (2017)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-change-and-conflicts",
+    "href": "lectures/lecture3.html#climate-change-and-conflicts",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate change and conflicts",
+    "text": "Climate change and conflicts\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-change-affects-energy-system",
+    "href": "lectures/lecture3.html#climate-change-affects-energy-system",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate change affects energy system",
+    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
+    "href": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate impact to renewable supply-demand match",
+    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#ipat",
+    "href": "lectures/lecture3.html#ipat",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "IPAT",
+    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: Ehrlich and Holdren (1971)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#kaya-identify",
+    "href": "lectures/lecture3.html#kaya-identify",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Kaya identify",
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
+  },
+  {
+    "objectID": "lectures/lecture3.html#climate-wedges",
+    "href": "lectures/lecture3.html#climate-wedges",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Climate wedges",
+    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#the-mckinsey-cost-curve",
+    "href": "lectures/lecture3.html#the-mckinsey-cost-curve",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "The Mckinsey cost curve",
+    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "lectures/lecture3.html#social-cost-of-carbon",
+    "href": "lectures/lecture3.html#social-cost-of-carbon",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "lectures/lecture3.html#epa-social-cost-of-carbon",
+    "href": "lectures/lecture3.html#epa-social-cost-of-carbon",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "EPA social cost of carbon",
+    "text": "EPA social cost of carbon\n\n\n\n\n2010 assessment\n\n\n\n\n2015 assessment\n\n\n\n\nSource: EPA"
+  },
+  {
+    "objectID": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
+    "href": "lectures/lecture3.html#nydec-value-of-carbon-guidance",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "NYDEC ‘Value of Carbon’ Guidance",
+    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
+  },
+  {
+    "objectID": "lectures/lecture3.html#scc-updates",
+    "href": "lectures/lecture3.html#scc-updates",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "SCC updates",
+    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#what-works-whats-not",
+    "href": "lectures/lecture3.html#what-works-whats-not",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "What works what’s not",
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#best-practices",
+    "href": "lectures/lecture3.html#best-practices",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Best practices",
+    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
+  },
+  {
+    "objectID": "lectures/lecture3.html#policy-instruments",
+    "href": "lectures/lecture3.html#policy-instruments",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Policy instruments",
+    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "lectures/lecture3.html#nys-climate-impacts-assessment",
+    "href": "lectures/lecture3.html#nys-climate-impacts-assessment",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "NYS climate impacts assessment",
+    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based literature reviews\nIn-depth economic impact assessments\nA peer-reviewed technical report that conveys scientific findings\nSummaries and syntheses for a wider audience\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\n\n\n\n\n\nAn ongoing effort, anything missing?\n\nSource: New York State Climate Impacts Assessment"
+  },
+  {
+    "objectID": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "href": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
+    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture3.html#references",
+    "href": "lectures/lecture3.html#references",
+    "title": "Lecture 3 Climate Impacts and Responses",
+    "section": "",
+    "text": "References\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   },
   {
     "objectID": "lectures/lecture5.html#sample-analytic-questions",
@@ -1120,213 +1211,262 @@
     "text": "References\n\n\nArrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. “Determining Benefits and Costs for Future Generations.” Science 341 (6144): 349–50. https://doi.org/10.1126/science.1235665.\n\n\nGrubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” Energy Policy 38 (9): 5174–88. https://doi.org/10.1016/j.enpol.2010.05.003.\n\n\nGrübler, Arnulf, Nebojša Nakićenović, and David G Victor. 1999. “Dynamics of Energy Technologies and Global Change.” Energy Policy 27 (5): 247–80. https://doi.org/10.1016/S0301-4215(98)00067-6.\n\n\nHelveston, John, Gang He, and Michael Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nKavlak, Goksin, James McNerney, and Jessika E. Trancik. 2018. “Evaluating the Causes of Cost Reduction in Photovoltaic Modules.” Energy Policy 123 (December): 700–710. https://doi.org/10.1016/j.enpol.2018.08.015.\n\n\nKlemun, Magdalena M., Goksin Kavlak, James McNerney, and Jessika E. Trancik. 2023. “Mechanisms of Hardware and Soft Technology Evolution and the Implications for Solar Energy Cost Trends.” Nature Energy 8 (8): 827–38. https://doi.org/10.1038/s41560-023-01286-9.\n\n\nWeitzman, Martin L. 2001. “Gamma Discounting.” American Economic Review 91 (1): 260–71. https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   },
   {
-    "objectID": "lectures/lecture6.html#solar",
-    "href": "lectures/lecture6.html#solar",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#solar",
+    "href": "lectures/lecture7.html#solar",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Solar",
     "text": "Solar\n\n\nSource: Richard Perez"
   },
   {
-    "objectID": "lectures/lecture6.html#solar-spectrum",
-    "href": "lectures/lecture6.html#solar-spectrum",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#solar-spectrum",
+    "href": "lectures/lecture7.html#solar-spectrum",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Solar spectrum",
     "text": "Solar spectrum\n\n\nSolar constant: 1.361 kW/m2\n\n\nSource: Solar Spectrum"
   },
   {
-    "objectID": "lectures/lecture6.html#harvesting-the-sun",
-    "href": "lectures/lecture6.html#harvesting-the-sun",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#harvesting-the-sun",
+    "href": "lectures/lecture7.html#harvesting-the-sun",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Harvesting the sun",
     "text": "Harvesting the sun\n\n\n\n\n\nHeqing Solar Cooker Project in Zhangye\n\n\n\n\n\n\nYoung NaDEET students in Namibia learning to use a parabolic solar cooker\n\n\n\n\n\nPhoto credit: Bristol Energy, Fu Ting; Source: Solar Cooking"
   },
   {
-    "objectID": "lectures/lecture6.html#silicon",
-    "href": "lectures/lecture6.html#silicon",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#silicon",
+    "href": "lectures/lecture7.html#silicon",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Silicon",
     "text": "Silicon\n\n\n\n\n\n\n\n\n\n\n\nSource: Atomic Structures"
   },
   {
-    "objectID": "lectures/lecture6.html#p-and-n-type",
-    "href": "lectures/lecture6.html#p-and-n-type",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#p-and-n-type",
+    "href": "lectures/lecture7.html#p-and-n-type",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "P and N type",
     "text": "P and N type\n\n\n\n\n\n\n\n\n\n\nSource: From sunlight to electricity"
   },
   {
-    "objectID": "lectures/lecture6.html#p-n-junction",
-    "href": "lectures/lecture6.html#p-n-junction",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#p-n-junction",
+    "href": "lectures/lecture7.html#p-n-junction",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "P-N Junction",
     "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
   },
   {
-    "objectID": "lectures/lecture6.html#how-solar-works",
-    "href": "lectures/lecture6.html#how-solar-works",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#how-solar-works",
+    "href": "lectures/lecture7.html#how-solar-works",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "How solar works",
     "text": "How solar works\n\n\n\n\n\nSource: https://www.youtube.com/watch?v=xKxrkht7CpY"
   },
   {
-    "objectID": "lectures/lecture6.html#solar-irradiance",
-    "href": "lectures/lecture6.html#solar-irradiance",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#solar-irradiance",
+    "href": "lectures/lecture7.html#solar-irradiance",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Solar irradiance",
     "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
   },
   {
-    "objectID": "lectures/lecture6.html#key-corrections",
-    "href": "lectures/lecture6.html#key-corrections",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#key-corrections",
+    "href": "lectures/lecture7.html#key-corrections",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Key corrections",
     "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: Masters (2013)"
   },
   {
-    "objectID": "lectures/lecture6.html#the-quest-for-efficiency",
-    "href": "lectures/lecture6.html#the-quest-for-efficiency",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#the-quest-for-efficiency",
+    "href": "lectures/lecture7.html#the-quest-for-efficiency",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "The quest for efficiency",
     "text": "The quest for efficiency\n\n\nRead more: NREL, Best Research-Cell Efficiency Chart"
   },
   {
-    "objectID": "lectures/lecture6.html#global-and-u.s.-distribution",
-    "href": "lectures/lecture6.html#global-and-u.s.-distribution",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#global-and-u.s.-distribution",
+    "href": "lectures/lecture7.html#global-and-u.s.-distribution",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Global and U.S. distribution",
     "text": "Global and U.S. distribution\n\n\nSource: Global Solar Atlas"
   },
   {
-    "objectID": "lectures/lecture6.html#air-pollution-and-dust",
-    "href": "lectures/lecture6.html#air-pollution-and-dust",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#air-pollution-and-dust",
+    "href": "lectures/lecture7.html#air-pollution-and-dust",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Air pollution and dust",
     "text": "Air pollution and dust\n\n\n\n\n\n\n\n\nSource: (bergin2017large?)"
   },
   {
-    "objectID": "lectures/lecture6.html#prioritize-solar-installation",
-    "href": "lectures/lecture6.html#prioritize-solar-installation",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#prioritize-solar-installation",
+    "href": "lectures/lecture7.html#prioritize-solar-installation",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Prioritize solar installation",
     "text": "Prioritize solar installation\n\n\nSource: Chen et al., Communications Energy & Environment, 2023 (forthcoming)."
   },
   {
-    "objectID": "lectures/lecture6.html#solar-thermal-csp",
-    "href": "lectures/lecture6.html#solar-thermal-csp",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#solar-thermal-csp",
+    "href": "lectures/lecture7.html#solar-thermal-csp",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Solar thermal: CSP",
     "text": "Solar thermal: CSP\n\n\nSource: DOE"
   },
   {
-    "objectID": "lectures/lecture6.html#wind",
-    "href": "lectures/lecture6.html#wind",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#wind",
+    "href": "lectures/lecture7.html#wind",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Wind",
     "text": "Wind\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (\\(m^2\\)) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
   },
   {
-    "objectID": "lectures/lecture6.html#betzs-law-59.3",
-    "href": "lectures/lecture6.html#betzs-law-59.3",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#betzs-law-59.3",
+    "href": "lectures/lecture7.html#betzs-law-59.3",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Betz’s law: 59.3%",
     "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\nSource: Masters (2013)"
   },
   {
-    "objectID": "lectures/lecture6.html#average-power",
-    "href": "lectures/lecture6.html#average-power",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#average-power",
+    "href": "lectures/lecture7.html#average-power",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Average power",
     "text": "Average power\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\n\nRead more: Masters (2013)"
   },
   {
-    "objectID": "lectures/lecture6.html#power-curve",
-    "href": "lectures/lecture6.html#power-curve",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#power-curve",
+    "href": "lectures/lecture7.html#power-curve",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Power curve",
     "text": "Power curve\n\n\nRead more: NREL, Validation of Power Output for the WIND Toolkit"
   },
   {
-    "objectID": "lectures/lecture6.html#important-corrections",
-    "href": "lectures/lecture6.html#important-corrections",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#important-corrections",
+    "href": "lectures/lecture7.html#important-corrections",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Important corrections",
     "text": "Important corrections\n\nTemperature: \\(\\rho = \\frac{P\\times M.W. \\times 10^{-3}}{RT}=\\frac{1 atm\\times 28.97 g/mol \\times 10^{-3}kg/g}{8.2056\\times 10^{-5}m^3\\cdot atm/(K\\cdot mol)\\times(273.15+T)K}\\)\n\nAltitude: \\(P=P_0 e^{-1.185\\times 10^{-4}H}\\) (H is elevation in meters)\n\nTower height: \\(\\frac{v}{v_0}=(\\frac{H}{H_0})^\\alpha\\) (\\(\\alpha\\) is the friction coefficient)\n\n\nRead more: Masters (2013)"
   },
   {
-    "objectID": "lectures/lecture6.html#class-of-wind-resources",
-    "href": "lectures/lecture6.html#class-of-wind-resources",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#class-of-wind-resources",
+    "href": "lectures/lecture7.html#class-of-wind-resources",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Class of wind resources",
     "text": "Class of wind resources\n\n\n\n\n\n\n\n\n\n\nClass\n10 m (33 ft)\n\n50 m (164 ft)\n\n\n\n\n\n\nWind power density (W/m2)\nSpeed m/s (mph)\nWind power density (W/m2)\nSpeed m/s (mph)\n\n\n1\n0 - 100\n0 - 4.4 (0 - 9.8)\n0 - 200\n0 - 5.6 (0 - 12.5)\n\n\n2\n100 - 150\n4.4 - 5.1 (9.8 - 11.5)\n200 - 300\n5.6 - 6.4 (12.5 - 14.3)\n\n\n3\n150 - 200\n5.1 - 5.6 (11.5 - 12.5)\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n\n\n4\n200 - 250\n5.6 - 6.0 (12.5 - 13.4)\n400 - 500\n7.0 - 7.5 (15.7 - 16.8)\n\n\n5\n250 - 300\n6.0 - 6.4 (13.4 - 14.3)\n500 - 600\n7.5 - 8.0 (16.8 - 17.9)\n\n\n6\n300 - 400\n6.4 - 7.0 (14.3 - 15.7)\n600 - 800\n8.0 - 8.8 (17.9 - 19.7)\n\n\n7\n400 - 1000\n7.0 - 9.4 (15.7 - 21.1)\n800 - 2000\n8.8 - 11.9 (19.7 - 26.6)\n\n\n\n\nSource: NREL"
   },
   {
-    "objectID": "lectures/lecture6.html#global-wind-power-density-map",
-    "href": "lectures/lecture6.html#global-wind-power-density-map",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#global-wind-power-density-map",
+    "href": "lectures/lecture7.html#global-wind-power-density-map",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Global wind power density map",
     "text": "Global wind power density map\n\n\nSource: Global Wind Atlas"
   },
   {
-    "objectID": "lectures/lecture6.html#higher-and-bigger",
-    "href": "lectures/lecture6.html#higher-and-bigger",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#higher-and-bigger",
+    "href": "lectures/lecture7.html#higher-and-bigger",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Higher and bigger",
     "text": "Higher and bigger\n\n\n\n\n\n\n\n\nSource: Land-Based Wind Market Report 2023"
   },
   {
-    "objectID": "lectures/lecture6.html#offshore-wind",
-    "href": "lectures/lecture6.html#offshore-wind",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#offshore-wind",
+    "href": "lectures/lecture7.html#offshore-wind",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Offshore wind",
     "text": "Offshore wind\n\n\nSource: DOE, Offshore Wind Energy"
   },
   {
-    "objectID": "lectures/lecture6.html#challenges",
-    "href": "lectures/lecture6.html#challenges",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#challenges",
+    "href": "lectures/lecture7.html#challenges",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Challenges",
     "text": "Challenges\n\n\n\n\n\n\n\n\nSource: DOE, Top 10 Things You Didn’t Know About Offshore Wind Energy; NREL, Supply Chain Road Map"
   },
   {
-    "objectID": "lectures/lecture6.html#low-speed-wind",
-    "href": "lectures/lecture6.html#low-speed-wind",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#low-speed-wind",
+    "href": "lectures/lecture7.html#low-speed-wind",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Low speed wind",
     "text": "Low speed wind\nSmaller generator. \\(\\rightarrow\\) Decreased generator weight and cost.\nOperating at higher capacity in lower wind speeds. \\(\\rightarrow\\) Greater generator efficiency.\nDecreased tower head mass. \\(\\rightarrow\\) Decreased foundation and tower costs.\nDecreased PE system rating. \\(\\rightarrow\\) Decreased PE system costs\n\nSource: Low Speed Wind Turbines"
   },
   {
-    "objectID": "lectures/lecture6.html#unexpected-benefits",
-    "href": "lectures/lecture6.html#unexpected-benefits",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#unexpected-benefits",
+    "href": "lectures/lecture7.html#unexpected-benefits",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Unexpected benefits",
     "text": "Unexpected benefits\n\n\nSource: Reddit"
   },
   {
-    "objectID": "lectures/lecture6.html#climate-change-impact",
-    "href": "lectures/lecture6.html#climate-change-impact",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#climate-change-impact",
+    "href": "lectures/lecture7.html#climate-change-impact",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Climate change impact",
     "text": "Climate change impact\n\n\nSource: Liu et al. (2023)"
   },
   {
-    "objectID": "lectures/lecture6.html#pros-and-cons",
-    "href": "lectures/lecture6.html#pros-and-cons",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#pros-and-cons",
+    "href": "lectures/lecture7.html#pros-and-cons",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Pros and Cons",
     "text": "Pros and Cons\n\n\n\nPros\nCons\n\n\n\n\nRenewables\nVariable & integration\n\n\nLow emissions\nLand use & NIMBY\n\n\nLow costs\nDistribution"
   },
   {
-    "objectID": "lectures/lecture6.html#hybrid-power-systems",
-    "href": "lectures/lecture6.html#hybrid-power-systems",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#hybrid-power-systems",
+    "href": "lectures/lecture7.html#hybrid-power-systems",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "Hybrid power systems",
     "text": "Hybrid power systems\n\n\nSource: Small Wind Guidebook"
   },
   {
-    "objectID": "lectures/lecture6.html#references",
-    "href": "lectures/lecture6.html#references",
-    "title": "Lecture 6 Energy Conversion Technologies: Solar and Wind",
+    "objectID": "lectures/lecture7.html#references",
+    "href": "lectures/lecture7.html#references",
+    "title": "Lecture 7 Energy Conversion Technologies: Solar and Wind",
     "section": "",
     "text": "References\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. John Wiley & Sons.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "policymemo.html",
+    "href": "policymemo.html",
+    "title": "Policy Memo",
+    "section": "",
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
+  },
+  {
+    "objectID": "policymemo.html#introduction",
+    "href": "policymemo.html#introduction",
+    "title": "Policy Memo",
+    "section": "",
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.\n\n\n\nWhat would be an opitimal congestion price in NYC?\nPolicies to enhance supply chains of offshore wind in NYS?\nWhat NYSERDA should do to promote heat pump installations?\nHow to help disadvantaged communities to adapt climate change?"
+  },
+  {
+    "objectID": "policymemo.html#proposal",
+    "href": "policymemo.html#proposal",
+    "title": "Policy Memo",
+    "section": "Proposal",
+    "text": "Proposal\nPlease submit an one-page proposal letting me know your topic, briefly explain why the topic, what data and analytic methods you plan to use, and any potential challenges and how would you address them."
+  },
+  {
+    "objectID": "policymemo.html#presentation",
+    "href": "policymemo.html#presentation",
+    "title": "Policy Memo",
+    "section": "Presentation",
+    "text": "Presentation\nYour presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. Please submit both the video and slides.\nYour presentation will be graded by the following criteria:\n\nNice presence [4pt]\nClear presentation of project ideas and insights [4pt]\nMastery of the subject [4pt]\nPresentation design and style [4pt]\nOverall impression [4pt]"
+  },
+  {
+    "objectID": "policymemo.html#policy-memo",
+    "href": "policymemo.html#policy-memo",
+    "title": "Policy Memo",
+    "section": "Policy Memo",
+    "text": "Policy Memo\nA typical policy includes an introduction (topic or problem), scope of problem, current approach, proposed approach/policies and evidences, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.\nYour policy will be graded by the following criteria:\n\nCreativity in defifing a topic/problem [5pt]\nRigorous analysis [5]\nClear writing, presentation, visulization [5]\nOverall impression [5pt]"
+  },
+  {
+    "objectID": "policymemo.html#references",
+    "href": "policymemo.html#references",
+    "title": "Policy Memo",
+    "section": "References",
+    "text": "References\nPolicy Memo Resources"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics\n\n\n\n8\n10/16\nEnergy demand\n\n\n\n9\n10/23\nEnergy technologies: solar and wind"
   }
 ]
