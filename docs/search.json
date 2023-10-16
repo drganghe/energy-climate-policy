@@ -102,7 +102,7 @@
     "href": "lectures/lecture6.html#sample-analytic-questions",
     "title": "Lecture 6 Energy Demand",
     "section": "Sample analytic questions",
-    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change changes energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
   },
   {
     "objectID": "lectures/lecture6.html#germany-energy-demand",
@@ -165,7 +165,7 @@
     "href": "lectures/lecture6.html#energy-efficiency---first-fuel",
     "title": "Lecture 6 Energy Demand",
     "section": "Energy efficiency - “First Fuel”",
-    "text": "Energy efficiency - “First Fuel”\n\n\nRead more: IEA, IEA (2021)"
+    "text": "Energy efficiency - “First Fuel”\n\n \n\n\nRead more: IEA, IEA (2021)"
   },
   {
     "objectID": "lectures/lecture6.html#adoption-curve",
@@ -228,7 +228,7 @@
     "href": "lectures/lecture6.html#summary",
     "title": "Lecture 6 Energy Demand",
     "section": "Summary",
-    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and shape of our demand\n\nLoad forecast integrates all insights to the show"
+    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and profile of our demand\n\nLoad forecast integrates all insights to the show"
   },
   {
     "objectID": "lectures/lecture6.html#references",
@@ -1468,5 +1468,12 @@
     "title": "Course Schedule",
     "section": "",
     "text": "Week\nDate\nLecture\nAssignment\n\n\n\n\n1\n8/28\nIntroduction\nHW1 assigned\n\n\n2\n9/4\nLabor Day - No session\n\n\n\n3\n9/11\nMake sense of number and fundamentals\n\n\n\n4\n9/18\nClimate impacts and responses\nHW2 assigned\n\n\n5\n9/25\nFall Regular Session: No classes scheduled\n\n\n\n6\n10/2\nEnergy systems overview\n\n\n\n7\n10/10\nEnergy project economics\n\n\n\n8\n10/16\nEnergy demand\n\n\n\n9\n10/23\nEnergy technologies: solar and wind"
+  },
+  {
+    "objectID": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
+    "href": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy savings across behavioural interventions implemented in the United States",
+    "text": "Energy savings across behavioural interventions implemented in the United States\n\n\nHigh evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: IEA"
   }
 ]

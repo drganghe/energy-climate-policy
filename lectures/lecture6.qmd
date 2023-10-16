@@ -93,7 +93,7 @@ Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?
 
 ## Electrification
 
-![](/lectures/images/6/electricity-share-in-final-energy.png){fig-align="center"}
+![](/lectures/images/6/electricity-share-in-final-energy-2022.png){fig-align="center"}
 
 ::: footer
 Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html)
@@ -119,7 +119,10 @@ Source: [McKinsey](https://www.mckinsey.com/industries/automotive-and-assembly/o
 
 ## Energy efficiency - "First Fuel"
 
-![](/lectures/images/6/ee-net-zero.png){fig-align="center"}
+<center>
+![](/lectures/images/6/ee-net-zero.png){fig-align="center" width=60%}
+![](/lectures/images/6/iea-demand-legend.png){fig-align="center" width=50%}
+</center>
 
 ::: footer
 Read more: [IEA](https://www.iea.org/articles/net-zero-by-2050-hinges-on-a-global-push-to-increase-energy-efficiency), @iea_net_2021
@@ -167,12 +170,12 @@ Source: [CAIOS](https://www.caiso.com/TodaysOutlook/Pages/default.aspx)
 :::
 
 
-## Human behavior intervention
+## Energy savings across behavioural interventions implemented in the United States
 
 ![](/lectures/images/6/energy-savings-behaviorial-us.png){fig-align="center"}
 
 ::: footer
-Read more: [IEA](https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home)
+High evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: [IEA](https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home)
 :::
 
 ## Load forecasting
