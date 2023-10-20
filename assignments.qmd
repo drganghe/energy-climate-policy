@@ -7,6 +7,7 @@ repo-actions: false
 |-----------------|-----------------|---------------------|---------------------|
 | 1    | [Deep dive in carbon emissions](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf) | 9/18 |
 | 2    | [Updating a Rosenfeld plant](assignments/hw2.qmd) | [hw2](assignments/hw2.pdf) | 10/4 |
+| 3    | [Energy project economics](assignments/hw3.qmd) | [hw3](assignments/hw3.pdf)  |  10/31      |
 <!--
 | 1    | [Air quality in China and India](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf)  | 9/12 |
 | 2    | [Energy project economics](assignments/hw2.qmd) | [hw2](assignments/hw2.pdf)  |  9/26      |

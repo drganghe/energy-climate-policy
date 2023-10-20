@@ -669,7 +669,7 @@
     "href": "index.html#reuse-of-material",
     "title": "Energy and Climate Policy (Fall 2023)",
     "section": "Reuse of material",
-    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease feel free to reuse any material that you find helpful. Copyrights belong to cited authors/creators. For those from myself, you can just link to my site or this course site for credit."
+    "text": "Reuse of material\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nPlease feel free to link my site and this course site to use any organized material. Copyrights belong to cited authors/creators. Example language to use:\n\nThis course/class benefits from the Energy and Climate Policy class material developed by Dr. Gang He."
   },
   {
     "objectID": "index.html#how-to-help",
@@ -732,7 +732,7 @@
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18\n\n\n2\nUpdating a Rosenfeld plant\nhw2\n10/4"
+    "text": "#\nTopic\npdf\nDue Date\n\n\n\n\n1\nDeep dive in carbon emissions\nhw1\n9/18\n\n\n2\nUpdating a Rosenfeld plant\nhw2\n10/4\n\n\n3\nEnergy project economics\nhw3\n10/31"
   },
   {
     "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
@@ -1475,5 +1475,40 @@
     "title": "Lecture 6 Energy Demand",
     "section": "Energy savings across behavioural interventions implemented in the United States",
     "text": "Energy savings across behavioural interventions implemented in the United States\n\n\nHigh evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: IEA"
+  },
+  {
+    "objectID": "assignments/hw3.html",
+    "href": "assignments/hw3.html",
+    "title": "Assignment 3 Energy project economics",
+    "section": "",
+    "text": "Please read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically operated and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\n\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions have drastic consequences) (1.5pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nLong Island total electricity consumption in 2020: 20 TWh\nDiscount rate: 4%\nAssuming the real value of total annual surcharge stays the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surcharges.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity in 2021 and roughly 15 percent of the State’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1.5pt)\n\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDiscount rate: 4%\nKey assumptions: 1.4 billion forgivable loans which can be seen as the investment, past investments are sunk costs that no need to be considered in this calculation."
+  },
+  {
+    "objectID": "assignments/hw3.html#a-tale-of-two-nuclear-plants",
+    "href": "assignments/hw3.html#a-tale-of-two-nuclear-plants",
+    "title": "Assignment 3 Energy project economics",
+    "section": "",
+    "text": "Please read the story of the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant. One plant never commerically operated and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California’s clean energy quest.\n\n\n\n\nHow long does it take for Long Island residents to pay off the construction and decommission of Shoreham Nuclear Power Plant? (Bad energy investment decisions have drastic consequences) (1.5pt)\n\nKey assumptions: LILCO attaches a 3 percent surcharge to LI electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nResidential rates in 2020: 21.22 cents/kWh\nLong Island total electricity consumption in 2020: 20 TWh\nDiscount rate: 4%\nAssuming the real value of total annual surcharge stays the same. You can use 2020 as a base year, and convert the 6 billion price tag to 2020 value, and then divided by the 2020 total surcharges.\n\nDiablo Canyon generated nearly 9 percent of Cailifornia’s electricity in 2021 and roughly 15 percent of the State’s clean energy production. Diablo Canyon Power Plant is granted a 5 year extention beyond its scheduled shutter at 2025. What’s the LCOE of Diablo Canyon Power Plant in its extended operation period (2026-2030)? (1.5pt)\n\nNameplate capacity: 2,256 MW\nCapacity factor: 80%\nDiscount rate: 4%\nKey assumptions: 1.4 billion forgivable loans which can be seen as the investment, past investments are sunk costs that no need to be considered in this calculation."
+  },
+  {
+    "objectID": "assignments/hw3.html#ev-or-ice-is-it-still-a-question",
+    "href": "assignments/hw3.html#ev-or-ice-is-it-still-a-question",
+    "title": "Assignment 3 Energy project economics",
+    "section": "2. EV or ICE, is it still a question?",
+    "text": "2. EV or ICE, is it still a question?\nEV sales globally are seeing exponential growth. Let’s do some project ecoconomics calculation to see if it make sense to purchase an EV, vs, an internal combustion engine (ICE) vehicle. (3pt)\nA basic Chevrollet Bolt EV starting at $29,700, and an Honda Civic ICE starting at $23,950, according to official releases.\nAssume you drive 13,476 miles per year as average U.S. drivers do1. Electricity price: $0.2/kWh; Gasoline price: $3.5/gallon. Efficiency: EV: 28kWh/100mile; ICE: 30mile/gallon (mpg) Life-time: 10years Resale value after 10 years: EV: $5,000; ICE: $10,000 Discont rate: 4%\n\nCalculating the NPV of the EV and ICE, and decide which vehicle should you purchase based on economics?\n\nIRA offers $7,500 tax credit2 for EV purchase, will that change your decision?\n\nWhat if the discount rate is 8%, will that change your decision?\n\nCalculating the carbon mitigation by driving an EV at New York State during the 10 years? New York State grid carbon intensity is on average 0.55 short tons CO2 per MWh3 of electricity generated. And the carbon intesity of finished gasoline is 8.10kgCO2/gallon4.\nWhat’s the cost of conserved CO2 in this case? (Hint: NPV difference/total carbon mitigation)"
+  },
+  {
+    "objectID": "assignments/hw3.html#further-readings",
+    "href": "assignments/hw3.html#further-readings",
+    "title": "Assignment 3 Energy project economics",
+    "section": "Further readings",
+    "text": "Further readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant"
+  },
+  {
+    "objectID": "index.html#acknowledgment",
+    "href": "index.html#acknowledgment",
+    "title": "Energy and Climate Policy (Fall 2023)",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\nThis class benefits from many similar classes and I cannot credit them enough below:\n\nDaniel Kammen, Energy and Society\nSeverin Borenstein, Energy and Environmental Markets\nJon Koomey and Ian Monroe, Solving Climate Change: A guide for learners and leaders"
   }
 ]
