@@ -23,4 +23,4 @@ Please feel free to link my [site](https://drganghe.github.io) and this [course 
 
 ## How to help  
 
-If you like this work, please **Star** this repository. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.
+If you like this course, you can **Star** the course [repository](https://github.com/drganghe/energy-climate-policy) to help more people to see it. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.

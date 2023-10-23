@@ -48,11 +48,11 @@ Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
 
 ::: columns
 ::: {.column width="50%"}
-![Heqing Solar Cooker Project in Zhangye](/lectures/images/6/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+![Heqing Solar Cooker Project in Zhangye](/lectures/images/7/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/6/NaDEET_solar_cooking_training.webp){fig-align="center"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/7/NaDEET_solar_cooking_training.webp){fig-align="center"}
 :::
 :::
 
