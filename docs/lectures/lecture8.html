@@ -7,12 +7,14 @@
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.415">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2023-10-23">
-  <title>Energy and Climate Policy - Lecture 7 Energy Conversion Technologies: Solar and Wind</title>
+  <meta name="dcterms.date" content="2023-10-30">
+  <title>Energy and Climate Policy - Lecture 8 Energy Conversion Technologies: Fossil, Nuclear, Hydro, and Others</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -352,15 +354,15 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Energy and Climate Policy - Lecture 7 Energy Conversion Technologies: Solar and Wind">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-policy/lectures/images/7/hybrid-power-systems.png">
+<meta property="og:title" content="Energy and Climate Policy - Lecture 8 Energy Conversion Technologies: Fossil, Nuclear, Hydro, and Others">
+<meta property="og:image" content="https://drganghe.github.io/energy-climate-policy/lectures/images/8/heat_engine.png">
 <meta property="og:site_name" content="Energy and Climate Policy">
-<meta property="og:image:height" content="624">
-<meta property="og:image:width" content="848">
-<meta name="twitter:title" content="Energy and Climate Policy - Lecture 7 Energy Conversion Technologies: Solar and Wind">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-policy/lectures/images/7/hybrid-power-systems.png">
-<meta name="twitter:image-height" content="624">
-<meta name="twitter:image-width" content="848">
+<meta property="og:image:height" content="1269">
+<meta property="og:image:width" content="2880">
+<meta name="twitter:title" content="Energy and Climate Policy - Lecture 8 Energy Conversion Technologies: Fossil, Nuclear, Hydro, and Others">
+<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-policy/lectures/images/8/heat_engine.png">
+<meta name="twitter:image-height" content="1269">
+<meta name="twitter:image-width" content="2880">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -368,7 +370,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 7 Energy Conversion Technologies: Solar and Wind</h1>
+  <h1 class="title">Lecture 8 Energy Conversion Technologies: Fossil, Nuclear, Hydro, and Others</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -378,440 +380,432 @@ Gang He
 </div>
 </div>
 
-  <p class="date">October 23, 2023</p>
+  <p class="date">October 30, 2023</p>
 </section>
-<section id="solar" class="slide level2 center">
-<h2>Solar</h2>
-
-<img data-src="..\lectures/images/2/perez-planetary-energy.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="http://asrc.albany.edu/people/faculty/perez/">Richard Perez</a></p>
-</div>
+<section id="sample-analytic-questions" class="slide level2 center">
+<h2>Sample analytic questions</h2>
+<ul>
+<li>How much coal can be saved/emissions can be mitigated if China’s average coal power efficiency increased by 1 percentage point?<br>
+</li>
+<li>Why combined heat and power saves energy?</li>
+<li>What are the challenges for nuclear expansion?<br>
+</li>
+<li>How to best use pumped-dydro storage?</li>
+</ul>
 </section>
-<section id="solar-spectrum" class="slide level2 center">
-<h2>Solar spectrum</h2>
+<section id="thermodynamics" class="slide level2 center">
+<h2>Thermodynamics</h2>
+<ul>
+<li>Thermodynamic <strong>efficiency</strong><br>
+</li>
+<li>Comparing different technologies<br>
+</li>
+<li>Thermodynamics provides physic limits</li>
+</ul>
+</section>
+<section id="heat-engine" class="slide level2 center">
+<h2>Heat engine</h2>
 
-<img data-src="..\lectures/images/7/Solar_spectrum.png" class="quarto-figure-center r-stretch"><center>
-<strong>Solar constant</strong>: 1.361 kW/m2
-</center>
+<img data-src="..\lectures/images/8/heat_engine.png" class="quarto-figure-center r-stretch"><p>Heat -&gt; Mechanical energy (work)</p>
 <div class="footer">
-<p>Source: <a href="https://en.wikipedia.org/wiki/Sunlight">Solar Spectrum</a></p>
+<p>Source: <a href="https://en.wikipedia.org/wiki/Heat_engine">Wikipedia</a></p>
 </div>
 </section>
-<section id="harvesting-the-sun" class="slide level2 center">
-<h2>Harvesting the sun</h2>
+<section id="laws-of-thermodynamics" class="slide level2 smaller center">
+<h2>Laws of thermodynamics</h2>
+<ul>
+<li><p>Zeroth law<br>
+“If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.”</p></li>
+<li><p>First law<br>
+“In a process without transfer of matter, the change in internal energy, <span class="math inline">\(\Delta U\)</span>, of a thermodynamic system is equal to the energy gained as heat, <span class="math inline">\(Q\)</span>, less the thermodynamic work, <span class="math inline">\(W\)</span>, done by the system on its surroundings.”</p></li>
+<li><p>Second law<br>
+“Heat does not spontaneously flow from a colder body to a hotter body.”</p></li>
+<li><p>Third law<br>
+“As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.”</p></li>
+</ul>
+<div class="footer">
+<p>Read more: <a href="https://en.wikipedia.org/wiki/Laws_of_thermodynamics">Wikipedia</a></p>
+</div>
+</section>
+<section id="three-efficiencies" class="slide level2 center">
+<h2>Three efficiencies</h2>
+<ul>
+<li>1st law: actual, thermal efficiency;<br>
+<span class="math inline">\(\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}}\)</span></li>
+<li>Carnot: maximum possible efficiency;<br>
+<span class="math inline">\(\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}}\)</span> (Kelvin)<br>
+</li>
+<li>2nd law: comparing 1st and Carnot;<br>
+<span class="math inline">\(\eta_2 =\frac{\eta_1}{\eta_c}\)</span></li>
+</ul>
+<div class="footer">
+<p>Read more: <a href="https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot">Sadi Carnot</a></p>
+</div>
+</section>
+<section id="a-gas-turbine-engine" class="slide level2 center">
+<h2>A gas turbine engine</h2>
+
+<img data-src="..\lectures/images/8/gas-turbine-engine.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <a href="https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg">Wikipedia</a></p>
+</div>
+</section>
+<section id="a-steam-coal-plant" class="slide level2 center">
+<h2>A steam coal plant</h2>
+
+<img data-src="..\lectures/images/8/coal_fired_power_plant_diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <a href="https://en.wikipedia.org/wiki/Fossil_fuel_power_station">Wikipedia</a></p>
+</div>
+</section>
+<section id="brayton-cycle-vs.-rankine-cycle" class="slide level2 center">
+<h2>Brayton cycle vs.&nbsp;Rankine cycle</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="..\lectures/images/7/Heqing_Solar_Cooker_photo.webp"></p>
-<figcaption>Heqing Solar Cooker Project in Zhangye</figcaption>
-</figure>
-</div>
+<p><img data-src="..\lectures/images/8/Brayton_cycle.png" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Jet engine, gas turbine</p>
+<p></p>
 </div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="..\lectures/images/7/NaDEET_solar_cooking_training.webp"></p>
-<figcaption>Young NaDEET students in Namibia learning to use a parabolic solar cooker</figcaption>
-</figure>
-</div>
+<p><img data-src="..\lectures/images/8/Rankine_cycle.png" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Steam engine, steam turbine</p>
+<p></p>
 </div>
 </div>
 <div class="footer">
-<p>Photo credit: <a href="https://solarcooking.fandom.com/wiki/China?file=Heqing_Solar_Cooker_photo%2C_12-20-21.png">Bristol Energy</a>, <a href="https://solarcooking.fandom.com/wiki/Namibia?file=NaDEET_solar_cooking_training_2012%2C_2-11-13.jpg">Fu Ting</a>; Source: <a href="https://solarcooking.fandom.com/">Solar Cooking</a></p>
+<p>Read more: Wikipedia <a href="https://en.wikipedia.org/wiki/Brayton_cycle">Brayton cycle</a> and <a href="https://en.wikipedia.org/wiki/Rankine_cycle">Rankine cycle</a></p>
 </div>
 </section>
-<section id="silicon" class="slide level2 center">
-<h2>Silicon</h2>
-<center>
-<p><img data-src="..\lectures/images/7/silicon-atomic-structure.jpeg" class="quarto-figure-center" style="width:50.0%"></p>
+<section id="brayton-cycle-vs.-rankine-cycle-1" class="slide level2 center">
+<h2>Brayton cycle vs.&nbsp;Rankine cycle</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Brayton Cycle</th>
+<th>Rankine Cycle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Jet, Gas turbine</td>
+<td>Steam turbine</td>
+</tr>
+<tr class="even">
+<td>Open</td>
+<td>Open/closed circuits</td>
+</tr>
+<tr class="odd">
+<td>Working fluid in gaseous phase</td>
+<td>Working fluid phase change</td>
+</tr>
+</tbody>
+</table>
+<div class="footer">
+<p>Read more: Wikipedia <a href="https://en.wikipedia.org/wiki/Brayton_cycle">Brayton cycle</a> and <a href="https://en.wikipedia.org/wiki/Rankine_cycle">Rankine cycle</a></p>
+</div>
+</section>
+<section id="largest-coal-plant-in-the-u.s." class="slide level2 smaller center">
+<h2>Largest coal plant in the U.S.</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/Boron-atomic-structure.jpeg" class="quarto-figure-center" style="width:80.0%"></p>
+<p><img data-src="..\lectures/images/8/georgia_power_plant_scherer.png" class="quarto-figure-center"></p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/Phosphorus-atomic-structure.jpeg" class="quarto-figure-center" style="width:80.0%"></p>
+<p>Georgia Power plant Scherer (3,720 MW)</p>
+<p>Can you identify the components</p>
+<ul>
+<li>Coal storage<br>
+</li>
+<li>Generating unit<br>
+</li>
+<li>Cooling stack<br>
+</li>
+<li>Bottom ash landfill<br>
+</li>
+<li>Sub-station<br>
+</li>
+<li>Transimission lines<br>
+</li>
+<li>Waste/pollution management<br>
+</li>
+</ul>
 </div>
 </div>
-</center>
 <div class="footer">
-<p>Source: <a href="https://youtu.be/OCTAQaubQ4o">Atomic Structures</a></p>
+<p>Source: <a href="https://goo.gl/maps/b6mCqsm6G9bhTc5b6">Google Map</a>, read more: <a href="https://carbontracker.org/reports/nowhere-to-hide/">Nowhere to hide</a></p>
 </div>
 </section>
-<section id="p-and-n-type" class="slide level2 center">
-<h2>P and N type</h2>
-<div class="columns">
-<div class="column" style="width:30%;">
-<p><img data-src="..\lectures/images/7/silicon-lattice.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:30%;">
-<p><img data-src="..\lectures/images/7/p-type-silicon.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:30%;">
-<p><img data-src="..\lectures/images/7/n-type-silicon.png" class="quarto-figure-center"></p>
-</div>
-</div>
-<div class="footer">
-<p>Source: <a href="https://www.science.org.au/curious/technology-future/solar-pv">From sunlight to electricity</a></p>
-</div>
-</section>
-<section id="p-n-junction" class="slide level2 center">
-<h2>P-N Junction</h2>
-
-<img data-src="..\lectures/images/7/p-n-junction.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: <a href="https://www.energy.gov/eere/solar/how-does-solar-work" class="uri">https://www.energy.gov/eere/solar/how-does-solar-work</a></p>
-</div>
-</section>
-<section id="how-solar-works" class="slide level2 center">
-<h2>How solar works</h2>
+<section id="combined-cycle" class="slide level2 center">
+<h2>Combined cycle</h2>
 <center>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+<iframe width="800" height="450" src="https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001" allowfullscreen="" frameborder="0">
 </iframe>
 </center>
 <div class="footer">
-<p>Source: <a href="https://www.youtube.com/watch?v=xKxrkht7CpY" class="uri">https://www.youtube.com/watch?v=xKxrkht7CpY</a></p>
+<p>Read more: <a href="https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works">Tennessee Valley Authority</a></p>
 </div>
 </section>
-<section id="solar-irradiance" class="slide level2 smaller center">
-<h2>Solar irradiance</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li>Direct normal irradiance (DNI)<br>
-</li>
-<li>Diffuse horizontal irradiance (DHI)</li>
-<li>Ground reflected irradiance (GRI)<br>
-</li>
-<li>Global horizontal irradiance (GHI)<br>
-</li>
-<li>Plane-of-array irradiance (POA)</li>
-</ul>
-<p>GHI=DNI+DHI+GRI</p>
-<p>POA = GHI <span class="math inline">\(\times \cos \theta\)</span></p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/solar-irradiance.png" class="quarto-figure-center"></p>
-</div>
-</div>
-<div class="footer">
-<p>Source: Manajit Sengupta, Aron Habte, <a href="https://www.nrel.gov/docs/fy20osti/75573.pdf">NREL</a></p>
-</div>
-</section>
-<section id="key-corrections" class="slide level2 center">
-<h2>Key corrections</h2>
-<ul>
-<li>Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle<br>
-</li>
-<li>Radiation: direct beam, diffusion, reflected<br>
-</li>
-<li>Tracking: fixed, 1-axis, 2-axis</li>
-</ul>
-<div class="footer">
-<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</div>
-</section>
-<section id="the-quest-for-efficiency" class="slide level2 center">
-<h2>The quest for efficiency</h2>
+<section id="ccgt-diagram" class="slide level2 center">
+<h2>CCGT diagram</h2>
 
-<img data-src="..\lectures/images/7/best-research-cell-efficiencies.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: NREL, <a href="https://www.nrel.gov/pv/cell-efficiency.html">Best Research-Cell Efficiency Chart</a></p>
+<img data-src="..\lectures/images/8/GE-CCGT-diagram.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <a href="https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine">GE Power</a></p>
 </div>
 </section>
-<section id="global-and-u.s.-distribution" class="slide level2 center">
-<h2>Global and U.S. distribution</h2>
-
-<img data-src="..\lectures/images/7/World_PVOUT_map.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://globalsolaratlas.info/download/world">Global Solar Atlas</a></p>
-</div>
-</section>
-<section id="air-pollution-and-dust" class="slide level2 center">
-<h2>Air pollution and dust</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/pm-and-solar.gif" class="quarto-figure-center"></p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/global-pm-solar-reduction.jpeg" class="quarto-figure-center"></p>
-</div>
-</div>
-<div class="footer">
-<p>Source: <span class="citation" data-cites="bergin2017large">Bergin et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></p>
-</div>
-</section>
-<section id="prioritize-solar-installation" class="slide level2 center">
-<h2>Prioritize solar installation</h2>
-
-<img data-src="..\lectures/images/7/prioritizing-solar-deployment.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="chen2023deploying">Chen et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></p>
-</div>
-</section>
-<section id="solar-thermal-csp" class="slide level2 center">
-<h2>Solar thermal: CSP</h2>
-
-<img data-src="..\lectures/images/7/Concentrating-Solar-Thermal-Power-Applications.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics">DOE</a></p>
-</div>
-</section>
-<section id="wind" class="slide level2 center">
-<h2>Wind</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/block-island-wind.jpeg" class="quarto-figure-center"></p>
-</div><div class="column" style="width:50%;">
-<p><span class="math inline">\(P=\frac{1}{2}\rho \pi r^2 v^3\)</span></p>
-<p style="font-size:16pt; color:gray">
-Where,<br>
-<span class="math inline">\(\rho\)</span> = Air Density (<span class="math inline">\(kg/m^3\)</span>)<br>
-<span class="math inline">\(A\)</span> = Swept Area (<span class="math inline">\(m^2\)</span>) = <span class="math inline">\(\pi r^2\)</span><br>
-<span class="math inline">\(v\)</span> = Wind Speed (m/s)<br>
-<span class="math inline">\(P\)</span> = Power (W)
-</p>
-</div>
-</div>
-<div class="footer">
-<p>Photo by Gang He, Block Island Offshore Wind Farm</p>
-</div>
-</section>
-<section id="betzs-law-59.3" class="slide level2 center">
-<h2>Betz’s law: 59.3%</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/upwind-downwind.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/blade-efficiency.png" class="quarto-figure-center"></p>
-</div>
-</div>
-<div class="footer">
-<p>Source: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</div>
-</section>
-<section id="average-power" class="slide level2 center">
-<h2>Average power</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/wind-distribution.png" class="quarto-figure-center"></p>
-</div><div class="column" style="width:50%;">
-<p>Rayleigh (a special type of Weibull) distribution</p>
-<p><span class="math inline">\(f(v)=\frac{2v}{c^2}\exp [-(\frac{v}{c})^2]\)</span></p>
-<p><span class="math inline">\(\bar{P}=\frac{6}{\pi}\cdot \frac{1}{2}\rho \pi r^2 (\bar{v})^3=1.91P\)</span></p>
-<p>Use average power when dealing with average wind speed</p>
-</div>
-</div>
-<div class="footer">
-<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</div>
-</section>
-<section id="power-curve" class="slide level2 center">
-<h2>Power curve</h2>
-
-<img data-src="..\lectures/images/7/wind-power-curve.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Read more: NREL, <a href="https://www.nrel.gov/docs/fy14osti/61714.pdf">Validation of Power Output for the WIND Toolkit</a></p>
-</div>
-</section>
-<section id="important-corrections" class="slide level2 center">
-<h2>Important corrections</h2>
-<ul>
-<li>Temperature: <span class="math inline">\(\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}\)</span><br>
-</li>
-<li>Altitude: <span class="math inline">\(P=P_0 e^{-1.185\times 10^{-4}H}\)</span> (H is elevation in meters)<br>
-</li>
-<li>Tower height: <span class="math inline">\(\frac{v}{v_0}=(\frac{H}{H_0})^\alpha\)</span> (<span class="math inline">\(\alpha\)</span> is the friction coefficient)</li>
-</ul>
-<div class="footer">
-<p>Read more: <span class="citation" data-cites="masters2013renewable">Masters (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</div>
-</section>
-<section id="class-of-wind-resources" class="slide level2 smaller center">
-<h2>Class of wind resources</h2>
+<section id="recall-updating-rosenfeld-plant" class="slide level2 center">
+<h2>Recall updating Rosenfeld Plant?</h2>
 <table>
-<colgroup>
-<col style="width: 6%">
-<col style="width: 24%">
-<col style="width: 22%">
-<col style="width: 24%">
-<col style="width: 23%">
-</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: center;">Class</th>
-<th style="text-align: center;">10 m (33 ft)</th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;">50 m (164 ft)</th>
-<th style="text-align: center;"></th>
+<th></th>
+<th>2010</th>
+<th>2021</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">Wind power density (W/m2)</td>
-<td style="text-align: center;">Speed m/s (mph)</td>
-<td style="text-align: center;">Wind power density (W/m2)</td>
-<td style="text-align: center;">Speed m/s (mph)</td>
+<td>Size (MW)</td>
+<td>500</td>
+<td>940</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">0 - 100</td>
-<td style="text-align: center;">0 - 4.4 (0 - 9.8)</td>
-<td style="text-align: center;">0 - 200</td>
-<td style="text-align: center;">0 - 5.6 (0 - 12.5)</td>
+<td>Capacity Factor</td>
+<td>70%</td>
+<td>43%</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">100 - 150</td>
-<td style="text-align: center;">4.4 - 5.1 (9.8 - 11.5)</td>
-<td style="text-align: center;">200 - 300</td>
-<td style="text-align: center;">5.6 - 6.4 (12.5 - 14.3)</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">150 - 200</td>
-<td style="text-align: center;">5.1 - 5.6 (11.5 - 12.5)</td>
-<td style="text-align: center;">300 - 400</td>
-<td style="text-align: center;">6.4 - 7.0 (14.3 - 15.7)</td>
+<td>Generation (TWh/yr)</td>
+<td>~ 3</td>
+<td>~ 3.6</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">200 - 250</td>
-<td style="text-align: center;">5.6 - 6.0 (12.5 - 13.4)</td>
-<td style="text-align: center;">400 - 500</td>
-<td style="text-align: center;">7.0 - 7.5 (15.7 - 16.8)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">250 - 300</td>
-<td style="text-align: center;">6.0 - 6.4 (13.4 - 14.3)</td>
-<td style="text-align: center;">500 - 600</td>
-<td style="text-align: center;">7.5 - 8.0 (16.8 - 17.9)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">300 - 400</td>
-<td style="text-align: center;">6.4 - 7.0 (14.3 - 15.7)</td>
-<td style="text-align: center;">600 - 800</td>
-<td style="text-align: center;">8.0 - 8.8 (17.9 - 19.7)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">400 - 1000</td>
-<td style="text-align: center;">7.0 - 9.4 (15.7 - 21.1)</td>
-<td style="text-align: center;">800 - 2000</td>
-<td style="text-align: center;">8.8 - 11.9 (19.7 - 26.6)</td>
+<td>Emissions (Mt/yr)</td>
+<td>~ 3</td>
+<td>~ 3.5</td>
 </tr>
 </tbody>
 </table>
+<ul>
+<li>NYC electricity use in 2020: ~4 TWh/year</li>
+</ul>
 <div class="footer">
-<p>Source: <a href="https://www.nrc.gov/docs/ML0720/ML072040340.pdf">NREL</a></p>
+<p>Source: <span class="citation" data-cites="koomey2010defining">Koomey et al. (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span></p>
 </div>
 </section>
-<section id="global-wind-power-density-map" class="slide level2 center">
-<h2>Global wind power density map</h2>
-
-<img data-src="..\lectures/images/7/global-wind-power-density-map.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://globalwindatlas.info/en/download/high-resolution-maps/World">Global Wind Atlas</a></p>
-</div>
-</section>
-<section id="higher-and-bigger" class="slide level2 center">
-<h2>Higher and bigger</h2>
+<section id="nuclear" class="slide level2 center">
+<h2>Nuclear</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/turbine-hub-height-rotor-capacity.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/8/fission.png" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Nuclear fission</p>
+<p></p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/Turbine-Hub-Height-Chart.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/8/fusion-reactions.jpeg" class="quarto-figure-center"></p>
+<p><br></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Nuclear fussion</p>
+<p></p>
 </div>
 </div>
 <div class="footer">
-<p>Source: <a href="https://www.energy.gov/sites/default/files/2023-08/land-based-wind-market-report-2023-edition.pdf">Land-Based Wind Market Report 2023</a></p>
+<p>Read more: EIA, <a href="https://www.eia.gov/energyexplained/nuclear/">Nuclear explained</a>; DOE, <a href="https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions">Nuclear fusion reactions</a></p>
 </div>
 </section>
-<section id="offshore-wind" class="slide level2 center">
-<h2>Offshore wind</h2>
+<section id="nuclear-power-plants" class="slide level2 center">
+<h2>Nuclear power plants</h2>
 
-<img data-src="..\lectures/images/7/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: DOE, <a href="https://windexchange.energy.gov/markets/offshore">Offshore Wind Energy</a></p>
+<img data-src="..\lectures/images/8/US_nuclear_power_plants_map.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: EIA, <a href="https://www.eia.gov/energyexplained/nuclear/">Nuclear explained</a></p>
 </div>
 </section>
-<section id="challenges" class="slide level2 center">
-<h2>Challenges</h2>
+<section id="nuclear-plant-design" class="slide level2 center">
+<h2>Nuclear plant design</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/offshore-floating-turbines.png" class="quarto-figure-center"></p>
+<p><img data-src="..\lectures/images/8/small_bwr.jpg" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Diagram of a boiling-water nuclear reactor</p>
+<p></p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="..\lectures/images/7/resources-demand-offshore-us.png" class="quarto-figure-center" style="width:70.0%"></p>
+<p><img data-src="..\lectures/images/8/small_pwr.jpg" class="quarto-figure-center"></p>
+<p><br></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Diagram of a pressurized-water nuclear reactor</p>
+<p></p>
 </div>
 </div>
 <div class="footer">
-<p>Source: DOE, <a href="https://www.energy.gov/eere/wind/articles/top-10-things-you-didnt-know-about-offshore-wind-energy">Top 10 Things You Didn’t Know About Offshore Wind Energy</a>; NREL, <a href="https://www.nrel.gov/wind/offshore-supply-chain-road-map.html">Supply Chain Road Map</a></p>
+<p>Read more: EIA, <a href="https://www.eia.gov/energyexplained/nuclear/">Nuclear explained</a></p>
 </div>
 </section>
-<section id="low-speed-wind" class="slide level2 center">
-<h2>Low speed wind</h2>
-<p>Smaller generator. <span class="math inline">\(\rightarrow\)</span> Decreased generator weight and cost.</p>
-<p>Operating at higher capacity in lower wind speeds. <span class="math inline">\(\rightarrow\)</span> Greater generator efficiency.</p>
-<p>Decreased tower head mass. <span class="math inline">\(\rightarrow\)</span> Decreased foundation and tower costs.</p>
-<p>Decreased PE system rating. <span class="math inline">\(\rightarrow\)</span> Decreased PE system costs</p>
+<section id="nuclear-fuel-cycle" class="slide level2 center">
+<h2>Nuclear fuel cycle</h2>
+
+<img data-src="..\lectures/images/8/nuclear_fuel_cycle.png" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: EIA, <a href="https://www.eia.gov/energyexplained/nuclear/">Nuclear explained</a></p>
+</div>
+</section>
+<section id="social-technology-challenges" class="slide level2 smaller center">
+<h2>Social &gt; technology challenges</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><img data-src="..\lectures/images/8/three-island-historical-site.JPG" class="quarto-figure-center" style="width:60.0%"></p>
+</div><div class="column" style="width:40%;">
+<ul>
+<li>Public engagement<br>
+</li>
+<li>Lower capital costs<br>
+</li>
+<li>Social and decision sciences<br>
+</li>
+<li>Science and technology study<br>
+</li>
+<li>Nuclear waste siting<br>
+</li>
+<li>Best practices</li>
+</ul>
+</div>
+</div>
 <div class="footer">
-<p>Source: <a href="https://faculty.washington.edu/malte/OldSite/seminar/Sp04/LowSpeedTurbines.pdf">Low Speed Wind Turbines</a></p>
+<p>Photo credit: Gang He; Read more: <a href="https://nap.nationalacademies.org/catalog/26606/understanding-the-societal-challenges-facing-nuclear-power-proceedings-of-a">National Academies</a></p>
 </div>
 </section>
-<section id="unexpected-benefits" class="slide level2 center">
-<h2>Unexpected benefits</h2>
+<section id="next-generation-of-nuclear-technology" class="slide level2 center">
+<h2>Next generation of nuclear technology</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><img data-src="..\lectures/images/8/next-gen-nuclear.png" class="quarto-figure-center"></p>
+</div><div class="column" style="width:40%;">
+<ul>
+<li>Modality<br>
+</li>
+<li>Lower capital costs<br>
+</li>
+<li>Siting flexibility<br>
+</li>
+<li>Higher efficiency<br>
+</li>
+<li>Safe and security<br>
+</li>
+<li>Industry and manufacture<br>
+</li>
+<li>Economic</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Read more: DOE, <a href="https://www.energy.gov/ne/benefits-small-modular-reactors-smrs">Benefits of Small Modular Reactors</a>, <a href="https://www.terrapower.com/our-work/natriumpower/">TerraPower</a></p>
+</div>
+</section>
+<section id="livermore-fusion-breakthrough" class="slide level2 center">
+<h2>Livermore Fusion breakthrough</h2>
 
-<img data-src="..\lectures/images/7/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://www.reddit.com/r/interestingasfuck/comments/ubofys/grazing_animals_like_sheep_enjoy_using_the/">Reddit</a></p>
+<img data-src="..\lectures/images/8/livermore-fusion-breakthrough.jpg" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <a href="https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition">LLNL</a></p>
 </div>
 </section>
-<section id="climate-change-impact" class="slide level2 center">
-<h2>Climate change impact</h2>
+<section id="hydro" class="slide level2 center">
+<h2>Hydro</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img data-src="..\lectures/images/8/hydro.png" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Hydropower</p>
+<p></p>
+</div><div class="column" style="width:50%;">
+<p><img data-src="..\lectures/images/8/pumped-storage.jpeg" class="quarto-figure-center"></p>
+<p style="font-size:14pt; color:gray; text-align:center;">
+</p><p>Pumped storage hydropower (PSH)</p>
+<p></p>
+</div>
+</div>
+<p><br></p>
+<center>
+<span class="math inline">\(E=\rho mg(h_2-h_1)\)</span>
+</center>
+<div class="footer">
+<p>Source: <a href="https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works">TVA</a></p>
+</div>
+</section>
+<section id="how-a-lithium-ion-battery-works" class="slide level2 center">
+<h2>How a lithium-ion battery works</h2>
+<video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://s3.amazonaws.com/UCS_Videos/Energy+embedded+video/lithium-ion-battery.mp4"></video>
+<div class="footer">
+<p>Source: <a href="https://www.ucsusa.org/resources/how-energy-storage-works">Union of Concerned Scientists</a></p>
+</div>
+</section>
+<section id="battery-management-system" class="slide level2 center">
+<h2>Battery management system</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img data-src="..\lectures/images/8/battery-management-system.png" class="quarto-figure-center"></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Rated power capacity<br>
+</li>
+<li>Energy capacity<br>
+</li>
+<li>Storage duration<br>
+</li>
+<li>Cycle life/lifetime<br>
+</li>
+<li>Self-discharge<br>
+</li>
+<li>State of charge<br>
+</li>
+<li>Round-trip efficiency</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Read more: NREL, <a href="https://www.nrel.gov/docs/fy19osti/74426.pdf">Grid-scale battery storage</a></p>
+</div>
+</section>
+<section id="long-duration-storage" class="slide level2 center">
+<h2>Long duration storage</h2>
 
-<img data-src="..\lectures/images/3/climate-change-solar-wind-sdm.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="liu_climate_2023">Liu et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span></p>
+<img data-src="..\lectures/images/8/role-of-long-duration-storage.jpg" class="quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="dowling_role_2020">Dowling et al. (<a href="#/references" role="doc-biblioref" onclick="">2020</a>)</span></p>
 </div>
 </section>
-<section id="pros-and-cons" class="slide level2 center">
-<h2>Pros and Cons</h2>
-<table>
-<thead>
-<tr class="header">
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Renewables</td>
-<td>Variable &amp; integration</td>
-</tr>
-<tr class="even">
-<td>Low emissions</td>
-<td>Land use &amp; NIMBY</td>
-</tr>
-<tr class="odd">
-<td>Low costs</td>
-<td>Distribution</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="hybrid-power-systems" class="slide level2 center">
-<h2>Hybrid power systems</h2>
-
-<img data-src="..\lectures/images/7/hybrid-power-systems.png" class="quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://windexchange.energy.gov/small-wind-guidebook#grid">Small Wind Guidebook</a></p>
-</div>
+<section id="summary" class="slide level2 smaller center">
+<h2>Summary</h2>
+<ul>
+<li>Theory - learn and understand the physics of energy technologies:
+<ul>
+<li>thermaldynamics (fossil)<br>
+</li>
+<li>kinematics (wind)<br>
+</li>
+<li>light and semiconductor (solar)<br>
+</li>
+<li>gravity (hydro, tidal)<br>
+</li>
+<li>atomic (nuclear)<br>
+</li>
+</ul></li>
+<li>Practice - learn all kinds of corrections based on real-world situation<br>
+</li>
+<li>The physics doesn’t change, corrections help us to do better jobs in simulation and projections</li>
+</ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-bergin2017large" class="csl-entry" role="listitem">
-Bergin, Mike H, Chinmay Ghoroi, Deepa Dixit, James J Schauer, and Drew T Shindell. 2017. <span>“Large Reductions in Solar Energy Production Due to Dust and Particulate Air Pollution.”</span> <em>Environmental Science &amp; Technology Letters</em> 4 (8): 339–44.
+<div id="ref-dowling_role_2020" class="csl-entry" role="listitem">
+Dowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, Steven J. Davis, Mengyao Yuan, Fan Tong, Nathan S. Lewis, and Ken Caldeira. 2020. <span>“Role of <span>Long</span>-<span>Duration</span> <span>Energy</span> <span>Storage</span> in <span>Variable</span> <span>Renewable</span> <span>Electricity</span> <span>Systems</span>.”</span> <em>Joule</em> 4 (9): 1907–28. <a href="https://doi.org/10.1016/j.joule.2020.07.007">https://doi.org/10.1016/j.joule.2020.07.007</a>.
 </div>
-<div id="ref-chen2023deploying" class="csl-entry" role="listitem">
-Chen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. <span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060.”</span> <em>Communications Earth &amp; Environment</em> 4 (October): 369. <a href="https://doi.org/10.1038/s43247-023-01006-x">https://doi.org/10.1038/s43247-023-01006-x</a>.
-</div>
-<div id="ref-liu_climate_2023" class="csl-entry" role="listitem">
-Liu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. <span>“Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.”</span> <em>Nature Energy</em> 8 (8): 870–80. <a href="https://doi.org/10.1038/s41560-023-01304-w">https://doi.org/10.1038/s41560-023-01304-w</a>.
-</div>
-<div id="ref-masters2013renewable" class="csl-entry" role="listitem">
-Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em>. John Wiley &amp; Sons.
+<div id="ref-koomey2010defining" class="csl-entry" role="listitem">
+Koomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. <span>“Defining a Standard Metric for Electricity Savings.”</span> <em>Environmental Research Letters</em> 5 (1): 014017. <a href="https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017">https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017</a>.
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="https://drganghe.github.io/energy-climate-policy/lectures/lecture7.html/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-policy/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-policy/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="https://drganghe.github.io/energy-climate-policy/lectures/lecture8.html/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/energy-climate-policy/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/energy-climate-policy/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 <div class="footer footer-default">
@@ -1200,6 +1194,7 @@ Masters, Gilbert M. 2013. <em>Renewable and Efficient Electric Power Systems</em
         }
     });
     </script>
+    
     
 
 </body></html>

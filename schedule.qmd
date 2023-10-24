@@ -8,7 +8,7 @@ repo-actions: false
 |-----------------|-----------------|---------------------|-----------------|
 | 1    | 8/28  | [Introduction](lectures/lecture1.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
 | 2    | 9/4 | Labor Day - No session  |   |
-| 3    | 9/11  | [Make sense of number and fundamentals](lectures/lecture2.qmd)  |   |
+| 3    | 9/11  | [Make sense of numbers and fundamentals](lectures/lecture2.qmd)  |   |
 | 4    | 9/18  | [Climate impacts and responses](lectures/lecture3.qmd)  | [HW2](assignments/hw2.qmd) assigned |
 | 5    | 9/25 | Fall Regular Session: No classes scheduled  |   |
 | 6    | 10/2  | [Energy systems overview](lectures/lecture4.qmd)  |  |

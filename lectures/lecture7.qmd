@@ -1,6 +1,6 @@
 ---
 title: "Lecture 7 Energy Conversion Technologies: Solar and Wind"
-description-meta: "Solar and windtechnologies"
+description-meta: "Solar and wind technologies"
 author: "Gang He"
 date: October 23, 2023
 date-format: long
@@ -204,7 +204,7 @@ Source: @bergin2017large
 ![](/lectures/images/7/prioritizing-solar-deployment.png){fig-align="center"}
 
 ::: footer
-Source: Chen et al., Communications Energy & Environment, 2023 (forthcoming).
+Source: @chen2023deploying
 :::
 
 
