@@ -15,3 +15,5 @@ repo-actions: false
 | 7    | 10/10  | [Energy project economics](lectures/lecture5.qmd)  |  |
 | 8    | 10/16  | [Energy demand](lectures/lecture6.qmd)  | [HW3](assignments/hw3.qmd) assigned |
 | 9    | 10/23  | [Energy technologies: solar and wind](lectures/lecture7.qmd)  |  |
+| 10    | 10/30  | [Energy technologies: fossil, nuclear, hydro, and other](lectures/lecture8.qmd)  |  |
+| 11    | 11/6  | [Energy efficiency](lectures/lecture9.qmd)  |  |

@@ -1,0 +1,236 @@
+---
+title: "Lecture 9 Energy Efficiency, Behavior, and Sustainable Consumption"
+description-meta: "Energy Efficiency, Behavior, and Sustainable Consumption"
+author: "Gang He"
+date: November 6, 2023
+date-format: long
+image: "/lectures/images/9/behavior-change-net-zero.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Sample analytic questions
+
+-   If energy efficiency is a good thing, why is not everybody doing it?\
+-   How to design incentive programs to change people's behavior?\
+-   How big is rebound, and what to do with rebound?\
+-   What policies to push for sustainable energy consumption?\
+
+## Energy efficiency
+
+- Energy efficiency  
+- Energy conservation (saving)  
+- Energy efficiency and economic efficiency
+
+::: footer
+Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publications/explainers/energy-efficiency-101/)
+:::
+
+## Energy intensity
+
+![](/lectures/images/9/energy-intensity.png){fig-align="center"}
+
+::: footer
+Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=CHE~DEU~CHN~IND~GBR~USA~JPN~OWID_WRL)
+:::
+
+## Recall the abatement cost curve
+
+![](/lectures/images/9/mckinsey-curve.png){fig-align="center"}
+
+::: footer
+Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
+:::
+
+## Energy efficiency gap
+
+![](/lectures/images/9/ee-failure.png){fig-align="center"}
+
+::: footer
+Source: @gillingham2009energy
+:::
+
+## Information
+
+![](/lectures/images/9/energy-label.png){fig-align="center"}
+
+::: footer
+Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-home-appliances)
+:::
+
+
+## Standards{.smaller}
+
+- Response to Information Failure  
+  - Might be good policy if information is too costly/ineffective  
+    - Eliminates cost of acquiring/understanding information
+    - Eliminates consumer/producer choice
+  - Focuses the market on producing high-quality products
+    - Economies of scale 
+    - Might be captured by technology (regular review of technology progress)
+
+- Response to externalities  
+  - Disallow products that would not often be sold if external costs were internalized
+  - Inefficient if some consumers would purchase at the full social cost including externality
+  - Difficult in some cases to write standards that still permit optimal innovation and adaptation
+
+::: footer
+Source: Severin Borenstein
+:::
+
+## Behavior change in NZE
+
+![](/lectures/images/9/behavior-change-net-zero.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+## Key behavior change for NZE
+
+![](/lectures/images/9/key-behavior-change-nze.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+## Complexity of human behavior
+
+![](/lectures/images/9/Kahneman-systems.jpeg){fig-align="center"}
+
+::: footer
+Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
+:::
+
+## Maslow's hierarchy of needs
+
+![](/lectures/images/9/maslow-hierarchy-of-needs.svg){fig-align="center"}
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+:::
+
+## Stage of change theory
+
+![](/lectures/images/9/stages-behavior-change.png){fig-align="center"}
+
+::: footer
+Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
+:::
+
+## Nudge
+
+::: columns
+
+::: {.column width="50%"}
+![](/lectures/images/9/nudge-cover.jpeg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+- Incentives
+- Understand mapping
+- Defaults
+- Give feedback
+- Expect error
+- Structure complex choices
+:::
+
+:::
+
+::: footer
+Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/book/9780300262285/nudge/)
+:::
+
+## Rebound{.smaller}
+
+|     Category    |     Description    |     Example    |
+|---|---|---|
+|     Direct   rebound    |     Homeowners use more of the more   efficient service    |     Consumer drives more with a more fuel   efficient   car    |
+|     Indirect   rebound    |     Homeowners re-spending on other   goods and services    |     Savings from efficient lighting   spend on 2nd   refrigerator    |
+|     Economy-wide   rebound    |     More efficient production and   shifts in demand alter economic structure and growth    |     A more efficient steam engine   increases production changes structural relationships and leads to economic growth    |
+
+## Economics of rebound{.smaller}
+
+- Energy efficiency lowers the marginal cost of usage so increases usage  
+  - Amount of increase depends on price elasticity    
+  - Likely to be small effect if energy is small part of marginal cost of use  
+- Energy efficiency may lower energy price, further increases rebound effect  
+  - Likely to be small effect unless long-run supply is very inelastic  
+- But energy efficiency also raises the up-front cost of products, reducing total sales
+
+::: footer
+Source: Severin Borenstein
+:::
+
+## Rebound might be overplayed
+
+![](/lectures/images/9/rebound-overplay.png){fig-align="center"}
+
+::: footer
+Source: @gillingham2013energy
+:::
+
+
+## Focus on welfare
+
+- Is rebound a “failure”? Depends on the goal  
+  - Reduce energy consumption?
+  - Improve social welfare?  
+- Rebound could be good  
+
+
+## Sustainable energy consumption{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+![](/lectures/images/9/un-sus-consumption.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+- Absolute reductions in the material goods and energy we consume;  
+- From material wealth and consumerism toward new measures of progress and well-being;  
+- Technological innovation and efficiency gains that help us to refine production processes;  
+- Recognition that consumption will need to increase for those individuals and communities whose needs are not being met, and  
+- A transformation of our economy from continuous growth to within the limits of a finite planet.  
+
+
+:::
+
+:::
+
+::: footer
+Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/2022/07/Goal-12-infographic.pdf), [USDN](https://sustainableconsumption.usdn.org/concept/overview)
+:::
+
+## Summary
+
+-   There are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\
+-   Human behavior is complicated, and understanding it will help us to design policy\
+-   Rebound is real but might be overplayed, rebound could be good if improve welfare\
+-   Sustainable consumption and production within the limit
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture9.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
