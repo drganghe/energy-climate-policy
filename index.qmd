@@ -11,12 +11,7 @@ repo-actions: false
 {{< include /files/includes/_coursedescription.qmd >}}
 
 
-## Learning Objectives
-
-- Develop comprehensive understanding of energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption; 
-- Gain an understanding of main data sources and key methods used to analyze energy systems and their strengths and weaknesses; 
-- Get introduced to major analytical concepts and modeling tools used in energy systems and policy analysis; 
-- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.
+{{< include /files/includes/_courseobjectives.qmd >}}
 
 
 ## Acknowledgment

@@ -19,13 +19,7 @@ title: Syllabus
 
 {{< include /files/includes/_coursedescription.qmd >}}
 
-
-## Learning Objectives 
-
-- Develop comprehensive understanding of climate challenges and energy systems, i.e. the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, and consumption;  
-- Gain an instinct of energy and climate topics and related them to the foundations we discuss in the class;  
-- Get introduced to major analytical concepts and tools used in energy systems and policy analysis;  
-- Develop basic analytical skills to translate energy systems analysis into effective policy discussion and debate.  
+{{< include /files/includes/_courseobjectives.qmd >}}
 
 
 ## Class Readings
