@@ -17,4 +17,5 @@ repo-actions: false
 | 9    | 10/23  | [Energy technologies: solar and wind](lectures/lecture7.qmd)  |  |
 | 10    | 10/30  | [Energy technologies: fossil, nuclear, hydro, and other](lectures/lecture8.qmd)  |  |
 | 11    | 11/6  | [Energy efficiency](lectures/lecture9.qmd)  |  [HW4](assignments/hw4.qmd) assigned|
-| 12    | 11/13  | [Power system decarbonization](lectures/lecture10.qmd)  |  |
+| 12    | 11/13  | [Power system decarbonization](lectures/lecture10.qmd)  | BNL Tour |
+| 13    | 11/20  | [Energy, environment, human health](lectures/lecture11.qmd)  |  |
