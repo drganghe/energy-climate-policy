@@ -1,0 +1,440 @@
+---
+title: "Lecture 12 Energy access, justice, and transition"
+description-meta: "Energy access, energy justice, energy transiton"
+author: "Gang He"
+date: November 27, 2023
+date-format: long
+image: "/lectures/images/12/us-energy-transition.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+
+## Sample analytic questions{.smaller}
+
+-   The barriers and policies to facilitate energy access?\
+-   What is Justice40? And what investments are included?\
+-   What are the typical energy injustice and how to address them?\
+-   What are the drivers of energy transition?\
+-   How should each country think/design/implement its energy transition?\
+-   How to frame the role of different technologies in energy transition?\
+-   How geo-politics, wars, and pandemic impact the energy in transiton?\
+
+## Energy poverty and SDG
+
+![](/lectures/images/12/energy-hdi-mdg.png){fig-align="center"}
+
+::: footer
+Read more: @alstone2015decentralized
+:::
+
+
+## Energy access and HDI
+
+![](/lectures/images/12/energy-hdi.png){fig-align="center"}
+
+::: footer
+Read more: @alstone2015decentralized
+:::
+
+
+## Energy poverty and gender equity
+
+- Women and kids spend more time collecting wood fuel    
+- Women spend more time on cooking without clean fuel/energy  
+- Women bear more burden on indoor air pollution  
+- Women have less oportunity for development 
+
+
+## Energy ladder
+
+![](/lectures/images/12/energy-ladder.png){fig-align="center"}
+
+::: footer
+Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
+:::
+
+## Sustainable energy for all
+
+
+::: columns
+
+::: {.column width="50%"}
+![](/lectures/images/12/sdg7-progress.png){fig-align="center" width="85%"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/12/sdg7-progress-2021.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: Tracking SDG7 The Energy Progress Report [2022](https://www.irena.org/publications/2022/Jun/Tracking-SDG-7-2022), [2023](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+:::
+
+
+## Share of population with electricity
+
+![](/lectures/images/12/share-of-population-with-electricity-2021.png){fig-align="center"}
+
+::: footer
+Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+:::
+
+
+## Share of population with clean cooking fuel
+
+![](/lectures/images/12/share-of-population-with-clean-cooking-2021.png){fig-align="center"}
+
+::: footer
+Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+:::
+
+
+## China's electricity for all
+
+::: columns
+
+::: {.column width="50%"}
+![](/lectures/images/12/electrification-path.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/12/china-efa.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @He2017efa 
+:::
+
+
+## Energy justice
+
+> The goal of achieving equity in both the social and economic participation in the energy system, while also remediating social, economic, and health burdens on those disproportionately harmed by the energy system.
+
+--Initiative for Energy Justice, 2019 
+
+::: footer
+Read more: [DOE](https://www.energy.gov/diversity/articles/how-energy-justice-presidential-initiatives-and-executive-orders-shape-equity)
+:::
+
+## EJ conceptual questions
+
+![](/lectures/images/12/energy-justice-conceptual.png){fig-align="center"}
+
+::: footer
+Source: @jenkins2016energy
+:::
+
+
+## Rooftop solar by race and ethnicity
+
+![](/lectures/images/12/household-income-and-rooftop-solar.png){fig-align="center"}
+
+::: footer
+Source: @sunter2019disparities
+:::
+
+
+## The energy equity gap
+
+![](/lectures/images/12/energy-equity-gap.webp){fig-align="center"}
+
+::: footer
+Source: @cong2022unveiling
+:::
+
+
+## Justice 40
+
+![](/lectures/images/12/justice40.png){fig-align="center"}
+
+::: footer
+Source: [White House](https://www.whitehouse.gov/environmentaljustice/justice40/)
+:::
+
+
+## Just transition framework
+
+![](/lectures/images/12/just-transition-framework.png){fig-align="center"}
+
+::: footer
+Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-transition/)
+:::
+
+
+## Energy, environmental, climate justice
+
+| Energy | Environmental | Climate |
+|---|---|---|
+| Energy supply/demand | Environment burden/benefits | Climate impact/benefits |
+
+**Common Questions**:  
+Who bears the burden? Who harvests the benefits? Do we know the injustice? Can people involve in the decision proceses? How to compensate?
+
+
+## NYS CLCPA disadvantaged communities (DACs)
+
+![](/lectures/images/12/nysclcpa-dac.png){fig-align="center"}
+
+::: footer
+Read more: [Draft Disadvantaged
+Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Communities-Criteria)
+:::
+
+
+## Transition history
+
+![](/lectures/images/12/us-energy-transition.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=36612)
+:::
+
+## RE > coal: a milestone
+
+![](/lectures/images/12/us-re-coal.svg){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=43895)
+:::
+
+
+## U.S. power-sector half-way to zero
+
+![](/lectures/images/12/half-way-to-zero-us.png){fig-align="center"}
+
+::: footer
+Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/HalfwaytoZero.png)
+:::
+
+
+## Soft path vs. hard path{.smaller}
+
+![](/lectures/images/12/hard-soft-path.png){fig-align="center"}
+
+::: columns
+
+::: {.column width="50%"}
+Central, large scale, incresing supply/demand     
+Fossil, nuclear
+:::
+
+::: {.column width="50%"}
+Flexible, resilient, sustainable, and benign  
+Renewable energy, energy efficiency, matching in scale and quality to the end use need 
+:::
+
+:::
+
+::: footer
+Source: @lovins_energy_1976
+:::
+
+
+## Drivers of energy transition
+
+- Demand
+- Supply
+- Climate change
+- Environmental pollution
+- Energy security
+- Economics
+
+
+## 100% reneables: a debate
+
+::: columns
+
+::: {.column width="50%"}
+100% renewables (wind, water, solar) for all purposes?
+
+- Resources, technology, economic ready  
+- Huge benefits
+
+:::
+
+::: {.column width="50%"}
+100% renewable not viable/necesssary?
+
+- Modeling errors   
+- Implausible assumptions  
+- Need better modeling
+
+Energy transition is difficult, broad technology portfolio is needed
+
+:::
+
+:::
+
+
+::: footer
+Source: @jacobson_low-cost_2015, @clack_evaluation_2017
+:::
+
+
+## Changing perspectives of renewables 
+
+![](/lectures/images/12/ipcc-re-costs.png){fig-align="center"}
+
+
+::: footer
+Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
+:::
+
+## Energy Transition: The German Energiewende
+
+- Fighting climate change
+- Reducing energy imports
+- Stimulating technology innovation and the green economy
+- Reducing and eliminating the risks of nuclear power
+- Energy security
+- Strengthening local economies and providing social justice
+
+## Germany: role of nuclear?
+
+![](/lectures/images/12/germany-operable-nuclear-capacity.png){fig-align="center"}
+
+Three operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.
+
+::: footer
+Source: [World Nuclear Association](https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany.aspx)
+:::
+
+## The U.S.: net zero America
+![](/lectures/images/12/net-zero-america.png){fig-align="center"}
+
+::: footer
+Source: [ZERO Lab](https://netzeroamerica.princeton.edu)
+:::
+
+## U.S.: IRA
+![](/lectures/images/12/rhg-ira-emission.png){fig-align="center"}
+
+::: footer
+Source: [Rhodium Group](https://rhg.com/research/climate-clean-energy-inflation-reduction-act/)
+:::
+
+## Denmark: Distributed generation (CHP and wind)
+
+![](/lectures/images/12/denmark-distributed-gen.png){fig-align="center"}
+
+::: footer
+Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/103/PARBO.pdf)
+:::
+
+## China: the scale and scope
+
+![](/lectures/images/12/china-carbon-neutrality.jpeg){fig-align="center"}
+
+::: footer
+Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)
+:::
+
+
+## China: phasing out coal{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/12/retirement-score-china-coal-plants.webp){fig-align="center" width="80%"}
+
+:::
+
+::: {.column width="50%"}
+
+![](/lectures/images/12/china-coal-transition.png){fig-align="center"}
+
+Phasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution
+
+:::
+
+:::
+
+
+::: footer
+Source: @cui2021plant, @he2020enabling
+:::
+
+## Bazil: role of hydro and biofuel
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/12/brazil-energy-mix.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/12/brazil-power-mix.png){fig-align="center" width="90%"}
+:::
+
+:::
+
+::: footer
+Source: [EIA](https://www.eia.gov/international/analysis/country/BRA)
+:::
+
+## Africa: the fogotten billion
+
+![](/lectures/images/12/africa-energy.webp){fig-align="center"}
+
+::: footer
+Source: @mulugetta2022africa
+:::
+
+## Ukraine crisis: an accerlerator?
+
+![](/lectures/images/12/russia-invation-reshape-energy.png){fig-align="center"}
+
+::: footer
+Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
+:::
+
+## Impact to emissions
+
+![](/lectures/images/12/russia-gas-flow-and-emission-impact.png){fig-align="center"}
+
+::: footer
+Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022)
+:::
+
+
+## Summary{.smaller}
+
+-   Electricity/energy access is fundamental to other modern services: education, health, and information\
+-   Energy access also has gender equity, health cobenefits, and other implications\
+-   Energy justice is important to achieve just transition\
+-   An reflection on our approaches to energy justice\
+-   Diverse factors that drive energy transition\
+-   Common and differentiated solutions to energy\
+-   Leverage the advantages\
+-   Addressing uncertainties: geopolitics, wars, pandemic, and more
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture11.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

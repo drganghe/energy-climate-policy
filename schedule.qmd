@@ -19,3 +19,6 @@ repo-actions: false
 | 11    | 11/6  | [Energy efficiency](lectures/lecture9.qmd)  |  [HW4](assignments/hw4.qmd) assigned|
 | 12    | 11/13  | [Power system decarbonization](lectures/lecture10.qmd)  | BNL Tour |
 | 13    | 11/20  | [Energy, environment, human health](lectures/lecture11.qmd)  |  |
+| 14    | 11/27  | [Energy access, justice, and transition](lectures/lecture12.qmd)  |  |
+| 15    | 12/4  | Presentation  |  |
+| 16    | 11/11  | Presentation  |  |
