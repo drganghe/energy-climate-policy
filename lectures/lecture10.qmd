@@ -4,7 +4,7 @@ description-meta: "Decarbonization of the electric power sector"
 author: "Gang He"
 date: November 13, 2023
 date-format: long
-image: "/lectures/images/10/DispatchCurve.png"
+image: "/lectures/images/DispatchCurve.png"
 format:
   revealjs:
     theme: white
@@ -49,7 +49,7 @@ Overarching strategy\
 
 ## U.S. electricity flow
 
-![](/lectures/images/10/US-electricity-flow-2021.png){fig-align="center"}
+![](/lectures/images/US-electricity-flow-2021.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
@@ -58,7 +58,7 @@ Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
 
 ## U.S. transmission grid
 
-![](/lectures/images/10/us-transmission-grid.png){fig-align="center"}
+![](/lectures/images/us-transmission-grid.png){fig-align="center"}
 
 ::: footer
 Source: [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&layerId=0)
@@ -81,7 +81,7 @@ $LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak
 A low load factor means a “peaky” load shape
 
 
-![](/lectures/images/10/load-profile-load-duration-curve.png){fig-align="center"}
+![](/lectures/images/load-profile-load-duration-curve.png){fig-align="center"}
 
 ::: footer
 Source: @masters2013renewable
@@ -90,7 +90,7 @@ Source: @masters2013renewable
 
 ## Supply curve and dispatch
 
-![](/lectures/images/10/DispatchCurve.png){fig-align="center"}
+![](/lectures/images/DispatchCurve.png){fig-align="center"}
 
 ::: footer
 Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
@@ -127,7 +127,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 
 ## Model comparison
 
-![](/lectures/images/10/model-comparison.png){fig-align="center"}
+![](/lectures/images/model-comparison.png){fig-align="center"}
 
 ::: footer
 Source: @johnston2019switch
@@ -136,7 +136,7 @@ Source: @johnston2019switch
 
 ## SWITCH Model as an example
 
-![](/lectures/images/10/switch-model.jpg){fig-align="center"}
+![](/lectures/images/switch-model.jpg){fig-align="center"}
 
 ::: footer
 Source: @johnston2019switch
@@ -158,7 +158,7 @@ Source: @johnston2019switch
 
 ## Typical output: capacity/generation mix
 
-![](/lectures/images/10/hourly-dispatch.jpg){fig-align="center"}
+![](/lectures/images/hourly-dispatch.jpg){fig-align="center"}
 
 ::: footer
 Source: @he_rapid_2020
@@ -167,7 +167,7 @@ Source: @he_rapid_2020
 
 ## Typical output: transmission expansions
 
-![](/lectures/images/10/pypsa-eur.png){fig-align="center"}
+![](/lectures/images/pypsa-eur.png){fig-align="center"}
 
 ::: footer
 Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)

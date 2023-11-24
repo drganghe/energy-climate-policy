@@ -4,7 +4,7 @@ description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: Aug 28, 2023
 date-format: long
-image: "/lectures/images/1/economy-environment-energy.jpeg"
+image: "/lectures/images/economy-environment-energy.jpeg"
 format:
   revealjs:
     theme: white
@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-![](/lectures/images/1/420ppm.png)
+![](/lectures/images/420ppm.png)
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -47,11 +47,11 @@ How to evaluate its impact to the emission reduction?
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/1/biden-sign.jpeg){fig-align="center"}
+![](/lectures/images/biden-sign.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/ira1year.jpeg){fig-align="center"}
+![](/lectures/images/ira1year.jpeg){fig-align="center"}
 :::
 :::
 
@@ -116,7 +116,7 @@ Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/169
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+![](/lectures/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -167,11 +167,11 @@ Models help us think
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/1/EIA-coal-consumption-forecasts.png){fig-align="center"}
+![](/lectures/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/WEO-PV-projections.png){fig-align="center"}
+![](/lectures/images/WEO-PV-projections.png){fig-align="center"}
 :::
 :::
 
@@ -187,7 +187,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ## Why: climate and energy systems are both complicated
 
-![](/lectures/images/1/us-energy-infrastructure.png){fig-align="center"}
+![](/lectures/images/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -197,7 +197,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/1/world-energy-trilemma-2021.png){fig-align="center"}
+![](/lectures/images/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -221,7 +221,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/1/economy-environment-energy.jpeg){fig-align="center"}
+![](/lectures/images/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -239,7 +239,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievement
 
-![](/lectures/images/1/energy-great-achievement.png){fig-align="center"}
+![](/lectures/images/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -247,7 +247,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](/lectures/images/1/un-sdg.png){fig-align="center"}
+![](/lectures/images/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -255,7 +255,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](/lectures/images/1/iea-net-zero.png){fig-align="center"}
+![](/lectures/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -270,7 +270,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity: a structural change
 
-![](/lectures/images/1/irena-re-costs-2021.png){fig-align="center"}
+![](/lectures/images/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -280,11 +280,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](/lectures/images/1/accelerate-re-china.png){fig-align="center"}
+<br> ![](/lectures/images/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/re-costs-and-ccs.jpg){fig-align="center"}
+![](/lectures/images/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 
