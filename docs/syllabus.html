@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.471">
+<meta name="generator" content="quarto-1.4.513">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -199,20 +199,16 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </section>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
-<p>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.</p>
+<p>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. Over the course of the semester, we will cover a broad range of topics, including an overview of the energy and climate landscape, project economics, energy sources and technologies, energy demand, environmental and health impacts, power system analysis, energy transition strategies, energy efficiency, sustainable consumption, climate justice, big data and AI for climate change, and the limitations of models. We will also explore emerging topics relevant to energy systems and achieving carbon neutrality. Through a combination of lectures, case studies, and real-world assignments, students will gain a comprehensive understanding of the essentials of energy and climate policy. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.</p>
 </section>
 <section id="learning-objectives" class="level2">
 <h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
 <ul>
-<li>Acquire the foundation knowledge of climate challenges and the energy systems.<br>
-</li>
-<li>Identify the interaction of technological, social, economic, and regulatory forces that shaping energy production, conversion, consumption, and their impact to climate change.<br>
-</li>
-<li>Familiarize with main data sources and key methods used to analyze energy systems.<br>
-</li>
-<li>Learn to apply energy project economics, cost benefit analysis, life-cycle analysis, and other analytical concepts used in energy systems and climate policy analysis.<br>
-</li>
-<li>Translate energy and climate policy analysis into effective policy discussion and debate.</li>
+<li>Acquire the foundational knowledge of climate challenges and energy systems.</li>
+<li>Describe the interaction of technological, social, economic, and regulatory forces that are shaping energy production, conversion, and consumption and analyze their impact on climate change.</li>
+<li>Identify the main data sources and key methods used to analyze energy systems.</li>
+<li>Apply energy project economics, cost benefit analysis, life-cycle analysis, and other analytical concepts used in energy systems and climate policy analysis.</li>
+<li>Translate an analysis of energy and climate data into policy.</li>
 </ul>
 </section>
 <section id="class-readings" class="level2">
@@ -418,6 +414,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -492,8 +506,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
         typesetMath(container);
         return container.innerHTML
@@ -727,24 +748,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
