@@ -26,9 +26,9 @@ title: Syllabus
 
 This is a restricted list of various interesting and useful books that will be touched during the course. You need to consult them occasionally, but they are optional.
 
-- Masters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.
-- MacKay, David JC. 2008. Sustainable Energy without the Hot Air. UIT Cambridge Ltd.
-- Readings and materials will be posted online.
+- Masters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. 2 edition. Hoboken, New Jersey: Wiley.  
+- MacKay, David JC. 2008. [Sustainable Energy without the Hot Air](https://www.withouthotair.com/). UIT Cambridge Ltd.  
+- Readings and materials will be posted online.  
 
 ## Grading
 

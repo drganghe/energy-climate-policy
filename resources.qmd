@@ -2,11 +2,6 @@
 title: Resources
 ---
 
->All models are wrong, but some are useful”.
-
-\-- [_Engineering Statistics Handbook_](https://www.itl.nist.gov/div898/handbook/apr/section2/apr24.htm), [George Box](https://en.wikipedia.org/wiki/George_E._P._Box)
-
-
 ## Modelling community
 
 [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
@@ -27,7 +22,7 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 [Climate Change AI](https://www.climatechange.ai/)
 
 
-## Models we discuss in the class
+## Example models
 
 [RICE/DICE](https://williamnordhaus.com/dicerice-models), Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE)  [DICE 2023](https://yale.app.box.com/s/whlqcr7gtzdm4nxnrfhvap2hlzebuvvm)
 
@@ -38,9 +33,6 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 [SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
 
 [GCAM](https://www.globalchange.umd.edu/gcam), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
-
-
-## Models We Donot Discuss in the Class, but could be useful
 
 [C-ROADS](https://www.climateinteractive.org/simulations), Climate Rapid Overview and Decision Support
 
@@ -62,30 +54,12 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 [EnergyPlus](https://apps1.eere.energy.gov), EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.
 
-
-## Open-source efforts
-
-[Open Model Initiative](https://openmod-initiative.org): Open models and open data will advance knowledge and lead to better energy policies.
-
 [OSeMOSYS](https://www.osemosys.org): The Open Source Energy Modeling System
 
 [TEMOA](https://www.temoaproject.org): Tools for Energy Model Optimization and Assessment
 
 [PyPSA](https://pypsa.org/): Python for Power System Analysis
 
-   
-
-## Programming language
-
-[R](https://www.r-project.org/), a free software environment for statistical computing and graphics
-
-[Python](https://www.python.org/), work quickly and integrate systems more effectively
-
-[GAMS](https://www.gams.com), The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical programming and optimization
-
-[AMPL](https://www.ampl.com), A Modeling Language for Mathematical Programming
-
-[Julia](https://juliacomputing.com/industries/energy/), a high-level, high-performance, dynamic programming language 
 
 <!--Include social share buttons-->
 
