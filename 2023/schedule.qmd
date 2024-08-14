@@ -1,0 +1,24 @@
+---
+title: 2023 Course Schedule
+repo-actions: false
+---
+
+
+| Week | Date  | Lecture    | Assignment     |
+|-----------------|-----------------|---------------------|-----------------|
+| 1    | 8/28  | [Introduction](lecture1.qmd)  | [HW1](hw1.qmd) assigned  |
+| 2    | 9/4 | Labor Day - No session  |   |
+| 3    | 9/11  | [Make sense of numbers and fundamentals](lecture2.qmd)  |   |
+| 4    | 9/18  | [Climate impacts and responses](lecture3.qmd)  | [HW2](hw2.qmd) assigned |
+| 5    | 9/25 | Fall Regular Session: No classes scheduled  |   |
+| 6    | 10/2  | [Energy systems overview](lecture4.qmd)  |  |
+| 7    | 10/10  | [Energy project economics](lecture5.qmd)  |  |
+| 8    | 10/16  | [Energy demand](lecture6.qmd)  | [HW3](hw3.qmd) assigned |
+| 9    | 10/23  | [Energy technologies: solar and wind](lecture7.qmd)  |  |
+| 10    | 10/30  | [Energy technologies: fossil, nuclear, hydro, and other](lecture8.qmd)  |  |
+| 11    | 11/6  | [Energy efficiency](lecture9.qmd)  |  [HW4](hw4.qmd) assigned|
+| 12    | 11/13  | [Power system decarbonization](lecture10.qmd)  | BNL Tour |
+| 13    | 11/20  | [Energy, environment, human health](lecture11.qmd)  | Proposal |
+| 14    | 11/27  | [Energy access, justice, and transition](lecture12.qmd)  |  |
+| 15    | 12/4  | Presentation  |  |
+| 16    | 12/11  | Presentation  | Policy memo |

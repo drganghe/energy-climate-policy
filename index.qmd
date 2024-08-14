@@ -1,5 +1,5 @@
 ---
-title: "Energy and Climate Policy (Fall 2023)"
+title: "Energy and Climate Policy (Fall 2024)"
 image: "/files/images/hex-Energy-Climate-Policy.png"
 sidebar: false
 toc: false

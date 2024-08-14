@@ -1,0 +1,19 @@
+---
+title: Readings
+bibliography: readings.bib
+csl: chicago-syllabus.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+Here is a list of readings for the course. All readings are available on Brightsource.
+
+## Lecture 1
+
+- @iea_net_2021
+- @irena_renewable_2021
+- @he_rapid_2020 
+- @grant_cost_2021
+- @hogan_energy_2002
+- @huntington_modeling_1982

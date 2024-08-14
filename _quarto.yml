@@ -19,11 +19,17 @@ website:
       - text: Lectures
         href: lectures.qmd
       - text: Assignments
-        href: assignments.qmd    
+        href: assignments.qmd
+      - text: Readings
+        href: readings.qmd    
       - text: Policy Memo
         href: policymemo.qmd
       - text: Resources
         href: resources.qmd
+      - text: Archive
+        menu:
+          - text: Fall 2023
+            href: 2023/schedule.qmd        
       - text: Dr. Gang He
         href: http://drganghe.github.io        
     right: 

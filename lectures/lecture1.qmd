@@ -2,7 +2,7 @@
 title: "Lecture 1 Introduction"
 description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
-date: Aug 28, 2023
+date: September 9, 2024
 date-format: long
 image: "/lectures/images/economy-environment-energy.jpeg"
 format:
@@ -320,5 +320,5 @@ Source: @hogan_energy_2002, @huntington_modeling_1982
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](lecture1.qmd), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

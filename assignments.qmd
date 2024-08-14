@@ -5,7 +5,10 @@ repo-actions: false
 
 | # | Topic | pdf | Due Date |
 |-----------------|-----------------|---------------------|---------------------|
+
+<!--
 | 1    | [Deep dive in carbon emissions](assignments/hw1.qmd) | [hw1](assignments/hw1.pdf) | 9/18 |
 | 2    | [Updating a Rosenfeld plant](assignments/hw2.qmd) | [hw2](assignments/hw2.pdf) | 10/4 |
 | 3    | [Energy project economics](assignments/hw3.qmd) | [hw3](assignments/hw3.pdf)  |  10/31      |
 | 4    | [Energy and climate justice](assignments/hw4.qmd) | [hw4](assignments/hw4.pdf)  |  11/20      |
+-->

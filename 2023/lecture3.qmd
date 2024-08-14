@@ -1,0 +1,347 @@
+---
+title: "Lecture 3 Climate Impacts and Responses"
+description-meta: ""
+author: "Gang He"
+date: September 18, 2023
+date-format: long
+image: "/lectures/images/kaya-identity-co2.png"
+#suppress-bibliography: true
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  **It's bad**
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## Adverse impacts of climate change 
+
+![](/lectures/images/adverse-impact-climate-change.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## The impacts are global 
+
+![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## Vulnerable population suffers more 
+
+![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## Conventional focues
+
+- Ice melting
+- Sea level rising
+- Extreme weathers
+  - Floods
+  - Droughts
+
+
+## Damages to include{.smaller}
+
+- agriculture 
+- mortality 
+- energy 
+- low-risk labor 
+- high-risk labor 
+- coastal damages 
+- property crime 
+- violent crime 
+
+What other damages to include?
+
+
+## Social economic impacts
+
+![](/lectures/images/social-economic-impacts.png){fig-align="center"}
+
+::: footer
+Source: @carleton2016social
+:::
+
+
+## Climate damage function
+
+$Economic\ Damage=f(\Delta temperature)$
+
+- It could be negative or positive
+- Integrated Assessment Models/Economic models
+  - DICE/RICE
+  - FUND
+  - PAGE
+
+::: footer
+Read more: @neumann_climate_2020, @updating_scc_2017
+:::  
+
+
+## Climate change and conflicts
+
+![](/lectures/images/climate-and-conflict.jpeg){fig-align="center"}
+
+::: footer
+Read more: @hsiang_quantifying_2013
+::: 
+
+
+## Climate change affects energy system
+
+![](/lectures/images/climate-impact-on-energy.webp){fig-align="center"}
+
+::: footer
+Source: @yalew2020impacts
+:::
+
+
+## Climate impact to renewable supply-demand match
+
+![](/lectures/images/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## IPAT
+
+$I(mpact) = P(opulation) \times A(ffluence) \times T(echnology)$
+
+$I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
+
+- Technology: renewable energy, energy efficiency, innovations
+
+::: footer
+Source: @ehrlich_impact_1971
+:::
+
+
+## Kaya identify{.smaller}
+
+::: columns
+::: {.column width="50%"}
+$F=P \times \frac{G}{P} \times \frac{E}{G} \times \frac{F}{E}$
+
+<p style="font-size:10pt">
+Where:
+
+- F: global CO2 emissions from human sources
+- P: global population
+- G: world GDP
+- E: global energy consumption
+
+And:
+
+- G/P: GDP per capita
+- E/G: energy intensity of the GDP
+- F/E: emission intensity of energy
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/lectures/images/kaya-identity-co2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+:::
+
+
+## Climate wedges
+
+![](/lectures/images/pacala-socolow-wedges.png){fig-align="center"}
+
+::: footer
+Source: @pacala2004stabilization
+:::
+
+
+## The Mckinsey cost curve
+
+![](/lectures/images/mckinsey-curve.png){fig-align="center"}
+
+::: footer
+Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
+:::
+
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+
+## EPA social cost of carbon
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/epa-scc-2010.png){fig-align="center"}
+
+<p style="text-align:center; font-size:14pt; color:gray;">
+2010 assessment
+</p>
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/epa-scc-2015.png){fig-align="center"}
+
+<p style="text-align:center; font-size:14pt; color:gray;">
+2015 assessment
+</p>
+:::
+
+:::
+
+::: footer
+Source: [EPA](https://19january2017snapshot.epa.gov/climatechange/social-cost-carbon_.html)
+:::
+
+
+## NYDEC 'Value of Carbon' Guidance
+
+- Carbon dioxide: \$125 per ton\
+- Methane: \$2,782 per ton\
+- Nitrous oxide: \$44,727 per ton
+
+::: footer
+Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
+:::
+
+
+## SCC updates
+
+![](/lectures/images/scc185.png){fig-align="center"}
+
+::: footer
+Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
+:::
+
+
+## What works what's not
+
+- Carbon tax vs. subsides\
+- Regulations vs markets\
+- Considering\
+  - Societal acceptance\
+  - Political feasibility
+
+
+::: footer
+Source: Read more: @armitage_innovation_2023
+:::
+
+
+## Best practices
+
+- Energy efficiency\
+- Low carbon eco-city\
+- Renewable integration\
+- Sectoral experiences\
+- Policy/technology tools
+
+
+## Policy instruments
+
+![](/lectures/images/policy-instruments.png){fig-align="center"}
+
+::: footer
+Source: @armitage_innovation_2023
+:::
+
+
+
+## NYS climate impacts assessment{.smaller}
+
+::: columns
+::: {.column width="80%"}
+- Up-to-date projections of future climate conditions in New York State 
+- Sector-based literature reviews 
+- In-depth economic impact assessments 
+- A peer-reviewed technical report that conveys scientific findings 
+- Summaries and syntheses for a wider audience 
+- Adaptation strategies and case studies 
+- Links and references to primary sources for full transparency 
+:::
+
+::: {.column width="20%"}
+![](/lectures/images/nys-climate-impact-report.png){fig-align="center"}
+:::
+:::
+
+An ongoing effort, anything missing?
+
+::: footer
+Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.org/about/what-will-the-assessment-include/)
+:::
+
+
+## Fuel for thoughts: grand challenges, huge progress, and grand opportunities
+
+![](/lectures/images/Two-centuries-World-as-100-people.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)
+:::
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture3.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

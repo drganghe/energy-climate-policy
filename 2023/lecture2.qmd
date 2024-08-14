@@ -1,0 +1,404 @@
+---
+title: "Lecture 2 Make Sense of Numbers and Fundamentals"
+description-meta: "Make sense of energy and climate numbers, data sources, and climate fundamentals"
+author: "Gang He"
+date: September 11, 2023
+date-format: long
+image: "/lectures/images/boe-equations.png"
+#suppress-bibliography: true
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+---
+
+## {background-color="black" background-image="/lectures/images/one-ton-co2.jpg"}
+
+::: footer
+Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
+:::
+
+
+## NYC's daily carbon dioxide emissions as one-tonne spheres
+
+![](/lectures/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+
+::: footer
+Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
+:::
+
+
+## Climate stripes
+
+![](/lectures/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+
+::: footer
+Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
+:::
+
+
+## Carbon budget
+
+![](/lectures/images/system-carbon-budget.png){fig-align="center"}
+
+::: footer
+Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+:::
+
+## Emission and concentration
+
+![](/lectures/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
+
+::: footer
+Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
+:::
+
+
+## Get comfortable with units
+
+![](/lectures/images/energy-units.png){fig-align="center"}
+
+::: footer
+Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
+:::
+
+
+## Foundamental energy units{.smaller}
+
+- Joule: $J\rightarrow newton \times meter$ 
+- calorie: $cal \rightarrow gram \times 1^\circ C$ , $1 cal=4.184 J$ 
+  - human daily intake: 1,800-3,000 kcal
+- Btu: $Btu \rightarrow pound \times 1 F$ , $1 Btu=1,055 J$ 
+- electricity: $1 kWh = 3.6 MJ$ 
+
+
+## Scale of numbers
+
+![](/lectures/images/energy-units-scale.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+:::
+
+
+## Comparing the world's energy resources
+
+![](/lectures/images/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Energy stock and flow
+
+![](/lectures/images/energy-stock-flow.png){fig-align="center"}
+
+::: footer
+Source: @hermann2006quantifying 
+:::
+
+
+## Energy vs. power
+
+![](/lectures/images/Power-vs-Energy.png){fig-align="center"}
+
+::: footer
+Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
+:::
+
+
+## Energy vs power
+::: columns
+::: {.column width="50%"}
+- Energy is the ability to do work. Energy is power integrated over **time**.
+- Basic unit: joule = watt<span>&#183;</span>second
+:::
+
+::: {.column width="50%"}
+- Power is the **rate** at which work is done, or energy is transmitted.
+- Basic unit: watt = jourle/second
+:::
+:::
+
+We need to know what we are talking about!
+
+## Back-of-the-envelope estimation
+
+![](/lectures/images/boe-equations.png){fig-align="center"}
+
+::: footer
+Source: Gang He
+:::
+
+
+## Art Rosenfeld
+
+![](/lectures/images/art-rosenfeld.jpeg){fig-align="center"}
+
+::: footer
+Source: [LBL](https://artrosenfeld.lbl.gov/)
+:::
+
+## Rosenfeld Effect
+
+![](/lectures/images/art-rosenfeld-effect.png){fig-align="center"}
+
+::: footer
+Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/) 
+:::
+
+
+## Defining a Rosenfeld Plant
+
+- 500 MW
+- c.f.: 70%
+- T&D losss: 7%
+
+Results:   
+
+- 3 TWh/year  
+- 3 MtCO2/year
+
+- NYC electricity use: ~4 TWh/year
+
+::: footer
+Source: @koomey2010defining 
+:::
+
+
+## Comparing with the Three Gorges Dam
+
+![](/lectures/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+
+::: footer
+Source: @fridley2016impacts 
+:::
+
+
+## Common sources of energy and climate data {.smaller}
+
+::: columns
+::: {.column width="33%"}
+**Energy**:   
+- IEA (OECD)  
+- EIA  
+- UN  
+- WB  
+- BP Statistical Review of World Energy 
+:::
+
+::: {.column width="33%"}
+**Climate**:   
+- NASA  
+- NCAR  
+- EUCCI  
+- UNEP  
+- NOAA  
+:::
+
+::: {.column width="33%"}
+**Carbon**:   
+- CDIAC (Carbon Dioxide Information Analysis Center)  
+- EDGAR (emissions database for global atmospheric research system)  
+- Carbon Budget Project  
+- Carbon Monitor
+:::
+:::
+
+::: footer
+Source: @macknick_energy_2011 
+:::
+
+## Data quality
+
+- Availability  
+- Accessibility  
+- Credibility  
+
+Comparison, Validation, Verification
+
+## Use data tools
+
+- API  
+- Packages   
+- Open-souce tools
+
+## Big data and AI era
+
+- Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters
+- Data driven approaches
+
+Big data doesnot necessarily mean big picture   
+
+AI doesnot necessarily mean better insights
+
+
+## GHG effect
+
+![](/lectures/images/ghg-effect.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
+:::
+
+## Greenhouse Gases(GHG){.smaller}
+
+| GHG                           | GWP-100   | Lifetime (Years) |
+|-------------------------------|-----------|------------------|
+| Carbon Dioxide (CO2)          | 1         | hundreds         |
+| Methane (CH4)                 | 29.8±11   | 11.8 ± 1.8       |
+| Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
+| Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
+
+Other:  
+
+- Sulphur hexafluoride (SF6) 
+- PFC-14 (CF4) 
+- Water vapour 
+
+::: footer
+Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
+:::
+
+## From emissions to warming
+
+![](/lectures/images/emission-co2-warming.png){fig-align="center"}
+
+::: footer
+Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
+:::
+
+
+## Warming since measurement
+
+![](/lectures/images/co2-1958-2022.png){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+## Warming in context of geological history
+
+![](/lectures/images/co2_historical.jpeg){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/evidence/)
+:::
+
+## Warmer and Warmer
+
+![](/lectures/images/temp-anomaly-1850-1900.png){fig-align="center"}
+
+::: footer
+Source: @koomey_solving_2022
+:::
+
+## Climate spireal
+
+![](/lectures/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
+
+::: footer
+Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
+:::
+
+
+## Temprature anomaly distribution
+
+![](/lectures/images/temp-anomaly-distribution.jpeg){fig-align="center"}
+
+::: footer
+Source: @hansen_perception_2012
+:::
+
+## Human vs nature
+
+![](/lectures/images/human-vs-nature.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Human component is the major driver of warming
+
+![](/lectures/images/drivers-of-warming.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Scientific understanding: climate systems
+
+![](/lectures/images/climate-system-framework.png){fig-align="center"}
+
+::: footer
+Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+
+## Scientific community and process
+
+- What is the IPCC?
+- How does the IPCC select its authors?
+- What literature does the IPCC assess?
+- How does the IPCC review process work?
+- How does the IPCC approve reports?
+- How does the IPCC deal with alleged errors?
+- What is an Expert Reviewer of IPCC?
+
+::: footer
+Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
+:::
+
+## Five stages of climate denial
+
+- Stage 1: Deny the Problem Exists
+- Stage 2: Deny We're the Cause 
+  - Stage 2b: Consensus Denial 
+- Stage 3: Deny It's a Problem  
+- Stage 4: Deny We can Solve It  
+- Stage 5: It's too Late  
+
+::: footer
+Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)
+:::
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  **It's warming**
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture2.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

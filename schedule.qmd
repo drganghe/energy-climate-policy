@@ -1,24 +1,26 @@
 ---
-title: Course Schedule
+title: 2024 Course Schedule
 repo-actions: false
 ---
 
 
 | Week | Date  | Lecture    | Assignment     |
 |-----------------|-----------------|---------------------|-----------------|
-| 1    | 8/28  | [Introduction](lectures/lecture1.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
-| 2    | 9/4 | Labor Day - No session  |   |
-| 3    | 9/11  | [Make sense of numbers and fundamentals](lectures/lecture2.qmd)  |   |
-| 4    | 9/18  | [Climate impacts and responses](lectures/lecture3.qmd)  | [HW2](assignments/hw2.qmd) assigned |
-| 5    | 9/25 | Fall Regular Session: No classes scheduled  |   |
-| 6    | 10/2  | [Energy systems overview](lectures/lecture4.qmd)  |  |
-| 7    | 10/10  | [Energy project economics](lectures/lecture5.qmd)  |  |
-| 8    | 10/16  | [Energy demand](lectures/lecture6.qmd)  | [HW3](assignments/hw3.qmd) assigned |
-| 9    | 10/23  | [Energy technologies: solar and wind](lectures/lecture7.qmd)  |  |
-| 10    | 10/30  | [Energy technologies: fossil, nuclear, hydro, and other](lectures/lecture8.qmd)  |  |
-| 11    | 11/6  | [Energy efficiency](lectures/lecture9.qmd)  |  [HW4](assignments/hw4.qmd) assigned|
-| 12    | 11/13  | [Power system decarbonization](lectures/lecture10.qmd)  | BNL Tour |
-| 13    | 11/20  | [Energy, environment, human health](lectures/lecture11.qmd)  | Proposal |
-| 14    | 11/27  | [Energy access, justice, and transition](lectures/lecture12.qmd)  |  |
-| 15    | 12/4  | Presentation  |  |
-| 16    | 12/11  | Presentation  | Policy memo |
+| 1    | 9/2 | Labor Day - No session  |   |
+<!--
+| 2    | 9/9  | [Introduction](lectures/lecture1.qmd)  | [HW1](assignments/hw1.qmd) assigned  |
+| 3    | 9/16  | [Make sense of numbers and fundamentals](lectures/lecture2.qmd)  |   |
+| 4    | 9/23  | [Climate impacts and responses](lectures/lecture3.qmd)  | [HW2](assignments/hw2.qmd) assigned |
+| 5    | 9/30 | Fall Regular Session: No classes scheduled  |   |
+| 6    | 10/7  | [Energy systems overview](lectures/lecture4.qmd)  |  |
+| 7    | 10/14  | [Energy project economics](lectures/lecture5.qmd)  |  |
+| 8    | 10/21  | [Energy demand](lectures/lecture6.qmd)  | [HW3](assignments/hw3.qmd) assigned |
+| 9    | 10/28  | [Energy technologies: solar and wind](lectures/lecture7.qmd)  |  |
+| 10    | 11/4  | [Energy technologies: fossil, nuclear, hydro, and other](lectures/lecture8.qmd)  |  |
+| 11    | 11/11  | [Energy efficiency](lectures/lecture9.qmd)  |  [HW4](assignments/hw4.qmd) assigned|
+| 12    | 11/18  | [Power system decarbonization](lectures/lecture10.qmd)  | BNL Tour |
+| 13    | 11/25  | [Energy, environment, human health](lectures/lecture11.qmd)  | Proposal |
+| 14    | 12/2  | [Energy access, justice, and transition](lectures/lecture12.qmd)  |  |
+| 15    | 12/9  | Presentation  |  |
+| 16    | 12/16  | Presentation  | Policy memo |
+-->

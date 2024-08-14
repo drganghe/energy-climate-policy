@@ -8,6 +8,8 @@ title: Syllabus
 
 **Course Name**: PAF 9199 (54435), Energy and Climate Policy
 
+**Time**: 6pm Monday
+
 **Instructor**: Gang He
 
 **Email**: <gang.he@baruch.cuny.edu>	
@@ -37,8 +39,8 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly policy response         | 20 %   | 6 responses
-Assignments                    | 30 %   | 4 assignments
+Bi-weekly policy response      | 30 %   | 6 responses
+Assignments                    | 20 %   | 4 assignments
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
 Project: Policy memo           | 20 %   |
@@ -52,12 +54,12 @@ Project: Policy memo           | 20 %   |
 <div style="width:400px">
 Grade  | Range       | Grade | Range
 -------|-------------|-------|------------
-A      | 93 - 100%   | C     | 73 - 76.99%
-A-     | 90 - 92.99% | C-    | 70 - 72.99%
-B+     | 87 - 89.99% | D+    | 67 - 69.99%
-B      | 83 - 86.99% | D     | 63 - 66.99%
-B-     | 80 - 82.99% | D-    | 60 - 62.99%
-C+     | 77 - 79.99% | F     | < 60%
+A      | 93 - 100%   | C     | 73 - 76.9%
+A-     | 90 - 92.9%  | C-    | 70 - 72.9%
+B+     | 87 - 89.9%  | D+    | 67 - 69.9%
+B      | 83 - 86.9%  | D     | 63 - 66.9%
+B-     | 80 - 82.9%  | D-    | 60 - 62.9%
+C+     | 77 - 79.9%  | F     | < 60%
 </div>
 
 

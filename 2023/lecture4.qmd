@@ -1,0 +1,220 @@
+---
+title: "Lecture 4 Energy Systems Overview"
+description-meta: "Energy systems overview"
+author: "Gang He"
+date: October 2, 2023
+date-format: long
+image: "/lectures/images/Energy-2021-United-States.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Energy systems
+
+![](/lectures/images/energy-systems.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
+## Resources vs reserves
+
+![](/lectures/images/resource-vs-reserve.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
+## Energy and their conversions
+
+![](/lectures/images/energy-and-conversions.png){fig-align="center"}
+
+::: footer
+Source: @smil2017energy 
+:::
+
+## Global energy flow
+
+![](/lectures/images/IEA-global-energy-flow.png){fig-align="center"}
+
+::: footer
+Source: [IEA](https://www.iea.org/sankey/) 
+:::
+
+## U.S. energy flow
+
+![](/lectures/images/Energy-2021-United-States.png){fig-align="center"}
+
+::: footer
+Source: [LLNL](https://flowcharts.llnl.gov/) 
+:::
+
+## Energy by supply
+
+![](/lectures/images/global-energy-supply-by-source.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
+## Energy by source updated to 2022
+
+![](/lectures/images/global-energy-substitution.png){fig-align="center"}
+
+::: footer
+Source: [Our Wold in Data](https://ourworldindata.org/global-energy-200-years) 
+:::
+
+
+## Energy by source - two worlds
+
+![](/lectures/images/primary-sub-energy-source.png){fig-align="center"}
+
+::: footer
+Source: [Our Wold in Data](https://ourworldindata.org/grapher/primary-sub-energy-source) 
+:::
+
+
+## Energy end-use by sector
+
+![](/lectures/images/energy-enduse-by-sector.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+## Matching supply and demand
+
+It operates like "magic"   
+But relies on massive infrastructure, markets, and regulations   
+
+- Deliver service at the right time, location, and price  
+- Meet safety, reliability, and environmental standards  
+- Increasingly disrupted by political economy and climate change  
+
+Solution is usually location and temporal based  
+
+
+## Electrify eveything, where are we now
+
+![](/lectures/images/share-of-electricity-in-total-final-consumption-in-selected-countries-and-regions-2000-2020.png){fig-align="center"}
+
+::: footer
+Source: [IEA](https://www.iea.org/data-and-statistics/charts/share-of-electricity-in-total-final-consumption-in-selected-countries-and-regions-2000-2020) 
+:::
+
+
+## Electrify eveything, net zero
+
+![](/lectures/images/iea-net-zero-electricity-share.png){fig-align="center"}  
+![](/lectures/images/iea-net-zero-legend.png){fig-align="center"}  
+
+::: footer
+Source: [IEA](https://www.iea.org/reports/net-zero-by-2050), @iea_net_2021 
+:::
+
+## Energy efficiency
+
+![](/lectures/images/energy-efficiency-lighting.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+## Electric efficiency vs fossil efficiency
+
+![](/lectures/images/electric-efficiency-vs-fossil-efficiency.png){fig-align="center"}
+
+::: footer
+Source: @bmwi_electricity_2015  
+:::
+
+## Milestones for long-term energy transition
+
+![](/lectures/images/iea-milestones-energy-transition.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021  
+:::
+
+
+## NYS Climate Leadership and Community Protection Act
+
+![](/lectures/images/nyclcpa-timeline.png){fig-align="center"}
+
+::: footer
+Source: [Climate Action Council Draft Scoping Plan](https://climate.ny.gov/Our-Climate-Act/Draft-Scoping-Plan)
+:::
+
+35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities
+
+
+## U.S. shale gas revolution
+
+![](/lectures/images/us-shale-gas-revolution.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php)
+:::
+
+
+## Renewable revolution: achieving grid parity
+
+![](/lectures/images/learning-curves-for-electricity-prices.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
+:::
+
+
+## Renewable revolution: solar and wind taking off
+
+![](/lectures/images/modern-renewable-energy-consumption.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/renewable-energy)
+:::
+
+
+## Energy systems modeling
+ 
+- Top-down vs. bottom-up  
+- Supply-side vs. demand-side  
+- Intensity  
+- Elasticity  
+- IAM  
+- Risks/uncertainties  
+
+## How modelers think about an energy system
+ 
+- System components, structure, and relations  
+- Networks (transmission, transport)  
+- Objectives and constraints (if do optimization)  
+- Validation and calibration  
+- Interpretation and communication  
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture4.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

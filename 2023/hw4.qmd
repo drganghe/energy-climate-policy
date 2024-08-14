@@ -1,0 +1,57 @@
+---
+title: Assignment 4 Energy and climate justice
+#description-meta: "{{< meta website.description >}}"
+#draft: true
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+---
+
+
+## 1. Energy and climate justice
+
+Check the launch of [NYC Climate Justice Hub](https://centerforthehumanities.org/programming/nyc-climate-justice-hub-launch), a partnership between the New York City Environmental Justice Alliance (NYC-EJA) and The City University of New York (CUNY) to advance climate solutions led by communities of color on the front lines. 
+
+Check also the New York State climate justice [programs and resources](https://www.nyserda.ny.gov/All-Programs/Energy-and-Climate-Equity-Strategy/Climate-Justice) 
+
+What is energy justice? How is it different from climate justice? Use one example to discuss how energy supply/demand or climate impact may affect equity and justice of specific groups or populations. Write a short essay (~400 words) to explain your thoughts. (Total 10pts)
+
+
+## 2. Load forecast and EV penetration (Optional, for those who are interested)
+
+Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2022) of [Real_Time_Dispatch_Actual_Load](data/OASIS_Real_Time_Dispatch_Actual_Load.xlsx) and [Day Head Market Load Forcast](data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.xlsx) for New York City. 
+
+- Draw the load curve and load duration curve of New York City.  
+- Show the characteristics of average day hourly load curve in New York City  
+  - All days average  
+  - Weekday vs. weekend  
+  - Monthly avearge   
+  - Seasonal average   
+- Find the hour(s)/day(s) with the largest forecast error, and try to explain why?  
+- Now make reasonable assumptions of EV penetration and EV charging in New York City, and try to show how that would change the load curve. 
+- Should ConEdison worry about it, what policy/incentives should you use to change people's behavior of charging/discharging so to save costs for the utility companies? 
+
+
+**Further reading**: 
+
+Arvind Jaggi, Senior Economist, Demand Forecasting & Analysis, [Electric Vehicle Forecast Impacts (Gold Book 2021)](https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed)
+
+Play around the [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&p1=110&p7=100&p10=5&p16=-0.03&p23=-30&p30=-0.07&p35=2&p39=250&p47=5&p50=5&p53=100&p55=100&p57=-10&p59=-100&p63=8.9&p65=100&p67=100) model, and change some of the parameters and check how assumptions affect modeling results. 
+

@@ -1,0 +1,51 @@
+---
+title: Assignment 1 Deep dive in carbon emissions
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+We have to deal with carbon to address climate change, so let's have a deep dive into the carbon emission data. One of my favorite sources and visulizations is [Our World in Data](https://ourworldindata.org/co2-emissions). The raw data is also available [here](https://github.com/owid/co2-data/blob/master/owid-co2-data.csv). Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g. the [Carbon Monitor](https://carbonmonitor.org/).
+
+## Questions
+
+Please use the most recent data and answer below questions:
+
+- Top 10 countries by annual total energy related carbon emissions? (0.5pt)
+- Top 10 countries by per capita average carbon emissions? (0.5pt)
+- Top 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)
+- Top 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)
+- List all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)
+- Change the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)
+- Use global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)
+- What technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)
+
+Note: please list countries and their corresponding data of those indicators.
+Plug: we will come back to this assignment when discuss sharing of "common but differntiated responsibilities" in climate negotiation and governance.
+
+## Further readings
+
+- Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” *The Innovation* 3 (1). <https://doi.org/10.1016/j.xinn.2021.100182>.
+
+- Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” *Earth System Science Data* 14 (11): 4811–4900. <https://doi.org/10.5194/essd-14-4811-2022>.
+
+
+
