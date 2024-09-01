@@ -18,8 +18,9 @@ website:
         href: schedule.qmd
       - text: Lectures
         href: lectures.qmd
-      - text: Assignments
-        href: assignments.qmd
+      - text: Guest Speakers
+        href: http://drganghe.github.io/climate-guest-speakers
+        target: _blank        
       - text: Readings
         href: readings.qmd    
       - text: Policy Memo

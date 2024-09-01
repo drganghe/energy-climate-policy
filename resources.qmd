@@ -2,6 +2,9 @@
 title: Resources
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 ## Modelling community
 
 [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)

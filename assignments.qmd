@@ -3,6 +3,9 @@ title: Assignments
 repo-actions: false
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 | # | Topic | pdf | Due Date |
 |-----------------|-----------------|---------------------|---------------------|
 

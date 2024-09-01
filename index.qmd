@@ -7,9 +7,10 @@ css: /custom.css
 repo-actions: false
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 {{< include /files/includes/_coursedescription.qmd >}}
-
 
 {{< include /files/includes/_courseobjectives.qmd >}}
 

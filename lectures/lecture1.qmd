@@ -1,5 +1,5 @@
 ---
-title: "Lecture 1 Introduction"
+title: "Lecture 1 Introduction: Grand Challenges"
 description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: September 9, 2024
@@ -41,27 +41,28 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 -   Motivations?
 -   Dream jobs?
 
-## US IRA in its first year
-
-How to evaluate its impact to the emission reduction?
+## Not fast enough
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/biden-sign.jpeg){fig-align="center"}
+![](/lectures/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+
+How the exponential growth of solar will change the energy sector and the economy?
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/ira1year.jpeg){fig-align="center"}
+![](/lectures/images/green-power-gap.png){fig-align="center"}
 :::
 :::
 
 ::: footer
-Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/1694454990381649953)
+Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world), [Green Power Gap](https://www.rockefellerfoundation.org/report/the-green-power-gap/)
 :::
 
 ## Why PAF9199?
 
 -   Policy matters
+    -   Social and technical change
     -   Research
     -   Jobs
 -   Clean energy transition to achieve climate goals
@@ -69,10 +70,10 @@ Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/169
 ## Organization
 
 -   Syllabus
--   Blackboard
+-   Brightspace
 -   Course website: <https://drganghe.github.io/energy-climate-policy/>
--   Policy response (10): 20%
--   Assignments (5): 30%
+-   Policy responses (10): 30%
+-   Assignments (4): 20%
 -   Proposal: 10%
 -   Final presentations: 20%
 -   Policy memo: 20%
@@ -124,7 +125,7 @@ Source: [Secretory Jennifer Granholm](https://twitter.com/SecGranholm/status/169
 Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
 :::
 
-## An analysis approach
+## An analytical approach
 
 Data-driven, evidence-based, energy and climate policy
 

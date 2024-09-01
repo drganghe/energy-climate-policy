@@ -22,6 +22,9 @@ format:
     colorlinks: true
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 ## Introduction
 
 Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.
@@ -41,7 +44,7 @@ Please submit an one-page proposal letting me know your topic, briefly explain w
 
 ## Presentation
 
-Your presentation should about 15-20mins long summarizing your work. Please record your presentation with your video on or face visible. Please submit both the video and slides.
+Your presentation should about 15-20mins long summarizing your work. Please submit both the video and slides.
 
 Your presentation will be graded by the following criteria:
 

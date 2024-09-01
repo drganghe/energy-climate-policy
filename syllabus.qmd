@@ -2,6 +2,9 @@
 title: Syllabus
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 ## Course Information
 
 **Marxe School of Public and International Affairs**

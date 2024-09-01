@@ -28,6 +28,8 @@ page-navigation: false
 title-block-banner: false
 repo-actions: false
 ---
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 ## 2024
 :::{#lectures-2024}

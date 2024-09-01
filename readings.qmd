@@ -7,7 +7,10 @@ link-citations: false
 citations-hover: false
 ---
 
-Here is a list of readings for the course. All readings are available on Brightsource.
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+Here is a list of readings for the course. All readings are available on Brightspace.
 
 ## Lecture 1
 
