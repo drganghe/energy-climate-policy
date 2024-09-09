@@ -10,17 +10,17 @@ repo-actions: false
 | Week | Date  | Lecture                                                     | Guest Speaker                                                                                            | Assignment  |
 | ---- | ----- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- |
 | 1    | 9/2   | Labor Day - No session                                      |                                                                                                          |             |
-| 2    | 9/9   | [Introduction: Grand challenges](lectures/lecture1.qmd)     |                                                                                                          | HW1         |
-| 3    | 9/16  | Make sense of energy and climate numbers                    | [Richard Morse](https://drganghe.github.io/climate-guest-speakers/speakers/richard-morse/)               |             |
-| 4    | 9/23  | Climate impact and responses                                | [Shirley Gallagher](https://drganghe.github.io/climate-guest-speakers/speakers/shirley-gallagher/)       | HW2         |
-| 5    | 9/30  | Energy systems overview                                     |                                                                                                          |             |
+| 2    | 9/9   | [Introduction: Grand challenges](lectures/lecture1.qmd)     |                                                                                                          |             |
+| 3    | 9/16  | Make sense of energy and climate numbers                    | [Richard Morse](https://drganghe.github.io/climate-guest-speakers/speakers/richard-morse/)               | HW1         |
+| 4    | 9/23  | Climate impact and responses                                | [Shirley Gallagher](https://drganghe.github.io/climate-guest-speakers/speakers/shirley-gallagher/)       |             |
+| 5    | 9/30  | Energy systems overview                                     | [Kaifang Luo](https://drganghe.github.io/climate-guest-speakers/speakers/kaifang-luo/)                   | HW2         |
 | 6    | 10/7  | Energy sources                                              | [Simi George](https://drganghe.github.io/climate-guest-speakers/speakers/simi-george/)                   |             |
 | 7    | 10/15 | Energy demand, energy and economy                           | [Maryam Mozafari](https://drganghe.github.io/climate-guest-speakers/speakers/maryam-mozafari/)           | HW3         |
 | 8    | 10/21 | Energy, environment, and health                             | [Fabio Passaro](https://drganghe.github.io/climate-guest-speakers/speakers/fabio-passaro/)               |             |
-| 9    | 10/28 | Energy systems approach                                     | [Liqun Peng](https://drganghe.github.io/climate-guest-speakers/speakers/liqun-peng/)                     |             |
-| 10   | 11/4  | Energy transition                                           | [Samuel Vaillancourt ](https://drganghe.github.io/climate-guest-speakers/speakers/samuel-vaillancourt/)  | HW4         |
-| 11   | 11/11 | Human behavior, culture, and sustainable energy consumption | [Bharathi Esakkimuthu](https://drganghe.github.io/climate-guest-speakers/speakers/bharathi-esakkimuthu/) |             |
-| 12   | 11/18 | Climate policy instruments                                  | [Mohsen Fatemin](https://drganghe.github.io/climate-guest-speakers/speakers/mohsen-fatemin/)             | Proposal    |
+| 9    | 10/28 | Energy systems approach                                     | [Liqun Peng](https://drganghe.github.io/climate-guest-speakers/speakers/liqun-peng/)                     | HW4         |
+| 10   | 11/4  | Energy transition                                           | [Samuel Vaillancourt ](https://drganghe.github.io/climate-guest-speakers/speakers/samuel-vaillancourt/)  |             |
+| 11   | 11/11 | Human behavior, culture, and sustainable energy consumption | [Bharathi Esakkimuthu](https://drganghe.github.io/climate-guest-speakers/speakers/bharathi-esakkimuthu/) | Proposal    |
+| 12   | 11/18 | Climate policy instruments                                  | [Mohsen Fatemin](https://drganghe.github.io/climate-guest-speakers/speakers/mohsen-fatemin/)             |             |
 | 13   | 11/25 | Big data and AI for climate change [Thanksgiving week]      |                                                                                                          |             |
 | 14   | 12/2  | Uncertainties in policy analysis                            |                                                                                                          |             |
 | 15   | 12/9  | Presentations                                               |                                                                                                          | Policy memo |

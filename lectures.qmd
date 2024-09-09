@@ -14,15 +14,15 @@ listing:
   feed: false
   fields: [image, date, title, author]
 
-- id: lectures-2023
-  contents: "2023/lecture*.qmd"
-  sort: "date asc"
-  type: grid
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: false
-  fields: [image, date, title, author]
+# - id: lectures-2023
+#   contents: "2023/lecture*.qmd"
+#   sort: "date asc"
+#   type: grid
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   feed: false
+#   fields: [image, date, title, author]
 #page-layout: full
 page-navigation: false
 title-block-banner: false
@@ -31,11 +31,6 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-## 2024
+
 :::{#lectures-2024}
-:::
-
-## 2023
-
-:::{#lectures-2023}
 :::

@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-![](/lectures/images/420ppm.png)
+![](/lectures/images/423ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -46,14 +46,14 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 ::: columns
 ::: {.column width="50%"}
 ![](/lectures/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
-
-How the exponential growth of solar will change the energy sector and the economy?
 :::
 
 ::: {.column width="50%"}
 ![](/lectures/images/green-power-gap.png){fig-align="center"}
 :::
 :::
+
+How the exponential growth of solar will change the energy sector and the economy?
 
 ::: footer
 Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world), [Green Power Gap](https://www.rockefellerfoundation.org/report/the-green-power-gap/)
@@ -62,7 +62,8 @@ Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponen
 ## Why PAF9199?
 
 -   Policy matters
-    -   Social and technical change
+    -   Technology innovation
+    -   Social change
     -   Research
     -   Jobs
 -   Clean energy transition to achieve climate goals
@@ -77,6 +78,23 @@ Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponen
 -   Proposal: 10%
 -   Final presentations: 20%
 -   Policy memo: 20%
+
+## Climate guest speakers{.smaller}
+
+-   9/16 – Richard Morse: Renewable energy investments
+-   9/23 – Shirley Gallagher: My Sustainable Journey and the skills used to contribute to climate solutions
+-   9/30 – Kaifang Luo: Clean technology deployment and impact
+-   10/7 – Simi George: Storage and regulation
+-   10/15 – Maryam Mozafari: Transitioning from fossil fuels to renewable energy
+-   10/21 – Fabio Passaro: Steel & cement sectors’ decarbonization
+-   10/28 – Liqun Peng: Power sector decarbonization
+-   11/4 – Samuel Vaillancourt: Gold mining decarbonization
+-   11/11 – Bharathi Esakkimuthu: Climate career options and essential skills
+-   11/18 – Mohsen Fatemi: City government implementation
+
+::: footer
+Learn more: <https://drganghe.github.io/climate-guest-speakers/>
+:::
 
 ## Contents
 
