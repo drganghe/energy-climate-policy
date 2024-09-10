@@ -10,8 +10,8 @@ repo-actions: false
 | Week | Date  | Lecture                                                     | Guest Speaker                                                                                            | Assignment  |
 | ---- | ----- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- |
 | 1    | 9/2   | Labor Day - No session                                      |                                                                                                          |             |
-| 2    | 9/9   | [Introduction: Grand challenges](lectures/lecture1.qmd)     |                                                                                                          |             |
-| 3    | 9/16  | Make sense of energy and climate numbers                    | [Richard Morse](https://drganghe.github.io/climate-guest-speakers/speakers/richard-morse/)               | HW1         |
+| 2    | 9/9   | [Introduction: Grand challenges](lectures/lecture1.qmd)     |                                                                                                          | [HW1](assignments/hw1.qmd)            |
+| 3    | 9/16  | Make sense of energy and climate numbers                    | [Richard Morse](https://drganghe.github.io/climate-guest-speakers/speakers/richard-morse/)               |          |
 | 4    | 9/23  | Climate impact and responses                                | [Shirley Gallagher](https://drganghe.github.io/climate-guest-speakers/speakers/shirley-gallagher/)       |             |
 | 5    | 9/30  | Energy systems overview                                     | [Kaifang Luo](https://drganghe.github.io/climate-guest-speakers/speakers/kaifang-luo/)                   | HW2         |
 | 6    | 10/7  | Energy sources                                              | [Simi George](https://drganghe.github.io/climate-guest-speakers/speakers/simi-george/)                   |             |
