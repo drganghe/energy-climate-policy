@@ -20,3 +20,14 @@ Here is a list of readings for the course. All readings are available on Brights
 - @grant_cost_2021
 - @hogan_energy_2002
 - @huntington_modeling_1982
+
+
+## Lecture 2
+
+- @IPCC_2021_WGI
+- @hermann2006quantifying 
+- @koomey2010defining 
+- @fridley2016impacts 
+- @macknick_energy_2011 
+- @hansen_perception_2012
+

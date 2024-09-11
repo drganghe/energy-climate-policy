@@ -2,7 +2,8 @@
   {
     "listing": "/lectures.html",
     "items": [
-      "/lectures/lecture1.html"
+      "/lectures/lecture1.html",
+      "/lectures/lecture2.html"
     ]
   }
 ]

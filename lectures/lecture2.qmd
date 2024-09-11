@@ -2,7 +2,7 @@
 title: "Lecture 2 Make Sense of Numbers and Fundamentals"
 description-meta: "Make sense of energy and climate numbers, data sources, and climate fundamentals"
 author: "Gang He"
-date: September 11, 2023
+date: September 16, 2024
 date-format: long
 image: "/lectures/images/boe-equations.png"
 #suppress-bibliography: true

@@ -172,7 +172,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures.html#section",
@@ -2693,5 +2693,264 @@
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Climate guest speakers",
     "text": "Climate guest speakers\n\n9/16 – Richard Morse: Renewable energy investments\n9/23 – Shirley Gallagher: My Sustainable Journey and the skills used to contribute to climate solutions\n9/30 – Kaifang Luo: Clean technology deployment and impact\n10/7 – Simi George: Storage and regulation\n10/15 – Maryam Mozafari: Transitioning from fossil fuels to renewable energy\n10/21 – Fabio Passaro: Steel & cement sectors’ decarbonization\n10/28 – Liqun Peng: Power sector decarbonization\n11/4 – Samuel Vaillancourt: Gold mining decarbonization\n11/11 – Bharathi Esakkimuthu: Climate career options and essential skills\n11/18 – Mohsen Fatemi: City government implementation\n\n\nLearn more: https://drganghe.github.io/climate-guest-speakers/"
+  },
+  {
+    "objectID": "readings.html#lecture-2",
+    "href": "readings.html#lecture-2",
+    "title": "Readings",
+    "section": "Lecture 2",
+    "text": "Lecture 2\n\nIPCC Climate Change 2021: The Physical Science Basis. Contribution of Working Group i to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Book, ed. V. Masson-Delmotte et al. (Cambridge, UK; New York, NY, USA: Cambridge University Press, 2021), https://doi.org/10.1017/9781009157896.\nWeston A Hermann “Quantifying Global Exergy Resources,” Energy 31, no. 12 (2006): 1685–1702, https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\nJonathan Koomey et al. “Defining a Standard Metric for Electricity Savings,” Environmental Research Letters 5, no. 1 (2010): 014017, https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\nDavid Fridley et al. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look” (ACEEE, 2016), https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\nJordan Macknick “Energy and CO2 Emission Data Uncertainties,” Carbon Management 2, no. 2 (April 1, 2011): 189–205, https://doi.org/10.4155/cmt.11.10.\nJames Hansen, Makiko Sato, and Reto Ruedy “Perception of Climate Change,” Proceedings of the National Academy of Sciences 109, no. 37 (September 2012): E2415–23, https://doi.org/10.1073/pnas.1205276109."
+  },
+  {
+    "objectID": "lectures/lecture2.html#section",
+    "href": "lectures/lecture2.html#section",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "",
+    "text": "Photo by Gang He on the train to UNFCCC CoP15 conference, Dec 6, 2009."
+  },
+  {
+    "objectID": "lectures/lecture2.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "href": "lectures/lecture2.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
+    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
+  },
+  {
+    "objectID": "lectures/lecture2.html#climate-stripes",
+    "href": "lectures/lecture2.html#climate-stripes",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Climate stripes",
+    "text": "Climate stripes\n\n\nSource: Ed Hawkins"
+  },
+  {
+    "objectID": "lectures/lecture2.html#carbon-budget",
+    "href": "lectures/lecture2.html#carbon-budget",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Carbon budget",
+    "text": "Carbon budget\n\n\nSource: Global Carbon Project"
+  },
+  {
+    "objectID": "lectures/lecture2.html#emission-and-concentration",
+    "href": "lectures/lecture2.html#emission-and-concentration",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Emission and concentration",
+    "text": "Emission and concentration\n\n\nSource:Rebecca Lindsey, climate.gov"
+  },
+  {
+    "objectID": "lectures/lecture2.html#get-comfortable-with-units",
+    "href": "lectures/lecture2.html#get-comfortable-with-units",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Get comfortable with units",
+    "text": "Get comfortable with units\n\n\nSource: MetricMethods"
+  },
+  {
+    "objectID": "lectures/lecture2.html#foundamental-energy-units",
+    "href": "lectures/lecture2.html#foundamental-energy-units",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Foundamental energy units",
+    "text": "Foundamental energy units\n\nJoule: \\(J\\rightarrow newton \\times meter\\)\ncalorie: \\(cal \\rightarrow gram \\times 1^\\circ C\\) , \\(1 cal=4.184 J\\)\n\nhuman daily intake: 1,800-3,000 kcal\n\nBtu: \\(Btu \\rightarrow pound \\times 1 F\\) , \\(1 Btu=1,055 J\\)\nelectricity: \\(1 kWh = 3.6 MJ\\)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#scale-of-numbers",
+    "href": "lectures/lecture2.html#scale-of-numbers",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Scale of numbers",
+    "text": "Scale of numbers\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture2.html#comparing-the-worlds-energy-resources",
+    "href": "lectures/lecture2.html#comparing-the-worlds-energy-resources",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Comparing the world’s energy resources",
+    "text": "Comparing the world’s energy resources\n\n\nSource: Richard Perez"
+  },
+  {
+    "objectID": "lectures/lecture2.html#energy-stock-and-flow",
+    "href": "lectures/lecture2.html#energy-stock-and-flow",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Energy stock and flow",
+    "text": "Energy stock and flow\n\n\nSource: Hermann (2006)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#energy-vs.-power",
+    "href": "lectures/lecture2.html#energy-vs.-power",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Energy vs. power",
+    "text": "Energy vs. power\n\n\nSource: ODP"
+  },
+  {
+    "objectID": "lectures/lecture2.html#energy-vs-power",
+    "href": "lectures/lecture2.html#energy-vs-power",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Energy vs power",
+    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\nWe need to know what we are talking about!"
+  },
+  {
+    "objectID": "lectures/lecture2.html#back-of-the-envelope-estimation",
+    "href": "lectures/lecture2.html#back-of-the-envelope-estimation",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Back-of-the-envelope estimation",
+    "text": "Back-of-the-envelope estimation\n\n\nSource: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture2.html#art-rosenfeld",
+    "href": "lectures/lecture2.html#art-rosenfeld",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Art Rosenfeld",
+    "text": "Art Rosenfeld\n\n\nSource: LBL"
+  },
+  {
+    "objectID": "lectures/lecture2.html#rosenfeld-effect",
+    "href": "lectures/lecture2.html#rosenfeld-effect",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Rosenfeld Effect",
+    "text": "Rosenfeld Effect\n\n\nSource: LBL"
+  },
+  {
+    "objectID": "lectures/lecture2.html#defining-a-rosenfeld-plant",
+    "href": "lectures/lecture2.html#defining-a-rosenfeld-plant",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Defining a Rosenfeld Plant",
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#comparing-with-the-three-gorges-dam",
+    "href": "lectures/lecture2.html#comparing-with-the-three-gorges-dam",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Comparing with the Three Gorges Dam",
+    "text": "Comparing with the Three Gorges Dam\n\n\nSource: Fridley et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#common-sources-of-energy-and-climate-data",
+    "href": "lectures/lecture2.html#common-sources-of-energy-and-climate-data",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Common sources of energy and climate data",
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: Macknick (2011)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#data-quality",
+    "href": "lectures/lecture2.html#data-quality",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Data quality",
+    "text": "Data quality\n\nAvailability\n\nAccessibility\n\nCredibility\n\nComparison, Validation, Verification"
+  },
+  {
+    "objectID": "lectures/lecture2.html#use-data-tools",
+    "href": "lectures/lecture2.html#use-data-tools",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Use data tools",
+    "text": "Use data tools\n\nAPI\n\nPackages\n\nOpen-souce tools"
+  },
+  {
+    "objectID": "lectures/lecture2.html#big-data-and-ai-era",
+    "href": "lectures/lecture2.html#big-data-and-ai-era",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Big data and AI era",
+    "text": "Big data and AI era\n\nBig climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters\nData driven approaches\n\nBig data doesnot necessarily mean big picture\nAI doesnot necessarily mean better insights"
+  },
+  {
+    "objectID": "lectures/lecture2.html#ghg-effect",
+    "href": "lectures/lecture2.html#ghg-effect",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "GHG effect",
+    "text": "GHG effect\n\n\nSource: IPCC"
+  },
+  {
+    "objectID": "lectures/lecture2.html#greenhouse-gasesghg",
+    "href": "lectures/lecture2.html#greenhouse-gasesghg",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Greenhouse Gases(GHG)",
+    "text": "Greenhouse Gases(GHG)\n\n\n\nGHG\nGWP-100\nLifetime (Years)\n\n\n\n\nCarbon Dioxide (CO2)\n1\nhundreds\n\n\nMethane (CH4)\n29.8±11\n11.8 ± 1.8\n\n\nNitrous Oxide (N2O)\n273 ± 130\n109 ± 10\n\n\nHydrofluorocarbon-32 (HFC-32)\n771 ± 292\n5.4 ± 1.1\n\n\n\nOther:\n\nSulphur hexafluoride (SF6)\nPFC-14 (CF4)\nWater vapour\n\n\nSource: Table 7.15 in the IPCC AR6 WG-I Report."
+  },
+  {
+    "objectID": "lectures/lecture2.html#from-emissions-to-warming",
+    "href": "lectures/lecture2.html#from-emissions-to-warming",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "From emissions to warming",
+    "text": "From emissions to warming\n\n\nSource: IPCC AR6"
+  },
+  {
+    "objectID": "lectures/lecture2.html#warming-since-measurement",
+    "href": "lectures/lecture2.html#warming-since-measurement",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Warming since measurement",
+    "text": "Warming since measurement\n\n\nSource: NASA"
+  },
+  {
+    "objectID": "lectures/lecture2.html#warming-in-context-of-geological-history",
+    "href": "lectures/lecture2.html#warming-in-context-of-geological-history",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Warming in context of geological history",
+    "text": "Warming in context of geological history\n\n\nSource: NASA"
+  },
+  {
+    "objectID": "lectures/lecture2.html#warmer-and-warmer",
+    "href": "lectures/lecture2.html#warmer-and-warmer",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Warmer and Warmer",
+    "text": "Warmer and Warmer\n\n\nSource: Koomey and Monroe (2022)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#climate-spireal",
+    "href": "lectures/lecture2.html#climate-spireal",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Climate spireal",
+    "text": "Climate spireal\n\n\nSource: NASA Scientific Visulization Studio"
+  },
+  {
+    "objectID": "lectures/lecture2.html#temprature-anomaly-distribution",
+    "href": "lectures/lecture2.html#temprature-anomaly-distribution",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Temprature anomaly distribution",
+    "text": "Temprature anomaly distribution\n\n\nSource: Hansen, Sato, and Ruedy (2012)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#human-vs-nature",
+    "href": "lectures/lecture2.html#human-vs-nature",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Human vs nature",
+    "text": "Human vs nature\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#human-component-is-the-major-driver-of-warming",
+    "href": "lectures/lecture2.html#human-component-is-the-major-driver-of-warming",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Human component is the major driver of warming",
+    "text": "Human component is the major driver of warming\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#scientific-understanding-climate-systems",
+    "href": "lectures/lecture2.html#scientific-understanding-climate-systems",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Scientific understanding: climate systems",
+    "text": "Scientific understanding: climate systems\n\n\nSource: Figure 2.2 of the Fourth National Climate Assessment (NCA4)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#scientific-community-and-process",
+    "href": "lectures/lecture2.html#scientific-community-and-process",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Scientific community and process",
+    "text": "Scientific community and process\n\nWhat is the IPCC?\nHow does the IPCC select its authors?\nWhat literature does the IPCC assess?\nHow does the IPCC review process work?\nHow does the IPCC approve reports?\nHow does the IPCC deal with alleged errors?\nWhat is an Expert Reviewer of IPCC?\n\n\nSource: Learn more about IPCC"
+  },
+  {
+    "objectID": "lectures/lecture2.html#five-stages-of-climate-denial",
+    "href": "lectures/lecture2.html#five-stages-of-climate-denial",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "Five stages of climate denial",
+    "text": "Five stages of climate denial\n\nStage 1: Deny the Problem Exists\nStage 2: Deny We’re the Cause\n\nStage 2b: Consensus Denial\n\nStage 3: Deny It’s a Problem\n\nStage 4: Deny We can Solve It\n\nStage 5: It’s too Late\n\n\nSource: Dana Nuccitelli, The Guardian, The 5 stages of climate denial are on display ahead of the IPCC report"
+  },
+  {
+    "objectID": "lectures/lecture2.html#a-five-points-climate-haiku",
+    "href": "lectures/lecture2.html#a-five-points-climate-haiku",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+  },
+  {
+    "objectID": "lectures/lecture2.html#references",
+    "href": "lectures/lecture2.html#references",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "section": "",
+    "text": "References\n\n\nFridley, David, Nina Z Khanna, Nan Zhou, and Michael McNeil. 2016. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look.” In. ACEEE. https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\n\n\nHansen, James, Makiko Sato, and Reto Ruedy. 2012. “Perception of Climate Change.” Proceedings of the National Academy of Sciences 109 (37): E2415–23. https://doi.org/10.1073/pnas.1205276109.\n\n\nHermann, Weston A. 2006. “Quantifying Global Exergy Resources.” Energy 31 (12): 1685–1702. https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nKoomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. https://iopscience.iop.org/book/mono/978-0-7503-4032-8.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
   }
 ]
