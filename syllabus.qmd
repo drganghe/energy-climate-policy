@@ -42,7 +42,7 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Bi-weekly policy response      | 30 %   | 6 responses
+Weekly policy response         | 30 %   | 10 responses
 Assignments                    | 20 %   | 4 assignments
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |

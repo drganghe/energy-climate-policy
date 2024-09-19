@@ -31,3 +31,20 @@ Here is a list of readings for the course. All readings are available on Brights
 - @macknick_energy_2011 
 - @hansen_perception_2012
 
+
+## Lecture 3
+
+- @carleton2016social 
+- @neumann_climate_2020
+- @updating_scc_2017
+- @hsiang_quantifying_2013
+- @yalew2020impacts
+- @liu_climate_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @armitage_innovation_2023
+
+
+

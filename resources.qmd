@@ -5,6 +5,75 @@ title: Resources
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+## NYC/NYS resources
+
+[NYSERDA](https://www.nyserda.ny.gov/Impact-Greenhouse-Gas-Emissions-Reduction)
+
+[New York State Climate Impacts Assessment](https://nysclimateimpacts.org/)
+
+[New York City Panel on Climate Change (NPCC)](https://climateassessment.nyc/), [The 4th Assessment](https://climateassessment.nyc/assessments/)
+
+[Climate Week NYC](https://www.climateweeknyc.org/)
+
+[Mayor's Office of Climate & Environmental Justice](https://climate.cityofnewyork.us/)
+
+
+## Baruch/CUNY climate resources
+
+CUNY Climate Action Collaborative ([CCAC](https://blogs.baruch.cuny.edu/climateaction/))
+
+CUNY [Climate Scholars](https://blogs.baruch.cuny.edu/climateaction/)
+
+CUNY [Climate Change Consortium (C3)](https://www.cuny.edu/research/research-development-programs/cuny-climate-consortium/)
+
+Baruch [Conference on Climate Research, Teaching, and Collaboration](https://baruch.cuny.edu/climateconference/)
+
+
+## Climate jobs
+
+IISD [Climate Change Jobs](https://jobs.iisd.net/)
+
+[Climate Jobs New York](https://www.climatejobsny.org/)
+
+
+## Energy and climate news
+
+New York Times [Climate Forward](https://www.nytimes.com/column/climate-fwd)
+
+The Economist [Climate Issue](https://www.economist.com/climate-change)
+
+E&E [News](https://www.eenews.net/)
+
+[Carbon Brief](https://www.carbonbrief.org/)
+
+[Climate Central](https://www.climatecentral.org/)
+
+EIA [Today in Energy](https://www.eia.gov/todayinenergy/)
+
+[Our World in Data](https://ourworldindata.org/)
+
+
+## Energy, climate, and carbon data and analysis
+
+EIA, [Energy Conversion and Calculator](https://www.eia.gov/energyexplained/units-and-calculators/energy-conversion-calculators.php)
+
+IEA, [World Energy Outlook](http://www.worldenergyoutlook.org) series
+
+EIA, [International Energy Outlook](http://www.eia.gov) series. 
+
+[Global Energy Monitor](https://globalenergymonitor.org)
+
+IEA, [CO₂ Emissions from Fuel Combustion](http://www.iea.org)
+
+[Carbon Dioxide Information Analysis Center](http://cdiac.ornl.gov), Oak Ridge National Laboratory, US Department of Energy
+
+[Greenhouse Gas Protocol](http://www.ghgprotocol.org), World Resources Institute
+
+[Energy and Carbon Emission Harmonized Database](http://webarchive.iiasa.ac.at), IIASA
+
+[Carbon Monitor](https://www.carbonmonitor.org)
+
+
 ## Modelling community
 
 [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
