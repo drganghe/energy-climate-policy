@@ -1,5 +1,5 @@
 ---
-title: "Lecture 3 Climate Impacts and Responses"
+title: "Lecture 3 Climate Impacts Assessments"
 description-meta: ""
 author: "Gang He"
 date: September 23, 2024
@@ -167,6 +167,42 @@ Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.or
 :::
 
 
+
+## Vulnerable Populations
+
+::: columns
+
+::: {.column width="70%"}
+
+![](/lectures/images/NYS-PEJA-DAC.png)
+
+:::
+
+::: {.column width="30%"}
+
+:::{style="font-size:24px"}
+
+Other Groups:
+
+- Immigrant  
+- Unhoused and housing-insecure   
+- Incarcerated   
+- People with disabilities  
+- Chindren  
+- Older adults (65+) 
+
+:::
+
+:::
+
+:::
+
+::: footer
+Source: New York State Climate Impacts Assessment [Ch1](https://nysclimateimpacts.org/wp-content/uploads/2024/01/Assessment-ch1-intro-01-31-24.pdf)
+:::
+
+
+
 ## The 4th Assessment of the NYC Panel on Climate Change (NPCC4)
 
 - Updates: Climate Science, Equity, and Flooding 
@@ -178,6 +214,7 @@ Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.or
 ::: footer
 Source: [NPCC4](https://climateassessment.nyc/assessments/)
 :::
+
 
 
 ## Fuel for thoughts: grand challenges, huge progress, and grand opportunities
