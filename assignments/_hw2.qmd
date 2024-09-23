@@ -1,5 +1,5 @@
 ---
-title: Assignment 2 What if Americans turn to small cars and electric vehicles?
+title: Assignment 2 What if Americans turned to small cars and electric vehicles?
 format: 
   html: 
     theme: cosmo
@@ -23,7 +23,7 @@ format:
 #draft: true
 ---
 
-In your first policy response, you are asked to discuss the impact and policy responses to America's big car problem. This assignment will give you a chance to practice with data and policy analysis. You will navigate through some common energy and carbon data, make some reasonable assumptions, and calculate some policy relevant metrics. It's a plus if you can visualize your analysis.
+In your first policy response, you were asked to discuss the impact and policy responses to America's big car problem. This assignment will give you a chance to practice with data and policy analysis. You will navigate through some common energy and carbon data, make some reasonable assumptions, and calculate some policy relevant metrics. It's a plus if you can visualize your analysis.
 
 
 ## Questions

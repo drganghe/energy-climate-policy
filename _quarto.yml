@@ -32,7 +32,8 @@ website:
           - text: Fall 2023
             href: 2023/schedule.qmd        
       - text: Dr. Gang He
-        href: http://drganghe.github.io        
+        href: http://drganghe.github.io
+        target: _blank        
     right: 
       - icon: github
         href: https://github.com/drganghe/energy-climate-policy

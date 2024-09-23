@@ -1,6 +1,6 @@
-# PAF9199 Energy and Climate Policy (2023 Fall)
+# PAF9199 Energy and Climate Policy 
 
-This is the website for Energy and Climate Policy 2023 Fall. I will share the slides, assignments, and source files here.  
+This is the website for my Energy and Climate Policy class. I will share the slides, assignments, and source files here.  
 
 ## Acknowledgment
 
