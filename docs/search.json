@@ -172,7 +172,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures.html#section",
@@ -3183,5 +3183,166 @@
     "title": "Lecture 3 Climate Impacts Assessments",
     "section": "Vulnerable Populations",
     "text": "Vulnerable Populations\n\n\n\n\n\nOther Groups:\n\nImmigrant\n\nUnhoused and housing-insecure\n\nIncarcerated\n\nPeople with disabilities\n\nChindren\n\nOlder adults (65+)\n\n\n\n\nSource: New York State Climate Impacts Assessment Ch1"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-systems",
+    "href": "lectures/lecture4.html#energy-systems",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#resources-vs-reserves",
+    "href": "lectures/lecture4.html#resources-vs-reserves",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Resources vs reserves",
+    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-and-their-conversions",
+    "href": "lectures/lecture4.html#energy-and-their-conversions",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy and their conversions",
+    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#global-energy-flow",
+    "href": "lectures/lecture4.html#global-energy-flow",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Global energy flow",
+    "text": "Global energy flow\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#u.s.-energy-flow",
+    "href": "lectures/lecture4.html#u.s.-energy-flow",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "U.S. energy flow",
+    "text": "U.S. energy flow\n\n\nSource: LLNL"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-supply",
+    "href": "lectures/lecture4.html#energy-by-supply",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by supply",
+    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-source-updated-to-2023",
+    "href": "lectures/lecture4.html#energy-by-source-updated-to-2023",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by source updated to 2023",
+    "text": "Energy by source updated to 2023\n\n\nSource: Our Wold in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-by-source---two-worlds",
+    "href": "lectures/lecture4.html#energy-by-source---two-worlds",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy by source - two worlds",
+    "text": "Energy by source - two worlds\n\n\nSource: Our Wold in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-end-use-by-sector",
+    "href": "lectures/lecture4.html#energy-end-use-by-sector",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy end-use by sector",
+    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#matching-supply-and-demand",
+    "href": "lectures/lecture4.html#matching-supply-and-demand",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Matching supply and demand",
+    "text": "Matching supply and demand\nIt operates like “magic”\nBut relies on massive infrastructure, markets, and regulations\n\nDeliver service at the right time, location, and price\n\nMeet safety, reliability, and environmental standards\n\nIncreasingly disrupted by political economy and climate change\n\nSolution is usually location and temporal based"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
+    "href": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electrify eveything, where are we now",
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electrify-eveything-net-zero",
+    "href": "lectures/lecture4.html#electrify-eveything-net-zero",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electrify eveything, net zero",
+    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-efficiency",
+    "href": "lectures/lecture4.html#energy-efficiency",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy efficiency",
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
+    "href": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Electric efficiency vs fossil efficiency",
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
+    "href": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Milestones for long-term energy transition",
+    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
+    "href": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "NYS Climate Leadership and Community Protection Act",
+    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
+  },
+  {
+    "objectID": "lectures/lecture4.html#u.s.-shale-gas-revolution",
+    "href": "lectures/lecture4.html#u.s.-shale-gas-revolution",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "U.S. shale gas revolution",
+    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
+    "href": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Renewable revolution: achieving grid parity",
+    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
+    "href": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Renewable revolution: solar and wind taking off",
+    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture4.html#energy-systems-modeling",
+    "href": "lectures/lecture4.html#energy-systems-modeling",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "Energy systems modeling",
+    "text": "Energy systems modeling\n\nTop-down vs. bottom-up\n\nSupply-side vs. demand-side\n\nIntensity\n\nElasticity\n\nIAM\n\nRisks/uncertainties"
+  },
+  {
+    "objectID": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
+    "href": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "How modelers think about an energy system",
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication"
+  },
+  {
+    "objectID": "lectures/lecture4.html#references",
+    "href": "lectures/lecture4.html#references",
+    "title": "Lecture 4 Energy Systems Overview",
+    "section": "",
+    "text": "References\n\n\nBMWi. 2015. “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy.” Federal Ministry for Economic Affairs; Energy. https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nSmil, Vaclav. 2017. Energy: A Beginner’s Guide. Simon; Schuster. https://vaclavsmil.com/2017/02/21/energy-a-beginners-guide-beginners-guides-2nd-edition/.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "readings.html#lecture-4",
+    "href": "readings.html#lecture-4",
+    "title": "Readings",
+    "section": "Lecture 4",
+    "text": "Lecture 4\n\nVaclav Smil Energy: A Beginner’s Guide (Simon; Schuster, 2017), https://vaclavsmil.com/2017/02/21/energy-a-beginners-guide-beginners-guides-2nd-edition/.\nIEA “Net Zero by 2050.”\nBMWi “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy” (Federal Ministry for Economic Affairs; Energy, July 2015), https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html."
   }
 ]

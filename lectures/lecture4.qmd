@@ -2,9 +2,9 @@
 title: "Lecture 4 Energy Systems Overview"
 description-meta: "Energy systems overview"
 author: "Gang He"
-date: October 2, 2023
+date: September 30, 2024
 date-format: long
-image: "/lectures/images/Energy-2021-United-States.png"
+image: "/lectures/images/US-Energy-Flow-2022.png"
 format:
   revealjs:
     theme: white
@@ -58,7 +58,7 @@ Source: [IEA](https://www.iea.org/sankey/)
 
 ## U.S. energy flow
 
-![](/lectures/images/Energy-2021-United-States.png){fig-align="center"}
+![](/lectures/images/US-Energy-Flow-2022.png){fig-align="center"}
 
 ::: footer
 Source: [LLNL](https://flowcharts.llnl.gov/) 
@@ -73,9 +73,9 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 :::
 
 
-## Energy by source updated to 2022
+## Energy by source updated to 2023
 
-![](/lectures/images/global-energy-substitution.png){fig-align="center"}
+![](/lectures/images/global-energy-substitution-2023.png){fig-align="center"}
 
 ::: footer
 Source: [Our Wold in Data](https://ourworldindata.org/global-energy-200-years) 
@@ -185,7 +185,7 @@ Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
 
 ## Renewable revolution: solar and wind taking off
 
-![](/lectures/images/modern-renewable-energy-consumption.png){fig-align="center"}
+![](/lectures/images/modern-renewable-energy-consumption-2023.png){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/renewable-energy)

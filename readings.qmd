@@ -47,4 +47,8 @@ Here is a list of readings for the course. All readings are available on Brights
 - @armitage_innovation_2023
 
 
+## Lecture 4
 
+- @smil2017energy
+- @iea_net_2021
+- @bmwi_electricity_2015
