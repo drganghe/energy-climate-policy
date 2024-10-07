@@ -52,3 +52,15 @@ Here is a list of readings for the course. All readings are available on Brights
 - @smil2017energy
 - @iea_net_2021
 - @bmwi_electricity_2015
+
+
+## Lecture 5
+
+- @weitzman2001gamma
+- @arrow_determining_2013
+- @yelle_learning_1979
+- @grubler_dynamics_1999
+- @kavlak_evaluating_2018
+- @Klemun2023Mechanisms
+- @GRUBLER20105174
+- @helveston_he_davidson_2022

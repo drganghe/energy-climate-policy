@@ -9,7 +9,7 @@
 <meta name="author" content="Gang He">
 <meta name="description" content="Energy and Climate Policy class developed by Dr.&nbsp;Gang He. Key word: energy policy, climate policy, energy and climate policy, open course.">
 
-<title>Assignment 2 Updating a Rosenfeld Plant – Energy and Climate Policy</title>
+<title>Assignment 2 Energy data analysis and policy – Energy and Climate Policy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,10 +80,10 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Assignment 2 Updating a Rosenfeld Plant – Energy and Climate Policy">
+<meta property="og:title" content="Assignment 2 Energy data analysis and policy – Energy and Climate Policy">
 <meta property="og:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
-<meta name="twitter:title" content="Assignment 2 Updating a Rosenfeld Plant – Energy and Climate Policy">
+<meta name="twitter:title" content="Assignment 2 Energy data analysis and policy – Energy and Climate Policy">
 <meta name="twitter:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
@@ -118,8 +118,8 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assignments.html"> 
-<span class="menu-text">Assignments</span></a>
+    <a class="nav-link" href="http://drganghe.github.io/climate-guest-speakers" target="_blank"> 
+<span class="menu-text">Guest Speakers</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../readings.html"> 
@@ -145,7 +145,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="http://drganghe.github.io"> 
+    <a class="nav-link" href="http://drganghe.github.io" target="_blank"> 
 <span class="menu-text">Dr.&nbsp;Gang He</span></a>
   </li>  
 </ul>
@@ -176,9 +176,15 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#data" id="toc-data" class="nav-link active" data-scroll-target="#data">Data</a></li>
+  <li><a href="#what-if-americans-turned-to-small-cars-and-electric-vehicles" id="toc-what-if-americans-turned-to-small-cars-and-electric-vehicles" class="nav-link active" data-scroll-target="#what-if-americans-turned-to-small-cars-and-electric-vehicles">1. What if Americans turned to small cars and electric vehicles?</a>
+  <ul class="collapse">
   <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
-  <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
+  </ul></li>
+  <li><a href="#uk-coal-phase-out" id="toc-uk-coal-phase-out" class="nav-link" data-scroll-target="#uk-coal-phase-out">2. UK coal phase out</a>
+  <ul class="collapse">
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#questions-1" id="toc-questions-1" class="nav-link" data-scroll-target="#questions-1">Questions</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/assignments/hw2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/assignments/hw2.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw2.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
@@ -187,7 +193,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Assignment 2 Updating a Rosenfeld Plant</h1>
+<h1 class="title">Assignment 2 Energy data analysis and policy</h1>
 </div>
 
 
@@ -204,50 +210,43 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </header>
 
 
-<p>We discussed <a href="https://drganghe.github.io/energy-climate-policy/lectures/lecture2.html#/defining-a-rosenfeld-plant">Defining a Rosenfeld Plant</a> in Lecture 2. That paper was published in 2010, now more than a decade has past and let’s update the Rosenfeld Plant to 2021.</p>
-<p>To define a Rosenfeld Plant, you would need to figure out the average size of U.S. coal plants, the average capacity factor of those operating plants, average emission factor of coal power plants, and the average transmissin losses. You may able to find those statistics on the web, however, I hope you can use plant level data to calculate those by yourself.</p>
-<section id="data" class="level2">
-<h2 class="anchored" data-anchor-id="data">Data</h2>
-<p>There are a few places that you may find plant level data.</p>
-<ul>
-<li><a href="https://www.eia.gov/electricity/data/eia860/">EIA-860</a> collects generator-level specific information about existing and planned generators and associated environmental equipment at electric power plants with 1 MW or greater of combined nameplate capacity.</li>
-<li>EPA <a href="https://www.epa.gov/egrid">eGRID</a> includes emissions, emission rates, generation, heat input, resource mix, and many other attributes.</li>
-<li>Global Energy Monitor’s <a href="https://globalenergymonitor.org/projects/global-coal-plant-tracker/">Global Coal Plant Tracker (GCPT)</a> provides information on coal-fired power units from around the world generating 30 megawatts and above.</li>
-</ul>
-<p>EIA’s data is comprehensieve but a bit messy, GCPT data focuses on coal plants might not have the attributes you need. Let’s use the EPA eGRID data for your analysis. Please <a href="https://www.epa.gov/egrid/download-data">download</a> eGRID with 2021 data.</p>
+<section id="what-if-americans-turned-to-small-cars-and-electric-vehicles" class="level2">
+<h2 class="anchored" data-anchor-id="what-if-americans-turned-to-small-cars-and-electric-vehicles">1. What if Americans turned to small cars and electric vehicles?</h2>
+<p>In your first policy response, you were asked to discuss the impact and policy responses to America’s big car problem. This assignment will give you a chance to practice with data and policy analysis. You will navigate through some common energy and carbon data, make some reasonable assumptions, and calculate some policy relevant metrics.</p>
+<section id="questions" class="level3">
+<h3 class="anchored" data-anchor-id="questions">Questions</h3>
+<p>First, let’s make some assumptions on the market penetration of small cars and electric vehicles.</p>
+<p>Key assumptions, all 2022 data: - Average annual miles per vehicle: 11,000 miles<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> - Averge subcompact small cars fuel efficiency: 33 mile per gallon (mpg); big cars pickup trucks: 20 mpg<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> - Total registerd personal and commercial vehicles: 278,870,463<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> - Big cars (large, crossover, SUVs) has a 65% of the market share<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<ol type="1">
+<li><p>If U.S. replaces half of its big cars (large, crossover, SUVs) with small cars (subcompact, compact, and midsize cars) in 2022, how much oil US can save in one year? compare your result with U.S.’s daily oil imports. (1pt)</p></li>
+<li><p>Now assume if U.S. replace all vehicles by EV by 2050. How much oil it could avoid consuming annually in 2050, compared with 2022? And how much more electricity it need to charge all vehicles in a year? Assumming the total vihecle numbers stays the same. (1.5pt)</p></li>
+</ol>
+<p>https://en.wikipedia.org/wiki/Electric_car_EPA_fuel_economy</p>
 </section>
-<section id="questions" class="level2">
-<h2 class="anchored" data-anchor-id="questions">Questions</h2>
-<p>Please use the eGRID data and work out the calculation:</p>
-<ul>
-<li>What’s the average coal power plant size in the U.S. in 2021? (0.5pt)[Hint: the “PLNT21” shows plant level data, and you can filter data by plant primary fuel to get all COAL plants]<br>
-</li>
-<li>What’s the average capacity factor of coal plants in 2021? (0.5 pt) [Hint: use total generation and total capacity to calculate the average capacity factor]<br>
-</li>
-<li>What’s the average carbon emission factor of coal plants in 2021? (0.5pt) [Hint: use total carbon emission and total generation to calculate the average emission factor]<br>
-</li>
-<li>Using the updated parameters, what’s the total annual carbon emissions of an updated Rosenfeld Plant? (0.5pt)<br>
-</li>
-<li>What’s the average efficiency of coal plants in 2021? (1pt) [Hint: use total plant annual net generation and total plant annual heat input to calculate the average efficiency]<br>
-</li>
-<li>If we can improve the average efficiency of coal plants by 1% (percentage point), e.g.&nbsp;32% to 33%, how many new Rosenfeld Plant we can avoid building? [Hint: use the same total coal generation] (1.5pt)<br>
-</li>
-<li>Further explore the data, what are the top 10 carbon emitting plants in the U.S. and think about how to reduce carbon emissions for those plants (1.5 pt)</li>
-</ul>
-<p>Note: please show your process to receive partial credit.</p>
-<p>Plug: eGRID has rich resources and we will come back to this assignment when discuss environmental and climate justice.</p>
 </section>
-<section id="further-readings" class="level2">
-<h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
-<ul>
-<li><p>Koomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al.&nbsp;2010. “Defining a Standard Metric for Electricity Savings.” <em>Environmental Research Letters</em> 5 (1): 014017. <a href="https://doi.org/10.1088/1748-9326/5/1/014017" class="uri">https://doi.org/10.1088/1748-9326/5/1/014017</a>.</p></li>
-<li><p>Grubert, Emily. 2020. “Fossil Electricity Retirement Deadlines for a Just Transition.” <em>Science</em> 370 (6521): 1171–73. <a href="https://doi.org/10.1126/science.abe0375" class="uri">https://doi.org/10.1126/science.abe0375</a>.</p></li>
-</ul>
+<section id="uk-coal-phase-out" class="level2">
+<h2 class="anchored" data-anchor-id="uk-coal-phase-out">2. UK coal phase out</h2>
+<section id="background" class="level3">
+<h3 class="anchored" data-anchor-id="background">Background</h3>
+<p>Please read the story of the <a href="https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant">Shoreham Nuclear Power Plant</a> and the <a href="https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant">Diablo Canyon Power Plant</a>. One plant never commerically operated and was decommisioned and the rate-payers are still paying the construction costs, while the other is offered to extend operation in the midist of California’s clean energy quest.</p>
+</section>
+<section id="questions-1" class="level3">
+<h3 class="anchored" data-anchor-id="questions-1">Questions</h3>
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>https://afdc.energy.gov/data/10309<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>https://thundersaidenergy.com/downloads/us-vehicle-sales-by-fuel-economy-cars-trucks-and-suvs<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>https://www.forbes.com/advisor/car-insurance/car-ownership-statistics<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>https://www.autoinsurance.com/research/car-ownership-statistics/<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -679,7 +678,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2023 <a href="http://drganghe.github.io">Gang He</a></p>
+<a href="http://drganghe.github.io">Gang He</a> ©
+<script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
