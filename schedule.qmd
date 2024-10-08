@@ -15,7 +15,7 @@ repo-actions: false
 | 4    | 9/23  | [Climate impact and responses](lectures/lecture3.qmd)                                | [Shirley Gallagher](https://drganghe.github.io/climate-guest-speakers/speakers/shirley-gallagher/)       |             |
 | 5    | 9/30  | [Energy systems overview](lectures/lecture4.qmd)                                     | [Kaifang Luo](https://drganghe.github.io/climate-guest-speakers/speakers/kaifang-luo/)                   |        |
 | 6    | 10/7  | [Energy project economics](lectures/lecture5.qmd)     | [Simi George](https://drganghe.github.io/climate-guest-speakers/speakers/simi-george/)                   |    [HW2](assignments/hw2.qmd)          |
-| 7    | 10/15 | Energy demand, energy and economy                           | [Maryam Mozafari](https://drganghe.github.io/climate-guest-speakers/speakers/maryam-mozafari/)           |         |
+| 7    | 10/15 | [Energy demand, energy and economy](lectures/lecture6.qmd)                           | [Maryam Mozafari](https://drganghe.github.io/climate-guest-speakers/speakers/maryam-mozafari/)           |         |
 | 8    | 10/21 | Energy sources and conversion technologies                            | [Fabio Passaro](https://drganghe.github.io/climate-guest-speakers/speakers/fabio-passaro/)               |     HW3         |
 | 9    | 10/28 | Human behavior, culture, and sustainable energy consumption                                     | [Liqun Peng](https://drganghe.github.io/climate-guest-speakers/speakers/liqun-peng/)                     |         |
 | 10   | 11/4  | Energy transition and energy justice   | [Samuel Vaillancourt ](https://drganghe.github.io/climate-guest-speakers/speakers/samuel-vaillancourt/)  |     HW4         |

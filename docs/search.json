@@ -172,7 +172,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Project Economics\n\n\n\nGang He\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Project Economics\n\n\n\nGang He\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Demand\n\n\n\nGang He\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures.html#section",
@@ -3533,5 +3533,159 @@
     "title": "Assignment 2 Energy data analysis and policy",
     "section": "2. UK coal phase out and lessons for other countries",
     "text": "2. UK coal phase out and lessons for other countries\n\nBackground\nIn in policy response last week, you explored how the UK is set to close its last coal power plant by 2024. Read more on coal phase out here. You can download historical coal consumption data for any country from Our Wold in Data. Please note that the unit is in TWh ranther than traditional tons.\n\n\nQuestions\n\nDelayed UK coal phase-out: If the UK delayed its coal phase out by six years, how much additional coal would consume, and how much more carbon emissions would this result in? Assume starting 2023 (UK Energy Act), a linear declince to zero coal consuption by 2030, instead of 2024. Use an emission factor of 91.2tCO2/TJ, and 1TWh = 3600 TJ (1.5pts)\nCoal phase-out in other countries: Choose a country of interest (e.g. the U.S., China, Chile) and apply a similar analysis to show the benefits of an earlier coal phase out. For example, what if China phases out coal by 2040 instead of 2050. (1pt)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#sample-analytic-questions",
+    "href": "lectures/lecture6.html#sample-analytic-questions",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+  },
+  {
+    "objectID": "lectures/lecture6.html#germany-energy-demand",
+    "href": "lectures/lecture6.html#germany-energy-demand",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Germany energy demand",
+    "text": "Germany energy demand\n\n\nRead more: Clean Energy Wire"
+  },
+  {
+    "objectID": "lectures/lecture6.html#decouping-gdp-and-emissions",
+    "href": "lectures/lecture6.html#decouping-gdp-and-emissions",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Decouping GDP and emissions",
+    "text": "Decouping GDP and emissions\n\n\nRead more: IEA"
+  },
+  {
+    "objectID": "lectures/lecture6.html#top-down-vs-bottom-up",
+    "href": "lectures/lecture6.html#top-down-vs-bottom-up",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Top-down vs bottom-up",
+    "text": "Top-down vs bottom-up\n\n\nSource: Swan and Ugursal (2009)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#ipat",
+    "href": "lectures/lecture6.html#ipat",
+    "title": "Lecture 6 Energy Demand",
+    "section": "IPAT",
+    "text": "IPAT\n\n\\(I=P\\times A\\times T\\)\n\nWhere,\n\\(I\\) = Impact\n\\(P\\) = Population\n\\(A\\) = Aflluence\n\\(T\\) = Technology\n\n\n\nRead more: Ehrlich and Holdren (1971), John Holdren A brief history of “IPAT”"
+  },
+  {
+    "objectID": "lectures/lecture6.html#population",
+    "href": "lectures/lecture6.html#population",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Population",
+    "text": "Population\n\n\nSource: UN World Population Prospects"
+  },
+  {
+    "objectID": "lectures/lecture6.html#economy-gdp",
+    "href": "lectures/lecture6.html#economy-gdp",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Economy (GDP)",
+    "text": "Economy (GDP)\n\n\nRead more: Lin, He, and Yuan (2016)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#energy-intensity",
+    "href": "lectures/lecture6.html#energy-intensity",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy intensity",
+    "text": "Energy intensity\n\n\nSource: Our World in Data"
+  },
+  {
+    "objectID": "lectures/lecture6.html#electrification",
+    "href": "lectures/lecture6.html#electrification",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Electrification",
+    "text": "Electrification\n\n\nSource: EnerData"
+  },
+  {
+    "objectID": "lectures/lecture6.html#ev-and-load",
+    "href": "lectures/lecture6.html#ev-and-load",
+    "title": "Lecture 6 Energy Demand",
+    "section": "EV and load",
+    "text": "EV and load\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: McKinsey"
+  },
+  {
+    "objectID": "lectures/lecture6.html#energy-efficiency---first-fuel",
+    "href": "lectures/lecture6.html#energy-efficiency---first-fuel",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy efficiency - “First Fuel”",
+    "text": "Energy efficiency - “First Fuel”\n\n \n\n\nRead more: IEA, IEA (2021)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#adoption-curve",
+    "href": "lectures/lecture6.html#adoption-curve",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Adoption curve",
+    "text": "Adoption curve\n\n\nRead more: Diffusion of innovations"
+  },
+  {
+    "objectID": "lectures/lecture6.html#rebound",
+    "href": "lectures/lecture6.html#rebound",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Rebound",
+    "text": "Rebound\n\n\nRead more: CarbonBrief, Borenstein (2015), Brockway et al. (2021)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
+    "href": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Limit to growth, degrowth, green growth",
+    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: Meadows et al. (2018), 50-year argument"
+  },
+  {
+    "objectID": "lectures/lecture6.html#decent-living",
+    "href": "lectures/lecture6.html#decent-living",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Decent living",
+    "text": "Decent living\n\n\nRead more: Rao and Min (2018)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#human-behavior---demand-response",
+    "href": "lectures/lecture6.html#human-behavior---demand-response",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Human behavior - demand response",
+    "text": "Human behavior - demand response\n\n\nSource: CAIOS"
+  },
+  {
+    "objectID": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
+    "href": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Energy savings across behavioural interventions implemented in the United States",
+    "text": "Energy savings across behavioural interventions implemented in the United States\n\n\nHigh evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: IEA"
+  },
+  {
+    "objectID": "lectures/lecture6.html#load-forecasting",
+    "href": "lectures/lecture6.html#load-forecasting",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecasting",
+    "text": "Load forecasting\n\n\nSource: Hong and Fan (2016)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#load-forecast",
+    "href": "lectures/lecture6.html#load-forecast",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Load forecast",
+    "text": "Load forecast\n\n\nRead more: PJM, ISO New England"
+  },
+  {
+    "objectID": "lectures/lecture6.html#summary",
+    "href": "lectures/lecture6.html#summary",
+    "title": "Lecture 6 Energy Demand",
+    "section": "Summary",
+    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and profile of our demand\n\nLoad forecast integrates all insights to the show"
+  },
+  {
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Energy Demand",
+    "section": "",
+    "text": "References\n\n\nBorenstein, Severin. 2015. “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.” The Energy Journal 36 (1). https://doi.org/10.5547/01956574.36.1.1.\n\n\nBrockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.” Renewable and Sustainable Energy Reviews 141: 110781. https://doi.org/10.1016/j.rser.2021.110781.\n\n\nEhrlich, Paul R, and John P Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1097/00006254-197111000-00014.\n\n\nHong, Tao, and Shu Fan. 2016. “Probabilistic Electric Load Forecasting: A Tutorial Review.” International Journal of Forecasting 32 (3): 914–38. https://doi.org/10.1016/j.ijforecast.2015.11.011.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nLin, Jiang, Gang He, and Alexandria Yuan. 2016. “Economic Rebalancing and Electricity Demand in China.” The Electricity Journal 29 (3): 48–54. https://doi.org/10.1016/j.tej.2016.03.010.\n\n\nMeadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. “The Limits to Growth.” In Green Planet Blues, 25–29. Routledge.\n\n\nRao, Narasimha D, and Jihoon Min. 2018. “Decent Living Standards: Material Prerequisites for Human Wellbeing.” Social Indicators Research 138 (1): 225–44. https://doi.org/10.1007/s11205-017-1650-0.\n\n\nSwan, Lukas G., and V. Ismet Ugursal. 2009. “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.” Renewable and Sustainable Energy Reviews 13 (8): 1819–35. https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/energy-climate-policy/"
+  },
+  {
+    "objectID": "readings.html#lecture-6",
+    "href": "readings.html#lecture-6",
+    "title": "Readings",
+    "section": "Lecture 6",
+    "text": "Lecture 6\n\nLukas G. Swan and V. Ismet Ugursal “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques,” Renewable and Sustainable Energy Reviews 13, no. 8 (2009): 1819–35, https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\nPaul R Ehrlich and John P Holdren “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171, no. 3977 (1971): 1212–17, https://doi.org/10.1097/00006254-197111000-00014.\nJiang Lin, Gang He, and Alexandria Yuan “Economic Rebalancing and Electricity Demand in China,” The Electricity Journal 29, no. 3 (2016): 48–54, https://doi.org/10.1016/j.tej.2016.03.010.\nSeverin Borenstein “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications,” The Energy Journal 36, no. 1 (2015), https://doi.org/10.5547/01956574.36.1.1.\nPaul E Brockway et al. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications,” Renewable and Sustainable Energy Reviews 141 (2021): 110781, https://doi.org/10.1016/j.rser.2021.110781.\nDonella H Meadows et al. “The Limits to Growth,” in Green Planet Blues (Routledge, 2018), 25–29.\nNarasimha D Rao and Jihoon Min “Decent Living Standards: Material Prerequisites for Human Wellbeing,” Social Indicators Research 138, no. 1 (2018): 225–44, https://doi.org/10.1007/s11205-017-1650-0.\nTao Hong and Shu Fan “Probabilistic Electric Load Forecasting: A Tutorial Review,” International Journal of Forecasting 32, no. 3 (2016): 914–38, https://doi.org/10.1016/j.ijforecast.2015.11.011."
   }
 ]

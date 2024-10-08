@@ -2,7 +2,7 @@
 title: "Lecture 6 Energy Demand"
 description-meta: "Factors that drive energy demand"
 author: "Gang He"
-date: October 16, 2023
+date: October 15, 2024
 date-format: long
 image: "/lectures/images/china-provincial-electricity-gdp.png"
 format:
@@ -37,6 +37,15 @@ format:
 
 ::: footer
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
+:::
+
+
+## Decouping GDP and emissions 
+
+![](/lectures/images/gdp-co2-emissions.png){fig-align="center"}
+
+::: footer
+Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
 :::
 
 
