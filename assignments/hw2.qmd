@@ -30,12 +30,13 @@ In your first policy response, you discussed the impact and policy responses to 
 First, let's make some assumptions on the market penetration of small cars and electric vehicles: 
 
 Key assumptions (all based on 2022 data):
-- Average annual miles per vehicle: 11,000 miles^[https://afdc.energy.gov/data/10309]
-- Averge fuel efficiency^[https://thundersaidenergy.com/downloads/us-vehicle-sales-by-fuel-economy-cars-trucks-and-suvs]: 
-  - Subcompact/small cars: 33 mile per gallon (mpg)
-  - Big cars/pickup trucks: 20 mpg
-- Total registerd personal and commercial vehicles: 278,870,463^[https://www.forbes.com/advisor/car-insurance/car-ownership-statistics]
-- Big cars (large, crossover, SUVs) market share: 65%^[https://www.autoinsurance.com/research/car-ownership-statistics/]
+
+- Average annual miles per vehicle: 11,000 miles^[https://afdc.energy.gov/data/10309]\
+- Averge fuel efficiency^[https://thundersaidenergy.com/downloads/us-vehicle-sales-by-fuel-economy-cars-trucks-and-suvs]: \
+  - Subcompact/small cars: 33 mile per gallon (mpg)\
+  - Big cars/pickup trucks: 20 mpg\
+- Total registerd personal and commercial vehicles: 278,870,463^[https://www.forbes.com/advisor/car-insurance/car-ownership-statistics]\
+- Big cars (large, crossover, SUVs) market share: 65%^[https://www.autoinsurance.com/research/car-ownership-statistics/]\
 
 ### Questions
 
