@@ -156,11 +156,11 @@ Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/b
 
 ## Rebound{.smaller}
 
-|     Category    |     Description    |     Example    |
-|---|---|---|
-|     Direct   rebound    |     Homeowners use more of the more   efficient service    |     Consumer drives more with a more fuel   efficient   car    |
-|     Indirect   rebound    |     Homeowners re-spending on other   goods and services    |     Savings from efficient lighting   spend on 2nd   refrigerator    |
-|     Economy-wide   rebound    |     More efficient production and   shifts in demand alter economic structure and growth    |     A more efficient steam engine   increases production changes structural relationships and leads to economic growth    |
+| Category               | Description                                                                          | Example                                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Direct   rebound       | Homeowners use more of the more   efficient service                                  | Consumer drives more with a more fuel   efficient   car                                                            |
+| Indirect   rebound     | Homeowners re-spending on other   goods and services                                 | Savings from efficient lighting   spend on 2nd   refrigerator                                                      |
+| Economy-wide   rebound | More efficient production and   shifts in demand alter economic structure and growth | A more efficient steam engine   increases production changes structural relationships and leads to economic growth |
 
 ## Economics of rebound{.smaller}
 
