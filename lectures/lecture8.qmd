@@ -1,8 +1,8 @@
 ---
-title: "Lecture 9 Energy Efficiency, Behavior, and Sustainable Consumption"
+title: "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption"
 description-meta: "Energy Efficiency, Behavior, and Sustainable Consumption"
 author: "Gang He"
-date: November 6, 2023
+date: October 28, 2024
 date-format: long
 image: "/lectures/images/behavior-change-net-zero.png"
 format:
@@ -29,6 +29,7 @@ format:
 -   How big is rebound, and what to do with rebound?\
 -   What policies to push for sustainable energy consumption?\
 
+
 ## Energy efficiency
 
 - Energy efficiency  
@@ -39,6 +40,7 @@ format:
 Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publications/explainers/energy-efficiency-101/)
 :::
 
+
 ## Energy intensity
 
 ![](/lectures/images/energy-intensity.png){fig-align="center"}
@@ -47,13 +49,15 @@ Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publicati
 Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=CHE~DEU~CHN~IND~GBR~USA~JPN~OWID_WRL)
 :::
 
-## Recall the abatement cost curve
+
+## Abatement cost curve
 
 ![](/lectures/images/mckinsey-curve.png){fig-align="center"}
 
 ::: footer
 Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
 :::
+
 
 ## Energy efficiency gap
 
@@ -62,6 +66,7 @@ Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilit
 ::: footer
 Source: @gillingham2009energy
 :::
+
 
 ## Information
 
@@ -91,6 +96,7 @@ Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-h
 Source: Severin Borenstein
 :::
 
+
 ## Behavior change in NZE
 
 ![](/lectures/images/behavior-change-net-zero.png){fig-align="center"}
@@ -98,6 +104,7 @@ Source: Severin Borenstein
 ::: footer
 Source: @iea_net_2021
 :::
+
 
 ## Key behavior change for NZE
 
@@ -107,6 +114,7 @@ Source: @iea_net_2021
 Source: @iea_net_2021
 :::
 
+
 ## Complexity of human behavior
 
 ![](/lectures/images/Kahneman-systems.jpeg){fig-align="center"}
@@ -114,6 +122,7 @@ Source: @iea_net_2021
 ::: footer
 Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
 :::
+
 
 ## Maslow's hierarchy of needs
 
@@ -123,6 +132,7 @@ Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
 Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 :::
 
+
 ## Stage of change theory
 
 ![](/lectures/images/stages-behavior-change.png){fig-align="center"}
@@ -130,6 +140,7 @@ Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_nee
 ::: footer
 Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
 :::
+
 
 ## Nudge
 
@@ -154,6 +165,7 @@ Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/
 Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/book/9780300262285/nudge/)
 :::
 
+
 ## Rebound{.smaller}
 
 | Category               | Description                                                                          | Example                                                                                                            |
@@ -161,6 +173,7 @@ Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/b
 | Direct   rebound       | Homeowners use more of the more   efficient service                                  | Consumer drives more with a more fuel   efficient   car                                                            |
 | Indirect   rebound     | Homeowners re-spending on other   goods and services                                 | Savings from efficient lighting   spend on 2nd   refrigerator                                                      |
 | Economy-wide   rebound | More efficient production and   shifts in demand alter economic structure and growth | A more efficient steam engine   increases production changes structural relationships and leads to economic growth |
+
 
 ## Economics of rebound{.smaller}
 
@@ -174,6 +187,7 @@ Read more: [Richard H. Thaler and Cass R. Sunstein](https://yalebooks.yale.edu/b
 ::: footer
 Source: Severin Borenstein
 :::
+
 
 ## Rebound might be overplayed
 
@@ -207,8 +221,6 @@ Source: @gillingham2013energy
 - Technological innovation and efficiency gains that help us to refine production processes;  
 - Recognition that consumption will need to increase for those individuals and communities whose needs are not being met, and  
 - A transformation of our economy from continuous growth to within the limits of a finite planet.  
-
-
 :::
 
 :::
@@ -216,6 +228,7 @@ Source: @gillingham2013energy
 ::: footer
 Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/2022/07/Goal-12-infographic.pdf), [USDN](https://sustainableconsumption.usdn.org/concept/overview)
 :::
+
 
 ## Summary
 
@@ -232,5 +245,5 @@ Read more: [UN](https://www.un.org/sustainabledevelopment/wp-content/uploads/202
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture9.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture8.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

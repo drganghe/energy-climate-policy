@@ -86,3 +86,11 @@ Here is a list of readings for the course. All readings are available on Brights
 - @liu_climate_2023
 - @koomey2010defining
 - @dowling_role_2020
+
+
+## Lecture 8
+
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021

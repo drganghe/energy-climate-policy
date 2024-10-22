@@ -1,0 +1,111 @@
+---
+title: Assignment 3 Energy project economics
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## 1. A tale of two nuclear plants
+
+### Background  
+
+Please read the stories of the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant). One plant never commerically operated and was decommisioned, with rate-payers still paying the construction costs, while the other was offered to extend operation amid California's clean energy transition.
+
+
+### Questions
+
+1. **Shoreham Nuclear Power Plant**:
+
+How long does it take for Long Island residents to pay off the construction and decommissioning of the Shoreham Nuclear Power Plant? (Bad energy investment decisions could have drastic financial consequences)  (**1.5pt**)
+
+Key assumptions: 
+
+- LILCO (Long Island Lighting Company) attaches a **3%** surcharge to Long Island electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989.    
+- Residential rates in 2020: **21.22 cents/kWh**   
+- Long Island total electricity consumption in 2020: **20 TWh**   
+- Discount rate: **4%**   
+- Assuming the real value of total annual surcharge remains constant. You can use 2020 as the base year, convert the $6 billion price tag to its 2020 value, and divide it by the 2020 total surcharges.   
+
+2. **Diablo Canyon Power Plant**:
+
+In 2021, Diablo Canyon Power Plant generated nearly 9% of Cailifornia's electricity and roughly 15% of the State's clean energy production. The plant has been granted a 5 year extention beyond its scheduled closure in 2025. 
+
+What's the levelized cost of electricity (LCOE) for Diablo Canyon Power Plant during its extended operation period (2026-2030)?  (**1pt**)
+ 
+Key assumptions:
+
+- Nameplate capacity: **2,256 MW**   
+- Capacity factor: **80%**   
+- Discount rate: **4%**   
+- Capical costs: the **$1.4** billion forgivable loans which can be treated as the investment. Past investments are sunk costs and should not be considered in this calculation.  
+- Assuming the O&M costs are 3% of the investment costs, average fuel costs is [\$5.37/MWh]^[https://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf]. 
+
+
+
+## 2. Offshore wind technology and economics
+
+The U.S. aims to have 30GW of offshore wind capacity by 2030, with New York targeting 9GW by 2035. Assume you are the project manager for an offshore wind developer preparing to bid in New York's [2024 offshore wind solicitation](https://www.nyserda.ny.gov/All-Programs/Offshore-Wind/Focus-Areas/Offshore-Wind-Solicitations/2024-Solicitation). Use your energy analysis skills to prepare your bid and evaluate the viability of your project.
+
+Questions:
+
+1. Estimate Capacity Factor Using Average Wind Speed
+
+Resources are key for project success. The average wind speed at the solicitation site is 8.18m/s, and the turbines can achieve their rated power output at a wind speed of 12m/s. Can you estimate the capacity factor of this site? (0.5pt)\
+
+2. Calculate Capacity Factor Using Hourly Wind Speed Data
+
+Download the [hourly wind speed](data/hw3-2wind.csv) for the solicitation site using [Renewables Ninja](https://www.renewables.ninja/). Use the longitude and lattitude of the site to obtain the data. 
+
+Compute the annual average capacity factor using the hourly wind speed or simulated hourly capacity factor from the data.(0.5pt)\
+
+3. Estimate the Levelized Cost of Electricity (LCOE) for Your Project
+
+Your CEO needs to understand the project's LCOE to make an investment decision. As a reference, the 2.5 GW Empire Wind Offshore and Beacon Wind projects secured a power purchase agreement (PPA) at $80.40/MWh. Assume your company plans to bid for a 2GW capacity project. 
+
+Based on this information, estimate the LCOE of your proposed project. Make reasonable assumptions and determine if it makes sense for your company to bid. What price should you offer? (1pt)
+
+Key information to consider:
+
+- Capital costs (find comparable reports from recent offshore wind projects)  
+- Operating costs: 3% of capital costs
+- Discount rate: 4%  
+- Capacity factor: from earlier questions
+
+4. Impact of a High Inflation Rate
+
+Assume the discount rate is raised from 4% to 7% due to inflation, check how this will impact your results and releate it to the news of why companies drop their bids^[https://www.politico.com/news/2024/04/19/new-york-offshore-wind-canceled-00153319]. (0.5pt)
+ 
+
+
+## Further readings
+
+Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.
+
+New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://www.nytimes.com/1983/06/19/nyregion/how-li-will-pay-for-shoreham.html)  
+
+Timothy Bolger and Christopher Twarowski, June 11, 2009, [Nuclear Waste: 20 Years After Shoreham’s Closure](http://archive.longislandpress.com/2009/06/11/nuclear-waste-20-years-after-the-closure-of-the-shoreham-power-facility/)
+
+Nathan Rott, September 1, 2022. [California lawmakers extend the life of the state's last nuclear power plant](https://www.npr.org/2022/09/01/1119778975/california-lawmakers-extend-the-life-of-the-states-last-nuclear-power-plant)  
+
+
+
+
+
