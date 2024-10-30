@@ -1,10 +1,10 @@
 ---
-title: "Lecture 12 Energy access, justice, and transition"
-description-meta: "Energy access, energy justice, energy transiton"
+title: "Lecture 9 Energy access, justice, and transition"
+description-meta: "Energy access, energy justice, and energy transiton"
 author: "Gang He"
-date: November 27, 2023
+date: November 4, 2024
 date-format: long
-image: "/lectures/images/us-energy-transition.png"
+image: "/lectures/images/annual-us-energy-consumption-1776-2023.svg"
 format:
   revealjs:
     theme: white
@@ -72,36 +72,40 @@ Read more: [Our World in Data](https://ourworldindata.org/energy-ladder)
 
 ::: columns
 
-::: {.column width="50%"}
-![](/lectures/images/sdg7-progress.png){fig-align="center" width="85%"}
+::: {.column width="33%"}
+![](/lectures/images/sdg7-progress.png){fig-align="center"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="33%"}
 ![](/lectures/images/sdg7-progress-2021.png){fig-align="center"}
 :::
 
+::: {.column width="33%"}
+![](/lectures/images/sdg7-progress-2022.webp){fig-align="center"}
+:::
+
 :::
 
 ::: footer
-Read more: Tracking SDG7 The Energy Progress Report [2022](https://www.irena.org/publications/2022/Jun/Tracking-SDG-7-2022), [2023](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+Read more: Tracking SDG7 The Energy Progress Report [2022](https://www.irena.org/publications/2022/Jun/Tracking-SDG-7-2022), [2023](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023), [2024](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2024-0611-v9-highresforweb.pdf)
 :::
 
 
-## Share of population with electricity
+## Progress on universal access to electricity
 
-![](/lectures/images/share-of-population-with-electricity-2021.png){fig-align="center"}
+![](/lectures/images/universal-electricity-access-progress-2022.webp){fig-align="center"}
 
 ::: footer
-Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2024-0611-v9-highresforweb.pdf)
 :::
 
 
 ## Share of population with clean cooking fuel
 
-![](/lectures/images/share-of-population-with-clean-cooking-2021.png){fig-align="center"}
+![](/lectures/images/share-of-population-with-clean-cooking-2022.webp){fig-align="center"}
 
 ::: footer
-Read more: [Tracking SDG7 The Energy Progress Report 2022](https://www.irena.org/Publications/2023/Jun/Tracking-SDG7-2023)
+Read more: [Tracking SDG7 The Energy Progress Report 2024](https://trackingsdg7.esmap.org/data/files/download-documents/sdg7-report2024-0611-v9-highresforweb.pdf)
 :::
 
 
@@ -181,8 +185,8 @@ Source: [Climate Justice Alliance](https://climatejusticealliance.org/just-trans
 
 ## Energy, environmental, climate justice
 
-| Energy | Environmental | Climate |
-|---|---|---|
+| Energy               | Environmental               | Climate                 |
+| -------------------- | --------------------------- | ----------------------- |
 | Energy supply/demand | Environment burden/benefits | Climate impact/benefits |
 
 **Common Questions**:  
@@ -194,25 +198,24 @@ Who bears the burden? Who harvests the benefits? Do we know the injustice? Can p
 ![](/lectures/images/nysclcpa-dac.png){fig-align="center"}
 
 ::: footer
-Read more: [Draft Disadvantaged
-Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Communities-Criteria)
+Read more: [Draft Disadvantaged Communities Criteria](https://climate.ny.gov/Our-Climate-Act/Disadvantaged-Communities-Criteria)
 :::
 
 
-## Transition history
+## How has energy use changed in the U.S.
 
-![](/lectures/images/us-energy-transition.png){fig-align="center"}
+![](/lectures/images/annual-us-energy-consumption-1776-2023.svg){fig-align="center"}
 
 ::: footer
-Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=36612)
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 :::
 
 ## RE > coal: a milestone
 
-![](/lectures/images/us-re-coal.svg){fig-align="center"}
+![](/lectures/images/us-coal-renewable-consumption-1950-2023.svg){fig-align="center"}
 
 ::: footer
-Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=43895)
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 :::
 
 
@@ -307,14 +310,24 @@ Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymake
 - Energy security
 - Strengthening local economies and providing social justice
 
-## Germany: role of nuclear?
+## Germany: end of nuclear
 
 ![](/lectures/images/germany-operable-nuclear-capacity.png){fig-align="center"}
 
-Three operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.
+The last three nuclear power plants in Germany were shut down on April 15, 2023
 
 ::: footer
 Source: [World Nuclear Association](https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany.aspx)
+:::
+
+## UK: end of coal
+
+![](/lectures/images/uk-coal-phase-out.webp){fig-align="center"}
+
+The last coal power plants in UK, Ratcliffe-on-Soar in Nottinghamshire, were shut down on September 30, 2024
+
+::: footer
+Source: [Carbon Brief](https://interactive.carbonbrief.org/coal-phaseout-UK/)
 :::
 
 ## The U.S.: net zero America
@@ -436,5 +449,5 @@ Source: IEA, [World Energy Outlook 2022](https://www.iea.org/reports/world-energ
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture11.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture9.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

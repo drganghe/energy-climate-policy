@@ -94,3 +94,18 @@ Here is a list of readings for the course. All readings are available on Brights
 - @gillingham2013energy
 - @iea_net_2021
 - @thalerNudge2021
+
+
+## Lecture 9
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @lovins_energy_1976
+- @jacobson_low-cost_2015
+- @clack_evaluation_2017
+- @cui2021plant
+- @he2020enabling
+- @mulugetta2022africa
