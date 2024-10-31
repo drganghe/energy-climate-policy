@@ -337,19 +337,19 @@ Source: [Carbon Brief](https://interactive.carbonbrief.org/coal-phaseout-UK/)
 Source: [ZERO Lab](https://netzeroamerica.princeton.edu)
 :::
 
-## U.S.: IRA
-![](/lectures/images/rhg-ira-emission.png){fig-align="center"}
+## U.S.: NDC, IRA, and beyond
+![](/lectures/images/us-ndc-ira-path-2023.png){fig-align="center"}
 
 ::: footer
-Source: [Rhodium Group](https://rhg.com/research/climate-clean-energy-inflation-reduction-act/)
+Source: [United States of America. Biennial Reports (BR). BR5. Additional information](https://unfccc.int/documents/634963)
 :::
 
-## Denmark: Distributed generation (CHP and wind)
+## Denmark: power to X
 
-![](/lectures/images/denmark-distributed-gen.png){fig-align="center"}
+![](/lectures/images/denmark-ptx.png){fig-align="center"}
 
 ::: footer
-Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/103/PARBO.pdf)
+Source: [Power-to-X strategy](https://ens.dk/sites/ens.dk/files/ptx/strategy_ptx.pdf)
 :::
 
 ## China: the scale and scope
@@ -358,6 +358,15 @@ Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/
 
 ::: footer
 Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)
+:::
+
+
+## China: renewable expansion
+
+![](/lectures/images/china-re-expansion-2024.png){fig-align="center"}
+
+::: footer
+Source: [Global Energy Monitor](https://globalenergymonitor.org/report/china-continues-to-lead-the-world-in-wind-and-solar-with-twice-as-much-capacity-under-construction-as-the-rest-of-the-world-combined/)
 :::
 
 
