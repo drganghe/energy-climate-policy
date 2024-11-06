@@ -108,4 +108,19 @@ Here is a list of readings for the course. All readings are available on Brights
 - @clack_evaluation_2017
 - @cui2021plant
 - @he2020enabling
+- @wuFewer15Coal2024
 - @mulugetta2022africa
+
+
+## Lecture 10
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+

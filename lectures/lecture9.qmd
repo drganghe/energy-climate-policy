@@ -395,6 +395,21 @@ Phasing out coal yields huge (water savings, avoided pre-matual death, and healt
 Source: @cui2021plant, @he2020enabling
 :::
 
+
+## China: Fewer than 15% of coal power workers transition to green jobs
+
+![](/lectures/images/china-coal-power-green-jobs.jpg){fig-align="center"}
+
+:::{style="font-size:24px"}
+- A coal power worker needs to travel 194 (178–242) km on average to access a green job.  
+- Only 11%–14% of existing coal power workers will transition to green jobs by 2060.
+:::
+
+::: footer
+Source: @wuFewer15Coal2024
+:::
+
+
 ## Bazil: role of hydro and biofuel
 
 ::: columns

@@ -1,8 +1,8 @@
 ---
-title: "Lecture 11 Energy, Environment, and Human Health"
-description-meta: "Energy and environmetn, energy and human health"
+title: "Lecture 10 Energy, Environment, Climate, and Human Health"
+description-meta: "Energy, Climate, environment, and human health"
 author: "Gang He"
-date: November 20, 2023
+date: November 11, 2024
 date-format: long
 image: "/lectures/images/iea-energy-air-pollution.png"
 format:
@@ -24,10 +24,11 @@ format:
 
 ## Sample analytic questions
 
--   What are the environmental impacts of a fossil power plant?\
--   How much water could you save if you replace all water cooling plants with air cooling?\
--   What are the human health impacts of energy?\
--   What are the co-benefits of energy transitions?\
+-   What are the environmental impacts of a fossil power plant?  
+-   How much water could you save if you replace all water cooling plants with air cooling?  
+-   What are the human health impacts of energy?  
+-   How climate change affect human health?  
+-   What are the co-benefits of energy transitions?  
 
 
 ## Energy system environmental and health impacts
@@ -40,12 +41,12 @@ format:
 
 ::: {.column width="30%"}
 **System impacts**\
+- Climate change  
 - Air pollution\
 - Health\
 - Water\
 - Land use\
 - Ecosystem\
-- Climate change
 :::
 
 :::
@@ -172,6 +173,7 @@ Source: @iea2016energywater
 Source: @zhang2021long
 :::
 
+
 ## Land use intensity
 
 ![](/lectures/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
@@ -179,6 +181,7 @@ Source: @zhang2021long
 ::: footer
 Source: @loveringa2022land
 :::
+
 
 ## Multiple uses of land, co-benefits!
 
@@ -188,10 +191,38 @@ Source: @loveringa2022land
 Source: [American Society of Civil Engineers](https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/article/2022/03/solar-panels-over-california-canals-test-possible-joint-siting-benefits)
 :::
 
+
+## NYC climate and health
+
+![](/lectures/images/climate-health-urban.png){fig-align="center"}
+
+::: footer
+Source: @matteNPCC4ClimateChange2024
+:::
+
+
+## Lancet countdown climate and health
+
+![](/lectures/images/lacet2024-health-heat.png){fig-align="center"}
+
+::: footer
+Source: @romanello2024ReportLancet2024
+:::
+
+
+## Aging, climate, and health
+
+![](/lectures/images/aging-climate-health.webp){fig-align="center"}
+
+::: footer
+Source: @tipaldoFrameworkAgeingHealth2024
+:::
+
+
 ## Summary
 
--   Environmental and health impacts are the externalities of energy systems\
--   Energy-air-pollution-human health framework of analysis\
+-   Environmental, climate, and health impacts are the externalities of energy systems\
+-   Energy-air pollution/climate change-human health framework of analysis\
 -   Energy-water-carbon nexus\
 -   System impacts show the constraint in systems modeling
 
@@ -203,5 +234,5 @@ Source: [American Society of Civil Engineers](https://www.asce.org/publications-
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture11.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture10.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
