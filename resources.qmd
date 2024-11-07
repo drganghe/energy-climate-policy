@@ -59,7 +59,9 @@ EIA, [Energy Conversion and Calculator](https://www.eia.gov/energyexplained/unit
 
 IEA, [World Energy Outlook](http://www.worldenergyoutlook.org) series
 
-EIA, [International Energy Outlook](http://www.eia.gov) series. 
+EIA, [International Energy Outlook](http://www.eia.gov) series 
+
+UNEP, [Emissions Gap Report](https://www.unep.org/resources/emissions-gap-report-2024) series
 
 [Global Energy Monitor](https://globalenergymonitor.org)
 

@@ -62,10 +62,14 @@ A typical policy includes an introduction (topic or problem), scope of problem, 
 Your policy will be graded by the following criteria:
 
 1. Creativity in defifing a topic/problem [5pt]
-2. Rigorous analysis [5]
-3. Clear writing, presentation, visulization [5]
+2. Rigorous analysis [5pt]
+3. Clear writing, presentation, visulization [5pt]
 4. Overall impression [5pt]
 
 ## References
 
-[Policy Memo Resources](https://policymemos.hks.harvard.edu/home)
+[How to Write a Policy Memo That Matters](https://harris.uchicago.edu/files/how_to_write_a_policy_memo_that_matters_0.pdf)
+
+[Stanford Law Policy Memo Guidelines](https://law.stanford.edu/wp-content/uploads/2015/04/Policy-Memo-Guidelines-2.pdf)
+
+[Lauren Brodsky, How to write policy memos](https://www.hks.harvard.edu/sites/default/files/Academic%20Dean's%20Office/communications_program/workshop-materials/Slides_How%20to%20Write%20a%20Policy%20Memo%202_14_22.pdf)
