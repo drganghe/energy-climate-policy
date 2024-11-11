@@ -1,0 +1,203 @@
+---
+title: "Lecture 11 Climate Policy Responses"
+description-meta: "Evolution of climate poliy instruments"
+author: "Gang He"
+date: November 18, 2024
+date-format: long
+image: "/lectures/images/us-energy-transition.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+
+## Sample analytic questions{.smaller}
+
+-   The barriers and policies to facilitate energy access?\
+-   What is Justice40? And what investments are included?\
+-   What are the typical energy injustice and how to address them?\
+-   What are the drivers of energy transition?\
+-   How should each country think/design/implement its energy transition?\
+-   How to frame the role of different technologies in energy transition?\
+-   How geo-politics, wars, and pandemic impact the energy in transiton?\
+
+
+## IPAT
+
+$I(mpact) = P(opulation) \times A(ffluence) \times T(echnology)$
+
+$I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
+
+- Technology: renewable energy, energy efficiency, innovations
+
+::: footer
+Source: @ehrlich_impact_1971
+:::
+
+
+## Kaya identify{.smaller}
+
+::: columns
+::: {.column width="50%"}
+$F=P \times \frac{G}{P} \times \frac{E}{G} \times \frac{F}{E}$
+
+<p style="font-size:10pt">
+Where:
+
+- F: global CO2 emissions from human sources
+- P: global population
+- G: world GDP
+- E: global energy consumption
+
+And:
+
+- G/P: GDP per capita
+- E/G: energy intensity of the GDP
+- F/E: emission intensity of energy
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/lectures/images/kaya-identity-co2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+:::
+
+
+## Climate wedges
+
+![](/lectures/images/pacala-socolow-wedges.png){fig-align="center"}
+
+::: footer
+Source: @pacala2004stabilization
+:::
+
+
+## The Mckinsey cost curve
+
+![](/lectures/images/mckinsey-curve.png){fig-align="center"}
+
+::: footer
+Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
+:::
+
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+
+## EPA social cost of carbon
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/epa-scc-2010.png){width=70% fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/epa-scc-2015.png){fig-align="center"}
+
+:::
+
+:::
+
+![](/lectures/images/EPASCC2020.png){width=60% fig-align="center"}
+
+::: footer
+Source: [EPA](https://www.epa.gov/system/files/documents/2023-12/epa_scghg_2023_report_final.pdf)
+:::
+
+
+## NYDEC 'Value of Carbon' Guidance
+
+- Carbon dioxide: \$125 per ton\
+- Methane: \$2,782 per ton\
+- Nitrous oxide: \$44,727 per ton
+
+::: footer
+Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
+:::
+
+
+## SCC updates
+
+![](/lectures/images/scc185.png){fig-align="center"}
+
+::: footer
+Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
+:::
+
+
+## What works what's not
+
+- Carbon tax vs. subsides\
+- Regulations vs markets\
+- Considering\
+  - Societal acceptance\
+  - Political feasibility
+
+
+::: footer
+Source: Read more: @armitage_innovation_2023
+:::
+
+
+## Best practices
+
+- Energy efficiency\
+- Low carbon eco-city\
+- Renewable integration\
+- Sectoral experiences\
+- Policy/technology tools
+
+
+## Policy instruments
+
+![](/lectures/images/policy-instruments.png){fig-align="center"}
+
+::: footer
+Source: @armitage_innovation_2023
+:::
+
+
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture11.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

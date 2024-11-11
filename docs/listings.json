@@ -2,16 +2,16 @@
   {
     "listing": "/lectures.html",
     "items": [
-      "/lectures/lecture1.html",
-      "/lectures/lecture2.html",
-      "/lectures/lecture3.html",
-      "/lectures/lecture4.html",
-      "/lectures/lecture5.html",
-      "/lectures/lecture6.html",
-      "/lectures/lecture7.html",
-      "/lectures/lecture8.html",
-      "/lectures/lecture9.html",
-      "/lectures/lecture10.html"
+      "/2024/lecture1.html",
+      "/2024/lecture2.html",
+      "/2024/lecture3.html",
+      "/2024/lecture4.html",
+      "/2024/lecture5.html",
+      "/2024/lecture6.html",
+      "/2024/lecture7.html",
+      "/2024/lecture8.html",
+      "/2024/lecture9.html",
+      "/2024/lecture10.html"
     ]
   }
 ]

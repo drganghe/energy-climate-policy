@@ -1,0 +1,245 @@
+---
+title: "Lecture 5 Energy Project Economics"
+description-meta: "Economics of energy projects"
+author: "Gang He"
+date: October 7, 2024
+date-format: long
+image: "/lectures/images/declining-discounting.jpeg"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Sample analytic questions
+
+- What's the LCOE of a new technology?  
+- When to retire a nuclear/coal power plant?    
+- Should I install rooftop solar or buy an EV?  
+- How long should the government subsidies heatpump?  
+- When can offshore wind achieve grid parity?  
+
+
+## Project economics
+ 
+- Simple payback  
+- Discounting  
+- Present/future value  
+- Uniform payments (annuities)  
+- Capital recovery factor  
+- Comparing technologies/costs (LCOE)  
+- Learning curve  
+- Market and technology drivers 
+
+
+## Time is money
+
+- Money value changes in time: a dollar today worth more than a dollar tomorrow.    
+- When money is invested, its amount changes with the return.  
+- When money is transferred into assets, its value change due to depreciation and/or inflation.  
+- Discounted cash flow is a technique that allow us to evaluate values as they change over time.  
+  
+
+## Payback period 
+
+<center>
+$Payback\ Period = Initial\ Investment ÷ Annual\ Cash\ Flow$
+</center>
+
+Simple payback: no discounting  
+Payback: with discounting  
+
+
+## Capital Recovery Factor (CRF)
+
+Ratio of a constant annunity to the present value of receiving that annuity for a given length of time.
+
+<center>
+$CRF = \frac{i(1+i)^n}{(1+i)^n - 1}$
+</center>
+
+
+## Discounting
+
+<center>
+$discount\ rate (r) = interest\ rate (i) + inflation$
+</center>
+
+
+## The power of discounting
+![](/lectures/images/discounting-schedule.png){fig-align="center"}
+
+::: footer
+Source: Gang He 
+:::
+
+
+## Declining discounting
+
+![](/lectures/images/declining-discounting.jpeg){fig-align="center"}
+
+::: footer
+Source: @weitzman2001gamma, @arrow_determining_2013  
+:::
+
+
+## LCOE
+<center>
+$LCOE=\frac{\text{sum of costs over lifetime}}{\text{sum of electricity produced over life time}}=\frac{\sum_{t=1}^{n}{\frac{I_t+M_t+F_t}{(1+r)^t}}}{\sum_{t=1}^{n}{\frac{E_t}{(1+r)^t}}}$
+</center>
+
+<p style="font-size:20pt; color:gray; text-align:center">
+I: Investment costs  
+M: Operation and maintaince costs  
+F: Fuel costs 
+</p>
+
+
+## Comparing LCOE
+
+![](/lectures/images/lazard-lcoe-2021.png){fig-align="center"}
+
+::: footer
+Source: [Lazard LCOE 15.0](https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/)
+:::
+
+
+## Limitations of LCOE
+
+- Fossil: Do not include other costs (e.g. enviromental, carbon, etc.)   
+- RE: Do not include integraton costs
+- Focus on economics, do not include social cultural acceptance
+
+
+## Learning curve
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/cumulative-learning-curve.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+Empircial relations between unit costs and cumulative production.
+<center>
+$Y = aX^b$
+
+$Pr=2^{b}$
+
+$Lr=1-Pr=1-2^{b}$
+</center>
+
+<p style="font-size:20pt; color:gray; text-align:center">
+Y: Unit costs  
+a: Cost of first unit  
+X: Units  
+b: Slope of the learning curve  
+Pr: Progress ratio   
+Lr: Learing rate
+</p>
+
+:::
+:::
+
+::: footer
+Source: @yelle_learning_1979  
+:::
+
+
+## Learning of differrent technologies
+
+![](/lectures/images/energy-technology-learning.png){fig-align="center"}
+
+::: footer
+Source: @grubler_dynamics_1999 
+:::
+
+
+## Drivers of learning
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/contribution-to-module-cost-change.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/estimated-contributions-to-pv-cost-reduction.webp){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kavlak_evaluating_2018, @Klemun2023Mechanisms
+:::
+
+
+## Source of learning
+
+Learning by doing
+
+- Economy of scale  
+- Economy of scope  
+
+Learning by researching  
+
+
+## How renewables are getting cheap
+
+![](/lectures/images/learning-curves-for-electricity-prices.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
+:::
+
+## Why nuclear costs are going up?
+
+![](/lectures/images/nuclear-learning.jpg){fig-align="center"}
+
+::: footer
+Source: @GRUBLER20105174 
+:::
+
+## Role of global supply chain in PV 
+
+![](/lectures/images/fig2_prices_historical_national_global.png){fig-align="center"}
+
+::: footer
+Source: @helveston_he_davidson_2022 
+:::
+
+## Summary
+
+- Project economics is useful for basic cost-benefit analysis  
+- Getting the price (discounting) right  
+- Understanding technology dynamics will help to model future projections  
+- Aware of the limitations   
+
+
+::: footer
+Read more: @grubler_dynamics_1999 
+:::
+
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

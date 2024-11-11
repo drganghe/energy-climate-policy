@@ -15,7 +15,7 @@ website:
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
-        href: schedule.qmd
+        href: 2024/schedule.qmd
       - text: Lectures
         href: lectures.qmd
       - text: Guest Speakers

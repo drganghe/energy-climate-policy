@@ -1,0 +1,855 @@
+---
+title: "Lecture 7 Energy Conversion Technologies"
+description-meta: "Solar and wind technologies"
+author: "Gang He"
+date: October 21, 2024
+date-format: long
+image: "/lectures/images/hybrid-power-systems.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Solar
+
+![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+
+::: footer
+Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
+:::
+
+
+## Solar spectrum
+
+![](/lectures/images/Solar_spectrum.png){fig-align="center"}
+
+<center>
+**Solar constant**: 1.361 kW/m2
+</center>
+
+::: footer
+Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
+:::
+
+
+## Harvesting the sun
+
+::: columns
+::: {.column width="50%"}
+![Heqing Solar Cooker Project in Zhangye](/lectures/images/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/NaDEET_solar_cooking_training.webp){fig-align="center"}
+:::
+:::
+
+::: footer
+Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=Heqing_Solar_Cooker_photo%2C_12-20-21.png), [Fu Ting](https://solarcooking.fandom.com/wiki/Namibia?file=NaDEET_solar_cooking_training_2012%2C_2-11-13.jpg); Source: [Solar Cooking](https://solarcooking.fandom.com/)
+:::
+
+
+## Silicon
+
+<center>
+![](/lectures/images/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+:::
+:::
+</center>
+
+::: footer
+Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
+:::
+
+
+## P and N type
+
+::: columns
+::: {.column width="30%"}
+![](/lectures/images/silicon-lattice.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/p-type-silicon.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![](/lectures/images/n-type-silicon.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [From sunlight to electricity](https://www.science.org.au/curious/technology-future/solar-pv)
+:::
+
+
+## P-N Junction 
+
+![](/lectures/images/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+
+## How solar works
+<center>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xKxrkht7CpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Source: <https://www.youtube.com/watch?v=xKxrkht7CpY> 
+:::
+
+
+## Solar irradiance{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Direct normal irradiance (DNI)   
+- Diffuse horizontal irradiance (DHI)
+- Ground reflected irradiance (GRI)      
+- Global horizontal irradiance (GHI)   
+- Plane-of-array irradiance (POA)  
+
+GHI=DNI+DHI+GRI
+
+POA = GHI $\times \cos \theta$
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/solar-irradiance.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: Manajit Sengupta, Aron Habte, [NREL](https://www.nrel.gov/docs/fy20osti/75573.pdf)
+:::
+
+
+## Key corrections  
+
+- Solar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle   
+- Radiation: direct beam, diffusion, reflected  
+- Tracking: fixed, 1-axis, 2-axis  
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## The quest for efficiency
+
+![](/lectures/images/best-research-cell-efficiencies.webp){fig-align="center"}
+
+::: footer
+Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
+:::
+
+
+## Global and U.S. distribution
+
+![](/lectures/images/World_PVOUT_map.png){fig-align="center"}
+
+::: footer
+Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
+:::
+
+
+## Air pollution and dust
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/pm-and-solar.gif){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/global-pm-solar-reduction.jpeg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @bergin2017large
+:::
+
+
+
+## Prioritize solar installation
+
+![](/lectures/images/prioritizing-solar-deployment.png){fig-align="center"}
+
+::: footer
+Source: @chen2023deploying
+:::
+
+
+## Solar thermal: CSP
+
+![](/lectures/images/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+
+::: footer
+Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)
+:::
+
+
+## Wind 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/block-island-wind.jpeg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+$P=\frac{1}{2}\rho \pi r^2 v^3$
+
+<p style="font-size:16pt; color:gray">
+Where,  
+$\rho$ = Air Density  ($kg/m^3$)  
+$A$ = Swept Area  ($m^2$)  = $\pi r^2$  
+$v$ = Wind Speed  (m/s)  
+$P$ = Power (W)  
+</p>
+:::
+:::
+
+::: footer
+Photo by Gang He, Block Island Offshore Wind Farm
+:::
+
+
+## Betz's law: 59.3%
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/upwind-downwind.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/blade-efficiency.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @masters2013renewable 
+:::
+
+
+## Average power 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/wind-distribution.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Rayleigh (a special type of Weibull) distribution 
+
+$f(v)=\frac{2v}{c^2}\exp [-(\frac{v}{c})^2]$
+
+$\bar{P}=\frac{6}{\pi}\cdot \frac{1}{2}\rho \pi r^2 (\bar{v})^3=1.91P$
+
+Use average power when dealing with average wind speed 
+:::
+:::
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## Power curve
+
+![](/lectures/images/wind-power-curve.png){fig-align="center"}
+
+::: footer
+Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.nrel.gov/docs/fy14osti/61714.pdf)
+:::
+
+
+## Important corrections
+
+- Temperature: $\rho = \frac{P\times M.W. \times 10^{-3}}{RT}=\frac{1 atm\times 28.97 g/mol \times 10^{-3}kg/g}{8.2056\times 10^{-5}m^3\cdot atm/(K\cdot mol)\times(273.15+T)K}$   
+- Altitude: $P=P_0 e^{-1.185\times 10^{-4}H}$  (H is elevation in meters)  
+- Tower height: $\frac{v}{v_0}=(\frac{H}{H_0})^\alpha$  ($\alpha$ is the friction coefficient)  
+  
+
+::: footer
+Read more: @masters2013renewable 
+:::
+
+
+## Class of wind resources
+
+::: {style="font-size: 50%;"}
+| Class |       10 m (33 ft)        |                         |       50 m (164 ft)       |                          |
+| :---: | :-----------------------: | :---------------------: | :-----------------------: | :----------------------: |
+|       | Wind power density (W/m2) |     Speed m/s (mph)     | Wind power density (W/m2) |     Speed m/s (mph)      |
+|   1   |          0 - 100          |    0 - 4.4 (0 - 9.8)    |          0 - 200          |    0 - 5.6 (0 - 12.5)    |
+|   2   |         100 - 150         | 4.4 - 5.1 (9.8 - 11.5)  |         200 - 300         | 5.6 - 6.4 (12.5 - 14.3)  |
+|   3   |         150 - 200         | 5.1 - 5.6 (11.5 - 12.5) |         300 - 400         | 6.4 - 7.0 (14.3 - 15.7)  |
+|   4   |         200 - 250         | 5.6 - 6.0 (12.5 - 13.4) |         400 - 500         | 7.0 - 7.5 (15.7 - 16.8)  |
+|   5   |         250 - 300         | 6.0 - 6.4 (13.4 - 14.3) |         500 - 600         | 7.5 - 8.0 (16.8 - 17.9)  |
+|   6   |         300 - 400         | 6.4 - 7.0 (14.3 - 15.7) |         600 - 800         | 8.0 - 8.8 (17.9 - 19.7)  |
+|   7   |        400 - 1000         | 7.0 - 9.4 (15.7 - 21.1) |        800 - 2000         | 8.8 - 11.9 (19.7 - 26.6) |
+:::
+
+::: footer
+Source: [NREL](https://www.nrc.gov/docs/ML0720/ML072040340.pdf)
+:::
+
+
+## Global wind power density map
+
+![](/lectures/images/global-wind-power-density-map.webp){fig-align="center"}
+
+::: footer
+Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolution-maps/World)
+:::
+
+
+## Higher and bigger
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/turbine-hub-height-rotor-capacity.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/Turbine-Hub-Height-Chart.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [Land-Based Wind Market Report 2023](https://www.energy.gov/sites/default/files/2023-08/land-based-wind-market-report-2023-edition.pdf)
+:::
+
+
+## Offshore wind
+
+![](/lectures/images/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
+
+::: footer
+Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offshore)
+:::
+
+
+## Challenges
+
+:::columns
+
+::: {.column width="50%"}
+![](/lectures/images/offshore-floating-turbines.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/resources-demand-offshore-us.png){width="70%" fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: DOE, [Top 10 Things You Didn’t Know About Offshore Wind Energy](https://www.energy.gov/eere/wind/articles/top-10-things-you-didnt-know-about-offshore-wind-energy); NREL, [Supply Chain Road Map](https://www.nrel.gov/wind/offshore-supply-chain-road-map.html)
+:::
+
+
+## Low speed wind
+
+Smaller generator. $\rightarrow$ Decreased generator weight and cost.
+
+Operating at higher capacity in lower wind speeds. $\rightarrow$ Greater generator efficiency.
+
+Decreased tower head mass. $\rightarrow$ Decreased foundation and tower costs.
+
+Decreased PE system rating. $\rightarrow$ Decreased PE system costs
+
+::: footer
+Source: [Low Speed Wind Turbines](https://faculty.washington.edu/malte/OldSite/seminar/Sp04/LowSpeedTurbines.pdf)
+:::
+
+
+## Unexpected benefits
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){width=70% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/solar-farm-benefits.webp){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/grazing_animals_like_sheep_enjoy_using_the/); [New York Times](https://www.nytimes.com/2024/09/05/climate/solar-power-pollinators-wildlife.html)
+:::
+
+
+
+## Climate change impact
+
+![](/lectures/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## Pros and Cons
+
+| Pros          | Cons                   |
+| ------------- | ---------------------- |
+| Renewables    | Variable & integration |
+| Low emissions | Land use & NIMBY       |
+| Low costs     | Distribution           |
+
+
+## Hybrid power systems
+
+![](/lectures/images/hybrid-power-systems.png){fig-align="center"}
+
+::: footer
+Source: [Small Wind Guidebook](https://windexchange.energy.gov/small-wind-guidebook#grid)
+:::
+
+
+## Thermodynamics
+
+-   Thermodynamic **efficiency**\
+-   Comparing different technologies\
+-   Thermodynamics provides physic limits
+
+
+## Heat engine
+
+![](/lectures/images/heat_engine.png){fig-align="center"}
+
+Heat -\> Mechanical energy (work)
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Heat_engine)
+:::
+
+
+## Laws of thermodynamics {.smaller}
+
+-   Zeroth law\
+    "If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other."
+
+-   First law\
+    "In a process without transfer of matter, the change in internal energy, $\Delta U$, of a thermodynamic system is equal to the energy gained as heat, $Q$, less the thermodynamic work, $W$, done by the system on its surroundings."
+
+-   Second law\
+    "Heat does not spontaneously flow from a colder body to a hotter body."
+
+-   Third law\
+    "As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value."
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Laws_of_thermodynamics)
+:::
+
+## Three efficiencies
+
+-   1st law: actual, thermal efficiency;\
+    $\eta_1 =\frac{W_{net}}{Q_{in}}=\frac{Q_{high}-Q_{low}}{Q_{high}}=1-\frac{Q_{low}}{Q_{high}}$
+-   Carnot: maximum possible efficiency;\
+    $\eta_c =\frac{W_{net}}{Q_{high}}=\frac{T_{high}-T_{low}}{T_{high}}=1-\frac{T_{low}}{T_{high}}$ (Kelvin)\
+-   2nd law: comparing 1st and Carnot;\
+    $\eta_2 =\frac{\eta_1}{\eta_c}$
+
+::: footer
+Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
+:::
+
+
+## A gas turbine engine
+
+![](/lectures/images/gas-turbine-engine.png){fig-align="center"}
+
+::: footer
+Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg)
+:::
+
+
+## A steam coal plant
+
+![](/lectures/images/coal_fired_power_plant_diagram.png){fig-align="center"}
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
+:::
+
+
+## Brayton cycle vs. Rankine cycle
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/Brayton_cycle.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Jet engine, gas turbine
+
+</p>
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/Rankine_cycle.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Steam engine, steam turbine
+
+</p>
+:::
+:::
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+
+## Brayton cycle vs. Rankine cycle
+
+| Brayton Cycle                  | Rankine Cycle              |
+|--------------------------------|----------------------------|
+| Jet, Gas turbine               | Steam turbine              |
+| Open                           | Open/closed circuits       |
+| Working fluid in gaseous phase | Working fluid phase change |
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+
+## Largest coal plant in the U.S. {.smaller}
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/georgia_power_plant_scherer.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+Georgia Power plant Scherer (3,720 MW)
+
+Can you identify the components
+
+-   Coal storage\
+-   Generating unit\
+-   Cooling stack\
+-   Bottom ash landfill\
+-   Sub-station\
+-   Transimission lines\
+-   Waste/pollution management\
+:::
+:::
+
+::: footer
+Source: [Google Map](https://goo.gl/maps/b6mCqsm6G9bhTc5b6), read more: [Nowhere to hide](https://carbontracker.org/reports/nowhere-to-hide/)
+:::
+
+
+## Combined cycle
+
+<center>
+
+<iframe width="800" height="450" src="https://players.brightcove.net/605538292001/default_default/index.html?videoId=610140476001" allowfullscreen frameborder="0">
+
+</iframe>
+
+</center>
+
+::: footer
+Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-system/natural-gas/how-a-combined-cycle-power-plant-works)
+:::
+
+
+## CCGT diagram
+
+![](/lectures/images/GE-CCGT-diagram.png){fig-align="center"}
+
+::: footer
+Read more: [GE Power](https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine)
+:::
+
+
+## Updating an Rosenfeld Plant?
+
+|                     | 2010 | 2021 |
+|---------------------|------|------|
+| Size (MW)           | 500  | 940  |
+| Capacity Factor     | 70%  | 43%  |
+|                     |      |      |
+| Generation (TWh/yr) | \~ 3 |\~ 3.6|
+| Emissions (Mt/yr)   | \~ 3 |\~ 3.5|
+
+-   NYC electricity use in 2020: \~4 TWh/year
+
+::: footer
+Source: @koomey2010defining
+:::
+
+
+## Nuclear
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/fission.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Nuclear fission
+
+</p>
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/fusion-reactions.jpeg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Nuclear fussion
+
+</p>
+:::
+:::
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/); DOE, [Nuclear fusion reactions](https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions)
+:::
+
+## Nuclear power plants
+
+![](/lectures/images/US_nuclear_power_plants_map.png){fig-align="center"}
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Nuclear plant design
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/small_bwr.jpg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Diagram of a boiling-water nuclear reactor
+
+</p>
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/small_pwr.jpg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Diagram of a pressurized-water nuclear reactor
+
+</p>
+:::
+:::
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Nuclear fuel cycle
+
+![](/lectures/images/nuclear_fuel_cycle.png){fig-align="center"}
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
+:::
+
+
+## Social \> technology challenges {.smaller}
+
+::: columns
+::: {.column width="60%"}
+![](/lectures/images/three-island-historical-site.JPG){fig-align="center" width="60%"}
+:::
+
+::: {.column width="40%"}
+-   Public engagement\
+-   Lower capital costs\
+-   Social and decision sciences\
+-   Science and technology study\
+-   Nuclear waste siting\
+-   Best practices
+:::
+:::
+
+::: footer
+Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacademies.org/catalog/26606/understanding-the-societal-challenges-facing-nuclear-power-proceedings-of-a)
+:::
+
+
+## Next generation of nuclear technology
+
+::: columns
+::: {.column width="60%"}
+![](/lectures/images/next-gen-nuclear.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+-   Modality\
+-   Lower capital costs\
+-   Siting flexibility\
+-   Higher efficiency\
+-   Safe and security\
+-   Industry and manufacture\
+-   Economic
+:::
+:::
+
+::: footer
+Read more: DOE, [Benefits of Small Modular Reactors](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs), [TerraPower](https://www.terrapower.com/our-work/natriumpower/)
+:::
+
+
+## Livermore Fusion breakthrough
+
+![](/lectures/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
+
+::: footer
+Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition)
+:::
+
+
+## Hydro
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/hydro.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Hydropower
+
+</p>
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/pumped-storage.jpeg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+
+Pumped storage hydropower (PSH)
+
+</p>
+:::
+:::
+
+</br>
+
+<center>$E=\rho mg(h_2-h_1)$</center>
+
+::: footer
+Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works)
+:::
+
+
+## How a lithium-ion battery works
+
+{{< video https://s3.amazonaws.com/UCS_Videos/Energy+embedded+video/lithium-ion-battery.mp4 >}}
+
+::: footer
+Source: [Union of Concerned Scientists](https://www.ucsusa.org/resources/how-energy-storage-works)
+:::
+
+
+## Battery management system
+
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/battery-management-system.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+-   Rated power capacity\
+-   Energy capacity\
+-   Storage duration\
+-   Cycle life/lifetime\
+-   Self-discharge\
+-   State of charge\
+-   Round-trip efficiency
+:::
+:::
+
+::: footer
+Read more: NREL, [Grid-scale battery storage](https://www.nrel.gov/docs/fy19osti/74426.pdf)
+:::
+
+## Long duration storage
+
+![](/lectures/images/role-of-long-duration-storage.jpg){fig-align="center"}
+
+::: footer
+Source: @dowling_role_2020
+:::
+
+
+## Summary {.smaller}
+
+-   Theory - learn and understand the physics of energy technologies:
+    -   thermaldynamics (fossil)\
+    -   kinematics (wind)\
+    -   light and semiconductor (solar)\
+    -   gravity (hydro, tidal)\
+    -   atomic (nuclear)\
+-   Practice - learn all kinds of corrections based on real-world situation\
+-   The physics doesn't change, corrections help us to do better jobs in simulation and projections
+
+
+---
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture7.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

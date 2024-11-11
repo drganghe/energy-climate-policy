@@ -4,8 +4,8 @@ image: "/files/images/hex-Energy-Climate-Policy.png"
 page-layout: full
 listing:
 
-- id: lectures-2024
-  contents: lectures
+- id: lectures
+  contents: /2024/lecture*.qmd
   sort: "date asc"
   type: grid
   categories: false
@@ -32,5 +32,5 @@ repo-actions: false
 {{< include /files/includes/_msclarity.qmd >}}
 
 
-:::{#lectures-2024}
+:::{#lectures}
 :::
