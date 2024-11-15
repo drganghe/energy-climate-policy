@@ -4,7 +4,7 @@ description-meta: "Energy and environmetn, energy and human health"
 author: "Gang He"
 date: November 20, 2023
 date-format: long
-image: "/lectures/images/iea-energy-air-pollution.png"
+image: "/images/iea-energy-air-pollution.png"
 format:
   revealjs:
     theme: white
@@ -35,7 +35,7 @@ format:
 :::columns
 
 ::: {.column width="70%"}
-![](/lectures/images/energy-systems.png){fig-align="center" width=70%}
+![](/images/energy-systems.png){fig-align="center" width=70%}
 :::
 
 ::: {.column width="30%"}
@@ -57,7 +57,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Example sources of energy related air pollution
 
-![](/lectures/images/energy-related-air-pollution.png){fig-align="center"}
+![](/images/energy-related-air-pollution.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -66,7 +66,7 @@ Source: @iea2016airpollution
 
 ## Pollution by energy sector
 
-![](/lectures/images/iea-energy-air-pollution.png){fig-align="center"}
+![](/images/iea-energy-air-pollution.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -74,7 +74,7 @@ Source: @iea2016airpollution
 
 ## Air pollution and human health analytic framework
 
-![](/lectures/images/environmental-health-framework.png){fig-align="center"}
+![](/images/environmental-health-framework.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -83,7 +83,7 @@ Source: @iea2016airpollution
 
 ## Energy related PM emissions by sector and region
 
-![](/lectures/images/pm-emissions-map.png){fig-align="center"}
+![](/images/pm-emissions-map.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -91,7 +91,7 @@ Source: @iea2016airpollution
 
 ## Air pollution standards (AQI)
 
-![](/lectures/images/air-pollution-standards.png){fig-align="center"}
+![](/images/air-pollution-standards.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -99,7 +99,7 @@ Source: @iea2016airpollution
 
 ## Typical power plant emission control system
 
-![](/lectures/images/power-plant-air-pollutions.png){fig-align="center"}
+![](/images/power-plant-air-pollutions.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -108,7 +108,7 @@ Source: @iea2016airpollution
 
 ## Pollution mitigation technologies and efficiencies
 
-![](/lectures/images/pollution-abatement-efficiency.png){fig-align="center"}
+![](/images/pollution-abatement-efficiency.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -117,7 +117,7 @@ Source: @iea2016airpollution
 
 ## Outdoor air pollution and premature mortality
 
-![](/lectures/images/motality-map.png){fig-align="center"}
+![](/images/motality-map.png){fig-align="center"}
 
 ::: footer
 Source: @lelieveld2015contribution
@@ -125,7 +125,7 @@ Source: @lelieveld2015contribution
 
 ## Trade, air pollution, and premature mortality
 
-![](/lectures/images/trade-emissions-motality.jpg){fig-align="center"}
+![](/images/trade-emissions-motality.jpg){fig-align="center"}
 
 ::: footer
 Source: @zhang2017transboundary
@@ -134,7 +134,7 @@ Source: @zhang2017transboundary
 
 ## Energy sector accounts ~1/8 global water withdrawal
 
-![](/lectures/images/water-by-sector.png){fig-align="center"}
+![](/images/water-by-sector.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016energywater
@@ -152,7 +152,7 @@ Source: @iea2016energywater
 
 ## Renewables save water
 
-![](/lectures/images/water-by-generating-technology.png){fig-align="center"}
+![](/images/water-by-generating-technology.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016energywater
@@ -161,12 +161,12 @@ Source: @iea2016energywater
 
 ## Dry cooling makes a big difference
 
-![](/lectures/images/water-by-power-technology.png){fig-align="center"}
+![](/images/water-by-power-technology.png){fig-align="center"}
 
 
 ## Water-energy-carbon nexus
 
-![](/lectures/images/energy-water-carbon-nexus.png){fig-align="center"}
+![](/images/energy-water-carbon-nexus.png){fig-align="center"}
 
 ::: footer
 Source: @zhang2021long
@@ -174,7 +174,7 @@ Source: @zhang2021long
 
 ## Land use intensity
 
-![](/lectures/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
+![](/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
 
 ::: footer
 Source: @loveringa2022land
@@ -182,7 +182,7 @@ Source: @loveringa2022land
 
 ## Multiple uses of land, co-benefits!
 
-![](/lectures/images/california-solar-canal.jpeg){fig-align="center"}
+![](/images/california-solar-canal.jpeg){fig-align="center"}
 
 ::: footer
 Source: [American Society of Civil Engineers](https://www.asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/article/2022/03/solar-panels-over-california-canals-test-possible-joint-siting-benefits)

@@ -1,0 +1,136 @@
+---
+title: Readings
+bibliography: ../readings.bib
+csl: chicago-syllabus.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+Here is a list of readings for the course. All readings are available on Brightspace.
+
+## Lecture 1
+
+- @iea_net_2021
+- @irena_renewable_2021
+- @he_rapid_2020 
+- @grant_cost_2021
+- @hogan_energy_2002
+- @huntington_modeling_1982
+
+
+## Lecture 2
+
+- @IPCC_2021_WGI
+- @hermann2006quantifying 
+- @koomey2010defining 
+- @fridley2016impacts 
+- @macknick_energy_2011 
+- @hansen_perception_2012
+
+
+## Lecture 3
+
+- @carleton2016social 
+- @neumann_climate_2020
+- @updating_scc_2017
+- @hsiang_quantifying_2013
+- @yalew2020impacts
+- @liu_climate_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @armitage_innovation_2023
+
+
+## Lecture 4
+
+- @smil2017energy
+- @iea_net_2021
+- @bmwi_electricity_2015
+
+
+## Lecture 5
+
+- @weitzman2001gamma
+- @arrow_determining_2013
+- @yelle_learning_1979
+- @grubler_dynamics_1999
+- @kavlak_evaluating_2018
+- @Klemun2023Mechanisms
+- @GRUBLER20105174
+- @helveston_he_davidson_2022
+
+
+## Lecture 6
+
+- @swan2009modeling
+- @ehrlich1971impact
+- @lin2016economic
+- @borenstein2015microeconomic
+- @brockway2021energy
+- @meadows2018limits
+- @rao2018decent
+- @hong2016probabilistic
+
+
+## Lecture 7
+
+- @masters2013renewable
+- @bergin2017large
+- @chen2023deploying
+- @liu_climate_2023
+- @koomey2010defining
+- @dowling_role_2020
+
+
+## Lecture 8
+
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021
+
+
+## Lecture 9
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @lovins_energy_1976
+- @jacobson_low-cost_2015
+- @clack_evaluation_2017
+- @cui2021plant
+- @he2020enabling
+- @wuFewer15Coal2024
+- @mulugetta2022africa
+
+
+## Lecture 10
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+
+
+## Lecture 11
+
+- @IPCC_2007_WGIII_Ch_13
+- @armitage_innovation_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @stavinsRelativeMeritsCarbon2022

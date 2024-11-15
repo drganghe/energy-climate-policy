@@ -4,7 +4,7 @@ description-meta: "Evolution of climate poliy responses and instruments"
 author: "Gang He"
 date: November 18, 2024
 date-format: long
-image: "/lectures/images/carbon-pricing-instrument.png"
+image: "/images/carbon-pricing-instrument.png"
 format:
   revealjs:
     theme: white
@@ -35,7 +35,7 @@ format:
 
 A UN/global Carbon Market?
 
-![](/lectures/images/carbon-pricing-instrument.png)
+![](/images/carbon-pricing-instrument.png)
 
 ::: footer
 Source: World Bank [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/), [Article 6.4 mechanism](https://unfccc.int/sites/default/files/resource/A6.4-SBM014-A05.pdf)
@@ -101,7 +101,7 @@ And:
 
 ::: {.column width="50%"}
 
-![](/lectures/images/kaya-identity-co2.png){fig-align="center"}
+![](/images/kaya-identity-co2.png){fig-align="center"}
 :::
 
 :::
@@ -113,7 +113,7 @@ Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in th
 
 ## Climate wedges
 
-![](/lectures/images/pacala-socolow-wedges.png){fig-align="center"}
+![](/images/pacala-socolow-wedges.png){fig-align="center"}
 
 ::: footer
 Source: @pacala2004stabilization
@@ -122,7 +122,7 @@ Source: @pacala2004stabilization
 
 ## The Mckinsey cost curve
 
-![](/lectures/images/mckinsey-curve.png){fig-align="center"}
+![](/images/mckinsey-curve.png){fig-align="center"}
 
 ::: footer
 Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
@@ -147,18 +147,18 @@ Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilit
 :::columns
 
 ::: {.column width="50%"}
-![](/lectures/images/epa-scc-2010.png){width=70% fig-align="center"}
+![](/images/epa-scc-2010.png){width=70% fig-align="center"}
 
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/epa-scc-2015.png){fig-align="center"}
+![](/images/epa-scc-2015.png){fig-align="center"}
 
 :::
 
 :::
 
-![](/lectures/images/EPASCC2020.png){width=60% fig-align="center"}
+![](/images/EPASCC2020.png){width=60% fig-align="center"}
 
 ::: footer
 Source: [EPA](https://www.epa.gov/system/files/documents/2023-12/epa_scghg_2023_report_final.pdf)
@@ -178,7 +178,7 @@ Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
 
 ## SCC updates
 
-![](/lectures/images/scc185.png){fig-align="center"}
+![](/images/scc185.png){fig-align="center"}
 
 ::: footer
 Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
@@ -246,7 +246,7 @@ Source: Read more: @armitage_innovation_2023
 
 ## Policy instruments
 
-![](/lectures/images/policy-instruments.png){fig-align="center"}
+![](/images/policy-instruments.png){fig-align="center"}
 
 ::: footer
 Source: @armitage_innovation_2023

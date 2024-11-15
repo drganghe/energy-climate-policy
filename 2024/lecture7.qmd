@@ -4,7 +4,7 @@ description-meta: "Solar and wind technologies"
 author: "Gang He"
 date: October 21, 2024
 date-format: long
-image: "/lectures/images/hybrid-power-systems.png"
+image: "/images/hybrid-power-systems.png"
 format:
   revealjs:
     theme: white
@@ -24,7 +24,7 @@ format:
 
 ## Solar
 
-![](/lectures/images/2/perez-planetary-energy.png){fig-align="center"}
+![](/images/2/perez-planetary-energy.png){fig-align="center"}
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
@@ -33,7 +33,7 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ## Solar spectrum
 
-![](/lectures/images/Solar_spectrum.png){fig-align="center"}
+![](/images/Solar_spectrum.png){fig-align="center"}
 
 <center>
 **Solar constant**: 1.361 kW/m2
@@ -48,11 +48,11 @@ Source: [Solar Spectrum](https://en.wikipedia.org/wiki/Sunlight)
 
 ::: columns
 ::: {.column width="50%"}
-![Heqing Solar Cooker Project in Zhangye](/lectures/images/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
+![Heqing Solar Cooker Project in Zhangye](/images/Heqing_Solar_Cooker_photo.webp){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/lectures/images/NaDEET_solar_cooking_training.webp){fig-align="center"}
+![Young NaDEET students in Namibia learning to use a parabolic solar cooker](/images/NaDEET_solar_cooking_training.webp){fig-align="center"}
 :::
 :::
 
@@ -64,16 +64,16 @@ Photo credit: [Bristol Energy](https://solarcooking.fandom.com/wiki/China?file=H
 ## Silicon
 
 <center>
-![](/lectures/images/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
+![](/images/silicon-atomic-structure.jpeg){width=50% fig-align="center"}
 
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
+![](/images/Boron-atomic-structure.jpeg){width=80% fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
+![](/images/Phosphorus-atomic-structure.jpeg){width=80% fig-align="center"}
 :::
 :::
 </center>
@@ -87,15 +87,15 @@ Source: [Atomic Structures](https://youtu.be/OCTAQaubQ4o)
 
 ::: columns
 ::: {.column width="30%"}
-![](/lectures/images/silicon-lattice.png){fig-align="center"}
+![](/images/silicon-lattice.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![](/lectures/images/p-type-silicon.png){fig-align="center"}
+![](/images/p-type-silicon.png){fig-align="center"}
 :::
 
 ::: {.column width="30%"}
-![](/lectures/images/n-type-silicon.png){fig-align="center"}
+![](/images/n-type-silicon.png){fig-align="center"}
 :::
 
 :::
@@ -107,7 +107,7 @@ Source: [From sunlight to electricity](https://www.science.org.au/curious/techno
 
 ## P-N Junction 
 
-![](/lectures/images/p-n-junction.png){fig-align="center"}
+![](/images/p-n-junction.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
@@ -140,7 +140,7 @@ POA = GHI $\times \cos \theta$
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/solar-irradiance.png){fig-align="center"}
+![](/images/solar-irradiance.png){fig-align="center"}
 :::
 :::
 
@@ -162,7 +162,7 @@ Read more: @masters2013renewable
 
 ## The quest for efficiency
 
-![](/lectures/images/best-research-cell-efficiencies.webp){fig-align="center"}
+![](/images/best-research-cell-efficiencies.webp){fig-align="center"}
 
 ::: footer
 Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html)
@@ -171,7 +171,7 @@ Read more: NREL, [Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/c
 
 ## Global and U.S. distribution
 
-![](/lectures/images/World_PVOUT_map.png){fig-align="center"}
+![](/images/World_PVOUT_map.png){fig-align="center"}
 
 ::: footer
 Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
@@ -182,11 +182,11 @@ Source: [Global Solar Atlas](https://globalsolaratlas.info/download/world)
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/pm-and-solar.gif){fig-align="center"}
+![](/images/pm-and-solar.gif){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/global-pm-solar-reduction.jpeg){fig-align="center"}
+![](/images/global-pm-solar-reduction.jpeg){fig-align="center"}
 :::
 
 :::
@@ -199,7 +199,7 @@ Source: @bergin2017large
 
 ## Prioritize solar installation
 
-![](/lectures/images/prioritizing-solar-deployment.png){fig-align="center"}
+![](/images/prioritizing-solar-deployment.png){fig-align="center"}
 
 ::: footer
 Source: @chen2023deploying
@@ -208,7 +208,7 @@ Source: @chen2023deploying
 
 ## Solar thermal: CSP
 
-![](/lectures/images/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
+![](/images/Concentrating-Solar-Thermal-Power-Applications.png){fig-align="center"}
 
 ::: footer
 Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-power-basics)
@@ -221,7 +221,7 @@ Source: [DOE](https://www.energy.gov/eere/solar/concentrating-solar-thermal-powe
 
 ::: {.column width="50%"}
 
-![](/lectures/images/block-island-wind.jpeg){fig-align="center"}
+![](/images/block-island-wind.jpeg){fig-align="center"}
 
 :::
 
@@ -249,12 +249,12 @@ Photo by Gang He, Block Island Offshore Wind Farm
 
 ::: {.column width="50%"}
 
-![](/lectures/images/upwind-downwind.png){fig-align="center"}
+![](/images/upwind-downwind.png){fig-align="center"}
 
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/blade-efficiency.png){fig-align="center"}
+![](/images/blade-efficiency.png){fig-align="center"}
 :::
 
 :::
@@ -270,7 +270,7 @@ Source: @masters2013renewable
 
 ::: {.column width="50%"}
 
-![](/lectures/images/wind-distribution.png){fig-align="center"}
+![](/images/wind-distribution.png){fig-align="center"}
 
 :::
 
@@ -293,7 +293,7 @@ Read more: @masters2013renewable
 
 ## Power curve
 
-![](/lectures/images/wind-power-curve.png){fig-align="center"}
+![](/images/wind-power-curve.png){fig-align="center"}
 
 ::: footer
 Read more: NREL, [Validation of Power Output for the WIND Toolkit](https://www.nrel.gov/docs/fy14osti/61714.pdf)
@@ -334,7 +334,7 @@ Source: [NREL](https://www.nrc.gov/docs/ML0720/ML072040340.pdf)
 
 ## Global wind power density map
 
-![](/lectures/images/global-wind-power-density-map.webp){fig-align="center"}
+![](/images/global-wind-power-density-map.webp){fig-align="center"}
 
 ::: footer
 Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolution-maps/World)
@@ -346,11 +346,11 @@ Source: [Global Wind Atlas](https://globalwindatlas.info/en/download/high-resolu
 :::columns
 
 ::: {.column width="50%"}
-![](/lectures/images/turbine-hub-height-rotor-capacity.png){fig-align="center"}
+![](/images/turbine-hub-height-rotor-capacity.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/Turbine-Hub-Height-Chart.png){fig-align="center"}
+![](/images/Turbine-Hub-Height-Chart.png){fig-align="center"}
 :::
 
 :::
@@ -362,7 +362,7 @@ Source: [Land-Based Wind Market Report 2023](https://www.energy.gov/sites/defaul
 
 ## Offshore wind
 
-![](/lectures/images/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
+![](/images/US_Wind_Power_Resource_at_100-Meter_Hub_Height.webp){fig-align="center"}
 
 ::: footer
 Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offshore)
@@ -374,11 +374,11 @@ Source: DOE, [Offshore Wind Energy](https://windexchange.energy.gov/markets/offs
 :::columns
 
 ::: {.column width="50%"}
-![](/lectures/images/offshore-floating-turbines.png){fig-align="center"}
+![](/images/offshore-floating-turbines.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/resources-demand-offshore-us.png){width="70%" fig-align="center"}
+![](/images/resources-demand-offshore-us.png){width="70%" fig-align="center"}
 :::
 
 :::
@@ -407,11 +407,11 @@ Source: [Low Speed Wind Turbines](https://faculty.washington.edu/malte/OldSite/s
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){width=70% fig-align="center"}
+![](/images/grazing-animals-like-sheep-enjoy-using-the-shadows-of-wind.webp){width=70% fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/solar-farm-benefits.webp){fig-align="center"}
+![](/images/solar-farm-benefits.webp){fig-align="center"}
 :::
 :::
 
@@ -423,7 +423,7 @@ Source: [Reddit](https://www.reddit.com/r/interestingasfuck/comments/ubofys/graz
 
 ## Climate change impact
 
-![](/lectures/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
+![](/images/3/climate-change-solar-wind-sdm.png){fig-align="center"}
 
 ::: footer
 Source: @liu_climate_2023
@@ -441,7 +441,7 @@ Source: @liu_climate_2023
 
 ## Hybrid power systems
 
-![](/lectures/images/hybrid-power-systems.png){fig-align="center"}
+![](/images/hybrid-power-systems.png){fig-align="center"}
 
 ::: footer
 Source: [Small Wind Guidebook](https://windexchange.energy.gov/small-wind-guidebook#grid)
@@ -457,7 +457,7 @@ Source: [Small Wind Guidebook](https://windexchange.energy.gov/small-wind-guideb
 
 ## Heat engine
 
-![](/lectures/images/heat_engine.png){fig-align="center"}
+![](/images/heat_engine.png){fig-align="center"}
 
 Heat -\> Mechanical energy (work)
 
@@ -500,7 +500,7 @@ Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi
 
 ## A gas turbine engine
 
-![](/lectures/images/gas-turbine-engine.png){fig-align="center"}
+![](/images/gas-turbine-engine.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg)
@@ -509,7 +509,7 @@ Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engi
 
 ## A steam coal plant
 
-![](/lectures/images/coal_fired_power_plant_diagram.png){fig-align="center"}
+![](/images/coal_fired_power_plant_diagram.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
@@ -520,7 +520,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/Brayton_cycle.png){fig-align="center"}
+![](/images/Brayton_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -530,7 +530,7 @@ Jet engine, gas turbine
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/Rankine_cycle.png){fig-align="center"}
+![](/images/Rankine_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -562,7 +562,7 @@ Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/georgia_power_plant_scherer.png){fig-align="center"}
+![](/images/georgia_power_plant_scherer.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -602,7 +602,7 @@ Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-sys
 
 ## CCGT diagram
 
-![](/lectures/images/GE-CCGT-diagram.png){fig-align="center"}
+![](/images/GE-CCGT-diagram.png){fig-align="center"}
 
 ::: footer
 Read more: [GE Power](https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine)
@@ -630,7 +630,7 @@ Source: @koomey2010defining
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/fission.png){fig-align="center"}
+![](/images/fission.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -640,7 +640,7 @@ Nuclear fission
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/fusion-reactions.jpeg){fig-align="center"}
+![](/images/fusion-reactions.jpeg){fig-align="center"}
 
 </br>
 
@@ -658,7 +658,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear power plants
 
-![](/lectures/images/US_nuclear_power_plants_map.png){fig-align="center"}
+![](/images/US_nuclear_power_plants_map.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -669,7 +669,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/small_bwr.jpg){fig-align="center"}
+![](/images/small_bwr.jpg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -679,7 +679,7 @@ Diagram of a boiling-water nuclear reactor
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/small_pwr.jpg){fig-align="center"}
+![](/images/small_pwr.jpg){fig-align="center"}
 
 </br>
 
@@ -698,7 +698,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear fuel cycle
 
-![](/lectures/images/nuclear_fuel_cycle.png){fig-align="center"}
+![](/images/nuclear_fuel_cycle.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -709,7 +709,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: columns
 ::: {.column width="60%"}
-![](/lectures/images/three-island-historical-site.JPG){fig-align="center" width="60%"}
+![](/images/three-island-historical-site.JPG){fig-align="center" width="60%"}
 :::
 
 ::: {.column width="40%"}
@@ -731,7 +731,7 @@ Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacade
 
 ::: columns
 ::: {.column width="60%"}
-![](/lectures/images/next-gen-nuclear.png){fig-align="center"}
+![](/images/next-gen-nuclear.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
@@ -752,7 +752,7 @@ Read more: DOE, [Benefits of Small Modular Reactors](https://www.energy.gov/ne/b
 
 ## Livermore Fusion breakthrough
 
-![](/lectures/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
+![](/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
 
 ::: footer
 Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition)
@@ -763,7 +763,7 @@ Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/hydro.png){fig-align="center"}
+![](/images/hydro.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -773,7 +773,7 @@ Hydropower
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/pumped-storage.jpeg){fig-align="center"}
+![](/images/pumped-storage.jpeg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -805,7 +805,7 @@ Source: [Union of Concerned Scientists](https://www.ucsusa.org/resources/how-ene
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/battery-management-system.png){fig-align="center"}
+![](/images/battery-management-system.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -825,7 +825,7 @@ Read more: NREL, [Grid-scale battery storage](https://www.nrel.gov/docs/fy19osti
 
 ## Long duration storage
 
-![](/lectures/images/role-of-long-duration-storage.jpg){fig-align="center"}
+![](/images/role-of-long-duration-storage.jpg){fig-align="center"}
 
 ::: footer
 Source: @dowling_role_2020

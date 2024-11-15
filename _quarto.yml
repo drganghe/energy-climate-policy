@@ -22,7 +22,7 @@ website:
         href: http://drganghe.github.io/climate-guest-speakers
         target: _blank        
       - text: Readings
-        href: readings.qmd    
+        href: 2024/readings.qmd    
       - text: Policy Memo
         href: policymemo.qmd
       - text: Resources

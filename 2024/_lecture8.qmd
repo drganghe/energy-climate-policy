@@ -4,7 +4,7 @@ description-meta: "Fossil and other technologies"
 author: "Gang He"
 date: October 30, 2023
 date-format: long
-image: "/lectures/images/heat_engine.png"
+image: "/images/heat_engine.png"
 format:
   revealjs:
     theme: white
@@ -37,7 +37,7 @@ format:
 
 ## Heat engine
 
-![](/lectures/images/heat_engine.png){fig-align="center"}
+![](/images/heat_engine.png){fig-align="center"}
 
 Heat -\> Mechanical energy (work)
 
@@ -78,7 +78,7 @@ Read more: [Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi
 
 ## A gas turbine engine
 
-![](/lectures/images/gas-turbine-engine.png){fig-align="center"}
+![](/images/gas-turbine-engine.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engine.svg)
@@ -86,7 +86,7 @@ Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/4/4c/Jet_engi
 
 ## A steam coal plant
 
-![](/lectures/images/coal_fired_power_plant_diagram.png){fig-align="center"}
+![](/images/coal_fired_power_plant_diagram.png){fig-align="center"}
 
 ::: footer
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
@@ -96,7 +96,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fossil_fuel_power_station)
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/Brayton_cycle.png){fig-align="center"}
+![](/images/Brayton_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -106,7 +106,7 @@ Jet engine, gas turbine
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/Rankine_cycle.png){fig-align="center"}
+![](/images/Rankine_cycle.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -136,7 +136,7 @@ Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/georgia_power_plant_scherer.png){fig-align="center"}
+![](/images/georgia_power_plant_scherer.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -174,7 +174,7 @@ Read more: [Tennessee Valley Authority](https://www.tva.com/energy/our-power-sys
 
 ## CCGT diagram
 
-![](/lectures/images/GE-CCGT-diagram.png){fig-align="center"}
+![](/images/GE-CCGT-diagram.png){fig-align="center"}
 
 ::: footer
 Read more: [GE Power](https://www.ge.com/gas-power/resources/education/what-is-a-gas-turbine)
@@ -200,7 +200,7 @@ Source: @koomey2010defining
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/fission.png){fig-align="center"}
+![](/images/fission.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -210,7 +210,7 @@ Nuclear fission
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/fusion-reactions.jpeg){fig-align="center"}
+![](/images/fusion-reactions.jpeg){fig-align="center"}
 
 </br>
 
@@ -228,7 +228,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear power plants
 
-![](/lectures/images/US_nuclear_power_plants_map.png){fig-align="center"}
+![](/images/US_nuclear_power_plants_map.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -238,7 +238,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/small_bwr.jpg){fig-align="center"}
+![](/images/small_bwr.jpg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -248,7 +248,7 @@ Diagram of a boiling-water nuclear reactor
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/small_pwr.jpg){fig-align="center"}
+![](/images/small_pwr.jpg){fig-align="center"}
 
 </br>
 
@@ -266,7 +266,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ## Nuclear fuel cycle
 
-![](/lectures/images/nuclear_fuel_cycle.png){fig-align="center"}
+![](/images/nuclear_fuel_cycle.png){fig-align="center"}
 
 ::: footer
 Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/)
@@ -276,7 +276,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: columns
 ::: {.column width="60%"}
-![](/lectures/images/three-island-historical-site.JPG){fig-align="center" width="60%"}
+![](/images/three-island-historical-site.JPG){fig-align="center" width="60%"}
 :::
 
 ::: {.column width="40%"}
@@ -297,7 +297,7 @@ Photo credit: Gang He; Read more: [National Academies](https://nap.nationalacade
 
 ::: columns
 ::: {.column width="60%"}
-![](/lectures/images/next-gen-nuclear.png){fig-align="center"}
+![](/images/next-gen-nuclear.png){fig-align="center"}
 :::
 
 ::: {.column width="40%"}
@@ -317,7 +317,7 @@ Read more: DOE, [Benefits of Small Modular Reactors](https://www.energy.gov/ne/b
 
 ## Livermore Fusion breakthrough
 
-![](/lectures/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
+![](/images/livermore-fusion-breakthrough.jpg){fig-align="center"}
 
 ::: footer
 Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-laboratory-achieves-fusion-ignition)
@@ -327,7 +327,7 @@ Read more: [LLNL](https://www.llnl.gov/archive/news/lawrence-livermore-national-
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/hydro.png){fig-align="center"}
+![](/images/hydro.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -337,7 +337,7 @@ Hydropower
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/pumped-storage.jpeg){fig-align="center"}
+![](/images/pumped-storage.jpeg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 
@@ -367,7 +367,7 @@ Source: [Union of Concerned Scientists](https://www.ucsusa.org/resources/how-ene
 
 ::: columns
 ::: {.column width="50%"}
-![](/lectures/images/battery-management-system.png){fig-align="center"}
+![](/images/battery-management-system.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -387,7 +387,7 @@ Read more: NREL, [Grid-scale battery storage](https://www.nrel.gov/docs/fy19osti
 
 ## Long duration storage
 
-![](/lectures/images/role-of-long-duration-storage.jpg){fig-align="center"}
+![](/images/role-of-long-duration-storage.jpg){fig-align="center"}
 
 ::: footer
 Source: @dowling_role_2020

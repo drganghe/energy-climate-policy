@@ -4,7 +4,7 @@ description-meta: ""
 author: "Gang He"
 date: September 23, 2024
 date-format: long
-image: "/lectures/images/kaya-identity-co2.png"
+image: "/images/kaya-identity-co2.png"
 #suppress-bibliography: true
 format:
   revealjs:
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/1/climate-curriculum.png){fig-align="center"}
+![](/images/1/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -45,7 +45,7 @@ Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curricu
 
 ## Adverse impacts of climate change 
 
-![](/lectures/images/adverse-impact-climate-change.png){fig-align="center"}
+![](/images/adverse-impact-climate-change.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -54,7 +54,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr
 
 ## The impacts are global 
 
-![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+![](/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -63,7 +63,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6
 
 ## Vulnerable population suffers more 
 
-![](/lectures/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+![](/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -95,7 +95,7 @@ What other damages to include?
 
 ## Social economic impacts
 
-![](/lectures/images/social-economic-impacts.png){fig-align="center"}
+![](/images/social-economic-impacts.png){fig-align="center"}
 
 ::: footer
 Source: @carleton2016social
@@ -119,7 +119,7 @@ Read more: @neumann_climate_2020, @updating_scc_2017
 
 ## Climate change and conflicts
 
-![](/lectures/images/climate-and-conflict.jpeg){fig-align="center"}
+![](/images/climate-and-conflict.jpeg){fig-align="center"}
 
 ::: footer
 Read more: @hsiang_quantifying_2013
@@ -128,7 +128,7 @@ Read more: @hsiang_quantifying_2013
 
 ## Climate change affects energy system
 
-![](/lectures/images/climate-impact-on-energy.webp){fig-align="center"}
+![](/images/climate-impact-on-energy.webp){fig-align="center"}
 
 ::: footer
 Source: @yalew2020impacts
@@ -137,7 +137,7 @@ Source: @yalew2020impacts
 
 ## Climate impact to renewable supply-demand match
 
-![](/lectures/images/climate-change-solar-wind-sdm.png){fig-align="center"}
+![](/images/climate-change-solar-wind-sdm.png){fig-align="center"}
 
 ::: footer
 Source: @liu_climate_2023
@@ -158,7 +158,7 @@ Source: @liu_climate_2023
 :::
 
 ::: {.column width="20%"}
-![](/lectures/images/nys-climate-impact-report.png){fig-align="center"}
+![](/images/nys-climate-impact-report.png){fig-align="center"}
 :::
 :::
 
@@ -174,7 +174,7 @@ Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.or
 
 ::: {.column width="70%"}
 
-![](/lectures/images/NYS-PEJA-DAC.png)
+![](/images/NYS-PEJA-DAC.png)
 
 :::
 
@@ -208,7 +208,7 @@ Source: New York State Climate Impacts Assessment [Ch1](https://nysclimateimpact
 - Updates: Climate Science, Equity, and Flooding 
 - New: Futures and Transitions, Energy and Energy Insecurity, and Health.
 
-![](/lectures/images/NPCC4_organization.jpg){fig-align="center"}
+![](/images/NPCC4_organization.jpg){fig-align="center"}
 
 
 ::: footer
@@ -219,7 +219,7 @@ Source: [NPCC4](https://climateassessment.nyc/assessments/)
 
 ## Fuel for thoughts: grand challenges, huge progress, and grand opportunities
 
-![](/lectures/images/Two-centuries-World-as-100-people.png){fig-align="center"}
+![](/images/Two-centuries-World-as-100-people.png){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)

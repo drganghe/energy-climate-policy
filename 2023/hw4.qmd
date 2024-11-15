@@ -36,7 +36,7 @@ What is energy justice? How is it different from climate justice? Use one exampl
 
 ## 2. Load forecast and EV penetration (Optional, for those who are interested)
 
-Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2022) of [Real_Time_Dispatch_Actual_Load](data/OASIS_Real_Time_Dispatch_Actual_Load.xlsx) and [Day Head Market Load Forcast](data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.xlsx) for New York City. 
+Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval and 1-hour interval), and comparing them and analyze how to make forecast better. Download one whole year (2022) of [Real_Time_Dispatch_Actual_Load](/data/OASIS_Real_Time_Dispatch_Actual_Load.xlsx) and [Day Head Market Load Forcast](/data/OASIS_Day_Ahead_Market_ISO_Load_Forecast.xlsx) for New York City. 
 
 - Draw the load curve and load duration curve of New York City.  
 - Show the characteristics of average day hourly load curve in New York City  
