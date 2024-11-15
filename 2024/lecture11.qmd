@@ -1,10 +1,10 @@
 ---
 title: "Lecture 11 Climate Policy Responses"
-description-meta: "Evolution of climate poliy instruments"
+description-meta: "Evolution of climate poliy responses and instruments"
 author: "Gang He"
 date: November 18, 2024
 date-format: long
-image: "/lectures/images/us-energy-transition.png"
+image: "/lectures/images/carbon-pricing-instrument.png"
 format:
   revealjs:
     theme: white
@@ -25,13 +25,42 @@ format:
 
 ## Sample analytic questions{.smaller}
 
--   The barriers and policies to facilitate energy access?\
--   What is Justice40? And what investments are included?\
--   What are the typical energy injustice and how to address them?\
--   What are the drivers of energy transition?\
--   How should each country think/design/implement its energy transition?\
--   How to frame the role of different technologies in energy transition?\
--   How geo-politics, wars, and pandemic impact the energy in transiton?\
+-   What are the rationale under the evolution of climate discussion and negotiation?  
+-   What are the typic/classic policy instruments to address climate change?  
+-   What are the pros and cons of those instruments?  
+-   What further reserach is needed to show the cost-effectiveness of those instruments?
+
+
+## Update from COP29
+
+A UN/global Carbon Market?
+
+![](/lectures/images/carbon-pricing-instrument.png)
+
+::: footer
+Source: World Bank [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/), [Article 6.4 mechanism](https://unfccc.int/sites/default/files/resource/A6.4-SBM014-A05.pdf)
+:::
+
+
+## Climate negotiation: a brief history
+
+- 1997 Kyoto Protocol  
+  - Common but Differentiated Responsibilities  
+- 2015 Paris Agreement 
+  - 2 $^\circ$C /1.5 $^\circ$C
+  - NDC  
+- 2025: COP30
+
+::: footer
+Source: [UNFCCC](https://unfccc.int/process-and-meetings/the-paris-agreement)
+:::
+
+
+## Understanding the drivers
+
+- Carrot
+- Stick
+- Beyond "Carrot and Stick"
 
 
 ## IPAT
@@ -138,9 +167,9 @@ Source: [EPA](https://www.epa.gov/system/files/documents/2023-12/epa_scghg_2023_
 
 ## NYDEC 'Value of Carbon' Guidance
 
-- Carbon dioxide: \$125 per ton\
-- Methane: \$2,782 per ton\
-- Nitrous oxide: \$44,727 per ton
+- Carbon dioxide: \$125 per ton  
+- Methane: \$2,782 per ton  
+- Nitrous oxide: \$44,727 per ton  
 
 ::: footer
 Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
@@ -153,6 +182,42 @@ Source: [NYDEC](https://www.dec.ny.gov/press/122070.html)
 
 ::: footer
 Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
+:::
+
+
+## Tax vs Cap and Trade{.smaller}
+
+:::columns
+
+::: {.column width="50%"}
+Similarities:
+
+- Achieve carbon emission reduction  
+- Abatement costs  
+- International competitiveness  
+- Raising revenue  
+- Social costs  
+- Distributional impacts  
+
+:::
+
+::: {.column width="50%"}
+Differences:
+
+- Transaction costs  
+- Performance under uncertainty  
+- Linkages 
+- Price volatility  
+- Interaction with complementary policies  
+- Market manipulation  
+- Administrative requirements  
+
+:::
+
+:::
+
+::: footer
+Source: Read more: @stavinsRelativeMeritsCarbon2022
 :::
 
 
@@ -188,6 +253,20 @@ Source: @armitage_innovation_2023
 :::
 
 
+## Type of instruments
+
+- Regulations and Standards  
+- Taxes and Charges  
+- Tradable Permits
+- Voluntary Agreements  
+- Subsidies and Incentives  
+- Inforamtion Instruments  
+- R&DD  
+- Non-Climate Policies (Cobenefits)
+
+::: footer
+Source: @IPCC_2007_WGIII_Ch_13
+:::
 
 
 
@@ -199,5 +278,5 @@ Source: @armitage_innovation_2023
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/energy-climate-policy/lectures/lecture11.html/#/title-slide), All [Lectures](https://drganghe.github.io/energy-climate-policy/lectures.html), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](lecture11.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

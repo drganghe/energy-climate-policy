@@ -124,3 +124,13 @@ Here is a list of readings for the course. All readings are available on Brights
 - @romanello2024ReportLancet2024
 - @tipaldoFrameworkAgeingHealth2024
 
+
+## Lecture 11
+
+- @IPCC_2007_WGIII_Ch_13
+- @armitage_innovation_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @stavinsRelativeMeritsCarbon2022

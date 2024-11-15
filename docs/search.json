@@ -4449,7 +4449,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Project Economics\n\n\n\nGang He\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Demand\n\n\n\nGang He\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Efficiency, Behavior, and Sustainable Consumption\n\n\n\nGang He\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Energy access, justice, and transition\n\n\n\nGang He\n\n\nNov 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Energy, Environment, Climate, and Human Health\n\n\n\nGang He\n\n\nNov 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Make Sense of Numbers and Fundamentals\n\n\n\nGang He\n\n\nSep 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Impacts Assessments\n\n\n\nGang He\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems Overview\n\n\n\nGang He\n\n\nSep 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy Project Economics\n\n\n\nGang He\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy Demand\n\n\n\nGang He\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy Efficiency, Behavior, and Sustainable Consumption\n\n\n\nGang He\n\n\nOct 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Energy access, justice, and transition\n\n\n\nGang He\n\n\nNov 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Energy, Environment, Climate, and Human Health\n\n\n\nGang He\n\n\nNov 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 11 Climate Policy Responses\n\n\n\nGang He\n\n\nNov 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -4506,5 +4506,152 @@
     "title": "Resources",
     "section": "Example models",
     "text": "Example models\nRICE/DICE, Regional Integrated model of Climate and the Economy (RICE) / Dynamic Integrated Climate Change (DICE) DICE 2023\nSWITCH, A loose acronym for Solar, Wind, Hydro and Conventional generators and Transmission. Planning low-cost, low-carbon power system investments\nReEDS, The Regional Energy Deployment System (ReEDS) is a long-term capacity expansion model for the deployment of electric power generation technologies and transmission infrastructure throughout the contiguous United States.\nSAM , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.\nGCAM, Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.\nC-ROADS, Climate Rapid Overview and Decision Support\nLEAP, The Long-range Energy Alternatives Planning System\nMARKAL, Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.\nMESSAGE, Model for Energy Supply Strategy Alternatives and their General Environmental Impact\nGAINS, The Greenhouse Gas and Air Pollution Interactions andSynergies (GAINS)-Model provides a consistent framework for the analysis of co-benefits reduction strategies from air pollution and greenhouse gas sources.\nNEMS, The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.\nMERGE, Model for Evaluating the Regional and Global Effects of GHG Reduction Policies\nBalmorel, Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.\nGridLAB-D, GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.\nEnergyPlus, EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.\nOSeMOSYS: The Open Source Energy Modeling System\nTEMOA: Tools for Energy Model Optimization and Assessment\nPyPSA: Python for Power System Analysis"
+  },
+  {
+    "objectID": "2024/lecture11.html#sample-analytic-questions",
+    "href": "2024/lecture11.html#sample-analytic-questions",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the rationale under the evolution of climate discussion and negotiation?\n\nWhat are the typic/classic policy instruments to address climate change?\n\nWhat are the pros and cons of those instruments?\n\nWhat further reserach is needed to show the cost-effectiveness of those instruments?"
+  },
+  {
+    "objectID": "2024/lecture11.html#policy-instruments",
+    "href": "2024/lecture11.html#policy-instruments",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Policy instruments",
+    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "2024/lecture11.html#type-of-instruments",
+    "href": "2024/lecture11.html#type-of-instruments",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Type of instruments",
+    "text": "Type of instruments\n\nRegulations and Standards\n\nTaxes and Charges\n\nTradable Permits\nVoluntary Agreements\n\nSubsidies and Incentives\n\nInforamtion Instruments\n\nR&DD\n\nNon-Climate Policies (Cobenefits)\n\n\nSource: Gupta (2007)"
+  },
+  {
+    "objectID": "2024/lecture11.html#ipat",
+    "href": "2024/lecture11.html#ipat",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "IPAT",
+    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: Ehrlich and Holdren (1971)"
+  },
+  {
+    "objectID": "2024/lecture11.html#kaya-identify",
+    "href": "2024/lecture11.html#kaya-identify",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Kaya identify",
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
+  },
+  {
+    "objectID": "2024/lecture11.html#climate-wedges",
+    "href": "2024/lecture11.html#climate-wedges",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Climate wedges",
+    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
+  },
+  {
+    "objectID": "2024/lecture11.html#the-mckinsey-cost-curve",
+    "href": "2024/lecture11.html#the-mckinsey-cost-curve",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "The Mckinsey cost curve",
+    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+  },
+  {
+    "objectID": "2024/lecture11.html#social-cost-of-carbon",
+    "href": "2024/lecture11.html#social-cost-of-carbon",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Social cost of carbon",
+    "text": "Social cost of carbon\n\nMarginal cost of carbon\n\nCost included:\n\n\nNet agricultural productivity\n\nHuman health\n\nProperty damage\n\nEnergy system costs\n\n\nCost not included:\n\n\nUnknown impact: physical, ecological, economic\n\nUnknown cost: information"
+  },
+  {
+    "objectID": "2024/lecture11.html#epa-social-cost-of-carbon",
+    "href": "2024/lecture11.html#epa-social-cost-of-carbon",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "EPA social cost of carbon",
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EPA"
+  },
+  {
+    "objectID": "2024/lecture11.html#nydec-value-of-carbon-guidance",
+    "href": "2024/lecture11.html#nydec-value-of-carbon-guidance",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "NYDEC ‘Value of Carbon’ Guidance",
+    "text": "NYDEC ‘Value of Carbon’ Guidance\n\nCarbon dioxide: $125 per ton\n\nMethane: $2,782 per ton\n\nNitrous oxide: $44,727 per ton\n\n\nSource: NYDEC"
+  },
+  {
+    "objectID": "2024/lecture11.html#scc-updates",
+    "href": "2024/lecture11.html#scc-updates",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "SCC updates",
+    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+  },
+  {
+    "objectID": "2024/lecture11.html#what-works-whats-not",
+    "href": "2024/lecture11.html#what-works-whats-not",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "What works what’s not",
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "2024/lecture11.html#best-practices",
+    "href": "2024/lecture11.html#best-practices",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Best practices",
+    "text": "Best practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools"
+  },
+  {
+    "objectID": "2024/lecture11.html#policy-instruments-1",
+    "href": "2024/lecture11.html#policy-instruments-1",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Policy instruments",
+    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "2024/lecture11.html#references",
+    "href": "2024/lecture11.html#references",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "",
+    "text": "References\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nGupta, D. A. Tirpak, S. 2007. “Policies, Instruments and Co-Operative Arrangements.” Book Section. In Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by P. R. Bosch B. Metz O. R. Davidson, 747–96. Cambridge, United Kingdom; New York, NY, USA: Cambridge University Press. https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter13-2.pdf.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nStavins, Robert N. 2022. “The Relative Merits of Carbon Pricing Instruments: Taxes Versus Trading.” Review of Environmental Economics and Policy 16 (1): 62–82. https://doi.org/10.1086/717773.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "readings.html#lecture-11",
+    "href": "readings.html#lecture-11",
+    "title": "Readings",
+    "section": "Lecture 11",
+    "text": "Lecture 11\n\nD. A. Tirpak Gupta S. “Policies, Instruments and Co-Operative Arrangements,” Book Section, in Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, ed. P. R. Bosch B. Metz O. R. Davidson (Cambridge, United Kingdom; New York, NY, USA: Cambridge University Press, 2007), 747–96, https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter13-2.pdf.\nArmitage, Bakhtian, and Jaffe “Innovation Market Failures and the Design of New Climate Policy Instruments.”\nEhrlich and Holdren “Impact of Population Growth.”\nKaya and Yokobori Environment, Energy, and Economy.\nPacala and Socolow “Stabilization Wedges.”\nRennert et al. “Comprehensive Evidence Implies a Higher Social Cost of CO2.”\nRobert N. Stavins “The Relative Merits of Carbon Pricing Instruments: Taxes Versus Trading,” Review of Environmental Economics and Policy 16, no. 1 (January 2022): 62–82, https://doi.org/10.1086/717773."
+  },
+  {
+    "objectID": "2024/lecture11.html#update-from-cop29",
+    "href": "2024/lecture11.html#update-from-cop29",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Update from COP29",
+    "text": "Update from COP29\nA UN/global Carbon Market?\n\n\nSource: World Bank Carbon Pricing Dashboard, Article 6.4 mechanism"
+  },
+  {
+    "objectID": "2024/lecture11.html#understanding-the-drivers",
+    "href": "2024/lecture11.html#understanding-the-drivers",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Understanding the drivers",
+    "text": "Understanding the drivers\n\nCarrot\nStick\nBeyond “Carrot and Stick”"
+  },
+  {
+    "objectID": "2024/lecture11.html#tax-vs-cap-trade",
+    "href": "2024/lecture11.html#tax-vs-cap-trade",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Tax vs Cap & Trade",
+    "text": "Tax vs Cap & Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\nSource: Read more: Stavins (2022)\n\nWhat works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)\n\n\nBest practices\n\nEnergy efficiency\n\nLow carbon eco-city\n\nRenewable integration\n\nSectoral experiences\n\nPolicy/technology tools\n\n\nPolicy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)\n\n\nType of instruments\n\nRegulations and Standards\n\nTaxes and Charges\n\nTradable Permits\nVoluntary Agreements\n\nSubsidies and Incentives\n\nInforamtion Instruments\n\nR&DD\n\nNon-Climate Policies (Cobenefits)\n\n\nSource: Gupta (2007)\n\n\nReferences\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nGupta, D. A. Tirpak, S. 2007. “Policies, Instruments and Co-Operative Arrangements.” Book Section. In Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by P. R. Bosch B. Metz O. R. Davidson, 747–96. Cambridge, United Kingdom; New York, NY, USA: Cambridge University Press. https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter13-2.pdf.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nStavins, Robert N. 2022. “The Relative Merits of Carbon Pricing Instruments: Taxes Versus Trading.” Review of Environmental Economics and Policy 16 (1): 62–82. https://doi.org/10.1086/717773.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2024/lecture11.html#climate-negotiation-a-brief-history",
+    "href": "2024/lecture11.html#climate-negotiation-a-brief-history",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Climate negotiation: a brief history",
+    "text": "Climate negotiation: a brief history\n\n1997 Kyoto Protocol\n\nCommon but Differentiated Responsibilities\n\n\n2015 Paris Agreement\n\n2 \\(^\\circ\\)C /1.5 \\(^\\circ\\)C\nNDC\n\n\n2025: COP30\n\n\nSource: UNFCCC"
+  },
+  {
+    "objectID": "2024/lecture11.html#tax-vs-cap-and-trade",
+    "href": "2024/lecture11.html#tax-vs-cap-and-trade",
+    "title": "Lecture 11 Climate Policy Responses",
+    "section": "Tax vs Cap and Trade",
+    "text": "Tax vs Cap and Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\n\nSource: Read more: Stavins (2022)"
   }
 ]
