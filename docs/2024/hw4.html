@@ -9,7 +9,7 @@
 <meta name="author" content="Gang He">
 <meta name="description" content="Energy and Climate Policy class developed by Dr.&nbsp;Gang He. Key words: energy policy, climate policy, energy and climate policy, open course.">
 
-<title>Assignment 4 Load Forcast, energy and climate justice – Energy and Climate Policy</title>
+<title>Assignment 4 Load forecast and EV penetration – Energy and Climate Policy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,10 +79,10 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Assignment 4 Load Forcast, energy and climate justice – Energy and Climate Policy">
+<meta property="og:title" content="Assignment 4 Load forecast and EV penetration – Energy and Climate Policy">
 <meta property="og:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
-<meta name="twitter:title" content="Assignment 4 Load Forcast, energy and climate justice – Energy and Climate Policy">
+<meta name="twitter:title" content="Assignment 4 Load forecast and EV penetration – Energy and Climate Policy">
 <meta name="twitter:description" content="PAF9199 Energy and Climate Policy class developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
@@ -171,21 +171,14 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#load-forecast-and-ev-penetration" id="toc-load-forecast-and-ev-penetration" class="nav-link active" data-scroll-target="#load-forecast-and-ev-penetration">1. Load forecast and EV penetration</a></li>
-  <li><a href="#energy-and-climate-justice" id="toc-energy-and-climate-justice" class="nav-link" data-scroll-target="#energy-and-climate-justice">2. Energy and climate justice</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2024/hw4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2024/hw4.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-    </div>
+        
+    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Assignment 4 Load Forcast, energy and climate justice</h1>
+<h1 class="title">Assignment 4 Load forecast and EV penetration</h1>
 </div>
 
 
@@ -202,16 +195,14 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </header>
 
 
-<section id="load-forecast-and-ev-penetration" class="level2">
-<h2 class="anchored" data-anchor-id="load-forecast-and-ev-penetration">1. Load forecast and EV penetration</h2>
-<p>Load forecast is very important for power system planning and operation. First visit NYISO website’s <a href="https://www.nyiso.com/custom-reports">Custom Reports</a> to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval), and comparing them and analyze how to make forecast better. Download one whole year (2023) of <a href="../data/2023_OASIS_Real_Time_Dispatch_Actual_Load.csv">Real_Time_Dispatch_Actual_Load</a> and <a href="../data/2023_OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv">Day Head Market Load Forcast</a> for New York City. (2.5pts)</p>
+<p>Load forecast is very important for power system planning and operation. First visit NYISO website’s <a href="https://www.nyiso.com/custom-reports">Custom Reports</a> to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval), and comparing them and analyze how to make forecast better. Download one whole year (2023) of <a href="../data/2023_OASIS_Real_Time_Dispatch_Actual_Load.csv">Real_Time_Dispatch_Actual_Load</a> and <a href="../data/2023_OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv">Day Head Market Load Forcast</a> for New York City. (5pts)</p>
 <ul>
 <li>Plot the load curve and load duration curve of New York City.
 <ul>
-<li><strong>Load Curve</strong>: Plot the NYC hourly actual load for 2022, highlighting daily, weekly, and seasonal variations.
-<ul>
-<li><strong>Load Duration Curve</strong>: Sort the load data in descending order and plot it to show the distribution of demand over time. This reveals the percentage of time different demand levels occur.</li>
-</ul></li>
+<li><strong>Load Curve</strong>: Plot the NYC hourly actual load for 2022, highlighting daily, weekly, and seasonal variations.<br>
+</li>
+<li><strong>Load Duration Curve</strong>: Sort the load data in descending order and plot it to show the distribution of demand over time. This reveals the percentage of time different demand levels occur.<br>
+</li>
 </ul></li>
 <li>Show the characteristics of hourly load curve of an average day in New York City
 <ul>
@@ -229,19 +220,11 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 <li>Now make reasonable assumptions of EV penetration rate and EV charging in New York City, and try to show how that would change the load curve.</li>
 <li>Should ConEdison/NYPA worry about it, what policy/incentives should you use to change people’s charging behavior so to save costs for the utility companies?</li>
 </ul>
-</section>
-<section id="energy-and-climate-justice" class="level2">
-<h2 class="anchored" data-anchor-id="energy-and-climate-justice">2. Energy and climate justice</h2>
-<p>Check the launch of <a href="https://centerforthehumanities.org/programming/nyc-climate-justice-hub-launch">NYC Climate Justice Hub</a>, a partnership between the New York City Environmental Justice Alliance (NYC-EJA) and The City University of New York (CUNY) to advance climate solutions led by communities of color on the front lines.</p>
-<p>Check also the New York State climate justice <a href="https://www.nyserda.ny.gov/All-Programs/Energy-and-Climate-Equity-Strategy/Climate-Justice">programs and resources</a></p>
-<p>What is energy justice? How is it different from climate justice? Use examples to discuss how energy supply/demand or climate impact may affect equity and justice of specific groups or populations. Write a short essay (~300 words) to explain your thoughts. (Total 2.5pts)</p>
-<p><br></p>
 <p><strong>Further reading</strong>:</p>
 <p>Arvind Jaggi, Senior Economist, Demand Forecasting &amp; Analysis, <a href="https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed">Electric Vehicle Forecast Impacts (Gold Book 2021)</a></p>
 <p>Play around the <a href="https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&amp;p1=110&amp;p7=100&amp;p10=5&amp;p16=-0.03&amp;p23=-30&amp;p30=-0.07&amp;p35=2&amp;p39=250&amp;p47=5&amp;p50=5&amp;p53=100&amp;p55=100&amp;p57=-10&amp;p59=-100&amp;p63=8.9&amp;p65=100&amp;p67=100">En-ROADS</a> model, and change some of the parameters and check how assumptions affect modeling results.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -678,7 +661,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2024/hw4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2024/hw4.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2024/hw4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2024/hw4.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
