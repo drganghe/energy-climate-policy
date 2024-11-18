@@ -269,6 +269,14 @@ Source: @IPCC_2007_WGIII_Ch_13
 :::
 
 
+## What policies work
+
+![](/images/science-climate-policy-emissions.webp){fig-align="center"}
+
+::: footer
+Source: @stechemesserClimatePoliciesThat2024
+:::
+
 
 ------------------------------------------------------------------------
 

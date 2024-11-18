@@ -134,3 +134,4 @@ Here is a list of readings for the course. All readings are available on Brights
 - @pacala2004stabilization
 - @rennert2022comprehensive
 - @stavinsRelativeMeritsCarbon2022
+- @stechemesserClimatePoliciesThat2024
