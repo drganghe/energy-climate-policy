@@ -1,0 +1,627 @@
+---
+title: "Lecture 13 Policy Analysis Uncertainties, Review and Summary"
+description-meta: "Addressing policy uncertainties, review and summary of the class"
+author: "Gang He"
+date: December 2, 2024
+date-format: long
+image: "/images/ipcc-re-costs.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Sample analytic questions
+
+-   How do I know if I should trust your results?\
+-   What are the methods to address uncertainties?\
+-   What are the emerging topics to improve modeling analysis?\
+-   How to interpret modeling results to communicate effectively?\
+-   Where to use model? How to build your analysis?  
+
+
+## Projections went off
+
+![](/images/1970s-projections-us-energy.png){fig-align="center"}
+
+::: footer
+Source: @craig2002what
+:::
+
+
+## IEA underestimates solar and wind
+
+![](/images/iea-underestimate-solarwind.png){fig-align="center"}
+
+::: footer
+Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
+:::
+
+
+
+## Science models are in better positions
+
+::: columns
+
+::: {.column width="50%"}
+![](/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
+:::
+
+::: {.column width="50%"}
+![](/images/obervation-vs-models.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: [Inside Climate News](https://insideclimatenews.org/news/22092015/exxon-confirmed-global-warming-consensus-in-1982-with-in-house-climate-models/), @supran_assessing_2023, @hausfather2020evaluating
+:::
+
+
+## Conditions for model robustness
+
+Models can be accurate when they describe systems that  
+
+- are observable and measurable  
+- exhibit constancy of structure over time  
+- exhibit constancy across variations in conditions not specified in the model  
+- permit the collection of ample data
+
+::: footer
+Read more: @hodges1992you
+:::
+
+
+## Social economic structural changes
+
+- Core data and assumptions, which drive results, are based on historical experiences, which can be off if structural conditions change  
+- The exact timing and character of pivotal events and technology changes is unpredictable
+
+::: footer
+Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
+:::
+
+
+## Changing landsacpe of new power generation capacities
+
+<center> Shale gas revolution </center>
+
+![](/images/new-power-capacity.png){fig-align="center"}
+
+::: footer
+Source: [Head Waters Economics](https://headwaterseconomics.org/economic-development/evolution-electricity-generation/)
+:::
+
+
+## Renewable costs
+
+![](/images/ipcc-re-costs.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
+:::
+
+
+## Mission impossible
+
+- Predict the unpredictable  
+- Price the priceless  
+
+
+## Better modeling uncertainties {.smaller}
+
+- Define an endpoint of analysis  
+- List all uncertain parameters  
+- Specify maximum range of values  
+- Specify subjective probability distribution for values within the range  
+- Determin and account for correlations  
+- Probability distribution of model predictions  
+- Derive quantitative uncertainties 
+- Obtain additional data and repeat analysis if needed  
+
+::: footer
+Read more: [IAEA](https://inis.iaea.org/collection/NCLCollectionStore/_Public/24/045/24045072.pdf)
+:::
+
+
+## Incoporating political economy
+
+::: columns
+
+::: {.column width="50%"}
+
+::: r-fit-text
+
+Examples 
+
+- Risk averse investors  
+- Subsidies or taxes  
+- Carbon lock-in  
+- Unequal costs and benefits of climate polices accrue to different groups  
+- Public opinion  
+- Confidence in political institutions  
+- Trade and investments  
+- Competence of goverment  
+
+:::
+
+:::
+
+::: {.column width="50%"}
+![](/images/state-level-support-climate.webp){fig-align="center" width="80%"}
+:::
+
+:::
+
+::: footer
+Source: @peng2021climate, @peng2021surprisingly
+:::
+
+
+## Why a model in the first place{.smaller}
+
+- Description  
+- Explanation  
+- Experimentation  
+- Providing sources of analogy  
+- Communication/Education  
+- Providing focal objects or centerpiece for scientific dialogue  
+- Thought experiment  
+- Projection  
+
+
+## Modeling for insights
+
+- Modeling based on research questions  
+- Modeling elements, structure, relations  
+- Do not over-interpret  
+- Do not misinterpret  
+- "All models are wrong, but some are **useful**". Avoid useless models.  
+
+
+## Focusing on structures and relations
+
+![](/images/en-roads-structure.png){fig-align="center"}
+
+::: footer
+Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
+:::
+
+
+## Knowing limitations
+
+- Known unknowns  
+- Unknown unknowns  
+- "Garbage in, garbage out"  
+
+
+## Interpreting results
+
+- Results are outcomes of assumptions and models  
+- Results does not automatically translate to policies  
+- Communicating the limitations and uncertainties  
+
+
+## Open source 
+
+- Open model (code)  
+- Open data  
+- Open results  
+- Open validation  
+
+In Open we Trust! 
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Open_energy_system_models)
+:::
+
+
+## Ensure model for society
+
+- Mind the assumptions  
+- Mind the hubris  
+- Mind the framing  
+- Mind the consequences  
+- Mind the unknowns  
+- Questions not answers  
+
+::: footer
+Read more: @saltelli2020five
+:::
+
+
+## Summary
+
+-   Know the limitation of models\
+-   Use model appropriately\
+-   Interpret/communicate the results effectively\
+-   Models for social good  
+
+
+## Review and summary
+
+What have we talked and learned?
+
+
+## Energy grand challenges: net-zero
+
+![](/images/iea-net-zero.png){fig-align="center"}
+
+::: footer
+Source: @iea_net_2021
+:::
+
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+## Energy vs power
+::: columns
+::: {.column width="50%"}
+- Energy is the ability to do work. Energy is power integrated over **time**.
+- Basic unit: joule = watt<span>&#183;</span>second
+:::
+
+::: {.column width="50%"}
+- Power is the **rate** at which work is done, or energy is transmitted.
+- Basic unit: watt = jourle/second
+:::
+:::
+
+We need to know what we are talking about!
+
+## Common sources of energy and climate data {.smaller}
+
+::: columns
+::: {.column width="33%"}
+**Energy**:   
+- IEA (OECD)  
+- EIA  
+- UN  
+- WB  
+- BP Statistical Review of World Energy 
+:::
+
+::: {.column width="33%"}
+**Climate**:   
+- NASA  
+- NCAR  
+- EUCCI  
+- UNEP  
+- NOAA  
+:::
+
+::: {.column width="33%"}
+**Carbon**:   
+- CDIAC (Carbon Dioxide Information Analysis Center)  
+- EDGAR (emissions database for global atmospheric research system)  
+- Carbon Budget Project  
+- Carbon Monitor
+:::
+:::
+
+::: footer
+Source: @macknick_energy_2011 
+:::
+
+
+## Human component is the major driver of warming
+
+![](/images/drivers-of-warming.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+## Kaya identify{.smaller}
+
+::: columns
+::: {.column width="50%"}
+$F=P \times \frac{G}{P} \times \frac{E}{G} \times \frac{F}{E}$
+
+<p style="font-size:10pt">
+Where:
+
+- F: global CO2 emissions from human sources
+- P: global population
+- G: world GDP
+- E: global energy consumption
+
+And:
+
+- G/P: GDP per capita
+- E/G: energy intensity of the GDP
+- F/E: emission intensity of energy
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/images/kaya-identity-co2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kaya_environment_1808, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+:::
+
+
+## Risks and resilience
+
+![](/images/risk-and-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Energy systems
+
+![](/images/energy-systems.png){fig-align="center"}
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+:::
+
+
+## Energy project economics
+
+- NPV, discounting, LCOE, learning rate
+
+- Project economics is useful for basic cost-benefit analysis  
+- Getting the price (discounting) right  
+- Understanding technology dynamics will help to model future projections  
+- Aware of the limitations   
+
+
+## Thermodynamics
+
+-   Thermodynamic **efficiency**\
+-   Comparing different technologies\
+-   Thermodynamics provides physic limits
+
+## Brayton cycle vs. Rankine cycle
+
+| Brayton Cycle | Rankine Cycle |
+|------|------|
+| Jet, Gas turbine     | Steam turbine      |
+| Open    |  Open/closed circuits    |
+| Working fluid in gaseous phase     |  Working fluid phase change    |
+
+::: footer
+Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)
+:::
+
+## Defining a Rosenfeld Plant
+
+-   500 MW
+-   c.f.: 70%
+-   T&D losss: 7%
+
+Results:
+
+-   3 TWh/year\
+
+-   3 MtCO2/year
+
+-   NYC electricity use: \~4 TWh/year
+
+::: footer
+Source: @koomey2010defining
+:::
+
+
+## P-N Junction 
+
+![](/images/p-n-junction.png){fig-align="center"}
+
+::: footer
+Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
+:::
+
+## Wind 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/block-island-wind.jpeg){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+$P=\frac{1}{2}\rho \pi r^2 v^3$
+
+<p style="font-size:16pt; color:gray">
+Where,  
+$\rho$ = Air Density  ($kg/m^3$)  
+$A$ = Swept Area  (m2)  = $\pi r^2$  
+$v$ = Wind Speed  (m/s)  
+$P$ = Power (W)  
+</p>
+:::
+:::
+
+::: footer
+Photo by Gang He, Block Island Offshore Wind Farm
+:::
+
+
+## Nuclear 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/fission.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fission
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![](/images/fusion-reactions.jpeg){fig-align="center"}
+
+</br>
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Nuclear fussion
+</p>
+:::
+
+:::
+
+::: footer
+Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/); DOE, [Nuclear fusion reactions](https://www.energy.gov/science/doe-explainsnuclear-fusion-reactions)
+:::
+
+
+## Hydro 
+
+:::columns
+
+::: {.column width="50%"}
+
+![](/images/hydro.png){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Hydropower 
+</p>
+
+:::
+
+::: {.column width="50%"}
+![](/images/pumped-storage.jpeg){fig-align="center"}
+
+<p style="font-size:14pt; color:gray; text-align:center;">
+Pumped storage hydropower (PSH)
+</p>
+:::
+
+:::
+
+</br>
+
+<center>
+$E=\rho mg(h_2-h_1)$
+</center>
+
+::: footer
+Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydroelectric-power-works)
+:::
+
+
+## Energy demand
+
+- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
+- Understanding those drivers will help us learn the magnitude and profile of our demand  
+- Load forecast integrates all insights to the show   
+
+
+## Energy efficiency
+
+-   There are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\
+-   Human behavior is complicated, and understanding it will help us to design policy\
+-   Rebound is real but might be overplayed, rebound could be good if improve welfare\
+-   Sustainable consumption and production within the limit
+
+
+## Energy access and energy justice
+
+-   Electricity/energy access is fundamental to other modern services: education, health, and information\
+-   Energy access also has gender equity, health cobenefits, and other implications\
+-   Energy justice is important to achieve just transition\
+-   An reflection on our approaches to energy justice
+
+
+## Energy, environment, and human health
+
+-   Environmental and health impacts are the externalities of energy systems\
+-   Energy-air-pollution-human health framework of analysis\
+-   Energy-water-carbon nexus\
+-   System impacts show the constraint in systems modeling
+
+
+## Energy transition
+
+-   Diverse factors that drive energy transition\
+-   Common and differentiated solutions to energy\
+-   Leverage the advantages\
+-   Addressing uncertainties: geopolitics, wars, pandemic, and more
+
+
+## Power sector decarbonization
+
+-   Power sector's central role in decarbonization\
+-   Capacity expansion model to analyze the optimized investment decisions\
+-   Decisions in the real world is much more complicated\
+-   Emerging trends in the power sector
+
+
+## Big data and AI
+
+-   AI and big data has transformed how we live, and how can we save the planet\
+-   AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\
+-   Learning those new tools and skills becomes necessary to work in the field\
+-   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous. 
+
+
+## Uncertainies and limitation
+
+-   Know the limitation of models\
+-   Use model appropriately\
+-   Interpret/communicate the results effectively\
+-   Models for social good  
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture13.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

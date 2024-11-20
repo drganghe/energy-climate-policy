@@ -135,3 +135,28 @@ Here is a list of readings for the course. All readings are available on Brights
 - @rennert2022comprehensive
 - @stavinsRelativeMeritsCarbon2022
 - @stechemesserClimatePoliciesThat2024
+
+
+## Lecture 12
+
+- @lee2021empirical
+- @yu2018deepsolar
+- @kruitwagen2021global
+- @ratledge2022using
+- @rolnick2022tackling
+- @kaack2022aligning
+- @johnston2019switch
+- @he_rapid_2020
+
+
+## Lecture 13
+
+- @craig2002what
+- @supran_assessing_2023
+- @hausfather2020evaluating
+- @macknick_energy_2011
+- @hodges1992you
+- @peng2021climate
+- @peng2021surprisingly
+- @saltelli2020five
+

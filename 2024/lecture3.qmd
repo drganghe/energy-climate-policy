@@ -1,10 +1,10 @@
 ---
-title: "Lecture 3 Climate Impacts Assessments"
+title: "Lecture 3 Climate Impact Assessments"
 description-meta: ""
 author: "Gang He"
 date: September 23, 2024
 date-format: long
-image: "/images/kaya-identity-co2.png"
+image: "/images/social-economic-impacts.png"
 #suppress-bibliography: true
 format:
   revealjs:
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/1/climate-curriculum.png){fig-align="center"}
+![](/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
