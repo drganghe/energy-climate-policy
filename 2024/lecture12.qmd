@@ -245,6 +245,16 @@ Source: @rolnick2022tackling
 Source: @kaack2022aligning
 :::
 
+
+## AI and data center power consumption
+
+![](/images/ai-data-center-power-consumption-us.png){fig-align="center"}
+
+::: footer
+Source: EPRI, [Powering Intelligence](https://www.epri.com/research/products/3002028905)
+:::
+
+
 ## AI ethics: why?
 
 - Biases  
@@ -293,6 +303,9 @@ Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE E
 -   AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\
 -   Learning those new tools and skills becomes necessary to work in the field\
 -   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.   
+
+
+## Power Systems Analysis
 
 
 ## Sample analytic questions
@@ -371,7 +384,9 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 :::
 
 
-## Power system modeling family {.scrollable .smaller}
+## Power system modeling family
+
+:::{style="font-size: 24px"}
 
 |     Type    |     Production Cost (Unit Commitment and Dispatch)    |     Network Reliability (AC Power Flow,   Dynamics)    |     Capacity   Expansion          |
 |---|---|---|---|
@@ -383,7 +398,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 |     Frequency Stability    |     Somewhat    |     Yes    |     No    |
 |     Voltage Stability, Voltage control    |     No    |     Yes    |     No    |
 |     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku    |
-
+:::
 
 ## Capacity expansion models
 
@@ -460,7 +475,8 @@ Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
 - Renewable penetration\
 - Efficiency improvement\
 - Electrifying\
-- DR/DSM
+- DR/DSM  
+- Climate impact
 
 
 ## Summary

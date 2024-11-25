@@ -1,0 +1,154 @@
+    - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/october-2024-student-spotlight/
+      image: https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2024/09/nicoantonucci-cropped.jpg
+      title: "Nico Antonucci in the Student Spotlight"
+      description: "Nico Antonucci talks about his summer abroad in Amsterdam, his interest in environmental justice, and more."
+      date: "2024-10-15" 
+      categories: [story] 
+
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-college-graduate-awarded-new-york-state-legislative-fellowship/
+      image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2025/03/Catherine-Davis_NYS-Legislative-Fellow-2024_25.gif
+      title: "Catherine Davis Awarded Prestigious New York State Senate Legislative Fellowship"
+      description: "Catherine Davis (MPA ’24) is working for New York State Senator Jamaal T. Bailey as a legislative staffer."
+      date: "2025-03-24"
+      categories: [story] 
+
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-college-alumni-2024-excelsior-service-fellowships/
+      image: /files/headshots/ladorian-morris.jpg
+      title: "LaDorian Morris Wins Excelsior Service Fellowship"
+      description: "LaDorian Morris (MPA ’24) is working with the Division of Homeland Security and Emergency Services, Office of Disaster Recovery in Albany."
+      date: "2024-10-10"
+      categories: [story] 
+
+    - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/november-2022-student-spotlight/
+      image: https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2022/10/Lindsey-McCormack-cropped.jpg
+      title: "Lindsey McCormack in the Student Spotlight"
+      description: "Lindsey McCormack talks about her work as Director of Development for Rights CoLab, her experience in the MIA program, and more."
+      date: "2022-11-15"
+      categories: [story] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Nicolo A."
+      project: "Achieving NY’s 2050 Carbon Neutrality Goals"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Catherine D."
+      project: "Carbon Dioxide Removal Options"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Benjamin E."
+      project: "Public Renewables, Are They Worth It? A Look at the NYC Comptroller’s Proposal for Public Solar"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Murilo G."
+      project: "Nuclear-Powered Merchant Ships as an Alternative to Decrease CO2 Emissions"
+#      author: 
+#      subtitle: "" 
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Faviola G."
+      project: "How to Help New York’s Disadvantaged Communities Adapt to Climate Change"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Racha H."
+      project: "Renewable Energy in Algeria: A Policy Brief"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Arlinda H."
+      project: "Urgent Need to Invest in Nature-based Intervention in Bangkok"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ying H."
+      project: "Plasma Gasification in Metro Manila"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Lindsey M."
+      project: "Standing Up Offshore Wind to Meet New York’s Climate Commitments"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "LaDorian M."
+      project: "Affordable Solar for Affordable Housing"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Alicia N."
+      project: "Puerto Rico Microgrid Issues"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Jorge N."
+      project: "Photovoltaic Research and Development Programs"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Andrew R."
+      project: "Agrivoltaics: An Energy and Economic Development Investment"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Raul V."
+      project: "Installing Electrical Charging Stations in Low-Income Neighborhoods of Westchester, NY"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2023"
+      categories: [project]

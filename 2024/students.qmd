@@ -1,0 +1,55 @@
+---
+title: "Student Stories & Projects"
+subtitle: "Stories about Students and Projects by students"
+toc: false
+page-layout: full
+listing: 
+- id: stories
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: students.yml
+  include: 
+    categories: "story"   #only include students with this category
+- id: projects
+  sort: "name asc"
+  type: table
+  fields: [name, project, semester]
+  field-display-names: 
+    name: "Name"
+    project: "Project"
+    semester: "Semester"
+#  grid-item-align: left
+#  grid-columns: 3
+#  image-height: 200px
+#  categories: true
+  sort-ui: true
+  filter-ui: true
+  contents: 
+    - students.yml
+  include: 
+    categories: "project"   #only include students with this category
+---
+
+<!--Please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Student Stories
+:::{#stories}
+:::
+
+## Student Projects
+:::{#projects}
+:::
+
+<!--Studnet profile and project update form-->
+{{< include /files/includes/_studentform.qmd >}}
+
+<!--Include social share buttons-->
+{{< include /files/includes/_socialshare.qmd >}}

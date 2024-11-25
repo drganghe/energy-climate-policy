@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+#New course number: PAF 9187
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
@@ -9,15 +10,13 @@ title: Syllabus
 
 **Marxe School of Public and International Affairs**
 
-**Course Name**: PAF 9199 (54435), Energy and Climate Policy
+**Course Name**: [PAF 9187](https://baruch-graduate.catalog.cuny.edu/courses/1561681) (54435), Energy and Climate Policy
 
 **Time**: 6pm Monday
 
 **Instructor**: Gang He
 
 **Email**: <gang.he@baruch.cuny.edu>	
-
-**Office Hours**: Thu 1-3pm
 
 **Location**: Online 
 
@@ -42,7 +41,7 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly policy response         | 30 %   | 10 responses
+Weekly policy response         | 30 %   | 6 responses
 Assignments                    | 20 %   | 4 assignments
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
@@ -50,7 +49,6 @@ Project: Policy memo           | 20 %   |
 
 </div>
 
-**Late submission**: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice.
 
 ## Grading Scale
 

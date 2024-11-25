@@ -2,8 +2,6 @@
 .git
 .gitattributes
 .github
-.gitignore
-/.gitignore/
 
 # Quarto
 .quarto
@@ -15,6 +13,8 @@
 
 #R Temporal Files
 .DS_Store
+*.DS_Store
+/.DS_Store/
 ~$*.Rhistory*
 ~$*.DS_Store*
 ~$*.Rproj.user*

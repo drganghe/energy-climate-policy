@@ -1,6 +1,6 @@
-# PAF9199 Energy and Climate Policy 
+# PAF 9187 Energy and Climate Policy 
 
-This is the website for my Energy and Climate Policy class. I will share the slides, assignments, and source files here.  
+This is the website for my Energy and Climate Policy class. I share class material here.  
 
 ## Acknowledgment
 
@@ -15,9 +15,9 @@ This class benefits from many similar classes and I cannot credit them enough be
 
 ## Reuse of material
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Open Course on <a property="dct:title" rel="cc:attributionURL" href="https://drganghe.github.io/energy-climate-policy/">Energy and Climate Policy</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://drganghe.github.io/">Dr. Gang He</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-Please feel free to link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/energy-climate-society) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
+Please link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/energy-climate-society) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
 
 > This course/class benefits from the [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) class material developed by Dr. [Gang He](https://drganghe.github.io).
 
