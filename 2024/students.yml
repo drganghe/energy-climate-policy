@@ -1,0 +1,79 @@
+    - path: https://www.liherald.com/stories/sustainability-clean-energy-are-spotlighted-at-village-of-sea-cliff-board-meeting,213041
+      image: https://gamma.creativecirclecdn.com/liherald/original/20250207-121253-564-SC%20FRONT%20environmental%20meeting%202_6.jpeg
+      title: "Jacob Fain Advances Clean Energy Initiatives in Sea Cliff"
+      description: "Jacob Fain, Sea Cliff’s clean energy intern, pitched the Community Solar initiative, which enables residents, small businesses, and even municipal buildings to sign up for solar energy from small, local grids."
+      date: "2025-02-07"
+      categories: [story] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Anthony A."
+      project: "The State of Connecticut’s Waste Crisis"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ohemah A."
+      project: "Economic Benefits of Ghana’s Transition to Renewable Energy"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Lauren B."
+      project: "How to Sell a Congestion Charge to Citizens of New York City"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Jacob F."
+      project: "Strategies to Overcome Barriers and Expand Solar Deployment in New York"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Sidiqullah H."
+      project: "Decarbonizing Transportation: Steps to Accelerate Electric Vehicle (EV) Adoption Across New York State"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Vanesa L."
+      project: "Enhancing Affordable Housing for Climate Resilience"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Tamara M."
+      project: "Solar Panel Adoption in All Affordable Housing Projects"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Tanvia S."
+      project: "Addressing the Climate and Environmental Impacts of Warfare"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2024"
+      categories: [project] 

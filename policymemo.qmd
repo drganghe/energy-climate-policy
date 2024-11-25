@@ -66,6 +66,12 @@ Your policy will be graded by the following criteria:
 3. Clear writing, presentation, visulization [5pt]
 4. Overall impression [5pt]
 
+## Student Projects
+
+- [Fall 2024](2024/students.qmd)
+- [Fall 2023](2023/students.qmd)
+
+
 ## References
 
 [How to Write a Policy Memo That Matters](https://harris.uchicago.edu/files/how_to_write_a_policy_memo_that_matters_0.pdf)
@@ -73,3 +79,5 @@ Your policy will be graded by the following criteria:
 [Stanford Law Policy Memo Guidelines](https://law.stanford.edu/wp-content/uploads/2015/04/Policy-Memo-Guidelines-2.pdf)
 
 [Lauren Brodsky, How to write policy memos](https://www.hks.harvard.edu/sites/default/files/Academic%20Dean's%20Office/communications_program/workshop-materials/Slides_How%20to%20Write%20a%20Policy%20Memo%202_14_22.pdf)
+
+[Policy Memo Database](https://policymemos.hks.harvard.edu/policy-memo-databases)

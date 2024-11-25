@@ -24,7 +24,7 @@ format:
 
 ## Sample analytic questions
 
--   How do I know if I should trust your results?\
+-   How do I know if I should trust modeling results?\
 -   What are the methods to address uncertainties?\
 -   What are the emerging topics to improve modeling analysis?\
 -   How to interpret modeling results to communicate effectively?\
@@ -420,11 +420,11 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Brayton cycle vs. Rankine cycle
 
-| Brayton Cycle | Rankine Cycle |
-|------|------|
-| Jet, Gas turbine     | Steam turbine      |
-| Open    |  Open/closed circuits    |
-| Working fluid in gaseous phase     |  Working fluid phase change    |
+| Brayton Cycle                  | Rankine Cycle              |
+| ------------------------------ | -------------------------- |
+| Jet, Gas turbine               | Steam turbine              |
+| Open                           | Open/closed circuits       |
+| Working fluid in gaseous phase | Working fluid phase change |
 
 ::: footer
 Read more: Wikipedia [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle) and [Rankine cycle](https://en.wikipedia.org/wiki/Rankine_cycle)

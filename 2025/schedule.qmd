@@ -1,0 +1,32 @@
+---
+title: Fall 2025 Course Schedule
+page-layout: full
+repo-actions: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+| Week | Date | Lecture | Guest Speaker | Assignment |
+|---|---|---|---|---|
+| 1 | 9/1 | Labor Day - No session |  |  |
+| 2 | 9/8 | Introduction--Grand Challenges | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) |  |
+| 3 | 9/15 | Make sense of energy and climate numbers |  |  |
+| 4 | 9/22 | No classes scheduled |  |  |
+| 5 | 9/29 | Climate impact and responses |  |  |
+| 6 | 10/6 | Energy systems overview |  |  |
+| 7 | 10/14 | Energy demand, energy and economy |  |  |
+| 8 | 10/24 | Energy, environment, and health |  |  |
+| 9 | 10/27 | Energy systems approach | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) |  |
+| 10 | 11/3 | Energy transition |  |  |
+| 11 | 11/10 | Human behavior, culture, and sustainable energy consumption |  |  |
+| 12 | 11/17 | Climate policy instruments |  |  |
+| 13 | 11/24 | Big data and AI for climate change |  |  |
+| 14 | 12/1 | Uncertainties in policy analysis |  |  |
+| 15 | 12/8 | Presentation |  |  |
+| 16 | 12/15 | Presentation |  |  |
+| 17 | 12/22 | Policy memo |  |  |
+
+: {.striped .responsive}
+
+Note: PR--Policy Response, HW--Homework Assignment, PM--Policy Memo 
