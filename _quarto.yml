@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Energy and Climate Policy class developed by Dr. Gang He. Key words: energy policy, climate policy, energy and climate policy, open course."
+description-meta: "Open Course on Energy and Climate Policy developed by Dr. Gang He, covering energy policy, climate policy, energy and climate policy."
 author-meta: "Gang He"
 
 website:
   title: "Energy and Climate Policy"
-  description: "PAF9199 Energy and Climate Policy class developed by Dr. Gang He."
+  description: "Open Course on Energy and Climate Policy developed by Dr. Gang He."
   navbar:
     background: light
     left:
@@ -20,13 +20,13 @@ website:
         href: lectures.qmd
       - text: Guest Speakers
         href: http://drganghe.github.io/climate-guest-speakers
-        target: _blank        
-      - text: Readings
-        href: 2024/readings.qmd    
-      - text: Policy Memo
-        href: policymemo.qmd
-      - text: Resources
-        href: resources.qmd
+        target: _blank
+      - text: Guide
+        menu:                           
+        - text: Policy Memo
+          href: policymemo.qmd 
+        - text: Resources
+          href: resources.qmd                
       - text: Archive
         menu:
           - text: Fall 2023
