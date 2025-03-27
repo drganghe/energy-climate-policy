@@ -29,8 +29,10 @@ website:
           href: resources.qmd                
       - text: Archive
         menu:
+          - text: Fall 2024
+            href: 2024/schedule.qmd         
           - text: Fall 2023
-            href: 2023/schedule.qmd        
+            href: 2023/schedule.qmd                    
       - text: Dr. Gang He
         href: http://drganghe.github.io
         target: _blank        
