@@ -41,7 +41,7 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly policy response         | 30 %   | 10 responses
+Weekly policy response         | 30 %   | 6 responses
 Assignments                    | 20 %   | 4 assignments
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
@@ -49,7 +49,6 @@ Project: Policy memo           | 20 %   |
 
 </div>
 
-**Late submission**: One point is subtracted for each 24-hour submitted late. One free late day is allowed of your choice.
 
 ## Grading Scale
 
