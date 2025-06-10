@@ -11,17 +11,17 @@ repo-actions: false
 |---|---|---|---|---|
 | 1 | 9/1 | Labor Day - No session |  |  |
 | 2 | 9/8 | Introduction--Grand Challenges |  |  |
-| 3 | 9/15 | Make sense of energy and climate numbers | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
+| 3 | 9/15 | Energy and climate numbers and project economics | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
 | 4 | 9/22 | No classes scheduled |  |  |
-| 5 | 9/29 | Climate impact and responses | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
-| 6 | 10/6 | Energy systems overview |  | PR2 |
+| 5 | 9/29 | Climate impacts and responses | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
+| 6 | 10/6 | Energy systems and energy conversion technologies |  | PR2 |
 | 7 | 10/14 | Energy demand, energy and economy |  | HW2 |
 | 8 | 10/24 | Energy, environment, and health |  | PR3 |
-| 9 | 10/27 | Energy systems approach | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR4 |
-| 10 | 11/3 | Energy transition |  | HW3 |
-| 11 | 11/10 | Human behavior, culture, and sustainable energy consumption |  | PM Proposal |
+| 9 | 10/27 | Energy transition and power systems decarbonization | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR4 |
+| 10 | 11/3 | Energy access, energy and climate justice |  | HW3 |
+| 11 | 11/10 | Energy efficiency, human behavior, culture, and sustainable energy consumption |  | PM Proposal |
 | 12 | 11/17 | Climate policy instruments |  | HW4 |
-| 13 | 11/24 | Big data and AI for climate change |  | PR5 |
+| 13 | 11/24 | Big data and AI for energy and climate change | [Dr. Cecilia Han Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR5 |
 | 14 | 12/1 | Uncertainties in policy analysis |  | PR6 |
 | 15 | 12/8 | Presentation |  |  |
 | 16 | 12/15 | Presentation |  |  |
