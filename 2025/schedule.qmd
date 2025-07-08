@@ -20,7 +20,7 @@ repo-actions: false
 | 9 | 10/27 | Energy transition and power systems decarbonization | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR4 |
 | 10 | 11/3 | Energy access, energy and climate justice | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
 | 11 | 11/10 | Energy efficiency, human behavior, culture, and sustainable energy consumption |  | PM Proposal |
-| 12 | 11/17 | Climate policy instruments |  | HW4 |
+| 12 | 11/17 | Climate policy instruments | [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html) | HW4 |
 | 13 | 11/24 | Big data and AI for energy and climate change | [Dr. Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR5 |
 | 14 | 12/1 | Uncertainties in policy analysis | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html) | PR6 |
 | 15 | 12/8 | Presentation |  |  |
