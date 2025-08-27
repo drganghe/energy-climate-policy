@@ -91,16 +91,14 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 
 ## Climate guest speakers{.smaller}
 
--   9/16 – Richard Morse: Renewable energy investments
--   9/23 – Shirley Gallagher: My Sustainable Journey and the skills used to contribute to climate solutions
--   9/30 – Kaifang Luo: Clean technology deployment and impact
--   10/7 – Simi George: Storage and regulation
--   10/15 – Maryam Mozafari: Transitioning from fossil fuels to renewable energy
--   10/21 – Fabio Passaro: Steel & cement sectors’ decarbonization
--   10/28 – Liqun Peng: Power sector decarbonization
--   11/4 – Samuel Vaillancourt: Gold mining decarbonization
--   11/11 – Bharathi Esakkimuthu: Climate career options and essential skills
--   11/18 – Mohsen Fatemi: City government implementation
+-   9/15 – Mallory Flowers: Carbon disclosure--the intersect of public and private cliamte governance 
+-   9/22 – Shanru Tian: Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
+-   9/29 – Karan Bhuwalka: Guiding what to build in the supply chain of energy technologies 
+-   10/14 – Beia Spiller: The transition to decarbonized transport sector 
+-   11/3 – Shuchen Cong: Identifying energy limiting behavior and its implications 
+-   11/10 – Claudia Villar-Leeman: NYC's electric grid and role of energy storage 
+-   11/17 – Cecilia Springer: U.S. data center energy demand and emissions 
+-   12/1 – Luo Xu: Towards resilient and sustainable electricity grids under climate extremes 
 
 ::: footer
 Learn more: <https://drganghe.github.io/climate-guest-speakers/>
