@@ -9,7 +9,7 @@
 <meta name="author" content="Gang He">
 <meta name="description" content="Open Course on Energy and Climate Policy developed by Dr.&nbsp;Gang He, covering energy policy, climate policy, energy and climate policy.">
 
-<title>Lectures – Energy and Climate Policy</title>
+<title>Readings – Energy and Climate Policy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-65ef9bc6449578477aba7d52303f127d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-65ef9bc6449578477aba7d52303f127d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-lectures .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-lectures'] = new List('listing-lectures', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG4GM3TPXK"></script>
 
 <script type="text/javascript">
@@ -109,47 +78,14 @@ gtag('js', new Date());
 gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Lectures – Energy and Climate Policy">
-<meta property="og:image" content="https://drganghe.github.io/energy-climate-policy/files/images/hex-Energy-Climate-Policy.png">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Readings – Energy and Climate Policy">
+<meta property="og:description" content="Open Course on Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Energy and Climate Policy">
-<meta property="og:image:height" content="1200">
-<meta property="og:image:width" content="1037">
-<meta name="twitter:title" content="Lectures – Energy and Climate Policy">
-<meta name="twitter:image" content="https://drganghe.github.io/energy-climate-policy/files/images/hex-Energy-Climate-Policy.png">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Readings – Energy and Climate Policy">
+<meta name="twitter:description" content="Open Course on Energy and Climate Policy developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -159,7 +95,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Energy and Climate Policy</span>
     </a>
   </div>
@@ -170,15 +106,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./2025/schedule.html"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lectures.html" aria-current="page"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
@@ -191,11 +127,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-guide">    
         <li>
-    <a class="dropdown-item" href="./policymemo.html">
+    <a class="dropdown-item" href="../policymemo.html">
  <span class="dropdown-text">Policy Memo</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./resources.html">
+    <a class="dropdown-item" href="../resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -206,11 +142,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="./2024/schedule.html">
+    <a class="dropdown-item" href="../2024/schedule.html">
  <span class="dropdown-text">Fall 2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./2023/schedule.html">
+    <a class="dropdown-item" href="../2023/schedule.html">
  <span class="dropdown-text">Fall 2023</span></a>
   </li>  
     </ul>
@@ -239,21 +175,29 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#lecture-1" id="toc-lecture-1" class="nav-link active" data-scroll-target="#lecture-1">Lecture 1</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2025/readings.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2025/readings.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lectures</h1>
+<h1 class="title">Readings</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -276,35 +220,161 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<div id="listing-lectures" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1757304000000" data-listing-file-modified-sort="1757342487004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1045">
-<a href="./2025/lecture1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/iea-net-zero.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 1 Introduction: Grand Challenges
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Sep 8, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<p>Here is a list of readings for the course. All readings are available on Brightspace.</p>
+<section id="lecture-1" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-1">Lecture 1</h2>
+<ul>
+<li><span class="citation" data-cites="iea_net_2021">IEA <span>“Net Zero by 2050”</span> (International Energy Agency, 2021), <a href="https://www.iea.org/reports/net-zero-by-2050">https://www.iea.org/reports/net-zero-by-2050</a>.</span></li>
+<li><span class="citation" data-cites="irena_renewable_2021">IRENA <span>“Renewable Power Generation Costs in 2021”</span> (Abu Dhabi: International Renewable Energy Agency, July 2021), <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021</a>.</span></li>
+<li><span class="citation" data-cites="he_rapid_2020">Gang He et al. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System,”</span> <em>Nature Communications</em> 11, no. 1 (May 19, 2020): 2486, <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.</span></li>
+<li><span class="citation" data-cites="grant_cost_2021">Neil Grant et al. <span>“Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways,”</span> <em>One Earth</em> 4, no. 11 (November 19, 2021): 1588–1601, <a href="https://doi.org/10.1016/j.oneear.2021.10.024">https://doi.org/10.1016/j.oneear.2021.10.024</a>.</span></li>
+<li><span class="citation" data-cites="hogan_energy_2002">William W. Hogan <span>“Energy Modeling for Policy Studies,”</span> <em>Operations Research</em> 50, no. 1 (February 1, 2002): 89–95, <a href="https://doi.org/10.1287/opre.50.1.89.17803">https://doi.org/10.1287/opre.50.1.89.17803</a>.</span></li>
+<li><span class="citation" data-cites="huntington_modeling_1982">Hillard G Huntington, John P Weyant, and James L Sweeney <span>“Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum,”</span> <em>Omega</em> 10, no. 5 (1982): 449–62, <a href="https://doi.org/10.1016/0305-0483(82)90002-0">https://doi.org/10.1016/0305-0483(82)90002-0</a>.</span></li>
+<li><span class="citation" data-cites="richardsonEarthSixNine2023">Katherine Richardson et al. <span>“Earth Beyond Six of Nine Planetary Boundaries,”</span> <em>Science Advances</em> 9, no. 37 (September 13, 2023): eadh2458, <a href="https://doi.org/10.1126/sciadv.adh2458">https://doi.org/10.1126/sciadv.adh2458</a>.</span></li>
+<li><span class="citation" data-cites="steffenAnthropoceneGlobalChange2011">Will Steffen et al. <span>“The <span>Anthropocene</span>: <span>From Global Change</span> to <span>Planetary Stewardship</span>,”</span> <em>Ambio</em> 40, no. 7 (November 2011): 739–61, <a href="https://doi.org/10.1007/s13280-011-0185-x">https://doi.org/10.1007/s13280-011-0185-x</a>.</span></li>
+</ul>
+<!--
+## Lecture 2
+
+- @IPCC_2021_WGI
+- @hermann2006quantifying 
+- @koomey2010defining 
+- @fridley2016impacts 
+- @macknick_energy_2011 
+- @hansen_perception_2012
 
 
+## Lecture 3
 
+- @carleton2016social 
+- @neumann_climate_2020
+- @updating_scc_2017
+- @hsiang_quantifying_2013
+- @yalew2020impacts
+- @liu_climate_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @armitage_innovation_2023
+
+
+## Lecture 4
+
+- @smil2017energy
+- @iea_net_2021
+- @bmwi_electricity_2015
+
+
+## Lecture 5
+
+- @weitzman2001gamma
+- @arrow_determining_2013
+- @yelle_learning_1979
+- @grubler_dynamics_1999
+- @kavlak_evaluating_2018
+- @Klemun2023Mechanisms
+- @GRUBLER20105174
+- @helveston_he_davidson_2022
+
+
+## Lecture 6
+
+- @swan2009modeling
+- @ehrlich1971impact
+- @lin2016economic
+- @borenstein2015microeconomic
+- @brockway2021energy
+- @meadows2018limits
+- @rao2018decent
+- @hong2016probabilistic
+
+
+## Lecture 7
+
+- @masters2013renewable
+- @bergin2017large
+- @chen2023deploying
+- @liu_climate_2023
+- @koomey2010defining
+- @dowling_role_2020
+
+
+## Lecture 8
+
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021
+
+
+## Lecture 9
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @lovins_energy_1976
+- @jacobson_low-cost_2015
+- @clack_evaluation_2017
+- @cui2021plant
+- @he2020enabling
+- @wuFewer15Coal2024
+- @mulugetta2022africa
+
+
+## Lecture 10
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+
+
+## Lecture 11
+
+- @IPCC_2007_WGIII_Ch_13
+- @armitage_innovation_2023
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @rennert2022comprehensive
+- @stavinsRelativeMeritsCarbon2022
+- @stechemesserClimatePoliciesThat2024
+
+
+## Lecture 12
+
+- @lee2021empirical
+- @yu2018deepsolar
+- @kruitwagen2021global
+- @ratledge2022using
+- @rolnick2022tackling
+- @kaack2022aligning
+- @johnston2019switch
+- @he_rapid_2020
+
+
+## Lecture 13
+
+- @craig2002what
+- @supran_assessing_2023
+- @hausfather2020evaluating
+- @macknick_energy_2011
+- @hodges1992you
+- @peng2021climate
+- @peng2021surprisingly
+- @saltelli2020five
+-->
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -672,43 +742,6 @@ Sep 8, 2025
             }
           });
         }
-    const findCites = (el) => {
-      const parentEl = el.parentElement;
-      if (parentEl) {
-        const cites = parentEl.dataset.cites;
-        if (cites) {
-          return {
-            el,
-            cites: cites.split(' ')
-          };
-        } else {
-          return findCites(el.parentElement)
-        }
-      } else {
-        return undefined;
-      }
-    };
-    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-    for (var i=0; i<bibliorefs.length; i++) {
-      const ref = bibliorefs[i];
-      const citeInfo = findCites(ref);
-      if (citeInfo) {
-        tippyHover(citeInfo.el, function() {
-          var popup = window.document.createElement('div');
-          citeInfo.cites.forEach(function(cite) {
-            var citeDiv = window.document.createElement('div');
-            citeDiv.classList.add('hanging-indent');
-            citeDiv.classList.add('csl-entry');
-            var biblioDiv = window.document.getElementById('ref-' + cite);
-            if (biblioDiv) {
-              citeDiv.innerHTML = biblioDiv.innerHTML;
-            }
-            popup.appendChild(citeDiv);
-          });
-          return popup.innerHTML;
-        });
-      }
-    }
   });
   </script>
 </div> <!-- /content -->
@@ -720,7 +753,7 @@ Sep 8, 2025
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2025/readings.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2025/readings.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

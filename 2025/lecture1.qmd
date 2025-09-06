@@ -4,7 +4,7 @@ description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: September 8, 2025
 date-format: long
-image: "/images/economy-environment-energy.jpeg"
+image: "/images/iea-net-zero.png"
 format:
   revealjs:
     theme: white
@@ -21,13 +21,14 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-![](/images/423ppm.png){fig-align="center"}
+## August 2025:	425.48 ppm
+
+![](/images/425ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 :::
 
----
 
 ## Welcome and icebreaker
 
@@ -60,7 +61,7 @@ Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponen
 :::
 
 
-## 150 Gt Carbon Budget
+## ~150 Gt Carbon Budget
 
 ![](/images/1.5-degree-carbon-budget.png){fig-align="center"}
 
@@ -69,7 +70,7 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 :::
 
 
-## Why PAF9199?
+## Why PAF9187?
 
 -   Policy matters
     -   Technology innovation
@@ -83,7 +84,7 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 -   Syllabus
 -   Brightspace
 -   Course website: <https://drganghe.github.io/energy-climate-policy/>
--   Policy responses (10): 30%
+-   Policy responses (6): 30%
 -   Assignments (4): 20%
 -   Proposal: 10%
 -   Final presentations: 20%
@@ -91,14 +92,14 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 
 ## Climate guest speakers{.smaller}
 
--   9/15 – Mallory Flowers: Carbon disclosure--the intersect of public and private cliamte governance 
--   9/22 – Shanru Tian: Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
--   9/29 – Karan Bhuwalka: Guiding what to build in the supply chain of energy technologies 
--   10/14 – Beia Spiller: The transition to decarbonized transport sector 
--   11/3 – Shuchen Cong: Identifying energy limiting behavior and its implications 
--   11/10 – Claudia Villar-Leeman: NYC's electric grid and role of energy storage 
--   11/17 – Cecilia Springer: U.S. data center energy demand and emissions 
--   12/1 – Luo Xu: Towards resilient and sustainable electricity grids under climate extremes 
+-   9/15 – [Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html): Carbon disclosure--the intersect of public and private cliamte governance 
+-   9/29 – [Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html): Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
+-   10/6 – [Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html): Guiding what to build in the supply chain of energy technologies 
+-   10/14 – [Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html): The transition to decarbonized transport sector 
+-   11/3 – [Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html): Identifying energy limiting behavior and its implications 
+-   11/17 – [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html): NYC's electric grid and role of energy storage 
+-   11/24 – [Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html): U.S. data center energy demand and emissions 
+-   12/1 – [Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html): Towards resilient and sustainable electricity grids under climate extremes 
 
 ::: footer
 Learn more: <https://drganghe.github.io/climate-guest-speakers/>
@@ -272,6 +273,51 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 Source: [National Academies](http://www.greatachievements.org/)
 :::
 
+## Energy and climate grand challenges
+
+::: {style="font-size:16pt; text-align: center;"}
+-   **Make solar energy affordable**
+-   **Provide energy from fusion**
+-   **Develop carbon sequestration methods**
+-   Manage the nitrogen cycle
+-   Provide access to clean water
+-   Restore and improve urban infrastructure
+-   Advance health informatics
+-   Engineer better medicines
+-   Reverse-engineer the brain
+-   Prevent nuclear terror
+-   Secure cyberspace
+-   Enhance virtual reality
+-   Advance personalized learning
+-   Engineer the tools for scientific discovery
+:::
+
+::: footer
+Source: [National Academies](https://www.nationalacademies.org/news/2008/02/21-centurys-grand-engineering-challenges-unveiled)
+:::
+
+
+## Public administration grand challenges
+
+::: {style="font-size:16pt; text-align: center;"}
+- Protect electoral integrity and enhance voter participation
+- Modernize and reinvigorate the public service
+- Develop new approaches to public governance and engagement
+- Advance national interests in a changing global context
+- Foster social equity
+- Connect individuals to meaningful work
+- Build resilient communities
+- Advance the nation’s long-term fiscal health
+- **Steward natural resources and address climate change**
+- Create modern water systems for safe and sustainable use
+- Ensure data security and privacy rights of individuals
+- Make government AI ready
+:::
+
+::: footer
+Source: [National Academy of Public Administration](https://napawash.org/grand-challenges/the-12-grand-challenges)
+:::
+
 ## Energy grand challenges: SDGs
 
 ![](/images/un-sdg.png){fig-align="center"}
@@ -338,6 +384,33 @@ Huntington, Weyant, Sweeney "Modeling for insights, not numbers":
 ::: footer
 Source: @hogan_energy_2002, @huntington_modeling_1982
 :::
+
+
+## The Anthropocene
+
+::: columns
+::: {.column width="50%"}
+![](/images/increasing-rates-of-change-in-human-activity.png){fig-align="center"}
+:::
+::: {.column width="50%"}
+![](/images/global-scale-change-in-earth-systems.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: @steffenAnthropoceneGlobalChange2011
+:::
+
+
+## Earth beyond six of nine planetary boundaries
+
+![](/images/planetary-boundaries-over-time.png){fig-align="center"}
+
+::: footer
+Source: [Stockholm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html); @richardsonEarthSixNine2023
+:::
+
+
 
 ------------------------------------------------------------------------
 

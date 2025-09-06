@@ -2,19 +2,7 @@
   {
     "listing": "/lectures.html",
     "items": [
-      "/2024/lecture1.html",
-      "/2024/lecture2.html",
-      "/2024/lecture3.html",
-      "/2024/lecture4.html",
-      "/2024/lecture5.html",
-      "/2024/lecture6.html",
-      "/2024/lecture7.html",
-      "/2024/lecture8.html",
-      "/2024/lecture9.html",
-      "/2024/lecture10.html",
-      "/2024/lecture11.html",
-      "/2024/lecture12.html",
-      "/2024/lecture13.html"
+      "/2025/lecture1.html"
     ]
   },
   {
@@ -23,6 +11,10 @@
   },
   {
     "listing": "/2023/students.html",
+    "items": []
+  },
+  {
+    "listing": "/2025/students.html",
     "items": []
   }
 ]
