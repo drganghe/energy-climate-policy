@@ -13,7 +13,7 @@ repo-actions: false
 |---|---|---|---|---|
 | 1 | 9/1 | Labor Day - No session |  |  |
 | 2 | 9/8 | [Introduction--Grand Challenges](lecture1.qmd) |  |  |
-| 3 | 9/15 | Energy and climate numbers and project economics | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
+| 3 | 9/15 | [Energy and climate numbers and project economics](lecture2.qmd) | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
 | 4 | 9/22 | No classes scheduled |  |  |
 | 5 | 9/29 | Climate impacts and responses | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
 | 6 | 10/6 | Energy systems and energy conversion technologies | [Dr. Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html)  | PR2 |

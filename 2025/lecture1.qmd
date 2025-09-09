@@ -92,7 +92,7 @@ Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
 
 ## Climate guest speakers{.smaller}
 
--   9/15 – [Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html): Carbon disclosure--the intersect of public and private cliamte governance 
+-   9/15 – [Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html): Carbon disclosure--the intersect of public and private climate governance 
 -   9/29 – [Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html): Optimizing the efficacy of leak detection and quantification for natural gas pipelines 
 -   10/6 – [Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html): Guiding what to build in the supply chain of energy technologies 
 -   10/14 – [Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html): The transition to decarbonized transport sector 

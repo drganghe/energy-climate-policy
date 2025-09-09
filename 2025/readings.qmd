@@ -24,19 +24,26 @@ Here is a list of readings for the course. All readings are available on Brights
 - @steffenAnthropoceneGlobalChange2011
 
 
-<!--
 ## Lecture 2
 
-- @IPCC_2021_WGI
 - @hermann2006quantifying 
 - @koomey2010defining 
 - @fridley2016impacts 
 - @macknick_energy_2011 
 - @hansen_perception_2012
+- @weitzman2001gamma
+- @arrow_determining_2013
+- @yelle_learning_1979
+- @grubler_dynamics_1999
+- @kavlak_evaluating_2018
+- @GRUBLER20105174
+- @helveston_he_davidson_2022
+- @liuCanChinaBreak2025
 
-
+<!--
 ## Lecture 3
 
+- @IPCC_2021_WGI
 - @carleton2016social 
 - @neumann_climate_2020
 - @updating_scc_2017
@@ -47,26 +54,26 @@ Here is a list of readings for the course. All readings are available on Brights
 - @kaya_environment_1997
 - @pacala2004stabilization
 - @rennert2022comprehensive
-- @armitage_innovation_2023
 
 
 ## Lecture 4
 
-- @smil2017energy
-- @iea_net_2021
-- @bmwi_electricity_2015
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @fridley2016impacts
+- @masters2013renewable 
+- @bergin2017large
 
 
 ## Lecture 5
 
-- @weitzman2001gamma
-- @arrow_determining_2013
-- @yelle_learning_1979
-- @grubler_dynamics_1999
-- @kavlak_evaluating_2018
-- @Klemun2023Mechanisms
-- @GRUBLER20105174
-- @helveston_he_davidson_2022
+- @smil2017energy 
+- @iea_net_2021
+- @bmwi_electricity_2015
+- @koomey2010defining
+- @liu_climate_2023
+- @chen2023deploying
 
 
 ## Lecture 6
@@ -83,39 +90,13 @@ Here is a list of readings for the course. All readings are available on Brights
 
 ## Lecture 7
 
-- @masters2013renewable
-- @bergin2017large
-- @chen2023deploying
-- @liu_climate_2023
-- @koomey2010defining
-- @dowling_role_2020
-
-
-## Lecture 8
-
 - @gillingham2009energy
 - @gillingham2013energy
 - @iea_net_2021
 - @thalerNudge2021
 
 
-## Lecture 9
-
-- @alstone2015decentralized
-- @He2017efa 
-- @jenkins2016energy
-- @sunter2019disparities
-- @cong2022unveiling
-- @lovins_energy_1976
-- @jacobson_low-cost_2015
-- @clack_evaluation_2017
-- @cui2021plant
-- @he2020enabling
-- @wuFewer15Coal2024
-- @mulugetta2022africa
-
-
-## Lecture 10
+## Lecture 8
 
 - @iea2016airpollution
 - @lelieveld2015contribution
@@ -128,19 +109,31 @@ Here is a list of readings for the course. All readings are available on Brights
 - @tipaldoFrameworkAgeingHealth2024
 
 
+## Lecture 9
+
+- @lovins_energy_1976
+- @jacobson_low-cost_2015
+- @clack_evaluation_2017
+- @cui2021plant
+- @he2020enabling
+- @wuFewer15Coal2024
+- @masters2013renewable
+- @mulugetta2022africa
+- @johnston2019switch
+- @he_rapid_2020
+
+
+## Lecture 10
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @fosterNPCC4AdvancingClimate2024
+
+
 ## Lecture 11
-
-- @IPCC_2007_WGIII_Ch_13
-- @armitage_innovation_2023
-- @ehrlich_impact_1971
-- @kaya_environment_1997
-- @pacala2004stabilization
-- @rennert2022comprehensive
-- @stavinsRelativeMeritsCarbon2022
-- @stechemesserClimatePoliciesThat2024
-
-
-## Lecture 12
 
 - @lee2021empirical
 - @yu2018deepsolar
@@ -148,11 +141,9 @@ Here is a list of readings for the course. All readings are available on Brights
 - @ratledge2022using
 - @rolnick2022tackling
 - @kaack2022aligning
-- @johnston2019switch
-- @he_rapid_2020
 
 
-## Lecture 13
+## Lecture 12
 
 - @craig2002what
 - @supran_assessing_2023

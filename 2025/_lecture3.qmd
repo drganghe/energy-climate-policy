@@ -1,0 +1,360 @@
+---
+title: "Lecture 3 Climate Fdundamentals and Impact"
+description-meta: "Discuss the fundamentals of climate change"
+author: "Gang He"
+date: September 29, 2025
+date-format: long
+image: "/images/co2_historical.jpeg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  **It's warming**
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  We can fix it
+:::
+
+::: {.column width="50%"}
+![](/images/1/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## Five stages of climate denial
+
+- Stage 1: Deny the Problem Exists
+- Stage 2: Deny We're the Cause 
+  - Stage 2b: Consensus Denial 
+- Stage 3: Deny It's a Problem  
+- Stage 4: Deny We can Solve It  
+- Stage 5: It's too Late  
+
+::: footer
+Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)
+:::
+
+
+## Climate and Weather
+
+::: columns
+::: {.column width="50%"}
+> Climate is the average weather conditions of a region over a long period of time, usually at least 30 years. Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+
+::: {.column width="50%"}
+> Weather refers to short-term atmospheric conditions. Climate change refers to long-term changes.
+:::
+:::
+
+::: footer
+Source: [National Geographic](https://education.nationalgeographic.org/resource/all-about-climate/)
+:::
+
+## GHG effect
+
+![](/images/ghg-effect.png){fig-align="center"}
+
+::: footer
+Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
+:::
+
+## Greenhouse Gases(GHG){.smaller}
+
+
+| GHG                           | GWP-100   | Lifetime (Years) |
+|-------------------------------|-----------|------------------|
+| Carbon Dioxide (CO2)          | 1         | hundreds         |
+| Methane (CH4)                 | 29.8±11   | 11.8 ± 1.8       |
+| Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
+| Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
+
+:::{style="text-align: center;"}
+Other GHG:  
+
+- Sulphur hexafluoride (SF6) 
+- PFC-14 (CF4) 
+- Water vapour 
+:::
+
+::: footer
+Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
+:::
+
+## From emissions to warming
+
+![](/images/emission-co2-warming.png){fig-align="center"}
+
+::: footer
+Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
+:::
+
+
+## Warming since measurement
+
+![](/images/co2-1960-2024.png){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+:::
+
+## Warming in context of geological history
+
+![](/images/co2_historical.jpeg){fig-align="center"}
+
+::: footer
+Source: [NASA](https://climate.nasa.gov/evidence/)
+:::
+
+## Warmer and Warmer
+
+![](/images/temp-anomaly-1850-1900.png){fig-align="center"}
+
+::: footer
+Source: @koomey_solving_2022
+:::
+
+## Climate spireal
+
+![](/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
+
+::: footer
+Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
+:::
+
+
+## Temprature anomaly distribution
+
+![](/images/temp-anomaly-distribution.jpeg){fig-align="center"}
+
+::: footer
+Source: @hansen_perception_2012
+:::
+
+## Human vs nature
+
+![](/images/human-vs-nature.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Human component is the major driver of warming
+
+![](/images/drivers-of-warming.png){fig-align="center"}
+
+::: footer
+Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+## Scientific understanding: climate systems
+
+![](/images/climate-system-framework.png){fig-align="center"}
+
+::: footer
+Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
+:::
+
+
+## Scientific community and process
+
+- What is the IPCC?
+- How does the IPCC select its authors?
+- What literature does the IPCC assess?
+- How does the IPCC review process work?
+- How does the IPCC approve reports?
+- How does the IPCC deal with alleged errors?
+- What is an Expert Reviewer of IPCC?
+
+::: footer
+Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
+:::
+
+
+
+## Adverse impacts of climate change 
+
+![](/images/adverse-impact-climate-change.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## The impacts are global 
+
+![](/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+## Vulnerable population suffers more 
+
+![](/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+
+::: footer
+Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
+:::
+
+
+## Conventional focues
+
+- Ice melting
+- Sea level rising
+- Extreme weathers
+  - Floods
+  - Droughts
+
+## Damages to include{.smaller}
+
+- agriculture 
+- mortality 
+- energy 
+- low-risk labor 
+- high-risk labor 
+- coastal damages 
+- property crime 
+- violent crime 
+
+What other damages to include?
+
+## Social economic impacts
+
+![](/images/social-economic-impacts.png){fig-align="center"}
+
+::: footer
+Source: @carleton2016social
+:::
+
+
+## Social cost of carbon{.smaller}
+
+- Marginal cost of carbon\
+- Cost included:\
+  - Net agricultural productivity\
+  - Human health\
+  - Property damage\
+  - Energy system costs\
+- Cost not included:\
+  - Unknown impact: physical, ecological, economic\
+  - Unknown cost: information\
+
+
+## U.S. southern states suffer more
+
+![](/images/damages_total_2080_to_2090.jpeg){fig-align="center"}
+
+::: footer
+Source: @hsiang_estimating_2017
+:::
+
+## The poor will get damages more
+
+![](/images/damage-distribution.png){fig-align="center"}
+
+::: footer
+Source: @hsiang_estimating_2017
+:::
+
+## Climate damage function
+
+$Economic\ Damage=f(\Delta temperature)$
+
+- It could be negative or positive
+- Integrated Assessment Models/Economic models
+  - DICE/RICE
+  - FUND
+  - PAGE
+
+::: footer
+Read more: @neumann_climate_2020, @updating_scc_2017
+:::  
+
+
+## Climate change and conflicts
+
+![](/images/climate-and-conflict.jpeg){fig-align="center"}
+
+::: footer
+Read more: @hsiang_quantifying_2013
+::: 
+
+## Climate change affects energy system
+
+![](/images/climate-impact-on-energy.webp){fig-align="center"}
+
+::: footer
+Source: @yalew2020impacts
+:::
+
+
+## Climate impact to renewable supply-demand match
+
+![](/images/climate-change-solar-wind-sdm.png){fig-align="center"}
+
+::: footer
+Source: @liu_climate_2023
+:::
+
+
+## NYS climate impacts assessment{.smaller}
+
+::: columns
+::: {.column width="70%"}
+
+![](/images/nys-temperature-1901-2022.webp){fig-align="center" width="60%"}
+
+![](/images/nys-temperature-projection.webp){fig-align="center" width="60%"}
+
+:::
+
+::: {.column width="30%"}
+![](/images/nys-climate-impact-report.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.org/climate-figure-gallery/)
+:::
+
+## Grand challenges, huge progress, and grand opportunities
+
+![](/images/Two-centuries-World-as-100-people.png){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture3.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-society/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

@@ -1,6 +1,6 @@
 ---
-title: "Student Stories & Projects"
-subtitle: "Stories about Students and Projects by students"
+title: "Student Stories & Profiles & Projects"
+subtitle: "Stories about, Profiles of, and Projects by students"
 toc: false
 page-layout: full
 listing: 
@@ -54,9 +54,11 @@ listing:
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+
 ## Student Stories
 :::{#stories}
 :::
+
 
 ## Student Profiles
 :::{#profiles}
