@@ -1,0 +1,67 @@
+---
+title: Assignment 1 Deep Dive into Carbon Emissions
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+To effectively address climate change, we need a deep understanding of carbon emissions. This assignment will guide you to explore some key data sources, including [Our World in Data](https://ourworldindata.org/co2-emissions), the raw data is also available [here](https://github.com/owid/co2-data/blob/master/owid-co2-data.csv), and [Carbon Monitor](https://carbonmonitor.org/) which tracks global emissions in near real-time. These resources will help you explore patterns and trends in carbon emissions over time, as well as identify the major drivers and contributors to global carbon emissions.
+
+
+## Questions
+
+Please use the most recent available data to answer the following questions:
+
+1. Top 10 countries by annual total energy-related carbon emissions? (0.5pt)
+  - List the top 10 countries based on their total annual carbon emissions from energy related activities.
+2. Top 10 countries by per capita average carbon emissions? (0.5pt)
+  - List the top 10 countries based on their average carbon emissions per capita. How does this differ from total emissions rankings?
+3. Top 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)
+  - List the top 5 countries with the highest carbon intensity (carbon emission/GDP) and the top 5 countries with the lowest carbon intensity (carbon emission/GDP).
+  - Provide a brief explanation for the observed trends in carbon intensity.
+  - Use data visualizations to support your analysis, such as line charts or bar graphs, to show how carbon intensity has changed over time for the selected countries.
+  - Consider factors such as changes in energy sources, energy efficiency, and economic structure that may contribute to the observed patterns in carbon intensity.
+  - Discuss the implications of these trends for climate change mitigation and the role of different countries in addressing global emissions.
+4. Top 10 countries by cumulative carbon emissions (1750-2023)? (0.5pt)
+  - List the top 10 countries based on their cumulative carbon emissions since 1750. How does historical responsibility for emissions compare to current emissions?
+5. List all countries that have peaked their carbon emissions and specify the year they peaked? (1pt)
+  - Highlight notable trends or strategies that may have contributed to these peaks and declines.
+6. Production-based vs. consumption-based accounting: ranking changes? (0.5pt)
+  - Explore how the rankings of carbon emissions change when switching from production-based accounting (emissions generated within a country) to consumption-based accounting (emissions associated with goods consumed in a country, regardless of where they were produced).
+  - Explain the key drivers behind these ranking changes and what they reveal about global trade and emissions responsibility.
+7. Impact of the COVID-19 pandemic on global carbon emissions? (0.5pt)
+  - Using global data, describe the impact the pandemic had on carbon emissions.
+  - Use readings to explain how different factors, such as economic slowdown, reduced transportation, and shifts in energy demand, contributed to these changes.
+8. Technology and methods for near real-time carbon monitoring (0.5pt)
+  - Discuss the technologies and methods that enable near real-time carbon monitoring, such as satellite data, machine learning, and ground-based sensors.
+  - Provide one example of how daily carbon emissions data could improve policy discussions or lead to actionable climate solutions.
+
+Note: For each question, list the countries and their corresponding data. As we progress through the course, we will revisit this assignment when discussing the principle of “common but differentiated responsibilities” in climate negotiations and governance.
+
+## Further readings
+
+- Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” *The Innovation* 3 (1). <https://doi.org/10.1016/j.xinn.2021.100182>.
+
+
+- Friedlingstein, Pierre, Michael O'sullivan, Matthew W. Jones, Robbie M. Andrew, Judith Hauck, Peter Landschützer, Corinne Le Quéré et al. 2024. "Global carbon budget 2024." *Earth System Science Data Discussions* 2024: 1-133. <https://essd.copernicus.org/articles/17/965/2025/>
+
+
+

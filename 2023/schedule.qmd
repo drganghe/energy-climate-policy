@@ -5,6 +5,8 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+- [Students](students.qmd)
+
 | Week | Date  | Lecture                                                                | Assignment  |
 | ---- | ----- | ---------------------------------------------------------------------- | ----------- |
 | 1    | 8/28  | [Introduction](lecture1.qmd)                                           | HW1         |

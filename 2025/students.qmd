@@ -1,6 +1,7 @@
 ---
 title: "Student Stories & Profiles & Projects"
-subtitle: "Stories about, Profiles of, and Projects by students"
+subtitle: "Celebrate student success, hightlight student expertise, and showcase student projects"
+image: /files/images/hex-Energy-Climate-Policy.png
 toc: false
 page-layout: full
 listing: 
@@ -21,6 +22,8 @@ listing:
   sort: "name asc"
   type: grid
   fields: [title, subtitle, image]
+  field-display-names: 
+    title: "Concentration"
   grid-item-align: center
   grid-columns: 4
   image-height: 250px

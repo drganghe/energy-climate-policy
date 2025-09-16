@@ -8,6 +8,7 @@ repo-actions: false
 {{< include /files/includes/_msclarity.qmd >}}
 
 - [Readings](readings.qmd)
+- [Students](students.qmd)
 
 | Week | Date | Lecture | Guest Speaker | Assignment |
 |---|---|---|---|---|

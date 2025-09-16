@@ -1,3 +1,9 @@
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-students-earn-top-public-service-fellowship/
+      image: /files/headshots/dayana-guerrero-uribe.webp
+      title: "Dayana Guerrero Uribe Earns John D. Solomon Fellowship for Public Service"
+      description: "Assigned to NYC Emergency Management in the Government Relations Unit, Uribe (MIA ’26, global security) aims to gain experience in navigating intergovernmental processes, concentrating on legislation and initiatives that center on resilience within vulnerable communities while strengthening her research and public-speaking skills."
+      date: "2025-09-09"
+      categories: [story]
 
     - path: https://newscenter.baruch.cuny.edu/news/baruch-college-mpa-graduate-student-abraham-lugo-johnson-justice-fellowship/
       image: https://newscenter.baruch.cuny.edu/wp-content/uploads/sites/24/2025/05/Abraham-Lugo_Johnson-Justice-Fellow.gif
@@ -13,9 +19,30 @@
     #   date: "2025-08-15"
     #   categories: [story] 
 
-    - path: https://drganghe.github.io/energy-climate-policy/2025/students/
-      image: /files/images/hex-Energy-Climate-Policy.png
-      title: "Student Name"
-      subtitle: "Masters of Public Administration"
+    - path: www.linkedin.com/in/brendahernandezavila 
+      image: /files/headshots/brenda-hernandez.jpg
+      title: "Brenda Hernandez"
+      subtitle: "International Affairs MIA"
 #      date: "2025-05-01"
-      categories: [profile] 
+      categories: [profile]
+
+    - path: https://www.linkedin.com/in/berlotteantoine/
+      image: /files/headshots/berlotte-antoine.jpg
+      title: "Berlotte Antoine"
+      subtitle: "International Nongovernmental Organizations"
+#      date: "2025-05-01"
+      categories: [profile]
+
+    - path: https://www.linkedin.com/in/puja-mitra/
+      image: /files/headshots/puja-mitra.jpg
+      title: "Puja Mitra"
+      subtitle: "Public Administration MPA"
+#      date: "2025-05-01"
+      categories: [profile]
+
+#     - path: https://drganghe.github.io/energy-climate-policy/2025/students/
+#       image: /files/images/hex-Energy-Climate-Policy.png
+#       title: "Student Name"
+#       subtitle: "Masters of Public Administration"
+# #      date: "2025-05-01"
+#       categories: [profile] 
