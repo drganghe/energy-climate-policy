@@ -16,7 +16,7 @@ repo-actions: false
 | 2 | 9/8 | [Introduction--Grand Challenges](lecture1.qmd) |  |  |
 | 3 | 9/15 | [Energy and climate numbers and project economics](lecture2.qmd) | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
 | 4 | 9/22 | No classes scheduled |  |  |
-| 5 | 9/29 | Climate impacts and responses | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
+| 5 | 9/29 | [Climate fundamentals and impacts](lecture3.qmd) | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
 | 6 | 10/6 | Energy systems and energy conversion technologies | [Dr. Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html)  | PR2 |
 | 7 | 10/14 | Energy demand, energy and economy | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | HW2 |
 | 8 | 10/24 | Energy, environment, and health |  | PR3 |

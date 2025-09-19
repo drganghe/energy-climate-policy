@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/1/climate-curriculum.png){fig-align="center"}
+![](/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
