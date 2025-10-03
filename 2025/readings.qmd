@@ -40,7 +40,7 @@ Here is a list of readings for the course. All readings are available on Brights
 - @helveston_he_davidson_2022
 - @liuCanChinaBreak2025
 
-<!--
+
 ## Lecture 3
 
 - @IPCC_2021_WGI
@@ -50,12 +50,17 @@ Here is a list of readings for the course. All readings are available on Brights
 - @hsiang_quantifying_2013
 - @yalew2020impacts
 - @liu_climate_2023
-- @ehrlich_impact_1971
-- @kaya_environment_1997
-- @pacala2004stabilization
-- @rennert2022comprehensive
 
 
+## Lecture 4
+
+- @smil2017energy 
+- @iea_net_2021
+- @bmwi_electricity_2015
+- @koomey2010defining
+
+
+<!--
 ## Lecture 4
 
 - @ehrlich_impact_1971
