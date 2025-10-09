@@ -60,6 +60,18 @@ Here is a list of readings for the course. All readings are available on Brights
 - @koomey2010defining
 
 
+## Lecture 5
+
+- @swan2009modeling
+- @ehrlich1971impact
+- @lin2016economic
+- @borenstein2015microeconomic
+- @brockway2021energy
+- @meadows2018limits
+- @rao2018decent
+- @hong2016probabilistic
+
+
 <!--
 ## Lecture 4
 

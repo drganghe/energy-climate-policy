@@ -1,0 +1,252 @@
+---
+title: "Lecture 5 Energy, Economy, and Demand"
+description-meta: "Factors drive energy demand"
+author: "Gang He"
+date: October 14, 2025
+date-format: long
+image: "/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true    
+---
+
+## Sample analytic questions
+
+- What will be the load in the NYISO service area in 2030?  
+- How emerging trends, such as EV and data centers, will change the load?    
+- What drives energy demand growth?  
+- How climate change affects energy demand?   
+- How to make reasonal assumptions about appliances stock turn over?  
+
+
+## Germany energy demand 
+
+![](/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png){fig-align="center"}
+
+::: footer
+Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
+:::
+
+
+## Decouping GDP and emissions 
+
+![](/images/gdp-co2-emissions.png){fig-align="center"}
+
+::: footer
+Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
+:::
+
+
+## Top-down vs bottom-up
+
+![](/images/top-down-and-bottom-up.png){fig-align="center"}
+
+::: footer
+Source: @swan2009modeling 
+:::
+
+## IPAT
+
+<center>
+$I=P\times A\times T$
+
+<p style="font-size:24pt; color:gray">
+Where,  
+$I$ = Impact   
+$P$ = Population  
+$A$ = Aflluence  
+$T$ = Technology    
+</p>
+</center>
+
+::: footer
+Read more: @ehrlich1971impact, John Holdren [A brief history of "IPAT"](https://mahb.stanford.edu/wp-content/uploads/2020/02/1993-holdre-BRIEF-HISTORY-OF-COMMONER-BATTLE.pdf)
+:::
+
+## Population
+
+![](/images/total-population-2024.png){fig-align="center"}
+
+::: footer
+Source: [UN World Population Prospects](https://population.un.org/wpp/assets/graphs/1_Demographic%20Profiles/World/Line%20Charts/1-Total%20population.png)
+:::
+
+
+##  Demographic decline and againg
+
+![](/images/demographic-decline-and-aging.jpg){fig-align="center"}
+
+::: footer
+Source: [International Monetary Fund](https://www.imf.org/en/Publications/fandd/issues/2024/09/picture-this-demographic-decline-andrew-stanley)
+:::
+
+
+
+## Economy (GDP)
+
+![](/images/china-provincial-electricity-gdp.png){fig-align="center"}
+
+::: footer
+Read more: @lin2016economic 
+:::
+
+## Energy intensity
+
+![](/images/energy-intensity-1965-2022.svg){fig-align="center"}
+
+::: footer
+Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=JPN~USA~CHN~IND~OWID_WRL~DEU~GBR)
+:::
+
+## Electrification
+
+![](/images/power-share-final-consumption-2023.png){fig-align="center"}
+
+::: footer
+Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html)
+:::
+
+
+## COVID-19 and global electricity demand
+
+![](/images/covid-global-electricity-demand.jpg){fig-align="center"}
+
+::: footer
+Source: @buechlerGlobalChangesElectricity2022
+:::
+
+## EV and load 
+
+:::columns
+
+::: {.column width="30%"}
+![](/images/ev-load.png){fig-align="center"}
+:::
+
+::: {.column width="70%"}
+![](/images/ev-charging.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: [McKinsey](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-potential-impact-of-electric-vehicles-on-global-energy-systems)
+:::
+
+
+## Data center energy demand
+
+![](/images/us-data-center-energy-demand.png){fig-align="center"}
+
+::: footer
+Read more: [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
+:::
+
+
+## Energy efficiency - "First Fuel"
+
+<center>
+![](/images/ee-net-zero.png){fig-align="center" width=60%}
+![](/images/iea-demand-legend.png){fig-align="center" width=50%}
+</center>
+
+::: footer
+Read more: [IEA](https://www.iea.org/articles/net-zero-by-2050-hinges-on-a-global-push-to-increase-energy-efficiency), @iea_net_2021
+:::
+
+## Adoption curve
+
+![](/images/adoption-curve.png){fig-align="center"}
+
+::: footer
+Read more: [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+:::
+
+## Rebound
+
+![](/images/Illustration-of-rebound-effects.png){fig-align="center"}
+
+::: footer
+Read more: [CarbonBrief](https://www.carbonbrief.org/guest-post-why-rebound-effects-may-cut-energy-savings-in-half/), @borenstein2015microeconomic, @brockway2021energy
+:::
+
+## Limit to growth, degrowth, green growth
+
+![](/images/limits-to-growth.png){fig-align="center"}
+
+::: footer
+Read more: @meadows2018limits, [50-year argument](https://media.nature.com/original/magazine-assets/d41586-022-00723-1/d41586-022-00723-1.pdf)
+:::
+
+
+## Decent living
+
+![](/images/decent-living.jpeg){fig-align="center"}
+
+::: footer
+Read more: @rao2018decent 
+:::
+
+## Human behavior - demand response
+
+![](/images/caiso-dr-20220906.png){fig-align="center"}
+
+::: footer
+Source: [CAIOS](https://www.caiso.com/TodaysOutlook/Pages/default.aspx)
+:::
+
+
+## Energy savings across behavioural interventions implemented in the United States
+
+![](/images/energy-savings-behaviorial-us.png){fig-align="center"}
+
+::: footer
+High evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: [IEA](https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home)
+:::
+
+## Load forecasting
+
+![](/images/load-forecasting.jpg){fig-align="center"}
+
+:::{.footer}
+Source: @hong2016probabilistic
+:::
+
+
+## Load forecast
+
+![](/images/load-forecast-diagram.svg){fig-align="center"}
+
+:::{.footer}
+Read more: [PJM](https://learn.pjm.com/three-priorities/planning-for-the-future/load-forecasting.aspx), [ISO New England](https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/)
+:::
+
+## Summary
+
+- Energy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior   
+- Understanding those drivers will help us learn the magnitude and profile of our demand  
+- Load forecast integrates all insights to the show   
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
