@@ -248,5 +248,5 @@ Read more: [PJM](https://learn.pjm.com/three-priorities/planning-for-the-future/
 :::
 
 ::: footer
-Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
 :::

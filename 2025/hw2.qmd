@@ -1,0 +1,101 @@
+---
+title: Assignment 2 Energy Project Economics
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## 1. A Tale of Two Nuclear Plants
+
+### Background  
+
+Please read the stories about the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant)--two nuclear projects with contrasting outcomes. Shoreham was decommisioned without even operating commercially, leaving Long Island rate-payers to cover its costs, Diablo Canyon was offered to extend operation as part of California's clean energy transition.
+
+
+### Questions
+
+1. **Shoreham Nuclear Power Plant**:
+
+LILCO (Long Island Lighting Company) attaches a **3%** surcharge to Long Island electric bills for 30 years to pay off the nuclear facility’s approximately **$6 billion** price tag in 1989. 
+
+How long does it take for Long Island residents to pay off Shoreham's construction and decommissioning costs? (Bad energy investment decisions could have drastic financial consequences)  (**1.5pt**)
+
+Using the following assumptions to calculate the duration of ratepayer charges: 
+
+- Initial cost(1989): **$6 billion**   
+- Decommissioning cost(1995): **$186 million**   
+- Residential rates (2020): **21.22 cents/kWh**   
+- Long Island total electricity consumption (2020): **20 TWh**   
+- Surcharge rate: **3%** of total electricity bills  
+- Discount rate: **4%**   
+- Assuming the real value of total annual surcharge remains constant. You can use 2020 as the base year, convert the construction (1989) and decommissioning cost (1995) to 2020 value, then calculate the total surchage revenue in 2020 and estimate how long it will take to pay off the cost.  
+
+
+2. **Diablo Canyon Power Plant**:
+
+In 2021, Diablo Canyon Power Plant generated nearly 9% of Cailifornia's electricity and roughly 15% of the State's clean energy production. The plant has been granted a 5 year extention beyond its scheduled closure in 2025. 
+
+What's the levelized cost of electricity (LCOE) of Diablo Canyon for its extended operation period (2026-2030)?  (**1pt**)
+ 
+Use the following assumptions:
+
+- Nameplate capacity: **2,256 MW**   
+- Capacity factor: **80%**   
+- Discount rate: **4%**   
+- Capical investment cost for extensioon: **$1.4** billion (forgivable loans, considered the only investment, past investments are sunk costs and should not be considered in this calculation).  
+- Assuming the O&M costs are 3% of the investment costs, average fuel costs is [\$5.37/MWh]^[https://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf]. 
+
+
+
+## 2. EV or ICE, Is It Still a Question?
+
+Electric Vehicle (EV) sales are surging, but are they economically competitive with Internal Combustion Engine (ICE) vehicles? Let's analyze this by comparing the net present value (NPV) of an EV and an ICE vehicle.  (**2.5pt**)
+
+A basic Chevrollet Bolt EV starting at **$29,700**, and an Honda Civic ICE starting at **$23,950**.
+
+Assume you drive **13,476** miles per year as average U.S. drivers do^[Federal Highway Administration, 2022, https://www.fhwa.dot.gov/ohim/onh00/bar8.htm]  
+Electricity price: **\$0.2/kWh**; Gasoline price: **\$3.5/gallon**  
+Efficiency: EV: **28kWh/100mile**; ICE: **30mile/gallon** (mpg)  
+Life-time: **10years**  
+Resale value after 10 years: EV: **\$5,000**; ICE: **\$10,000**  
+Discont rate: **4%**  
+
+1. Calculating the NPV of the EV and ICE, and decide which vehicle should you purchase based on economics?  
+2. IRA offers **\$7,500** tax credit^[https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after] for EV purchase before September 30, 2025, does that impact your decision?  
+3. What if the discount rate is **8%**, will that change your decision?  
+4. Calculating the carbon mitigation by driving an EV at New York State during the 10 years?  New York State grid carbon intensity is on average **0.55 short tons CO2 per MWh**^[https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Energy-Analysis/22-18-Projected-Emission-Factors-for-New-York-Grid-Electricity.pdf] of electricity generated. And the carbon intesity of finished gasoline is **8.49 kg CO2/gallon**^[https://www.eia.gov/environment/emissions/co2_vol_mass.php].
+
+ 
+
+## Further readings
+
+Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.
+
+New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://www.nytimes.com/1983/06/19/nyregion/how-li-will-pay-for-shoreham.html)  
+
+Timothy Bolger and Christopher Twarowski, June 11, 2009, [Nuclear Waste: 20 Years After Shoreham’s Closure](http://archive.longislandpress.com/2009/06/11/nuclear-waste-20-years-after-the-closure-of-the-shoreham-power-facility/)
+
+Nathan Rott, September 1, 2022. [California lawmakers extend the life of the state's last nuclear power plant](https://www.npr.org/2022/09/01/1119778975/california-lawmakers-extend-the-life-of-the-states-last-nuclear-power-plant)  
+
+
+
+
+

@@ -72,6 +72,22 @@ Here is a list of readings for the course. All readings are available on Brights
 - @hong2016probabilistic
 
 
+## Lecture 6
+
+- @iea2016airpollution
+- @lelieveld2015contribution
+- @qiuImpactsWindPower2022 
+- @millsteinClimateAirQuality2024
+- @qiuImportedSolarPhotovoltaics2025
+- @zhang2017transboundary
+- @iea2016energywater
+- @zhang2021long
+- @loveringa2022land
+- @matteNPCC4ClimateChange2024
+- @romanello2024ReportLancet2024
+- @tipaldoFrameworkAgeingHealth2024
+
+
 <!--
 ## Lecture 4
 

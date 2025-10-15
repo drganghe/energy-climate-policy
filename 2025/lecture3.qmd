@@ -356,5 +356,5 @@ Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-livin
 :::
 
 ::: footer
-Back to Title [Slide](lecture3.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
 :::

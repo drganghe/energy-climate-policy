@@ -1,0 +1,286 @@
+---
+title: "Lecture 6 Energy, Environment, Climate, and Human Health"
+description-meta: "Energy, Climate, environment, and human health"
+author: "Gang He"
+date: October 24, 2025
+date-format: long
+image: "/images/iea-energy-air-pollution.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true
+---
+
+## Sample analytic questions
+
+-   What are the environmental impacts of a fossil power plant?  
+-   How much water could you save if you replace all water cooling plants with air cooling?  
+-   What are the human health impacts of energy?  
+-   How climate change affect human health?  
+-   What are the co-benefits of energy transitions?  
+
+
+## Energy system environmental and health impacts
+
+:::columns
+
+::: {.column width="70%"}
+![](/images/energy-systems.png){fig-align="center" width=70%}
+:::
+
+::: {.column width="30%"}
+**System impacts**\
+- Climate change  
+- Air pollution\
+- Health\
+- Water\
+- Land use\
+- Ecosystem\
+:::
+
+:::
+
+::: footer
+Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+:::
+
+
+## Integrated energy-air-health framework
+
+![](/images/NREL-energy-air-quality-health-framework.jpg){fig-align="center"}
+
+::: footer
+Source: [NREL](https://www.nrel.gov/analysis/air-quality.html) 
+:::
+
+
+## Example sources of energy related air pollution
+
+![](/images/energy-related-air-pollution.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Pollution by energy sector
+
+![](/images/iea-energy-air-pollution.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Air pollution and human health analytic framework
+
+![](/images/environmental-health-framework.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Energy related PM emissions by sector and region
+
+![](/images/pm-emissions-map.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Air pollution standards (AQI)
+
+![](/images/air-pollution-standards.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+## Typical power plant emission control system
+
+![](/images/power-plant-air-pollutions.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Pollution mitigation technologies and efficiencies
+
+![](/images/pollution-abatement-efficiency.png){fig-align="center"}
+
+::: footer
+Source: @iea2016airpollution
+:::
+
+
+## Outdoor air pollution and premature mortality
+
+![](/images/motality-map.png){fig-align="center"}
+
+::: footer
+Source: @lelieveld2015contribution
+:::
+
+
+## Benefits of wind and solar
+
+:::columns
+
+::: {.column width="50%"}
+![](/images/wind-air-benefits.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/wind-solar-benefits.jpg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @qiuImpactsWindPower2022, @millsteinClimateAirQuality2024
+:::
+
+
+## Health and climate benefits of imported solar PV
+
+:::columns
+
+::: {.column width="50%"}
+![](/images/marginal-effects-of-solar.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/benefits-of-imported-solar.jpg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @qiuImportedSolarPhotovoltaics2025
+:::
+
+
+## Trade, air pollution, and premature mortality
+
+![](/images/trade-emissions-motality.jpg){fig-align="center"}
+
+::: footer
+Source: @zhang2017transboundary
+:::
+
+
+## Energy sector accounts ~1/8 global water withdrawal
+
+![](/images/water-by-sector.png){fig-align="center"}
+
+::: footer
+Source: @iea2016energywater
+:::
+
+
+## Water withdrawal vs. water consumption{.smaller}
+
+- Withdrawal is the volume of water removed from a source\
+- Consumption is the volume of water withdrawn that is not returned to the source, i.e. it is evaporated or transported to another location.\ 
+- Discharge is the volume of water withdrawn that is returned to the source, often degraded by use (altered physically or chemically) and impacting water quality.\ 
+- Water withdrawals are, by definition, always greater than or equal to consumption and are, therefore, the first limit approached at an energy production facility when water availability is constrained.\ 
+- Consumptive use reduces the amount of water available to satisfy demands downstream and is an important consideration where water resources are strained to meet the needs of all users.
+
+
+## Renewables save water
+
+![](/images/water-by-generating-technology.png){fig-align="center"}
+
+::: footer
+Source: @iea2016energywater
+:::
+
+
+## Dry cooling makes a big difference
+
+![](/images/water-by-power-technology.png){fig-align="center"}
+
+
+## Water-energy-carbon nexus
+
+![](/images/energy-water-carbon-nexus.png){fig-align="center"}
+
+::: footer
+Source: @zhang2021long
+:::
+
+
+## Land use intensity
+
+![](/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
+
+::: footer
+Source: @loveringa2022land
+:::
+
+
+## Multiple uses of land, co-benefits!
+
+![](/images/solar-covered-canal-california.webp){fig-align="center"}
+
+::: footer
+Source: [California’s next big energy experiment is working](https://www.sfgate.com/california/article/california-energy-experiment-solar-topped-canals-21045020.php)
+:::
+
+
+## NYC climate and health
+
+![](/images/climate-health-urban.png){fig-align="center"}
+
+::: footer
+Source: @matteNPCC4ClimateChange2024
+:::
+
+
+## Lancet countdown climate and health
+
+![](/images/lacet2024-health-heat.png){fig-align="center"}
+
+::: footer
+Source: @romanello2024ReportLancet2024
+:::
+
+
+## Aging, climate, and health
+
+![](/images/aging-climate-health.webp){fig-align="center"}
+
+::: footer
+Source: @tipaldoFrameworkAgeingHealth2024
+:::
+
+
+## Summary
+
+-   Environmental, climate, and health impacts are the externalities of energy systems\
+-   Energy-air pollution/climate change-human health framework of analysis\
+-   Energy-water-carbon nexus\
+-   System impacts show the constraint in systems modeling
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
+:::

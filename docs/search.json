@@ -60,7 +60,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Energy and climate numbers and project economics\n\n\n\nGang He\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fdundamentals and Impact\n\n\n\nGang He\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems and Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy, Economy, and Demand\n\n\n\nGang He\n\n\nOct 14, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Energy and climate numbers and project economics\n\n\n\nGang He\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fdundamentals and Impact\n\n\n\nGang He\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems and Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy, Economy, and Demand\n\n\n\nGang He\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy, Environment, Climate, and Human Health\n\n\n\nGang He\n\n\nOct 24, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "policymemo.html",
@@ -6753,5 +6753,236 @@
     "title": "Readings",
     "section": "Lecture 5",
     "text": "Lecture 5\n\nLukas G. Swan and V. Ismet Ugursal “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques,” Renewable and Sustainable Energy Reviews 13, no. 8 (2009): 1819–35, https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\nPaul R Ehrlich and John P Holdren “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171, no. 3977 (1971): 1212–17, https://doi.org/10.1097/00006254-197111000-00014.\nJiang Lin, Gang He, and Alexandria Yuan “Economic Rebalancing and Electricity Demand in China,” The Electricity Journal 29, no. 3 (2016): 48–54, https://doi.org/10.1016/j.tej.2016.03.010.\nSeverin Borenstein “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications,” The Energy Journal 36, no. 1 (2015), https://doi.org/10.5547/01956574.36.1.1.\nPaul E Brockway et al. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications,” Renewable and Sustainable Energy Reviews 141 (2021): 110781, https://doi.org/10.1016/j.rser.2021.110781.\nDonella H Meadows et al. “The Limits to Growth,” in Green Planet Blues (Routledge, 2018), 25–29.\nNarasimha D Rao and Jihoon Min “Decent Living Standards: Material Prerequisites for Human Wellbeing,” Social Indicators Research 138, no. 1 (2018): 225–44, https://doi.org/10.1007/s11205-017-1650-0.\nTao Hong and Shu Fan “Probabilistic Electric Load Forecasting: A Tutorial Review,” International Journal of Forecasting 32, no. 3 (2016): 914–38, https://doi.org/10.1016/j.ijforecast.2015.11.011."
+  },
+  {
+    "objectID": "2025/hw2.html",
+    "href": "2025/hw2.html",
+    "title": "Assignment 2 Energy Project Economics",
+    "section": "",
+    "text": "Please read the stories about the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant–two nuclear projects with contrasting outcomes. Shoreham was decommisioned without even operating commercially, leaving Long Island rate-payers to cover its costs, Diablo Canyon was offered to extend operation as part of California’s clean energy transition.\n\n\n\n\nShoreham Nuclear Power Plant:\n\nLILCO (Long Island Lighting Company) attaches a 3% surcharge to Long Island electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nHow long does it take for Long Island residents to pay off Shoreham’s construction and decommissioning costs? (Bad energy investment decisions could have drastic financial consequences) (1.5pt)\nUsing the following assumptions to calculate the duration of ratepayer charges:\n\nInitial cost(1989): $6 billion\n\nDecommissioning cost(1995): $186 million\n\nResidential rates (2020): 21.22 cents/kWh\n\nLong Island total electricity consumption (2020): 20 TWh\n\nSurcharge rate: 3% of total electricity bills\n\nDiscount rate: 4%\n\nAssuming the real value of total annual surcharge remains constant. You can use 2020 as the base year, convert the construction (1989) and decommissioning cost (1995) to 2020 value, then calculate the total surchage revenue in 2020 and estimate how long it will take to pay off the cost.\n\n\nDiablo Canyon Power Plant:\n\nIn 2021, Diablo Canyon Power Plant generated nearly 9% of Cailifornia’s electricity and roughly 15% of the State’s clean energy production. The plant has been granted a 5 year extention beyond its scheduled closure in 2025.\nWhat’s the levelized cost of electricity (LCOE) of Diablo Canyon for its extended operation period (2026-2030)? (1pt)\nUse the following assumptions:\n\nNameplate capacity: 2,256 MW\n\nCapacity factor: 80%\n\nDiscount rate: 4%\n\nCapical investment cost for extensioon: $1.4 billion (forgivable loans, considered the only investment, past investments are sunk costs and should not be considered in this calculation).\n\nAssuming the O&M costs are 3% of the investment costs, average fuel costs is [$5.37/MWh]1."
+  },
+  {
+    "objectID": "2025/hw2.html#a-tale-of-two-nuclear-plants",
+    "href": "2025/hw2.html#a-tale-of-two-nuclear-plants",
+    "title": "Assignment 2 Energy Project Economics",
+    "section": "",
+    "text": "Please read the stories about the Shoreham Nuclear Power Plant and the Diablo Canyon Power Plant–two nuclear projects with contrasting outcomes. Shoreham was decommisioned without even operating commercially, leaving Long Island rate-payers to cover its costs, Diablo Canyon was offered to extend operation as part of California’s clean energy transition.\n\n\n\n\nShoreham Nuclear Power Plant:\n\nLILCO (Long Island Lighting Company) attaches a 3% surcharge to Long Island electric bills for 30 years to pay off the nuclear facility’s approximately $6 billion price tag in 1989.\nHow long does it take for Long Island residents to pay off Shoreham’s construction and decommissioning costs? (Bad energy investment decisions could have drastic financial consequences) (1.5pt)\nUsing the following assumptions to calculate the duration of ratepayer charges:\n\nInitial cost(1989): $6 billion\n\nDecommissioning cost(1995): $186 million\n\nResidential rates (2020): 21.22 cents/kWh\n\nLong Island total electricity consumption (2020): 20 TWh\n\nSurcharge rate: 3% of total electricity bills\n\nDiscount rate: 4%\n\nAssuming the real value of total annual surcharge remains constant. You can use 2020 as the base year, convert the construction (1989) and decommissioning cost (1995) to 2020 value, then calculate the total surchage revenue in 2020 and estimate how long it will take to pay off the cost.\n\n\nDiablo Canyon Power Plant:\n\nIn 2021, Diablo Canyon Power Plant generated nearly 9% of Cailifornia’s electricity and roughly 15% of the State’s clean energy production. The plant has been granted a 5 year extention beyond its scheduled closure in 2025.\nWhat’s the levelized cost of electricity (LCOE) of Diablo Canyon for its extended operation period (2026-2030)? (1pt)\nUse the following assumptions:\n\nNameplate capacity: 2,256 MW\n\nCapacity factor: 80%\n\nDiscount rate: 4%\n\nCapical investment cost for extensioon: $1.4 billion (forgivable loans, considered the only investment, past investments are sunk costs and should not be considered in this calculation).\n\nAssuming the O&M costs are 3% of the investment costs, average fuel costs is [$5.37/MWh]1."
+  },
+  {
+    "objectID": "2025/hw2.html#ev-or-ice-is-it-still-a-question",
+    "href": "2025/hw2.html#ev-or-ice-is-it-still-a-question",
+    "title": "Assignment 2 Energy Project Economics",
+    "section": "2. EV or ICE, Is It Still a Question?",
+    "text": "2. EV or ICE, Is It Still a Question?\nElectric Vehicle (EV) sales are surging, but are they economically competitive with Internal Combustion Engine (ICE) vehicles? Let’s analyze this by comparing the net present value (NPV) of an EV and an ICE vehicle. (2.5pt)\nA basic Chevrollet Bolt EV starting at $29,700, and an Honda Civic ICE starting at $23,950.\nAssume you drive 13,476 miles per year as average U.S. drivers do2\nElectricity price: $0.2/kWh; Gasoline price: $3.5/gallon\nEfficiency: EV: 28kWh/100mile; ICE: 30mile/gallon (mpg)\nLife-time: 10years\nResale value after 10 years: EV: $5,000; ICE: $10,000\nDiscont rate: 4%\n\nCalculating the NPV of the EV and ICE, and decide which vehicle should you purchase based on economics?\n\nIRA offers $7,500 tax credit3 for EV purchase before September 30, 2025, does that impact your decision?\n\nWhat if the discount rate is 8%, will that change your decision?\n\nCalculating the carbon mitigation by driving an EV at New York State during the 10 years? New York State grid carbon intensity is on average 0.55 short tons CO2 per MWh4 of electricity generated. And the carbon intesity of finished gasoline is 8.49 kg CO2/gallon5."
+  },
+  {
+    "objectID": "2025/hw2.html#further-readings",
+    "href": "2025/hw2.html#further-readings",
+    "title": "Assignment 2 Energy Project Economics",
+    "section": "Further readings",
+    "text": "Further readings\nGet to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.\nNew York Times, June 19, 1983. How Long Island Will Pay For Shoreham\nTimothy Bolger and Christopher Twarowski, June 11, 2009, Nuclear Waste: 20 Years After Shoreham’s Closure\nNathan Rott, September 1, 2022. California lawmakers extend the life of the state’s last nuclear power plant"
+  },
+  {
+    "objectID": "2025/hw2.html#footnotes",
+    "href": "2025/hw2.html#footnotes",
+    "title": "Assignment 2 Energy Project Economics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf↩︎\nFederal Highway Administration, 2022, https://www.fhwa.dot.gov/ohim/onh00/bar8.htm↩︎\nhttps://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after↩︎\nhttps://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Energy-Analysis/22-18-Projected-Emission-Factors-for-New-York-Grid-Electricity.pdf↩︎\nhttps://www.eia.gov/environment/emissions/co2_vol_mass.php↩︎"
+  },
+  {
+    "objectID": "2025/lecture6.html#sample-analytic-questions",
+    "href": "2025/lecture6.html#sample-analytic-questions",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the environmental impacts of a fossil power plant?\n\nHow much water could you save if you replace all water cooling plants with air cooling?\n\nWhat are the human health impacts of energy?\n\nHow climate change affect human health?\n\nWhat are the co-benefits of energy transitions?"
+  },
+  {
+    "objectID": "2025/lecture6.html#energy-system-environmental-and-health-impacts",
+    "href": "2025/lecture6.html#energy-system-environmental-and-health-impacts",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Energy system environmental and health impacts",
+    "text": "Energy system environmental and health impacts\n\n\n\n\n\n\n\n\nSystem impacts\n- Climate change\n- Air pollution\n- Health\n- Water\n- Land use\n- Ecosystem\n\n\n\nSource: IIASA, Energy Primier"
+  },
+  {
+    "objectID": "2025/lecture6.html#integrated-energy-air-health-framework",
+    "href": "2025/lecture6.html#integrated-energy-air-health-framework",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Integrated energy-air-health framework",
+    "text": "Integrated energy-air-health framework\n\n\nSource: NREL"
+  },
+  {
+    "objectID": "2025/lecture6.html#example-sources-of-energy-related-air-pollution",
+    "href": "2025/lecture6.html#example-sources-of-energy-related-air-pollution",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Example sources of energy related air pollution",
+    "text": "Example sources of energy related air pollution\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#pollution-by-energy-sector",
+    "href": "2025/lecture6.html#pollution-by-energy-sector",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Pollution by energy sector",
+    "text": "Pollution by energy sector\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#air-pollution-and-human-health-analytic-framework",
+    "href": "2025/lecture6.html#air-pollution-and-human-health-analytic-framework",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Air pollution and human health analytic framework",
+    "text": "Air pollution and human health analytic framework\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#energy-related-pm-emissions-by-sector-and-region",
+    "href": "2025/lecture6.html#energy-related-pm-emissions-by-sector-and-region",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Energy related PM emissions by sector and region",
+    "text": "Energy related PM emissions by sector and region\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#air-pollution-standards-aqi",
+    "href": "2025/lecture6.html#air-pollution-standards-aqi",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Air pollution standards (AQI)",
+    "text": "Air pollution standards (AQI)\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#typical-power-plant-emission-control-system",
+    "href": "2025/lecture6.html#typical-power-plant-emission-control-system",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Typical power plant emission control system",
+    "text": "Typical power plant emission control system\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#pollution-mitigation-technologies-and-efficiencies",
+    "href": "2025/lecture6.html#pollution-mitigation-technologies-and-efficiencies",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Pollution mitigation technologies and efficiencies",
+    "text": "Pollution mitigation technologies and efficiencies\n\n\nSource: IEA (2016a)"
+  },
+  {
+    "objectID": "2025/lecture6.html#outdoor-air-pollution-and-premature-mortality",
+    "href": "2025/lecture6.html#outdoor-air-pollution-and-premature-mortality",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Outdoor air pollution and premature mortality",
+    "text": "Outdoor air pollution and premature mortality\n\n\nSource: Lelieveld et al. (2015)"
+  },
+  {
+    "objectID": "2025/lecture6.html#benefits-of-wind-and-solar",
+    "href": "2025/lecture6.html#benefits-of-wind-and-solar",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Benefits of wind and solar",
+    "text": "Benefits of wind and solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Qiu, Zigler, and Selin (2022), Millstein, O’Shaughnessy, and Wiser (2024)"
+  },
+  {
+    "objectID": "2025/lecture6.html#trade-air-pollution-and-premature-mortality",
+    "href": "2025/lecture6.html#trade-air-pollution-and-premature-mortality",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Trade, air pollution, and premature mortality",
+    "text": "Trade, air pollution, and premature mortality\n\n\nSource: Q. Zhang et al. (2017)"
+  },
+  {
+    "objectID": "2025/lecture6.html#energy-sector-accounts-18-global-water-withdrawal",
+    "href": "2025/lecture6.html#energy-sector-accounts-18-global-water-withdrawal",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Energy sector accounts ~1/8 global water withdrawal",
+    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\nSource: IEA (2016b)"
+  },
+  {
+    "objectID": "2025/lecture6.html#water-withdrawal-vs.-water-consumption",
+    "href": "2025/lecture6.html#water-withdrawal-vs.-water-consumption",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Water withdrawal vs. water consumption",
+    "text": "Water withdrawal vs. water consumption\n\nWithdrawal is the volume of water removed from a source\n\nConsumption is the volume of water withdrawn that is not returned to the source, i.e. it is evaporated or transported to another location. \nDischarge is the volume of water withdrawn that is returned to the source, often degraded by use (altered physically or chemically) and impacting water quality. \nWater withdrawals are, by definition, always greater than or equal to consumption and are, therefore, the first limit approached at an energy production facility when water availability is constrained. \nConsumptive use reduces the amount of water available to satisfy demands downstream and is an important consideration where water resources are strained to meet the needs of all users."
+  },
+  {
+    "objectID": "2025/lecture6.html#renewables-save-water",
+    "href": "2025/lecture6.html#renewables-save-water",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Renewables save water",
+    "text": "Renewables save water\n\n\nSource: IEA (2016b)"
+  },
+  {
+    "objectID": "2025/lecture6.html#dry-cooling-makes-a-big-difference",
+    "href": "2025/lecture6.html#dry-cooling-makes-a-big-difference",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Dry cooling makes a big difference",
+    "text": "Dry cooling makes a big difference"
+  },
+  {
+    "objectID": "2025/lecture6.html#water-energy-carbon-nexus",
+    "href": "2025/lecture6.html#water-energy-carbon-nexus",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Water-energy-carbon nexus",
+    "text": "Water-energy-carbon nexus\n\n\nSource: C. Zhang et al. (2021)"
+  },
+  {
+    "objectID": "2025/lecture6.html#land-use-intensity",
+    "href": "2025/lecture6.html#land-use-intensity",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Land use intensity",
+    "text": "Land use intensity\n\n\nSource: Loveringa et al. (2022)"
+  },
+  {
+    "objectID": "2025/lecture6.html#multiple-uses-of-land-co-benefits",
+    "href": "2025/lecture6.html#multiple-uses-of-land-co-benefits",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Multiple uses of land, co-benefits!",
+    "text": "Multiple uses of land, co-benefits!\n\n\nSource: California’s next big energy experiment is working"
+  },
+  {
+    "objectID": "2025/lecture6.html#nyc-climate-and-health",
+    "href": "2025/lecture6.html#nyc-climate-and-health",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "NYC climate and health",
+    "text": "NYC climate and health\n\n\nSource: Matte et al. (2024)"
+  },
+  {
+    "objectID": "2025/lecture6.html#lancet-countdown-climate-and-health",
+    "href": "2025/lecture6.html#lancet-countdown-climate-and-health",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Lancet countdown climate and health",
+    "text": "Lancet countdown climate and health\n\n\nSource: Romanello et al. (2024)"
+  },
+  {
+    "objectID": "2025/lecture6.html#aging-climate-and-health",
+    "href": "2025/lecture6.html#aging-climate-and-health",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Aging, climate, and health",
+    "text": "Aging, climate, and health\n\n\nSource: Tipaldo, Balk, and Hunter (2024)"
+  },
+  {
+    "objectID": "2025/lecture6.html#summary",
+    "href": "2025/lecture6.html#summary",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Summary",
+    "text": "Summary\n\nEnvironmental, climate, and health impacts are the externalities of energy systems\n\nEnergy-air pollution/climate change-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling"
+  },
+  {
+    "objectID": "2025/lecture6.html#references",
+    "href": "2025/lecture6.html#references",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "",
+    "text": "References\n\n\nIEA. 2016a. “Energy and Air Pollution: World Energy Outlook Special Report 2016.” https://www.iea.org/reports/energy-and-air-pollution.\n\n\n———. 2016b. “Water Energy Nexus Excerpt from the World Energy Outlook 2016.” https://www.iea.org/reports/water-energy-nexus.\n\n\nLelieveld, Jos, John S Evans, Mohammed Fnais, Despina Giannadaki, and Andrea Pozzer. 2015. “The Contribution of Outdoor Air Pollution Sources to Premature Mortality on a Global Scale.” Nature 525 (7569): 367–71. https://doi.org/10.1038/nature15371.\n\n\nLoveringa, Jessica, Marian Swaina, Linus Blomqvista, Rebecca R Hernandezb, and Jessica Lovering. 2022. “Land-Use Intensity of Electricity Production and Tomorrow’s Energy Landscape.” PLoS ONE 17: 7. https://doi.org/10.1371/journal.pone.0270155.\n\n\nMatte, Thomas, Kathryn Lane, Jenna F. Tipaldo, Janice Barnes, Kim Knowlton, Emily Torem, Gowri Anand, et al. 2024. “NPCC4: Climate Change and New York City’s Health Risk.” Annals of the New York Academy of Sciences 1539 (1): 185–240. https://doi.org/10.1111/nyas.15115.\n\n\nMillstein, Dev, Eric O’Shaughnessy, and Ryan Wiser. 2024. “Climate and Air Quality Benefits of Wind and Solar Generation in the United States from 2019 to 2022.” Cell Reports Sustainability 0 (0). https://doi.org/10.1016/j.crsus.2024.100105.\n\n\nQiu, Minghao, Gang He, and Peter Marcotullio. 2025. “Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States.” One Earth 8 (11): 101467. https://doi.org/10.1016/j.oneear.2025.101467.\n\n\nQiu, Minghao, Corwin M. Zigler, and Noelle E. Selin. 2022. “Impacts of Wind Power on Air Quality, Premature Mortality, and Exposure Disparities in the United States.” Science Advances 8 (48): eabn8762. https://doi.org/10.1126/sciadv.abn8762.\n\n\nRomanello, Marina, Maria Walawender, Shih-Che Hsu, Annalyse Moskeland, Yasna Palmeiro-Silva, Daniel Scamman, Zakari Ali, et al. 2024. “The 2024 Report of the Lancet Countdown on Health and Climate Change: Facing Record-Breaking Threats from Delayed Action.” The Lancet 0 (0). https://doi.org/10.1016/S0140-6736(24)01822-1.\n\n\nTipaldo, Jenna F., Deborah Balk, and Lori M. Hunter. 2024. “A Framework for Ageing and Health Vulnerabilities in a Changing Climate.” Nature Climate Change, October, 1–11. https://doi.org/10.1038/s41558-024-02156-2.\n\n\nZhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “Long-Term Transition of China’s Power Sector Under Carbon Neutrality Target and Water Withdrawal Constraint.” Journal of Cleaner Production 329: 129765. https://doi.org/10.1016/j.jclepro.2021.129765.\n\n\nZhang, Qiang, Xujia Jiang, Dan Tong, Steven J Davis, Hongyan Zhao, Guannan Geng, Tong Feng, et al. 2017. “Transboundary Health Impacts of Transported Global Air Pollution and International Trade.” Nature 543 (7647): 705–9. https://doi.org/10.1038/nature21712.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/readings.html#lecture-6",
+    "href": "2025/readings.html#lecture-6",
+    "title": "Readings",
+    "section": "Lecture 6",
+    "text": "Lecture 6\n\nIEA “Energy and Air Pollution: World Energy Outlook Special Report 2016,” 2016, https://www.iea.org/reports/energy-and-air-pollution.\nJos Lelieveld et al. “The Contribution of Outdoor Air Pollution Sources to Premature Mortality on a Global Scale,” Nature 525, no. 7569 (2015): 367–71, https://doi.org/10.1038/nature15371.\nMinghao Qiu, Corwin M. Zigler, and Noelle E. Selin “Impacts of Wind Power on Air Quality, Premature Mortality, and Exposure Disparities in the United States,” Science Advances 8, no. 48 (December 2, 2022): eabn8762, https://doi.org/10.1126/sciadv.abn8762.\nDev Millstein, Eric O’Shaughnessy, and Ryan Wiser “Climate and Air Quality Benefits of Wind and Solar Generation in the United States from 2019 to 2022,” Cell Reports Sustainability 0, no. 0 (May 29, 2024), https://doi.org/10.1016/j.crsus.2024.100105.\nMinghao Qiu, Gang He, and Peter Marcotullio “Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States,” One Earth 8, no. 11 (October 8, 2025): 101467, https://doi.org/10.1016/j.oneear.2025.101467.\nQiang Zhang et al. “Transboundary Health Impacts of Transported Global Air Pollution and International Trade,” Nature 543, no. 7647 (2017): 705–9, https://doi.org/10.1038/nature21712.\nIEA “Water Energy Nexus Excerpt from the World Energy Outlook 2016,” 2016, https://www.iea.org/reports/water-energy-nexus.\nChao Zhang et al. “Long-Term Transition of China’s Power Sector Under Carbon Neutrality Target and Water Withdrawal Constraint,” Journal of Cleaner Production 329 (2021): 129765, https://doi.org/10.1016/j.jclepro.2021.129765.\nJessica Loveringa et al. “Land-Use Intensity of Electricity Production and Tomorrow’s Energy Landscape,” PLoS ONE 17 (2022): 7, https://doi.org/10.1371/journal.pone.0270155.\nThomas Matte et al. “NPCC4: Climate Change and New York City’s Health Risk,” Annals of the New York Academy of Sciences 1539, no. 1 (2024): 185–240, https://doi.org/10.1111/nyas.15115.\nMarina Romanello et al. “The 2024 Report of the Lancet Countdown on Health and Climate Change: Facing Record-Breaking Threats from Delayed Action,” The Lancet 0, no. 0 (October 29, 2024), https://doi.org/10.1016/S0140-6736(24)01822-1.\nJenna F. Tipaldo, Deborah Balk, and Lori M. Hunter “A Framework for Ageing and Health Vulnerabilities in a Changing Climate,” Nature Climate Change, October 25, 2024, 1–11, https://doi.org/10.1038/s41558-024-02156-2."
+  },
+  {
+    "objectID": "2025/lecture6.html#health-and-climate-benefits-of-imported-solar",
+    "href": "2025/lecture6.html#health-and-climate-benefits-of-imported-solar",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Health and climate benefits of imported solar",
+    "text": "Health and climate benefits of imported solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Qiu, He, and Marcotullio (2025)"
+  },
+  {
+    "objectID": "2025/lecture6.html#health-and-climate-benefits-of-imported-solar-pv",
+    "href": "2025/lecture6.html#health-and-climate-benefits-of-imported-solar-pv",
+    "title": "Lecture 6 Energy, Environment, Climate, and Human Health",
+    "section": "Health and climate benefits of imported solar PV",
+    "text": "Health and climate benefits of imported solar PV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Qiu, He, and Marcotullio (2025)"
   }
 ]
