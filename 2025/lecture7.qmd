@@ -1,0 +1,405 @@
+---
+title: "Lecture 7 Energy Transition and Power Sector Decarbonization"
+description-meta: "Energy, Electrification, and Power Systems Transition"
+author: "Gang He"
+date: October 27, 2025
+date-format: long
+image: "/images/us-energy-consumption-1776-2023.svg"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-society/>
+#draft: true
+---
+
+## Sample analytic questions
+
+-   What are the drivers of energy transition?\
+-   How should each country think/design/implement its energy transition?\
+-   How to frame the role of different technologies in energy transition?\
+-   How geo-politics, wars, and pandemic impact the energy in transiton?\
+
+## Transition history
+
+![](/images/us-energy-consumption-1776-2023.svg){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
+:::
+
+## RE > coal: a milestone
+
+![](/images/us-re-coal-1950-2023.svg){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
+:::
+
+
+## U.S. power-sector half-way to zero
+
+![](/images/half-way-to-zero-us.png){fig-align="center"}
+
+::: footer
+Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/HalfwaytoZero.png)
+:::
+
+
+## Soft path vs. hard path{.smaller}
+
+![](/images/hard-soft-path.png){fig-align="center"}
+
+::: columns
+
+::: {.column width="50%"}
+Central, large scale, incresing supply/demand     
+Fossil, nuclear
+:::
+
+::: {.column width="50%"}
+Flexible, resilient, sustainable, and benign  
+Renewable energy, energy efficiency, matching in scale and quality to the end use need 
+:::
+
+:::
+
+::: footer
+Source: @lovins_energy_1976
+:::
+
+
+## Drivers of energy transition
+
+- Demand
+- Supply
+- Climate change
+- Environmental pollution
+- Energy security
+- Economics
+
+
+## 100% reneables: a debate
+
+::: columns
+
+::: {.column width="50%"}
+100% renewables (wind, water, solar) for all purposes?
+
+- Resources, technology, economic ready  
+- Huge benefits
+
+:::
+
+::: {.column width="50%"}
+100% renewable not viable/necesssary?
+
+- Modeling errors   
+- Implausible assumptions  
+- Need better modeling
+
+Energy transition is difficult, broad technology portfolio is needed
+
+:::
+
+:::
+
+
+::: footer
+Source: @jacobson_low-cost_2015, @clack_evaluation_2017
+:::
+
+
+## Changing perspectives of renewables 
+
+![](/images/ipcc-re-costs.png){fig-align="center"}
+
+
+::: footer
+Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
+:::
+
+## Energy Transition: The German Energiewende
+
+- Fighting climate change
+- Reducing energy imports
+- Stimulating technology innovation and the green economy
+- Reducing and eliminating the risks of nuclear power
+- Energy security
+- Strengthening local economies and providing social justice
+
+## Germany: role of nuclear?
+
+![](/images/germany-operable-nuclear-capacity.png){fig-align="center"}
+
+Three operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.
+
+::: footer
+Source: [World Nuclear Association](https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany.aspx)
+:::
+
+## The U.S.: net zero America
+![](/images/net-zero-america.png){fig-align="center"}
+
+::: footer
+Source: [ZERO Lab](https://netzeroamerica.princeton.edu)
+:::
+
+## U.S.: IRA
+![](/images/rhg-ira-emission.png){fig-align="center"}
+
+::: footer
+Source: [Rhodium Group](https://rhg.com/research/climate-clean-energy-inflation-reduction-act/)
+:::
+
+## Denmark: Distributed generation (CHP and wind)
+
+![](/images/denmark-distributed-gen.png){fig-align="center"}
+
+::: footer
+Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/103/PARBO.pdf)
+:::
+
+## China: the scale and scope
+
+![](/images/china-carbon-neutrality.jpeg){fig-align="center"}
+
+::: footer
+Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)
+:::
+
+
+## China: phasing out coal{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/retirement-score-china-coal-plants.webp){fig-align="center" width="80%"}
+
+:::
+
+::: {.column width="50%"}
+
+![](/images/china-coal-transition.png){fig-align="center"}
+
+Phasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution
+
+:::
+
+:::
+
+
+::: footer
+Source: @cui2021plant, @he2020enabling
+:::
+
+## Bazil: role of hydro and biofuel
+
+::: columns
+::: {.column width="50%"}
+![](/images/brazil-energy-mix-2021.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/brazil-power-mix-2021.png){fig-align="center" width="90%"}
+:::
+
+:::
+
+::: footer
+Source: [EIA](https://www.eia.gov/international/analysis/country/BRA)
+:::
+
+## Africa: the fogotten billion
+
+![](/images/africa-energy.webp){fig-align="center"}
+
+::: footer
+Source: @mulugetta2022africa
+:::
+
+
+## Summary
+
+-   Diverse factors that drive energy transition\
+-   Common and differentiated solutions to energy\
+-   Leverage the advantages\
+-   Addressing uncertainties: geopolitics, wars, pandemic, and more
+
+
+## Sample power system transition analytic questions
+
+-   How much solar and wind capacity need to be built?\
+-   How cost delince of renewables and storage will change the capacity and generation mix of the power sector?\
+-   How much new transmission capacity is needed to harvest the benefits of interconnection?\
+-   Does CCS has role to play in the power sector decarbonization?\
+
+
+## Power sector's central role
+
+Overarching strategy\
+
+- Electrification\
+- Decarbonization
+
+
+## Why power sector is special?
+
+- Essential good\
+- Infrastructure\
+- Technology/network complexity: balance on real-time\
+- Supply/Demand inelasticity\
+  - Capital intensive\
+  - Investment takes time\
+
+
+## U.S. electricity flow
+
+![](/images/us-electricity-flow-2023.png){fig-align="center"}
+
+::: footer
+Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
+:::
+
+
+## U.S. transmission grid
+
+![](/images/us-transmission-grid.png){fig-align="center"}
+
+::: footer
+Source: [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&layerId=0)
+:::
+
+
+
+## Refresh the basics
+
+- Energy and power\
+- kW, MW, GW, TW\
+- Heat rate and efficiency (Carnot, 1st, 2nd)\
+- Thermodynamics
+
+
+## Load factor and load curves
+
+$LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak\ power\ demand}$
+
+A low load factor means a “peaky” load shape
+
+
+![](/images/load-profile-load-duration-curve.png){fig-align="center"}
+
+::: footer
+Source: @masters2013renewable
+:::
+
+
+## Supply curve and dispatch
+
+![](/images/DispatchCurve.png){fig-align="center"}
+
+::: footer
+Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
+:::
+
+
+## Power system modeling family
+
+:::{style="font-size: 20px"}
+|     Type    |     Production Cost (Unit Commitment and Dispatch)    |     Network Reliability (AC Power Flow,   Dynamics)    |     Capacity   Expansion          |
+|---|---|---|---|
+|     Generator Adequacy    |     Yes    |     No    |     Often    |
+|     Flexibility Requirement    |     Yes    |     No    |     Somewhat    |
+|     Transmission Adequacy    |     Partially    |     Yes    |     Typically No    |
+|     Gen Contingencies    |     Somewhat    |     Yes    |     No    |
+|     Transmission Contingencies    |     Somewhat    |     Yes    |     No    |
+|     Frequency Stability    |     Somewhat    |     Yes    |     No    |
+|     Voltage Stability, Voltage control    |     No    |     Yes    |     No    |
+|     Examples    |     PROMOD,   GE-Maps, PLEXOS, GridView    |     Positive sequence load flow (PSLF),   power system simulator for engineering (PSSE)    |     NEMS, ReEDS, SWITCH, Grid-path, GenX, PyPSA, Haiku    |
+:::
+
+
+## Capacity expansion models
+
+- Capacity expansion models simulate generation and transmission capacity investment, given assumptions about future electricity demand, fuel prices, technology cost and performance, and policy and regulation\
+- What mix of generators should we build to meet load?\
+- Does a policy affect cost of service regions and competitive regions in different ways?
+
+
+## Strength and limits{.smaller}
+
+- **Strength**: Examine the impacts of power sector policies (or alternative technology/fuel trajectories) on the generation and capacity mix in the mid-to long-term\
+- **Limits**: Many do not have chronological unit commitment (i.e., every hour of the year chronologically); some use aggregate (model) plants for dispatch; transmission and power flow are a stylized representation (transport or DC)\
+- **Example questions**: Quantifying the impacts of environmental policies on generation and capacity? What are the cost implications of alternative pathways to a low greenhouse gas emissions future? How will alternative future prices of natural gas impact capacity investment? What is the change in consumption and expenditures? What are the efficiency and distributional effects of various policy designs?
+
+
+## SWITCH Model as an example
+
+![](/images/switch-model.jpg){fig-align="center"}
+
+::: footer
+Source: @johnston2019switch
+:::
+
+
+## Typical output: capacity/generation mix
+
+![](/images/hourly-dispatch.jpg){fig-align="center"}
+
+::: footer
+Source: @he_rapid_2020
+:::
+
+
+## Typical output: transmission expansions
+
+![](/images/pypsa-eur.png){fig-align="center"}
+
+::: footer
+Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
+:::
+
+## Unit committment and network reliability{.smaller}
+
+- **Unit Commitment Model**: Simulate detailed (hourly to sub-hourly) operation of a given system; Assess resource adequacy and other aspects of reliability of a system; Analyze the impact of changes in the system (e.g., retirement/addition of capacity) on system operation; Assess transmission congestion and locational marginal prices; Describe the daily pattern of emissions\
+- **Network Reliability Model**: Detailed simulations of the transmission network including dynamic events that can occur in seconds (and cause big problems); these models aren't run on a day to day basis –they are only run to examine significant changes to an existing system
+
+
+## Emerging trends
+
+- Smart grid\
+- Distributed generation\
+- Renewable penetration\
+- Efficiency improvement\
+- Electrifying\
+- DR/DSM
+
+
+## Summary
+
+-   Power sector's central role in decarbonization\
+-   Capacity expansion model to analyze the optimized investment decisions\
+-   Decisions in the real world is much more complicated\
+-   Emerging trends in the power sector
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
+:::

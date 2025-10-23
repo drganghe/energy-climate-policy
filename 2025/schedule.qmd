@@ -18,9 +18,9 @@ repo-actions: false
 | 4 | 9/22 | No classes scheduled |  |  |
 | 5 | 9/29 | [Climate fundamentals and impacts](lecture3.qmd) | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
 | 6 | 10/6 | [Energy systems and energy conversion technologies](lecture4.qmd) | [Dr. Karan Bhuwalka](https://drganghe.github.io/climate-guest-speakers/speakers/karan-bhuwalka/index.html)  | PR2 |
-| 7 | 10/14 | [Energy, economy, and demand](lecture5.qmd) | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | HW2 |
-| 8 | 10/24 | [Energy, environment, and health](lecture6.qmd) |  | PR3 |
-| 9 | 10/27 | Energy transition and power systems decarbonization |  | PR4 |
+| 7 | 10/14 | [Energy, economy, and demand](lecture5.qmd) | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR3 |
+| 8 | 10/24 | [Energy, environment, and health](lecture6.qmd) |  | HW2 |
+| 9 | 10/27 | [Energy transition and power sector decarbonization](lecture7.qmd) |  | PR4 |
 | 10 | 11/3 | Energy access, energy and climate justice | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
 | 11 | 11/10 | Energy efficiency, human behavior, culture, and sustainable energy consumption |  | PM Proposal |
 | 12 | 11/17 | Climate policy instruments | [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html) | HW4 |
