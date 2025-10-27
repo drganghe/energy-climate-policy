@@ -102,6 +102,15 @@ Here is a list of readings for the course. All readings are available on Brights
 - @he_rapid_2020
 
 
+## Lecture 8
+
+- @alstone2015decentralized
+- @He2017efa 
+- @jenkins2016energy
+- @sunter2019disparities
+- @cong2022unveiling
+- @fosterNPCC4AdvancingClimate2024
+
 <!--
 ## Lecture 4
 

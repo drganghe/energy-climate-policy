@@ -21,7 +21,7 @@ repo-actions: false
 | 7 | 10/14 | [Energy, economy, and demand](lecture5.qmd) | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR3 |
 | 8 | 10/24 | [Energy, environment, and health](lecture6.qmd) |  | HW2 |
 | 9 | 10/27 | [Energy transition and power sector decarbonization](lecture7.qmd) |  | PR4 |
-| 10 | 11/3 | Energy access, energy and climate justice | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
+| 10 | 11/3 | [Energy access, energy and climate justice](lecture8.qmd) | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
 | 11 | 11/10 | Energy efficiency, human behavior, culture, and sustainable energy consumption |  | PM Proposal |
 | 12 | 11/17 | Climate policy instruments | [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html) | HW4 |
 | 13 | 11/24 | Big data and AI for energy and climate change | [Dr. Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR5 |
