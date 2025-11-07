@@ -111,6 +111,14 @@ Here is a list of readings for the course. All readings are available on Brights
 - @cong2022unveiling
 - @fosterNPCC4AdvancingClimate2024
 
+
+## Lecture 9
+
+- @gillingham2009energy
+- @gillingham2013energy
+- @iea_net_2021
+- @thalerNudge2021
+
 <!--
 ## Lecture 4
 
