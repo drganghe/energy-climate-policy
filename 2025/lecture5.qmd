@@ -4,7 +4,7 @@ description-meta: "Factors drive energy demand"
 author: "Gang He"
 date: October 14, 2025
 date-format: long
-image: "/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true    
 ---
 
@@ -33,7 +33,7 @@ format:
 
 ## Germany energy demand 
 
-![](/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png){fig-align="center"}
+![]({{< var file_path >}}/images/german-economic-growth-power-and-energy-consumption-ghg-emissions-1990-2023.png){fig-align="center"}
 
 ::: footer
 Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/germanys-energy-consumption-and-power-mix-charts)
@@ -42,7 +42,7 @@ Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/german
 
 ## Decouping GDP and emissions 
 
-![](/images/gdp-co2-emissions.png){fig-align="center"}
+![]({{< var file_path >}}/images/gdp-co2-emissions.png){fig-align="center"}
 
 ::: footer
 Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
@@ -51,7 +51,7 @@ Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-grow
 
 ## Top-down vs bottom-up
 
-![](/images/top-down-and-bottom-up.png){fig-align="center"}
+![]({{< var file_path >}}/images/top-down-and-bottom-up.png){fig-align="center"}
 
 ::: footer
 Source: @swan2009modeling 
@@ -77,7 +77,7 @@ Read more: @ehrlich1971impact, John Holdren [A brief history of "IPAT"](https://
 
 ## Population
 
-![](/images/total-population-2024.png){fig-align="center"}
+![]({{< var file_path >}}/images/total-population-2024.png){fig-align="center"}
 
 ::: footer
 Source: [UN World Population Prospects](https://population.un.org/wpp/assets/graphs/1_Demographic%20Profiles/World/Line%20Charts/1-Total%20population.png)
@@ -86,7 +86,7 @@ Source: [UN World Population Prospects](https://population.un.org/wpp/assets/gra
 
 ##  Demographic decline and againg
 
-![](/images/demographic-decline-and-aging.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/demographic-decline-and-aging.jpg){fig-align="center"}
 
 ::: footer
 Source: [International Monetary Fund](https://www.imf.org/en/Publications/fandd/issues/2024/09/picture-this-demographic-decline-andrew-stanley)
@@ -96,7 +96,7 @@ Source: [International Monetary Fund](https://www.imf.org/en/Publications/fandd/
 
 ## Economy (GDP)
 
-![](/images/china-provincial-electricity-gdp.png){fig-align="center"}
+![]({{< var file_path >}}/images/china-provincial-electricity-gdp.png){fig-align="center"}
 
 ::: footer
 Read more: @lin2016economic 
@@ -104,7 +104,7 @@ Read more: @lin2016economic
 
 ## Energy intensity
 
-![](/images/energy-intensity-1965-2022.svg){fig-align="center"}
+![]({{< var file_path >}}/images/energy-intensity-1965-2022.svg){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=JPN~USA~CHN~IND~OWID_WRL~DEU~GBR)
@@ -112,7 +112,7 @@ Source: [Our World in Data](https://ourworldindata.org/grapher/energy-intensity?
 
 ## Electrification
 
-![](/images/power-share-final-consumption-2023.png){fig-align="center"}
+![]({{< var file_path >}}/images/power-share-final-consumption-2023.png){fig-align="center"}
 
 ::: footer
 Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-final-consumption.html)
@@ -121,7 +121,7 @@ Source: [EnerData](https://yearbook.enerdata.net/electricity/share-electricity-f
 
 ## COVID-19 and global electricity demand
 
-![](/images/covid-global-electricity-demand.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/covid-global-electricity-demand.jpg){fig-align="center"}
 
 ::: footer
 Source: @buechlerGlobalChangesElectricity2022
@@ -132,11 +132,11 @@ Source: @buechlerGlobalChangesElectricity2022
 :::columns
 
 ::: {.column width="30%"}
-![](/images/ev-load.png){fig-align="center"}
+![]({{< var file_path >}}/images/ev-load.png){fig-align="center"}
 :::
 
 ::: {.column width="70%"}
-![](/images/ev-charging.png){fig-align="center"}
+![]({{< var file_path >}}/images/ev-charging.png){fig-align="center"}
 :::
 
 :::
@@ -148,7 +148,7 @@ Source: [McKinsey](https://www.mckinsey.com/industries/automotive-and-assembly/o
 
 ## Data center energy demand
 
-![](/images/us-data-center-energy-demand.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-data-center-energy-demand.png){fig-align="center"}
 
 ::: footer
 Read more: [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
@@ -158,8 +158,8 @@ Read more: [2024 Report on U.S. Data Center Energy Use](https://eta-publications
 ## Energy efficiency - "First Fuel"
 
 <center>
-![](/images/ee-net-zero.png){fig-align="center" width=60%}
-![](/images/iea-demand-legend.png){fig-align="center" width=50%}
+![]({{< var file_path >}}/images/ee-net-zero.png){fig-align="center" width=60%}
+![]({{< var file_path >}}/images/iea-demand-legend.png){fig-align="center" width=50%}
 </center>
 
 ::: footer
@@ -168,7 +168,7 @@ Read more: [IEA](https://www.iea.org/articles/net-zero-by-2050-hinges-on-a-globa
 
 ## Adoption curve
 
-![](/images/adoption-curve.png){fig-align="center"}
+![]({{< var file_path >}}/images/adoption-curve.png){fig-align="center"}
 
 ::: footer
 Read more: [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
@@ -176,7 +176,7 @@ Read more: [Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of
 
 ## Rebound
 
-![](/images/Illustration-of-rebound-effects.png){fig-align="center"}
+![]({{< var file_path >}}/images/Illustration-of-rebound-effects.png){fig-align="center"}
 
 ::: footer
 Read more: [CarbonBrief](https://www.carbonbrief.org/guest-post-why-rebound-effects-may-cut-energy-savings-in-half/), @borenstein2015microeconomic, @brockway2021energy
@@ -184,7 +184,7 @@ Read more: [CarbonBrief](https://www.carbonbrief.org/guest-post-why-rebound-effe
 
 ## Limit to growth, degrowth, green growth
 
-![](/images/limits-to-growth.png){fig-align="center"}
+![]({{< var file_path >}}/images/limits-to-growth.png){fig-align="center"}
 
 ::: footer
 Read more: @meadows2018limits, [50-year argument](https://media.nature.com/original/magazine-assets/d41586-022-00723-1/d41586-022-00723-1.pdf)
@@ -193,7 +193,7 @@ Read more: @meadows2018limits, [50-year argument](https://media.nature.com/origi
 
 ## Decent living
 
-![](/images/decent-living.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/decent-living.jpeg){fig-align="center"}
 
 ::: footer
 Read more: @rao2018decent 
@@ -201,7 +201,7 @@ Read more: @rao2018decent
 
 ## Human behavior - demand response
 
-![](/images/caiso-dr-20220906.png){fig-align="center"}
+![]({{< var file_path >}}/images/caiso-dr-20220906.png){fig-align="center"}
 
 ::: footer
 Source: [CAIOS](https://www.caiso.com/TodaysOutlook/Pages/default.aspx)
@@ -210,7 +210,7 @@ Source: [CAIOS](https://www.caiso.com/TodaysOutlook/Pages/default.aspx)
 
 ## Energy savings across behavioural interventions implemented in the United States
 
-![](/images/energy-savings-behaviorial-us.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-savings-behaviorial-us.png){fig-align="center"}
 
 ::: footer
 High evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: [IEA](https://www.iea.org/articles/the-potential-of-behavioural-interventions-for-optimising-energy-use-at-home)
@@ -218,7 +218,7 @@ High evaluation quality (light blue); Medium evaluation quality (dark blue). Rea
 
 ## Load forecasting
 
-![](/images/load-forecasting.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/load-forecasting.jpg){fig-align="center"}
 
 :::{.footer}
 Source: @hong2016probabilistic
@@ -227,7 +227,7 @@ Source: @hong2016probabilistic
 
 ## Load forecast
 
-![](/images/load-forecast-diagram.svg){fig-align="center"}
+![]({{< var file_path >}}/images/load-forecast-diagram.svg){fig-align="center"}
 
 :::{.footer}
 Read more: [PJM](https://learn.pjm.com/three-priorities/planning-for-the-future/load-forecasting.aspx), [ISO New England](https://www.iso-ne.com/system-planning/system-forecasting/load-forecast/)
@@ -247,6 +247,4 @@ Read more: [PJM](https://learn.pjm.com/three-priorities/planning-for-the-future/
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

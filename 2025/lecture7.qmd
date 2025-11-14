@@ -4,7 +4,7 @@ description-meta: "Energy, Electrification, and Power Systems Transition"
 author: "Gang He"
 date: October 27, 2025
 date-format: long
-image: "/images/us-energy-consumption-1776-2023.svg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/us-energy-consumption-1776-2023.svg"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true
 ---
 
@@ -31,7 +31,7 @@ format:
 
 ## Transition history
 
-![](/images/us-energy-consumption-1776-2023.svg){fig-align="center"}
+![]({{< var file_path >}}/images/us-energy-consumption-1776-2023.svg){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
@@ -39,7 +39,7 @@ Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 
 ## RE > coal: a milestone
 
-![](/images/us-re-coal-1950-2023.svg){fig-align="center"}
+![]({{< var file_path >}}/images/us-re-coal-1950-2023.svg){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
@@ -48,7 +48,7 @@ Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=62444)
 
 ## U.S. power-sector half-way to zero
 
-![](/images/half-way-to-zero-us.png){fig-align="center"}
+![]({{< var file_path >}}/images/half-way-to-zero-us.png){fig-align="center"}
 
 ::: footer
 Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/HalfwaytoZero.png)
@@ -57,7 +57,7 @@ Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/Half
 
 ## Soft path vs. hard path{.smaller}
 
-![](/images/hard-soft-path.png){fig-align="center"}
+![]({{< var file_path >}}/images/hard-soft-path.png){fig-align="center"}
 
 ::: columns
 
@@ -121,7 +121,7 @@ Source: @jacobson_low-cost_2015, @clack_evaluation_2017
 
 ## Changing perspectives of renewables 
 
-![](/images/ipcc-re-costs.png){fig-align="center"}
+![]({{< var file_path >}}/images/ipcc-re-costs.png){fig-align="center"}
 
 
 ::: footer
@@ -139,7 +139,7 @@ Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymake
 
 ## Germany: role of nuclear?
 
-![](/images/germany-operable-nuclear-capacity.png){fig-align="center"}
+![]({{< var file_path >}}/images/germany-operable-nuclear-capacity.png){fig-align="center"}
 
 Three operating plants, total capacity 4055MW, in 2022, scheduled to shut down by end of 2022, and were extended to 2024.
 
@@ -148,14 +148,14 @@ Source: [World Nuclear Association](https://world-nuclear.org/information-librar
 :::
 
 ## The U.S.: net zero America
-![](/images/net-zero-america.png){fig-align="center"}
+![]({{< var file_path >}}/images/net-zero-america.png){fig-align="center"}
 
 ::: footer
 Source: [ZERO Lab](https://netzeroamerica.princeton.edu)
 :::
 
 ## U.S.: IRA
-![](/images/rhg-ira-emission.png){fig-align="center"}
+![]({{< var file_path >}}/images/rhg-ira-emission.png){fig-align="center"}
 
 ::: footer
 Source: [Rhodium Group](https://rhg.com/research/climate-clean-energy-inflation-reduction-act/)
@@ -163,7 +163,7 @@ Source: [Rhodium Group](https://rhg.com/research/climate-clean-energy-inflation-
 
 ## Denmark: Distributed generation (CHP and wind)
 
-![](/images/denmark-distributed-gen.png){fig-align="center"}
+![]({{< var file_path >}}/images/denmark-distributed-gen.png){fig-align="center"}
 
 ::: footer
 Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/103/PARBO.pdf)
@@ -171,7 +171,7 @@ Source: [Henning Parbo](https://iea.blob.core.windows.net/assets/imports/events/
 
 ## China: the scale and scope
 
-![](/images/china-carbon-neutrality.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/china-carbon-neutrality.jpeg){fig-align="center"}
 
 ::: footer
 Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-climate-targets-compare-against-a-common-baseline)
@@ -184,13 +184,13 @@ Source: [The Economist](https://www.economist.com/graphic-detail/2021/08/07/how-
 
 ::: {.column width="50%"}
 
-![](/images/retirement-score-china-coal-plants.webp){fig-align="center" width="80%"}
+![]({{< var file_path >}}/images/retirement-score-china-coal-plants.webp){fig-align="center" width="80%"}
 
 :::
 
 ::: {.column width="50%"}
 
-![](/images/china-coal-transition.png){fig-align="center"}
+![]({{< var file_path >}}/images/china-coal-transition.png){fig-align="center"}
 
 Phasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution
 
@@ -207,11 +207,11 @@ Source: @cui2021plant, @he2020enabling
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/brazil-energy-mix-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/brazil-energy-mix-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/brazil-power-mix-2021.png){fig-align="center" width="90%"}
+![]({{< var file_path >}}/images/brazil-power-mix-2021.png){fig-align="center" width="90%"}
 :::
 
 :::
@@ -222,7 +222,7 @@ Source: [EIA](https://www.eia.gov/international/analysis/country/BRA)
 
 ## Africa: the fogotten billion
 
-![](/images/africa-energy.webp){fig-align="center"}
+![]({{< var file_path >}}/images/africa-energy.webp){fig-align="center"}
 
 ::: footer
 Source: @mulugetta2022africa
@@ -265,7 +265,7 @@ Overarching strategy\
 
 ## U.S. electricity flow
 
-![](/images/us-electricity-flow-2023.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-electricity-flow-2023.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
@@ -274,7 +274,7 @@ Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
 
 ## U.S. transmission grid
 
-![](/images/us-transmission-grid.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-transmission-grid.png){fig-align="center"}
 
 ::: footer
 Source: [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&layerId=0)
@@ -297,7 +297,7 @@ $LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak
 A low load factor means a “peaky” load shape
 
 
-![](/images/load-profile-load-duration-curve.png){fig-align="center"}
+![]({{< var file_path >}}/images/load-profile-load-duration-curve.png){fig-align="center"}
 
 ::: footer
 Source: @masters2013renewable
@@ -306,7 +306,7 @@ Source: @masters2013renewable
 
 ## Supply curve and dispatch
 
-![](/images/DispatchCurve.png){fig-align="center"}
+![]({{< var file_path >}}/images/DispatchCurve.png){fig-align="center"}
 
 ::: footer
 Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
@@ -345,7 +345,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 
 ## SWITCH Model as an example
 
-![](/images/switch-model.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/switch-model.jpg){fig-align="center"}
 
 ::: footer
 Source: @johnston2019switch
@@ -354,7 +354,7 @@ Source: @johnston2019switch
 
 ## Typical output: capacity/generation mix
 
-![](/images/hourly-dispatch.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/hourly-dispatch.jpg){fig-align="center"}
 
 ::: footer
 Source: @he_rapid_2020
@@ -363,7 +363,7 @@ Source: @he_rapid_2020
 
 ## Typical output: transmission expansions
 
-![](/images/pypsa-eur.png){fig-align="center"}
+![]({{< var file_path >}}/images/pypsa-eur.png){fig-align="center"}
 
 ::: footer
 Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
@@ -400,6 +400,4 @@ Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

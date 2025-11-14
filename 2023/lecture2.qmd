@@ -4,7 +4,7 @@ description-meta: "Make sense of energy and climate numbers, data sources, and c
 author: "Gang He"
 date: September 11, 2023
 date-format: long
-image: "/images/boe-equations.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/boe-equations.png"
 #suppress-bibliography: true
 format:
   revealjs:
@@ -22,7 +22,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-## {background-color="black" background-image="/images/one-ton-co2.jpg"}
+## {background-color="black" background-image="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/one-ton-co2.jpg"}
 
 ::: footer
 Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
@@ -31,7 +31,7 @@ Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
 
 ## NYC's daily carbon dioxide emissions as one-tonne spheres
 
-![](/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
 
 ::: footer
 Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
@@ -40,7 +40,7 @@ Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
 
 ## Climate stripes
 
-![](/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+![]({{< var file_path >}}/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
 
 ::: footer
 Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
@@ -49,15 +49,15 @@ Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
 
 ## Carbon budget
 
-![](/images/system-carbon-budget.png){fig-align="center"}
+![]({{< var file_path >}}/images/system-carbon-budget.png){fig-align="center"}
 
 ::: footer
-Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global{{< var file_path >}}/images/carbonbudget/Infographic_Emissions2021.pdf)
 :::
 
 ## Emission and concentration
 
-![](/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
 
 ::: footer
 Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
@@ -66,7 +66,7 @@ Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/unde
 
 ## Get comfortable with units
 
-![](/images/energy-units.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-units.png){fig-align="center"}
 
 ::: footer
 Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
@@ -84,7 +84,7 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 
 ## Scale of numbers
 
-![](/images/energy-units-scale.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-units-scale.png){fig-align="center"}
 
 ::: footer
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
@@ -93,7 +93,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Comparing the world's energy resources
 
-![](/images/perez-planetary-energy.png){fig-align="center"}
+![]({{< var file_path >}}/images/perez-planetary-energy.png){fig-align="center"}
 
 ::: footer
 Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
@@ -102,7 +102,7 @@ Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
 
 ## Energy stock and flow
 
-![](/images/energy-stock-flow.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-stock-flow.png){fig-align="center"}
 
 ::: footer
 Source: @hermann2006quantifying 
@@ -111,7 +111,7 @@ Source: @hermann2006quantifying
 
 ## Energy vs. power
 
-![](/images/Power-vs-Energy.png){fig-align="center"}
+![]({{< var file_path >}}/images/Power-vs-Energy.png){fig-align="center"}
 
 ::: footer
 Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
@@ -135,7 +135,7 @@ We need to know what we are talking about!
 
 ## Back-of-the-envelope estimation
 
-![](/images/boe-equations.png){fig-align="center"}
+![]({{< var file_path >}}/images/boe-equations.png){fig-align="center"}
 
 ::: footer
 Source: Gang He
@@ -144,7 +144,7 @@ Source: Gang He
 
 ## Art Rosenfeld
 
-![](/images/art-rosenfeld.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/art-rosenfeld.jpeg){fig-align="center"}
 
 ::: footer
 Source: [LBL](https://artrosenfeld.lbl.gov/)
@@ -152,7 +152,7 @@ Source: [LBL](https://artrosenfeld.lbl.gov/)
 
 ## Rosenfeld Effect
 
-![](/images/art-rosenfeld-effect.png){fig-align="center"}
+![]({{< var file_path >}}/images/art-rosenfeld-effect.png){fig-align="center"}
 
 ::: footer
 Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/) 
@@ -179,7 +179,7 @@ Source: @koomey2010defining
 
 ## Comparing with the Three Gorges Dam
 
-![](/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+![]({{< var file_path >}}/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
 
 ::: footer
 Source: @fridley2016impacts 
@@ -246,7 +246,7 @@ AI doesnot necessarily mean better insights
 
 ## GHG effect
 
-![](/images/ghg-effect.png){fig-align="center"}
+![]({{< var file_path >}}/images/ghg-effect.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
@@ -273,7 +273,7 @@ Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf)
 
 ## From emissions to warming
 
-![](/images/emission-co2-warming.png){fig-align="center"}
+![]({{< var file_path >}}/images/emission-co2-warming.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
@@ -282,7 +282,7 @@ Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
 
 ## Warming since measurement
 
-![](/images/co2-1958-2022.png){fig-align="center"}
+![]({{< var file_path >}}/images/co2-1958-2022.png){fig-align="center"}
 
 ::: footer
 Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
@@ -290,7 +290,7 @@ Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
 
 ## Warming in context of geological history
 
-![](/images/co2_historical.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/co2_historical.jpeg){fig-align="center"}
 
 ::: footer
 Source: [NASA](https://climate.nasa.gov/evidence/)
@@ -298,7 +298,7 @@ Source: [NASA](https://climate.nasa.gov/evidence/)
 
 ## Warmer and Warmer
 
-![](/images/temp-anomaly-1850-1900.png){fig-align="center"}
+![]({{< var file_path >}}/images/temp-anomaly-1850-1900.png){fig-align="center"}
 
 ::: footer
 Source: @koomey_solving_2022
@@ -306,7 +306,7 @@ Source: @koomey_solving_2022
 
 ## Climate spireal
 
-![](/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
 
 ::: footer
 Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
@@ -315,7 +315,7 @@ Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
 
 ## Temprature anomaly distribution
 
-![](/images/temp-anomaly-distribution.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/temp-anomaly-distribution.jpeg){fig-align="center"}
 
 ::: footer
 Source: @hansen_perception_2012
@@ -323,7 +323,7 @@ Source: @hansen_perception_2012
 
 ## Human vs nature
 
-![](/images/human-vs-nature.png){fig-align="center"}
+![]({{< var file_path >}}/images/human-vs-nature.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -331,7 +331,7 @@ Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Four
 
 ## Human component is the major driver of warming
 
-![](/images/drivers-of-warming.png){fig-align="center"}
+![]({{< var file_path >}}/images/drivers-of-warming.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -339,7 +339,7 @@ Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Four
 
 ## Scientific understanding: climate systems
 
-![](/images/climate-system-framework.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-system-framework.png){fig-align="center"}
 
 ::: footer
 Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
@@ -385,7 +385,7 @@ Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on di
 :::
 
 ::: {.column width="50%"}
-![](/images/1/climate-curriculum.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 

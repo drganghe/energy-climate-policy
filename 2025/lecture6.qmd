@@ -4,7 +4,7 @@ description-meta: "Energy, Climate, environment, and human health"
 author: "Gang He"
 date: October 24, 2025
 date-format: long
-image: "/images/iea-energy-air-pollution.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-energy-air-pollution.png"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true
 ---
 
@@ -36,7 +36,7 @@ format:
 :::columns
 
 ::: {.column width="70%"}
-![](/images/energy-systems.png){fig-align="center" width=70%}
+![]({{< var file_path >}}/images/energy-systems.png){fig-align="center" width=70%}
 :::
 
 ::: {.column width="30%"}
@@ -58,7 +58,7 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 
 ## Integrated energy-air-health framework
 
-![](/images/NREL-energy-air-quality-health-framework.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/NREL-energy-air-quality-health-framework.jpg){fig-align="center"}
 
 ::: footer
 Source: [NREL](https://www.nrel.gov/analysis/air-quality.html) 
@@ -67,7 +67,7 @@ Source: [NREL](https://www.nrel.gov/analysis/air-quality.html)
 
 ## Example sources of energy related air pollution
 
-![](/images/energy-related-air-pollution.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-related-air-pollution.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -76,7 +76,7 @@ Source: @iea2016airpollution
 
 ## Pollution by energy sector
 
-![](/images/iea-energy-air-pollution.png){fig-align="center"}
+![]({{< var file_path >}}/images/iea-energy-air-pollution.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -84,7 +84,7 @@ Source: @iea2016airpollution
 
 ## Air pollution and human health analytic framework
 
-![](/images/environmental-health-framework.png){fig-align="center"}
+![]({{< var file_path >}}/images/environmental-health-framework.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -93,7 +93,7 @@ Source: @iea2016airpollution
 
 ## Energy related PM emissions by sector and region
 
-![](/images/pm-emissions-map.png){fig-align="center"}
+![]({{< var file_path >}}/images/pm-emissions-map.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -101,7 +101,7 @@ Source: @iea2016airpollution
 
 ## Air pollution standards (AQI)
 
-![](/images/air-pollution-standards.png){fig-align="center"}
+![]({{< var file_path >}}/images/air-pollution-standards.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -109,7 +109,7 @@ Source: @iea2016airpollution
 
 ## Typical power plant emission control system
 
-![](/images/power-plant-air-pollutions.png){fig-align="center"}
+![]({{< var file_path >}}/images/power-plant-air-pollutions.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -118,7 +118,7 @@ Source: @iea2016airpollution
 
 ## Pollution mitigation technologies and efficiencies
 
-![](/images/pollution-abatement-efficiency.png){fig-align="center"}
+![]({{< var file_path >}}/images/pollution-abatement-efficiency.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016airpollution
@@ -127,7 +127,7 @@ Source: @iea2016airpollution
 
 ## Outdoor air pollution and premature mortality
 
-![](/images/motality-map.png){fig-align="center"}
+![]({{< var file_path >}}/images/motality-map.png){fig-align="center"}
 
 ::: footer
 Source: @lelieveld2015contribution
@@ -139,11 +139,11 @@ Source: @lelieveld2015contribution
 :::columns
 
 ::: {.column width="50%"}
-![](/images/wind-air-benefits.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/wind-air-benefits.jpg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/wind-solar-benefits.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/wind-solar-benefits.jpg){fig-align="center"}
 :::
 
 :::
@@ -158,11 +158,11 @@ Source: @qiuImpactsWindPower2022, @millsteinClimateAirQuality2024
 :::columns
 
 ::: {.column width="50%"}
-![](/images/marginal-effects-of-solar.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/marginal-effects-of-solar.jpg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/benefits-of-imported-solar.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/benefits-of-imported-solar.jpg){fig-align="center"}
 :::
 
 :::
@@ -174,7 +174,7 @@ Source: @qiuImportedSolarPhotovoltaics2025
 
 ## Trade, air pollution, and premature mortality
 
-![](/images/trade-emissions-motality.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/trade-emissions-motality.jpg){fig-align="center"}
 
 ::: footer
 Source: @zhang2017transboundary
@@ -183,7 +183,7 @@ Source: @zhang2017transboundary
 
 ## Energy sector accounts ~1/8 global water withdrawal
 
-![](/images/water-by-sector.png){fig-align="center"}
+![]({{< var file_path >}}/images/water-by-sector.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016energywater
@@ -201,7 +201,7 @@ Source: @iea2016energywater
 
 ## Renewables save water
 
-![](/images/water-by-generating-technology.png){fig-align="center"}
+![]({{< var file_path >}}/images/water-by-generating-technology.png){fig-align="center"}
 
 ::: footer
 Source: @iea2016energywater
@@ -210,12 +210,12 @@ Source: @iea2016energywater
 
 ## Dry cooling makes a big difference
 
-![](/images/water-by-power-technology.png){fig-align="center"}
+![]({{< var file_path >}}/images/water-by-power-technology.png){fig-align="center"}
 
 
 ## Water-energy-carbon nexus
 
-![](/images/energy-water-carbon-nexus.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-water-carbon-nexus.png){fig-align="center"}
 
 ::: footer
 Source: @zhang2021long
@@ -224,7 +224,7 @@ Source: @zhang2021long
 
 ## Land use intensity
 
-![](/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
+![]({{< var file_path >}}/images/land-ghg-intensity-by-technolog.png){fig-align="center"}
 
 ::: footer
 Source: @loveringa2022land
@@ -233,7 +233,7 @@ Source: @loveringa2022land
 
 ## Multiple uses of land, co-benefits!
 
-![](/images/solar-covered-canal-california.webp){fig-align="center"}
+![]({{< var file_path >}}/images/solar-covered-canal-california.webp){fig-align="center"}
 
 ::: footer
 Source: [California’s next big energy experiment is working](https://www.sfgate.com/california/article/california-energy-experiment-solar-topped-canals-21045020.php)
@@ -242,7 +242,7 @@ Source: [California’s next big energy experiment is working](https://www.sfgat
 
 ## NYC climate and health
 
-![](/images/climate-health-urban.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-health-urban.png){fig-align="center"}
 
 ::: footer
 Source: @matteNPCC4ClimateChange2024
@@ -251,7 +251,7 @@ Source: @matteNPCC4ClimateChange2024
 
 ## Lancet countdown climate and health
 
-![](/images/lacet2024-health-heat.png){fig-align="center"}
+![]({{< var file_path >}}/images/lacet2024-health-heat.png){fig-align="center"}
 
 ::: footer
 Source: @romanello2024ReportLancet2024
@@ -260,7 +260,7 @@ Source: @romanello2024ReportLancet2024
 
 ## Aging, climate, and health
 
-![](/images/aging-climate-health.webp){fig-align="center"}
+![]({{< var file_path >}}/images/aging-climate-health.webp){fig-align="center"}
 
 ::: footer
 Source: @tipaldoFrameworkAgeingHealth2024
@@ -281,6 +281,4 @@ Source: @tipaldoFrameworkAgeingHealth2024
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

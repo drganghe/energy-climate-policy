@@ -4,7 +4,7 @@ description-meta: "Discuss the fundamentals of climate change"
 author: "Gang He"
 date: September 29, 2025
 date-format: long
-image: "/images/co2_historical.jpeg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/co2_historical.jpeg"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true    
 ---
 
@@ -34,7 +34,7 @@ format:
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -75,7 +75,7 @@ Source: [National Geographic](https://education.nationalgeographic.org/resource/
 
 ## GHG effect
 
-![](/images/ghg-effect.png){fig-align="center"}
+![]({{< var file_path >}}/images/ghg-effect.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
@@ -105,7 +105,7 @@ Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf)
 
 ## From emissions to warming
 
-![](/images/emission-co2-warming.png){fig-align="center"}
+![]({{< var file_path >}}/images/emission-co2-warming.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
@@ -114,7 +114,7 @@ Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
 
 ## Warming since measurement
 
-![](/images/co2-1960-2024.png){fig-align="center"}
+![]({{< var file_path >}}/images/co2-1960-2024.png){fig-align="center"}
 
 ::: footer
 Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
@@ -122,7 +122,7 @@ Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
 
 ## Warming in context of geological history
 
-![](/images/co2_historical.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/co2_historical.jpeg){fig-align="center"}
 
 ::: footer
 Source: [NASA](https://climate.nasa.gov/evidence/)
@@ -130,7 +130,7 @@ Source: [NASA](https://climate.nasa.gov/evidence/)
 
 ## Warmer and Warmer
 
-![](/images/temp-anomaly-1850-1900.png){fig-align="center"}
+![]({{< var file_path >}}/images/temp-anomaly-1850-1900.png){fig-align="center"}
 
 ::: footer
 Source: @koomey_solving_2022
@@ -138,7 +138,7 @@ Source: @koomey_solving_2022
 
 ## Climate spireal
 
-![](/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
 
 ::: footer
 Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
@@ -147,7 +147,7 @@ Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
 
 ## Temprature anomaly distribution
 
-![](/images/temp-anomaly-distribution.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/temp-anomaly-distribution.jpeg){fig-align="center"}
 
 ::: footer
 Source: @hansen_perception_2012
@@ -155,7 +155,7 @@ Source: @hansen_perception_2012
 
 ## Human vs nature
 
-![](/images/human-vs-nature.png){fig-align="center"}
+![]({{< var file_path >}}/images/human-vs-nature.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -163,7 +163,7 @@ Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Four
 
 ## Human component is the major driver of warming
 
-![](/images/drivers-of-warming.png){fig-align="center"}
+![]({{< var file_path >}}/images/drivers-of-warming.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -171,7 +171,7 @@ Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Four
 
 ## Scientific understanding: climate systems
 
-![](/images/climate-system-framework.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-system-framework.png){fig-align="center"}
 
 ::: footer
 Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
@@ -196,7 +196,7 @@ Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
 
 ## Adverse impacts of climate change 
 
-![](/images/adverse-impact-climate-change.png){fig-align="center"}
+![]({{< var file_path >}}/images/adverse-impact-climate-change.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -205,7 +205,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 1](https://www.ipcc.ch/report/ar6/syr
 
 ## The impacts are global 
 
-![](/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
+![]({{< var file_path >}}/images/IPCC_AR6_SYR_Figure_2_3_1.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -213,7 +213,7 @@ Source: IPCC AR6 Synthesis Repoort [Figure 2.3.1](https://www.ipcc.ch/report/ar6
 
 ## Vulnerable population suffers more 
 
-![](/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
+![]({{< var file_path >}}/images/IPCC_AR6_SYR_Figure_2_3_2.png){fig-align="center"}
 
 ::: footer
 Source: IPCC AR6 Synthesis Repoort [Figure 2.3.2](https://www.ipcc.ch/report/ar6/syr/figures/summary-for-policymakers/figure-spm-1)
@@ -243,7 +243,7 @@ What other damages to include?
 
 ## Social economic impacts
 
-![](/images/social-economic-impacts.png){fig-align="center"}
+![]({{< var file_path >}}/images/social-economic-impacts.png){fig-align="center"}
 
 ::: footer
 Source: @carleton2016social
@@ -265,7 +265,7 @@ Source: @carleton2016social
 
 ## U.S. southern states suffer more
 
-![](/images/damages_total_2080_to_2090.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/damages_total_2080_to_2090.jpeg){fig-align="center"}
 
 ::: footer
 Source: @hsiang_estimating_2017
@@ -273,7 +273,7 @@ Source: @hsiang_estimating_2017
 
 ## The poor will get damages more
 
-![](/images/damage-distribution.png){fig-align="center"}
+![]({{< var file_path >}}/images/damage-distribution.png){fig-align="center"}
 
 ::: footer
 Source: @hsiang_estimating_2017
@@ -296,7 +296,7 @@ Read more: @neumann_climate_2020, @updating_scc_2017
 
 ## Climate change and conflicts
 
-![](/images/climate-and-conflict.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/climate-and-conflict.jpeg){fig-align="center"}
 
 ::: footer
 Read more: @hsiang_quantifying_2013
@@ -304,7 +304,7 @@ Read more: @hsiang_quantifying_2013
 
 ## Climate change affects energy system
 
-![](/images/climate-impact-on-energy.webp){fig-align="center"}
+![]({{< var file_path >}}/images/climate-impact-on-energy.webp){fig-align="center"}
 
 ::: footer
 Source: @yalew2020impacts
@@ -313,7 +313,7 @@ Source: @yalew2020impacts
 
 ## Climate impact to renewable supply-demand match
 
-![](/images/climate-change-solar-wind-sdm.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-change-solar-wind-sdm.png){fig-align="center"}
 
 ::: footer
 Source: @liu_climate_2023
@@ -325,14 +325,14 @@ Source: @liu_climate_2023
 ::: columns
 ::: {.column width="70%"}
 
-![](/images/nys-temperature-1901-2022.webp){fig-align="center" width="60%"}
+![]({{< var file_path >}}/images/nys-temperature-1901-2022.webp){fig-align="center" width="60%"}
 
-![](/images/nys-temperature-projection.webp){fig-align="center" width="60%"}
+![]({{< var file_path >}}/images/nys-temperature-projection.webp){fig-align="center" width="60%"}
 
 :::
 
 ::: {.column width="30%"}
-![](/images/nys-climate-impact-report.png){fig-align="center"}
+![]({{< var file_path >}}/images/nys-climate-impact-report.png){fig-align="center"}
 :::
 :::
 
@@ -342,7 +342,7 @@ Source: New York State Climate Impacts [Assessment](https://nysclimateimpacts.or
 
 ## Grand challenges, huge progress, and grand opportunities
 
-![](/images/Two-centuries-World-as-100-people.png){fig-align="center"}
+![]({{< var file_path >}}/images/Two-centuries-World-as-100-people.png){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-living-conditions)
@@ -355,6 +355,4 @@ Source: [Our World in Data](https://ourworldindata.org/a-history-of-global-livin
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

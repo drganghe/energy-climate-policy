@@ -119,6 +119,19 @@ Here is a list of readings for the course. All readings are available on Brights
 - @iea_net_2021
 - @thalerNudge2021
 
+
+## Lecture 10
+
+- @ehrlich_impact_1971
+- @kaya_environment_1997
+- @pacala2004stabilization
+- @fridley2016impacts
+- @masters2013renewable 
+- @bergin2017large
+- @rennert2022comprehensive
+- @stechemesserClimatePoliciesThat2024
+
+
 <!--
 ## Lecture 4
 

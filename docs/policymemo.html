@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-65ef9bc6449578477aba7d52303f127d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -95,6 +96,8 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Energy and Climate Policy</span>
     </a>
@@ -230,7 +233,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </script>
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy related topic of your own interest. In each lecture, I listed sample analytic questions of the chapter and I hope that offers you some inspiration. I also post below sample topics.</p>
+<p>Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an energy and climate related topic of your own interest. In each lecture, I listed sample analytic questions of the session and I hope that offers you some inspiration. I also post below sample topics.</p>
 <section id="sample-policy-memo-topics" class="level3">
 <h3 class="anchored" data-anchor-id="sample-policy-memo-topics">Sample policy memo topics</h3>
 <ul>
@@ -247,7 +250,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </section>
 <section id="presentation" class="level2">
 <h2 class="anchored" data-anchor-id="presentation">Presentation</h2>
-<p>Your presentation should about 15-20mins long summarizing your work. Please submit both the video and slides.</p>
+<p>Your presentation should about 10-15 mins long summarizing your work.</p>
 <p>Your presentation will be graded by the following criteria:</p>
 <ol type="1">
 <li>Nice presence [4pt]</li>
@@ -259,12 +262,12 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </section>
 <section id="policy-memo" class="level2">
 <h2 class="anchored" data-anchor-id="policy-memo">Policy Memo</h2>
-<p>A typical policy includes an introduction (topic or problem), scope of problem, current approach, <strong>proposed approach/policies and evidences</strong>, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.</p>
-<p>Your policy will be graded by the following criteria:</p>
+<p>A typical policy memo includes an introduction (topic or problem), scope of problem, current approach, <strong>proposed approach/policies and evidences</strong>, conclusion. Your policy memo should be double spaced, 2-3 pages long, excluding appropriately cited references.</p>
+<p>Your policy memo will be graded by the following criteria:</p>
 <ol type="1">
-<li>Creativity in defifing a topic/problem [5pt]</li>
+<li>Creativity in defining a topic/problem [5pt]</li>
 <li>Rigorous analysis [5pt]</li>
-<li>Clear writing, presentation, visulization [5pt]</li>
+<li>Clear writing, presentation, visualization [5pt]</li>
 <li>Overall impression [5pt]</li>
 </ol>
 </section>
@@ -337,13 +340,14 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

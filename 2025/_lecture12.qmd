@@ -1,8 +1,8 @@
 ---
-title: "Lecture 13 Policy Analysis Uncertainties, Review and Summary"
+title: "Lecture 12 Policy Analysis Uncertainties, Review and Summary"
 description-meta: "Addressing policy uncertainties, review and summary of the class"
 author: "Gang He"
-date: December 2, 2024
+date: December 1, 2025
 date-format: long
 image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ipcc-re-costs.png"
 format:
@@ -24,7 +24,7 @@ format:
 
 ## Sample analytic questions
 
--   How do I know if I should trust modeling results?\
+-   How do I know if I should trust policy analysis results?\
 -   What are the methods to address uncertainties?\
 -   What are the emerging topics to improve modeling analysis?\
 -   How to interpret modeling results to communicate effectively?\
@@ -33,7 +33,7 @@ format:
 
 ## Projections went off
 
-![]({{< var file_path >}}/images/1970s-projections-us-energy.png){fig-align="center"}
+![](/images/1970s-projections-us-energy.png){fig-align="center"}
 
 ::: footer
 Source: @craig2002what
@@ -42,7 +42,7 @@ Source: @craig2002what
 
 ## IEA underestimates solar and wind
 
-![]({{< var file_path >}}/images/iea-underestimate-solarwind.png){fig-align="center"}
+![](/images/iea-underestimate-solarwind.png){fig-align="center"}
 
 ::: footer
 Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-renewables/)
@@ -55,11 +55,11 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 ::: columns
 
 ::: {.column width="50%"}
-![]({{< var file_path >}}/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
+![](/images/science.abk0063-exxon-vs-historical.jpg){fig-align="center" width="90%"}
 :::
 
 ::: {.column width="50%"}
-![]({{< var file_path >}}/images/obervation-vs-models.png){fig-align="center"}
+![](/images/obervation-vs-models.png){fig-align="center"}
 :::
 
 :::
@@ -97,7 +97,7 @@ Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
 
 <center> Shale gas revolution </center>
 
-![]({{< var file_path >}}/images/new-power-capacity.png){fig-align="center"}
+![](/images/new-power-capacity.png){fig-align="center"}
 
 ::: footer
 Source: [Head Waters Economics](https://headwaterseconomics.org/economic-development/evolution-electricity-generation/)
@@ -106,7 +106,7 @@ Source: [Head Waters Economics](https://headwaterseconomics.org/economic-develop
 
 ## Renewable costs
 
-![]({{< var file_path >}}/images/ipcc-re-costs.png){fig-align="center"}
+![](/images/ipcc-re-costs.png){fig-align="center"}
 
 ::: footer
 Source: [IPCC](https://www.ipcc.ch/report/ar6/wg3/figures/summary-for-policymakers/figure-spm-3/)
@@ -159,7 +159,7 @@ Examples
 :::
 
 ::: {.column width="50%"}
-![]({{< var file_path >}}/images/state-level-support-climate.webp){fig-align="center" width="80%"}
+![](/images/state-level-support-climate.webp){fig-align="center" width="80%"}
 :::
 
 :::
@@ -192,7 +192,7 @@ Source: @peng2021climate, @peng2021surprisingly
 
 ## Focusing on structures and relations
 
-![]({{< var file_path >}}/images/en-roads-structure.png){fig-align="center"}
+![](/images/en-roads-structure.png){fig-align="center"}
 
 ::: footer
 Source: [Climate Interactive](https://www.climateinteractive.org/en-roads/)
@@ -251,12 +251,14 @@ Read more: @saltelli2020five
 
 ## Review and summary
 
+:::{style="text-align: center;"}
 What have we talked and learned?
+:::
 
 
 ## Energy grand challenges: net-zero
 
-![]({{< var file_path >}}/images/iea-net-zero.png){fig-align="center"}
+![](/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -275,7 +277,7 @@ Source: @iea_net_2021
 :::
 
 ::: {.column width="50%"}
-![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
+![](/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -331,7 +333,7 @@ Source: @macknick_energy_2011
 
 ## Human component is the major driver of warming
 
-![]({{< var file_path >}}/images/drivers-of-warming.png){fig-align="center"}
+![](/images/drivers-of-warming.png){fig-align="center"}
 
 ::: footer
 Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
@@ -374,19 +376,19 @@ And:
 
 ::: {.column width="50%"}
 
-![]({{< var file_path >}}/images/kaya-identity-co2.png){fig-align="center"}
+![](/images/kaya-identity-co2.png){fig-align="center"}
 :::
 
 :::
 
 ::: footer
-Source: @kaya_environment_1808, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
 :::
 
 
 ## Risks and resilience
 
-![]({{< var file_path >}}/images/risk-and-resilience.png){fig-align="center"}
+![](/images/risk-and-resilience.png){fig-align="center"}
 
 ::: footer
 Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
@@ -395,7 +397,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 
 ## Energy systems
 
-![]({{< var file_path >}}/images/energy-systems.png){fig-align="center"}
+![](/images/energy-systems.png){fig-align="center"}
 
 ::: footer
 Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
@@ -451,7 +453,7 @@ Source: @koomey2010defining
 
 ## P-N Junction 
 
-![]({{< var file_path >}}/images/p-n-junction.png){fig-align="center"}
+![](/images/p-n-junction.png){fig-align="center"}
 
 ::: footer
 Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
@@ -463,7 +465,7 @@ Read more: <https://www.energy.gov/eere/solar/how-does-solar-work>
 
 ::: {.column width="50%"}
 
-![]({{< var file_path >}}/images/block-island-wind.jpeg){fig-align="center"}
+![](/images/block-island-wind.jpeg){fig-align="center"}
 
 :::
 
@@ -491,7 +493,7 @@ Photo by Gang He, Block Island Offshore Wind Farm
 
 ::: {.column width="50%"}
 
-![]({{< var file_path >}}/images/fission.png){fig-align="center"}
+![](/images/fission.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Nuclear fission
@@ -501,7 +503,7 @@ Nuclear fission
 
 ::: {.column width="50%"}
 
-![]({{< var file_path >}}/images/fusion-reactions.jpeg){fig-align="center"}
+![](/images/fusion-reactions.jpeg){fig-align="center"}
 
 </br>
 
@@ -523,7 +525,7 @@ Read more: EIA, [Nuclear explained](https://www.eia.gov/energyexplained/nuclear/
 
 ::: {.column width="50%"}
 
-![]({{< var file_path >}}/images/hydro.png){fig-align="center"}
+![](/images/hydro.png){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Hydropower 
@@ -532,7 +534,7 @@ Hydropower
 :::
 
 ::: {.column width="50%"}
-![]({{< var file_path >}}/images/pumped-storage.jpeg){fig-align="center"}
+![](/images/pumped-storage.jpeg){fig-align="center"}
 
 <p style="font-size:14pt; color:gray; text-align:center;">
 Pumped storage hydropower (PSH)
@@ -622,6 +624,4 @@ Source: [TVA](https://www.tva.com/energy/our-power-system/hydroelectric/how-hydr
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](lecture13.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

@@ -4,7 +4,7 @@ description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: September 9, 2024
 date-format: long
-image: "/images/economy-environment-energy.jpeg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/economy-environment-energy.jpeg"
 format:
   revealjs:
     theme: white
@@ -21,7 +21,7 @@ format:
     footer: <https://drganghe.github.io/energy-climate-policy/>
 ---
 
-![](/images/423ppm.png){fig-align="center"}
+![]({{< var file_path >}}/images/423ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -45,11 +45,11 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+![]({{< var file_path >}}/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
 :::
 
 ::: {.column width="50%"}
-![](/images/green-power-gap.png){fig-align="center"}
+![]({{< var file_path >}}/images/green-power-gap.png){fig-align="center"}
 :::
 :::
 
@@ -135,7 +135,7 @@ Learn more: <https://drganghe.github.io/climate-guest-speakers/>
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -186,11 +186,11 @@ Models help us think
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
+![]({{< var file_path >}}/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/WEO-PV-projections.png){fig-align="center"}
+![]({{< var file_path >}}/images/WEO-PV-projections.png){fig-align="center"}
 :::
 :::
 
@@ -206,7 +206,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ## Why: climate and energy systems are both complicated
 
-![](/images/us-energy-infrastructure.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -216,7 +216,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/world-energy-trilemma-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -240,7 +240,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/economy-environment-energy.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -258,7 +258,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievement
 
-![](/images/energy-great-achievement.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -266,7 +266,7 @@ Source: [National Academies](http://www.greatachievements.org/)
 
 ## Energy grand challenges: SDGs
 
-![](/images/un-sdg.png){fig-align="center"}
+![]({{< var file_path >}}/images/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -274,7 +274,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](/images/iea-net-zero.png){fig-align="center"}
+![]({{< var file_path >}}/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -289,7 +289,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity: a structural change
 
-![](/images/irena-re-costs-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -299,11 +299,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](/images/accelerate-re-china.png){fig-align="center"}
+<br> ![]({{< var file_path >}}/images/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/re-costs-and-ccs.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 

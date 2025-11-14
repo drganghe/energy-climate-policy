@@ -4,7 +4,7 @@ description-meta: "Economics of energy projects"
 author: "Gang He"
 date: October 7, 2024
 date-format: long
-image: "/images/declining-discounting.jpeg"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/declining-discounting.jpeg"
 format:
   revealjs:
     theme: white
@@ -78,7 +78,7 @@ $discount\ rate (r) = interest\ rate (i) + inflation$
 
 
 ## The power of discounting
-![](/images/discounting-schedule.png){fig-align="center"}
+![]({{< var file_path >}}/images/discounting-schedule.png){fig-align="center"}
 
 ::: footer
 Source: Gang He 
@@ -87,7 +87,7 @@ Source: Gang He
 
 ## Declining discounting
 
-![](/images/declining-discounting.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/declining-discounting.jpeg){fig-align="center"}
 
 ::: footer
 Source: @weitzman2001gamma, @arrow_determining_2013  
@@ -108,7 +108,7 @@ F: Fuel costs
 
 ## Comparing LCOE
 
-![](/images/lazard-lcoe-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/lazard-lcoe-2021.png){fig-align="center"}
 
 ::: footer
 Source: [Lazard LCOE 15.0](https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/)
@@ -128,7 +128,7 @@ Source: [Lazard LCOE 15.0](https://www.lazard.com/perspective/levelized-cost-of-
 
 ::: {.column width="50%"}
 
-![](/images/cumulative-learning-curve.png){fig-align="center"}
+![]({{< var file_path >}}/images/cumulative-learning-curve.png){fig-align="center"}
 
 :::
 
@@ -161,7 +161,7 @@ Source: @yelle_learning_1979
 
 ## Learning of differrent technologies
 
-![](/images/energy-technology-learning.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-technology-learning.png){fig-align="center"}
 
 ::: footer
 Source: @grubler_dynamics_1999 
@@ -173,11 +173,11 @@ Source: @grubler_dynamics_1999
 :::columns
 
 ::: {.column width="50%"}
-![](/images/contribution-to-module-cost-change.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/contribution-to-module-cost-change.jpg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/estimated-contributions-to-pv-cost-reduction.webp){fig-align="center"}
+![]({{< var file_path >}}/images/estimated-contributions-to-pv-cost-reduction.webp){fig-align="center"}
 :::
 
 :::
@@ -199,7 +199,7 @@ Learning by researching
 
 ## How renewables are getting cheap
 
-![](/images/learning-curves-for-electricity-prices.png){fig-align="center"}
+![]({{< var file_path >}}/images/learning-curves-for-electricity-prices.png){fig-align="center"}
 
 ::: footer
 Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
@@ -207,7 +207,7 @@ Source: [Our World in Data](https://ourworldindata.org/cheap-renewables-growth)
 
 ## Why nuclear costs are going up?
 
-![](/images/nuclear-learning.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/nuclear-learning.jpg){fig-align="center"}
 
 ::: footer
 Source: @GRUBLER20105174 
@@ -215,7 +215,7 @@ Source: @GRUBLER20105174
 
 ## Role of global supply chain in PV 
 
-![](/images/fig2_prices_historical_national_global.png){fig-align="center"}
+![]({{< var file_path >}}/images/fig2_prices_historical_national_global.png){fig-align="center"}
 
 ::: footer
 Source: @helveston_he_davidson_2022 

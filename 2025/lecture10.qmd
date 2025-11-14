@@ -1,0 +1,406 @@
+---
+title: "Lecture 10 Climate Policy Instruments"
+description-meta: "Discuss policy options"
+author: "Gang He"
+date: November 17, 2025
+date-format: long
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/3generation-climate-change.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true    
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+## IPAT
+
+:::{style="text-align: center"}
+$I(mpact) = P(opulation) \times A(ffluence) \times T(echnology)$
+
+$I(mpact) = \frac{P(opulation) \times A(ffluence)}{T(echnology)}$
+
+- Technology: renewable energy, energy efficiency, innovations
+:::
+
+::: footer
+Source: @ehrlich_impact_1971
+:::
+
+
+## Kaya identify{.smaller}
+
+::: columns
+::: {.column width="50%"}
+$F=P \times \frac{G}{P} \times \frac{E}{G} \times \frac{F}{E}$
+
+<p style="font-size:10pt">
+Where:
+
+- F: global CO2 emissions from human sources
+- P: global population
+- G: world GDP
+- E: global energy consumption
+
+And:
+
+- G/P: GDP per capita
+- E/G: energy intensity of the GDP
+- F/E: emission intensity of energy
+</p>
+
+:::
+
+::: {.column width="50%"}
+
+![]({{< var file_path >}}/images/kaya-identity-co2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @kaya_environment_1997, [Kaya Identity: drivers of CO₂ emissions in the World](https://ourworldindata.org/grapher/kaya-identity-co2)
+:::
+
+
+## Emissions gap
+
+![]({{< var file_path >}}/images/emissions-gap-2025.png){fig-align="center"}
+
+::: footer
+Source: UNEP, [Emissions Gap Report 2025](https://www.unep.org/resources/emissions-gap-report-2025)
+:::
+
+
+## Not on the right trajectory
+
+![]({{< var file_path >}}/images/emission-trojectories-ndc.png){fig-align="center"}
+
+::: footer
+Source: UNEP, [Emissions Gap Report 2025](https://www.unep.org/resources/emissions-gap-report-2025)
+:::
+
+
+## Climate wedges
+
+![]({{< var file_path >}}/images/pacala-socolow-wedges.png){fig-align="center"}
+
+::: footer
+Source: @pacala2004stabilization
+:::
+
+
+## Abatement cost curve
+
+![]({{< var file_path >}}/images/mckinsey-curve.png){fig-align="center"}
+
+::: footer
+Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
+:::
+
+
+## Social cost of carbon 
+
+![]({{< var file_path >}}/images/scc185.png){fig-align="center"}
+
+::: footer
+Source: [RFF](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/), @rennert2022comprehensive
+:::
+
+
+## Best practices
+
+- Energy efficiency\
+- Low carbon eco-city\
+- Renewable integration\
+- Sectoral experiences\
+- Policy/technology tools
+
+
+## Policy instruments
+
+![]({{< var file_path >}}/images/policy-instruments.png){fig-align="center"}
+
+::: footer
+Source: @armitage_innovation_2023
+:::
+
+
+## What policy works
+
+![]({{< var file_path >}}/images/what-climate-policies-work.png){width=70% fig-align="center"}
+
+::: footer
+Source: @stechemesserClimatePoliciesThat2024
+:::
+
+## What works what's not
+
+- Carbon tax vs. subsides\
+- Regulations vs markets\
+- Considering\
+  - Societal acceptance\
+  - Political feasibility
+
+
+::: footer
+Source: Read more: @armitage_innovation_2023
+:::
+
+
+## Two pillars of climate policy
+
+<center>
+- Mitigation
+- Adaptation
+</center>
+
+
+## Energy sector emissions
+
+![]({{< var file_path >}}/images/energy-emissions.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
+
+
+## Energy sector mitigation factors
+
+![]({{< var file_path >}}/images/energy-mitigation-factors.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
+
+
+## Renewables are getting cheap
+
+![]({{< var file_path >}}/images/ipcc-re-costs.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter06.pdf)
+:::
+
+
+## Transport sector
+
+![]({{< var file_path >}}/images/energy-pathway-low-carbon-transport.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter10.pdf)
+:::
+
+
+## Transport emission mitigation
+
+:::{style="text-align: center"}
+
+$E = vehicles \times \frac{Miles}{vehicle} \times \frac{gallon}{mile} \times \frac{carbon}{gallon}$
+
+:::
+
+
+## Carbon remove technologies
+
+![]({{< var file_path >}}/images/carbon-removal-technologies.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
+:::
+
+
+## Role of CDR
+
+![]({{< var file_path >}}/images/role-of-cdr.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG3](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf)
+:::
+
+
+
+## Non-CO2 by gas
+
+![]({{< var file_path >}}/images/non-cos2-sources.png){fig-align="center"}
+
+::: footer
+Source: EPA, [Global Non-CO2 Greenhouse Gas Emission Projections & Mitigation Potential: 2015-2050](https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf)
+:::
+
+
+## Case study: high appliance efficiency standards
+
+![]({{< var file_path >}}/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
+
+::: footer
+Source: @fridley2016impacts 
+:::
+
+
+## Case study: Empire State Building retrofit{.smaller}
+
+::: columns
+::: {.column width="50%"}
+- Save 38% of energy use with a 3-year payback
+- Remanufacturing 6,500 windows onsite into super windows
+- Installing better lights and equipment
+- Envelope improvements and reduced internal loads allowed for a smaller cooling system
+:::
+
+::: {.column width="50%"}
+![]({{< var file_path >}}/images/ESB_CaseStudy_2009.jpg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: Read more from RMI [case study](https://rmi.org/wp-content/uploads/2017/04/Buildings_Retrofit_EmpireStateBuilding_CaseStudy_2009.pdf). 
+:::
+
+
+## Risks and resilience
+
+![]({{< var file_path >}}/images/risk-and-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation options
+
+![]({{< var file_path >}}/images/climate-response-adapation-options.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Adaptation potential
+
+![]({{< var file_path >}}/images/apaptation-potential.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem health
+
+![]({{< var file_path >}}/images/ecosystem-health-climate-resilience.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Ecosystem adaptation
+
+![]({{< var file_path >}}/images/ecosystem-adaptation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Food security
+
+![]({{< var file_path >}}/images/food-security.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Vulnerable groups
+
+![]({{< var file_path >}}/images/vulnerable-groups.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Synthetic adaptation
+
+![]({{< var file_path >}}/images/synthesis-adapation.png){fig-align="center"}
+
+::: footer
+Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary/)
+:::
+
+
+## Steps to resilence
+
+- Understand Exposure
+- Assess Vulnerability & Risk
+- Investigate Options
+- Prioritize & Plan
+- Take Action
+
+::: footer
+More resources: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/#steps)
+:::
+
+
+## NYC heat plan case
+
+- Assess climate risks
+- Incoporate climate risks in adaptation and response plan
+- Educate residents on the threats
+- Re-assing vulnerability
+
+What elese can we do?
+
+::: footer
+More resources: [New York City Assesses Extreme Heat Climate Risk](https://www.epa.gov/arc-x/new-york-city-assesses-extreme-heat-climate-risk)
+:::
+
+
+## Mekong River Basin
+
+![]({{< var file_path >}}/images/mekong-river-basin-adaptation.png){fig-align="center"}
+
+::: footer
+More resources: UNEP, [Case Studies](https://wedocs.unep.org/handle/20.500.11822/41111;jsessionid=3717F47150FAD2349607FC3904051EB7)
+:::
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+{{< include /files/includes/_lastslidefooter.qmd >}}

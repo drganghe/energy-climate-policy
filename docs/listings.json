@@ -10,7 +10,8 @@
       "/2025/lecture6.html",
       "/2025/lecture7.html",
       "/2025/lecture8.html",
-      "/2025/lecture9.html"
+      "/2025/lecture9.html",
+      "/2025/lecture10.html"
     ]
   },
   {
@@ -18,11 +19,11 @@
     "items": []
   },
   {
-    "listing": "/2023/students.html",
+    "listing": "/2025/students.html",
     "items": []
   },
   {
-    "listing": "/2025/students.html",
+    "listing": "/2023/students.html",
     "items": []
   }
 ]

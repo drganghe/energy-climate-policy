@@ -4,7 +4,7 @@ description-meta: "Introduction to energy and climate policy"
 author: "Gang He"
 date: September 8, 2025
 date-format: long
-image: "/images/iea-net-zero.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/iea-net-zero.png"
 format:
   revealjs:
     theme: white
@@ -23,7 +23,7 @@ format:
 
 ## August 2025:	425.48 ppm
 
-![](/images/425ppm.png){fig-align="center"}
+![]({{< var file_path >}}/images/425ppm.png){fig-align="center"}
 
 ::: footer
 Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
@@ -46,11 +46,11 @@ Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+![]({{< var file_path >}}/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
 :::
 
 ::: {.column width="50%"}
-![](/images/green-power-gap.png){fig-align="center"}
+![]({{< var file_path >}}/images/green-power-gap.png){fig-align="center"}
 :::
 :::
 
@@ -63,7 +63,7 @@ Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponen
 
 ## ~150 Gt Carbon Budget
 
-![](/images/1.5-degree-carbon-budget.png){fig-align="center"}
+![]({{< var file_path >}}/images/1.5-degree-carbon-budget.png){fig-align="center"}
 
 ::: footer
 Source: [WRI](https://www.wri.org/insights/1-5-degrees-c-target-explained)
@@ -144,7 +144,7 @@ Learn more: <https://drganghe.github.io/climate-guest-speakers/>
 :::
 
 ::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-curriculum.png){fig-align="center"}
 :::
 :::
 
@@ -195,11 +195,11 @@ Models help us think
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
+![]({{< var file_path >}}/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/WEO-PV-projections.png){fig-align="center"}
+![]({{< var file_path >}}/images/WEO-PV-projections.png){fig-align="center"}
 :::
 :::
 
@@ -215,7 +215,7 @@ Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance
 
 ## Why: climate and energy systems are both complicated
 
-![](/images/us-energy-infrastructure.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-energy-infrastructure.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/state/maps.php)
@@ -225,7 +225,7 @@ Source: [EIA](https://www.eia.gov/state/maps.php)
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/world-energy-trilemma-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/world-energy-trilemma-2021.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -249,7 +249,7 @@ Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/wo
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/economy-environment-energy.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/economy-environment-energy.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -267,7 +267,7 @@ Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
 
 ## Energy great achievement
 
-![](/images/energy-great-achievement.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-great-achievement.png){fig-align="center"}
 
 ::: footer
 Source: [National Academies](http://www.greatachievements.org/)
@@ -320,7 +320,7 @@ Source: [National Academy of Public Administration](https://napawash.org/grand-c
 
 ## Energy grand challenges: SDGs
 
-![](/images/un-sdg.png){fig-align="center"}
+![]({{< var file_path >}}/images/un-sdg.png){fig-align="center"}
 
 ::: footer
 Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -328,7 +328,7 @@ Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-g
 
 ## Energy grand challenges: net-zero
 
-![](/images/iea-net-zero.png){fig-align="center"}
+![]({{< var file_path >}}/images/iea-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -343,7 +343,7 @@ Source: @iea_net_2021
 
 ## Renewables are achieving grid parity: a structural change
 
-![](/images/irena-re-costs-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/irena-re-costs-2021.png){fig-align="center"}
 
 ::: footer
 Source: @irena_renewable_2021
@@ -353,11 +353,11 @@ Source: @irena_renewable_2021
 
 ::: columns
 ::: {.column width="50%"}
-<br> ![](/images/accelerate-re-china.png){fig-align="center"}
+<br> ![]({{< var file_path >}}/images/accelerate-re-china.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](/images/re-costs-and-ccs.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/re-costs-and-ccs.jpg){fig-align="center"}
 :::
 :::
 
@@ -390,10 +390,10 @@ Source: @hogan_energy_2002, @huntington_modeling_1982
 
 ::: columns
 ::: {.column width="50%"}
-![](/images/increasing-rates-of-change-in-human-activity.png){fig-align="center"}
+![]({{< var file_path >}}/images/increasing-rates-of-change-in-human-activity.png){fig-align="center"}
 :::
 ::: {.column width="50%"}
-![](/images/global-scale-change-in-earth-systems.png){fig-align="center"}
+![]({{< var file_path >}}/images/global-scale-change-in-earth-systems.png){fig-align="center"}
 :::
 :::
 
@@ -404,7 +404,7 @@ Source: @steffenAnthropoceneGlobalChange2011
 
 ## Earth beyond six of nine planetary boundaries
 
-![](/images/planetary-boundaries-over-time.png){fig-align="center"}
+![]({{< var file_path >}}/images/planetary-boundaries-over-time.png){fig-align="center"}
 
 ::: footer
 Source: [Stockholm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html); @richardsonEarthSixNine2023
@@ -419,6 +419,4 @@ Source: [Stockholm Resilience Center](https://www.stockholmresilience.org/resear
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

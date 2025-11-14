@@ -4,7 +4,7 @@ description-meta: "AI, Big Data for Energy and Climate Decarbonization of the el
 author: "Gang He"
 date: November 25, 2024
 date-format: long
-image: "/images/DispatchCurve.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/DispatchCurve.png"
 format:
   revealjs:
     theme: white
@@ -48,7 +48,7 @@ Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conferenc
 ::: columns
 
 :::{.column width="40%"}
-![](/images/andrew-ng.png){fig-align="center"}
+![]({{< var file_path >}}/images/andrew-ng.png){fig-align="center"}
 :::
 
 :::{.column width="60%"}
@@ -69,7 +69,7 @@ Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.e
 ::: columns
 
 :::{.column width="30%"}
-![](/images/pale-blut-dot.png){fig-align="center"}
+![]({{< var file_path >}}/images/pale-blut-dot.png){fig-align="center"}
 :::
 
 :::{.column width="30%"}
@@ -127,7 +127,7 @@ Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikip
 
 ## Aartifitial intelligence, machine learning, and deep learning
 
-![](/images/ai-ml-dl.png){fig-align="center"}
+![]({{< var file_path >}}/images/ai-ml-dl.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -136,7 +136,7 @@ Read more: @lee2021empirical
 
 ## AI Algorithms
 
-![](/images/ai-algorithms.png){fig-align="center"}
+![]({{< var file_path >}}/images/ai-algorithms.png){fig-align="center"}
 
 ::: footer
 Read more: @lee2021empirical
@@ -144,7 +144,7 @@ Read more: @lee2021empirical
 
 ## How AI has transformed our society
 
-![](/images/ai-transformation.webp){fig-align="center"}
+![]({{< var file_path >}}/images/ai-transformation.webp){fig-align="center"}
 
 ::: footer
 Figure [source](https://www.techbooky.com/ai-transforming-business/), read more: [GAO](https://www.gao.gov/products/gao-18-142sp)
@@ -165,7 +165,7 @@ professionals
 :::
 
 :::{.column width="50%"}
-![](/images/ai-re.png){fig-align="center"}
+![]({{< var file_path >}}/images/ai-re.png){fig-align="center"}
 :::
 
 :::
@@ -179,11 +179,11 @@ Read more: [IRENA](https://www.irena.org/publications/2019/Sep/Artificial-Intell
 ::: columns
 
 :::{.column width="50%"}
-![](/images/deep-solar-1.png){fig-align="center"}
+![]({{< var file_path >}}/images/deep-solar-1.png){fig-align="center"}
 :::
 
 :::{.column width="50%"}
-![](/images/deep-solar-2.png){fig-align="center"}
+![]({{< var file_path >}}/images/deep-solar-2.png){fig-align="center"}
 :::
 
 :::
@@ -195,7 +195,7 @@ Read more: @yu2018deepsolar
 
 ## AI to improve wind perfomance
 
-![](/images/ml-and-wind.png){fig-align="center"}
+![]({{< var file_path >}}/images/ml-and-wind.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy)
@@ -204,7 +204,7 @@ Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value
 
 ## AI saves data center cooling energy
 
-![](/images/deepmind-data-center-control.png){fig-align="center"}
+![]({{< var file_path >}}/images/deepmind-data-center-control.png){fig-align="center"}
 
 ::: footer
 Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
@@ -213,7 +213,7 @@ Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-
 
 ## Global inventory of solar PV
 
-![](/images/solar-pv-inventory.webp){fig-align="center"}
+![]({{< var file_path >}}/images/solar-pv-inventory.webp){fig-align="center"}
 
 ::: footer
 Source: @kruitwagen2021global
@@ -221,7 +221,7 @@ Source: @kruitwagen2021global
 
 ## Machine learning for electricity access
 
-![](/images/electrification-asset-wealth.webp){fig-align="center"}
+![]({{< var file_path >}}/images/electrification-asset-wealth.webp){fig-align="center"}
 
 ::: footer
 Source: @ratledge2022using
@@ -230,7 +230,7 @@ Source: @ratledge2022using
 
 ## AI for climate solutions
 
-![](/images/climate-solution-ai-areas.png){fig-align="center"}
+![]({{< var file_path >}}/images/climate-solution-ai-areas.png){fig-align="center"}
 
 ::: footer
 Source: @rolnick2022tackling
@@ -239,7 +239,7 @@ Source: @rolnick2022tackling
 
 ## AI for GHG mitigation
 
-![](/images/ai-ghg-mitigation.webp){fig-align="center"}
+![]({{< var file_path >}}/images/ai-ghg-mitigation.webp){fig-align="center"}
 
 ::: footer
 Source: @kaack2022aligning
@@ -248,7 +248,7 @@ Source: @kaack2022aligning
 
 ## AI and data center power consumption
 
-![](/images/ai-data-center-power-consumption-us.png){fig-align="center"}
+![]({{< var file_path >}}/images/ai-data-center-power-consumption-us.png){fig-align="center"}
 
 ::: footer
 Source: EPRI, [Powering Intelligence](https://www.epri.com/research/products/3002028905)
@@ -336,7 +336,7 @@ Overarching strategy\
 
 ## U.S. electricity flow
 
-![](/images/US-electricity-flow-2021.png){fig-align="center"}
+![]({{< var file_path >}}/images/US-electricity-flow-2021.png){fig-align="center"}
 
 ::: footer
 Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
@@ -345,7 +345,7 @@ Source: [EIA](https://www.eia.gov/totalenergy/data/flow-graphs/electricity.php)
 
 ## U.S. transmission grid
 
-![](/images/us-transmission-grid.png){fig-align="center"}
+![]({{< var file_path >}}/images/us-transmission-grid.png){fig-align="center"}
 
 ::: footer
 Source: [ArcGIS](https://www.arcgis.com/apps/mapviewer/index.html?layers=d4090758322c4d32a4cd002ffaa0aa12&layerId=0)
@@ -368,7 +368,7 @@ $LF=\frac{Energy\ consumed}{Energy\ at\ peak\ demand}=\frac{Average\ power}{Peak
 A low load factor means a “peaky” load shape
 
 
-![](/images/load-profile-load-duration-curve.png){fig-align="center"}
+![]({{< var file_path >}}/images/load-profile-load-duration-curve.png){fig-align="center"}
 
 ::: footer
 Source: @masters2013renewable
@@ -377,7 +377,7 @@ Source: @masters2013renewable
 
 ## Supply curve and dispatch
 
-![](/images/DispatchCurve.png){fig-align="center"}
+![]({{< var file_path >}}/images/DispatchCurve.png){fig-align="center"}
 
 ::: footer
 Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
@@ -416,7 +416,7 @@ Read more: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=7590)
 
 ## Model comparison
 
-![](/images/model-comparison.png){fig-align="center"}
+![]({{< var file_path >}}/images/model-comparison.png){fig-align="center"}
 
 ::: footer
 Source: @johnston2019switch
@@ -425,7 +425,7 @@ Source: @johnston2019switch
 
 ## SWITCH Model as an example
 
-![](/images/switch-model.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/switch-model.jpg){fig-align="center"}
 
 ::: footer
 Source: @johnston2019switch
@@ -447,7 +447,7 @@ Source: @johnston2019switch
 
 ## Typical output: capacity/generation mix
 
-![](/images/hourly-dispatch.jpg){fig-align="center"}
+![]({{< var file_path >}}/images/hourly-dispatch.jpg){fig-align="center"}
 
 ::: footer
 Source: @he_rapid_2020
@@ -456,7 +456,7 @@ Source: @he_rapid_2020
 
 ## Typical output: transmission expansions
 
-![](/images/pypsa-eur.png){fig-align="center"}
+![]({{< var file_path >}}/images/pypsa-eur.png){fig-align="center"}
 
 ::: footer
 Read more: [PyPSA](https://github.com/PyPSA/pypsa-eur)
