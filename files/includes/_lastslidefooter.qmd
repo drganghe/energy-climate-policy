@@ -1,0 +1,3 @@
+::: footer
+Back to Title [Slide](#/title), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
+:::

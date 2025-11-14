@@ -223,6 +223,4 @@ Note: (a) coastal flooding, (b) riverine flooding, (c) heatwaves, (d) hurricanes
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title-slide), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}
