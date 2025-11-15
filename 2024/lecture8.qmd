@@ -4,7 +4,7 @@ description-meta: "Energy Efficiency, Behavior, and Sustainable Consumption"
 author: "Gang He"
 date: October 28, 2024
 date-format: long
-image: "/images/behavior-change-net-zero.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/behavior-change-net-zero.png"
 format:
   revealjs:
     theme: white
@@ -43,7 +43,7 @@ Read more: Kathryne Cleary and Karen Palmer, [RFF](https://www.rff.org/publicati
 
 ## Energy intensity
 
-![](/images/energy-intensity.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-intensity.png){fig-align="center"}
 
 ::: footer
 Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab=chart&country=CHE~DEU~CHN~IND~GBR~USA~JPN~OWID_WRL)
@@ -52,7 +52,7 @@ Source: [OurWorldinData](https://ourworldindata.org/grapher/energy-intensity?tab
 
 ## Abatement cost curve
 
-![](/images/mckinsey-curve.png){fig-align="center"}
+![]({{< var file_path >}}/images/mckinsey-curve.png){fig-align="center"}
 
 ::: footer
 Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilities/sustainability/our-insights/greenhouse-gas-abatement-cost-curves)
@@ -61,7 +61,7 @@ Source: Mckinsey, [GHG Abatement Cost Curves](https://www.mckinsey.com/capabilit
 
 ## Energy efficiency gap
 
-![](/images/ee-failure.png){fig-align="center"}
+![]({{< var file_path >}}/images/ee-failure.png){fig-align="center"}
 
 ::: footer
 Source: @gillingham2009energy
@@ -70,7 +70,7 @@ Source: @gillingham2009energy
 
 ## Information
 
-![](/images/energy-label.png){fig-align="center"}
+![]({{< var file_path >}}/images/energy-label.png){fig-align="center"}
 
 ::: footer
 Source: [FTC](https://consumer.ftc.gov/articles/how-use-energyguide-label-shop-home-appliances)
@@ -99,7 +99,7 @@ Source: Severin Borenstein
 
 ## Behavior change in NZE
 
-![](/images/behavior-change-net-zero.png){fig-align="center"}
+![]({{< var file_path >}}/images/behavior-change-net-zero.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -108,7 +108,7 @@ Source: @iea_net_2021
 
 ## Key behavior change for NZE
 
-![](/images/key-behavior-change-nze.png){fig-align="center"}
+![]({{< var file_path >}}/images/key-behavior-change-nze.png){fig-align="center"}
 
 ::: footer
 Source: @iea_net_2021
@@ -117,7 +117,7 @@ Source: @iea_net_2021
 
 ## Complexity of human behavior
 
-![](/images/Kahneman-systems.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/Kahneman-systems.jpeg){fig-align="center"}
 
 ::: footer
 Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
@@ -126,7 +126,7 @@ Read more: [Human Behavior Research](https://imotions.com/blog/human-behavior/)
 
 ## Maslow's hierarchy of needs
 
-![](/images/maslow-hierarchy-of-needs.svg){fig-align="center"}
+![]({{< var file_path >}}/images/maslow-hierarchy-of-needs.svg){fig-align="center"}
 
 ::: footer
 Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -135,7 +135,7 @@ Read more: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_nee
 
 ## Stage of change theory
 
-![](/images/stages-behavior-change.png){fig-align="center"}
+![]({{< var file_path >}}/images/stages-behavior-change.png){fig-align="center"}
 
 ::: footer
 Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
@@ -147,7 +147,7 @@ Read more: [Behavior change models](https://sphweb.bumc.bu.edu/otlt/mph-modules/
 ::: columns
 
 ::: {.column width="50%"}
-![](/images/nudge-cover.jpeg){fig-align="center"}
+![]({{< var file_path >}}/images/nudge-cover.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -191,7 +191,7 @@ Source: Severin Borenstein
 
 ## Rebound might be overplayed
 
-![](/images/rebound-overplay.png){fig-align="center"}
+![]({{< var file_path >}}/images/rebound-overplay.png){fig-align="center"}
 
 ::: footer
 Source: @gillingham2013energy
@@ -211,7 +211,7 @@ Source: @gillingham2013energy
 ::: columns
 
 ::: {.column width="50%"}
-![](/images/un-sus-consumption.png){fig-align="center"}
+![]({{< var file_path >}}/images/un-sus-consumption.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}

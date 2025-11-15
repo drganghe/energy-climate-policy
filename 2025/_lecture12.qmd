@@ -4,7 +4,7 @@ description-meta: "Addressing policy uncertainties, review and summary of the cl
 author: "Gang He"
 date: December 1, 2025
 date-format: long
-image: "/images/ipcc-re-costs.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ipcc-re-costs.png"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true
 ---
 

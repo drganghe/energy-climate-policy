@@ -4,7 +4,7 @@ description-meta: "Discuss policy options"
 author: "Gang He"
 date: November 17, 2025
 date-format: long
-image: "/images/3generation-climate-change.png"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/3generation-climate-change.png"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true    
 ---
 

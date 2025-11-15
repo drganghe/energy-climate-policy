@@ -4,7 +4,7 @@ description-meta: "AI and Big Data for Energy and Climate"
 author: "Gang He"
 date: November 24, 2025
 date-format: long
-image: "/images/ai-transformation.webp"
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-transformation.webp"
 format:
   revealjs:
     theme: white
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-society/>
+    footer: <https://drganghe.github.io/energy-climate-policy/>
 #draft: true
 ---
 
