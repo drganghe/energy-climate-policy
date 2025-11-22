@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.25">
+
+  <meta name="author" content="Gang He">
+  <meta name="dcterms.date" content="2025-11-24">
+  <title>Energy and Climate Policy – Lecture 11 AI and Big Data for Energy and Climate</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
+  <link rel="stylesheet" href="../custom.css">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG4GM3TPXK"></script>
+
+  <script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
+  </script>
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+<meta property="og:title" content="Lecture 11 AI and Big Data for Energy and Climate – Energy and Climate Policy">
+<meta property="og:image" content="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-map-of-large-data-centers.png">
+<meta property="og:site_name" content="Energy and Climate Policy">
+<meta name="twitter:title" content="Lecture 11 AI and Big Data for Energy and Climate – Energy and Climate Policy">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-map-of-large-data-centers.png">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Lecture 11 AI and Big Data for Energy and Climate</h1>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Gang He 
+</div>
+</div>
+</div>
+
+  <p class="date">November 24, 2025</p>
+</section>
+<section id="sample-analytic-questions" class="slide level2 center">
+<h2>Sample analytic questions</h2>
+<ul>
+<li>What are the new advancements in AI and big data?<br>
+</li>
+<li>How AI and big data could be used in facilitating clean energy transition and addressing climate change?<br>
+</li>
+<li>Any good examples or success stories of AI for energy/climate change?<br>
+</li>
+<li>Energy demand driven by AI and data centers?<br>
+</li>
+<li>What skills are need to work in this field?<br>
+</li>
+</ul>
+</section>
+<section id="offshore-wind-turbine-inspection-using-drones-and-ai" class="slide level2 center">
+<h2>Offshore wind turbine inspection using drones and AI</h2>
+<center>
+<p>A local example</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6KwFJ19u4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</center>
+<div class="footer">
+<p>Read more: <a href="https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf">ULC Technologies</a></p>
+</div>
+</section>
+<section id="ai-is-the-new-electricity" class="slide level2 center">
+<h2>“AI is the new electricity”</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/andrew-ng.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<blockquote>
+<p>Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.</p>
+</blockquote>
+<p>–Andrew Ng</p>
+</div></div>
+<div class="footer">
+<p>Read more: <a href="https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity">Andrew Ng: Why AI Is the New Electricity</a></p>
+</div>
+</section>
+<section id="milestones-in-ai" class="slide level2 center">
+<h2>Milestones in AI</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/pale-blut-dot.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div style="font-size: 18pt;">
+<p>Perspective:</p>
+<ul>
+<li><p>Universe created:</p>
+<ul>
+<li>13.8 billion years ago</li>
+</ul></li>
+<li><p>Earth created:</p>
+<ul>
+<li>4.54 billion years ago</li>
+</ul></li>
+<li><p>Modern human:</p>
+<ul>
+<li>300,000 years ago</li>
+</ul></li>
+<li><p>Civilization:</p>
+<ul>
+<li>12,000 years ago</li>
+</ul></li>
+<li><p>Written record:</p>
+<ul>
+<li>5,000 years ago</li>
+</ul></li>
+</ul>
+</div>
+</div><div class="column" style="width:40%;">
+<div style="font-size: 14pt;">
+<ul>
+<li>1943: Neural networks</li>
+<li>1957: Perceptron</li>
+<li>1974-86: Backpropagation, RBM, RNN</li>
+<li>1989-98: CNN, MNIST, LSTM, Bidirectional RNN</li>
+<li>2006: “Deep Learning”, DBN</li>
+<li>2009: ImageNet</li>
+<li>2012: AlexNet, Dropout</li>
+<li>2014: GANs</li>
+<li>2014: DeepFace</li>
+<li>2016: AlphaGo</li>
+<li>2017: AlphaZero, Capsule Networks</li>
+<li>2018: AlphaFold 1, BERT</li>
+<li>2021: AlphaFold 2</li>
+<li>2023: ChatGPT</li>
+<li>2024: Deepseek</li>
+<li>2025: Gemini Deep Research</li>
+</ul>
+</div>
+</div></div>
+<div class="footer">
+<p>Photo: <a href="https://www.planetary.org/worlds/pale-blue-dot">NASA</a>; Read more: <a href="https://en.wikipedia.org/wiki/Timeline_of_machine_learning">Wikipedia</a></p>
+</div>
+</section>
+<section id="aartifitial-intelligence-machine-learning-and-deep-learning" class="slide level2 center">
+<h2>Aartifitial intelligence, machine learning, and deep learning</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-ml-dl.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <span class="citation" data-cites="lee2021empirical">Lee and He (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+</div>
+</section>
+<section id="ai-algorithms" class="slide level2 center">
+<h2>AI Algorithms</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-algorithms.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <span class="citation" data-cites="lee2021empirical">Lee and He (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+</div>
+</section>
+<section id="how-ai-has-transformed-our-society" class="slide level2 center">
+<h2>How AI has transformed our society</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-transformation.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Figure <a href="https://www.techbooky.com/ai-transforming-business/">source</a>, read more: <a href="https://www.gao.gov/products/gao-18-142sp">GAO</a></p>
+</div>
+</section>
+<section id="key-enabling-factors" class="slide level2 center">
+<h2>Key enabling factors</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Technological maturity<br>
+</li>
+<li>Availability and quality of data<br>
+</li>
+<li>Growing importance of cybersecurity<br>
+</li>
+<li>Training and re-skilling of energy sector professionals<br>
+</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-re.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+<div class="footer">
+<p>Read more: <a href="https://www.irena.org/publications/2019/Sep/Artificial-Intelligence-and-Big-Data">IRENA</a></p>
+</div>
+</section>
+<section id="more-ai-more-data-more-energy" class="slide level2 center">
+<h2>More AI, More Data, More Energy</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-applications-in-electricity-sector.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: IEA, <a href="https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf">Energy and AI</a></p>
+</div>
+</section>
+<section id="deep-solar" class="slide level2 center">
+<h2>Deep solar</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deep-solar-1.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deep-solar-2.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+<div class="footer">
+<p>Read more: <span class="citation" data-cites="yu2018deepsolar">Yu et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
+</div>
+</section>
+<section id="ai-to-improve-wind-perfomance" class="slide level2 center">
+<h2>AI to improve wind perfomance</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ml-and-wind.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <a href="https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy">Deepmind</a></p>
+</div>
+</section>
+<section id="ai-saves-data-center-cooling-energy" class="slide level2 center">
+<h2>AI saves data center cooling energy</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/deepmind-data-center-control.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Read more: <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40">Deepmind</a></p>
+</div>
+</section>
+<section id="global-inventory-of-solar-pv" class="slide level2 center">
+<h2>Global inventory of solar PV</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/solar-pv-inventory.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="kruitwagen2021global">Kruitwagen et al. (<a href="#/references" role="doc-biblioref" onclick="">2021</a>)</span></p>
+</div>
+</section>
+<section id="machine-learning-for-electricity-access" class="slide level2 center">
+<h2>Machine learning for electricity access</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/electrification-asset-wealth.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="ratledge2022using">Ratledge et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
+</div>
+</section>
+<section id="ai-for-climate-solutions" class="slide level2 center">
+<h2>AI for climate solutions</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/climate-solution-ai-areas.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="rolnick2022tackling">Rolnick et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
+</div>
+</section>
+<section id="ai-for-ghg-mitigation" class="slide level2 center">
+<h2>AI for GHG mitigation</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/ai-ghg-mitigation.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="kaack2022aligning">Kaack et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span></p>
+</div>
+</section>
+<section id="ai-and-data-center-power-consumption" class="slide level2 center">
+<h2>AI and data center power consumption</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/us-data-center-energy-demand.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: LBL, <a href="https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf">2024 Report on U.S. Data Center Energy Use</a></p>
+</div>
+</section>
+<section id="more-ai-more-data-more-energy-1" class="slide level2 center">
+<h2>More AI, More Data, More Energy</h2>
+
+<img data-src="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-map-of-large-data-centers.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: IEA, <a href="https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf">Energy and AI</a></p>
+</div>
+</section>
+<section id="ai-ethics-why" class="slide level2 center">
+<h2>AI ethics: why?</h2>
+<ul>
+<li>Biases<br>
+</li>
+<li>Privacy<br>
+</li>
+<li>Mistakes<br>
+</li>
+<li>Environmental impacts<br>
+</li>
+<li>Other unaware impacts</li>
+</ul>
+<div class="footer">
+<p>Read more: <a href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence">Wikipedia</a>, <a href="https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters">AI Ethics: What It Is And Why It Matters</a></p>
+</div>
+</section>
+<section id="ai-ethics-principles" class="slide level2 smaller center">
+<h2>AI ethics: principles</h2>
+<ul>
+<li>Proportionality and do no harm<br>
+</li>
+<li>Safety and security<br>
+</li>
+<li>Fariness and non-discrimination<br>
+</li>
+<li>Sustainability<br>
+</li>
+<li>Right to privacy, and data protection<br>
+</li>
+<li>Human oversight and determination<br>
+</li>
+<li>Transparency and explainability<br>
+</li>
+<li>Responsibility and accountability<br>
+</li>
+<li>Awareness and literacy<br>
+</li>
+<li>Multi-stakeholder and adaptive governance and colloboration</li>
+</ul>
+<div class="footer">
+<p>Read more: <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137">UNESCO</a></p>
+</div>
+</section>
+<section id="ai-ethics-how" class="slide level2 center">
+<h2>AI ethics: how?</h2>
+<ul>
+<li>Still slow responding to the fast evolving challenges</li>
+<li>Education and research<br>
+</li>
+<li>Assessment and communication<br>
+</li>
+<li>Governance and cooperation<br>
+</li>
+<li>Value alligned design</li>
+</ul>
+<div class="footer">
+<p>Read more: <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381137">UNESCO</a>, <a href="https://ethicsinaction.ieee.org/">IEEE Ethics in Action</a></p>
+</div>
+</section>
+<section id="summary" class="slide level2 center">
+<h2>Summary</h2>
+<ul>
+<li>AI and big data has transformed how we live, and how can we save the planet<br>
+</li>
+<li>AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data<br>
+</li>
+<li>Learning those new tools and skills becomes necessary to work in the field<br>
+</li>
+<li>The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.</li>
+</ul>
+</section>
+<section class="slide level2 smaller scrollable" id="references">
+
+<h3 id="references">References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-kaack2022aligning" class="csl-entry" role="listitem">
+Kaack, Lynn H, Priya L Donti, Emma Strubell, George Kamiya, Felix Creutzig, and David Rolnick. 2022. <span>“Aligning Artificial Intelligence with Climate Change Mitigation.”</span> <em>Nature Climate Change</em>, 1–10. <a href="https://doi.org/10.1038/s41558-022-01377-7">https://doi.org/10.1038/s41558-022-01377-7</a>.
+</div>
+<div id="ref-kruitwagen2021global" class="csl-entry" role="listitem">
+Kruitwagen, L, KT Story, J Friedrich, L Byers, S Skillman, and C Hepburn. 2021. <span>“A Global Inventory of Photovoltaic Solar Energy Generating Units.”</span> <em>Nature</em> 598 (7882): 604–10. <a href="https://doi.org/10.1038/s41586-021-03957-7">https://doi.org/10.1038/s41586-021-03957-7</a>.
+</div>
+<div id="ref-lee2021empirical" class="csl-entry" role="listitem">
+Lee, Mekyung, and Gang He. 2021. <span>“An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017.”</span> <em>Journal of Cleaner Production</em> 297: 126536. <a href="https://doi.org/10.1016/j.jclepro.2021.126536">https://doi.org/10.1016/j.jclepro.2021.126536</a>.
+</div>
+<div id="ref-ratledge2022using" class="csl-entry" role="listitem">
+Ratledge, Nathan, Gabe Cadamuro, Brandon de la Cuesta, Matthieu Stigler, and Marshall Burke. 2022. <span>“Using Machine Learning to Assess the Livelihood Impact of Electricity Access.”</span> <em>Nature</em> 611 (7936): 491–95. <a href="https://doi.org/10.1038/s41586-022-05322-8">https://doi.org/10.1038/s41586-022-05322-8</a>.
+</div>
+<div id="ref-rolnick2022tackling" class="csl-entry" role="listitem">
+Rolnick, David, Priya L Donti, Lynn H Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, et al. 2022. <span>“Tackling Climate Change with Machine Learning.”</span> <em>ACM Computing Surveys (CSUR)</em> 55 (2): 1–96. <a href="https://doi.org/10.1145/3485128">https://doi.org/10.1145/3485128</a>.
+</div>
+<div id="ref-yu2018deepsolar" class="csl-entry" role="listitem">
+Yu, Jiafan, Zhecheng Wang, Arun Majumdar, and Ram Rajagopal. 2018. <span>“DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.”</span> <em>Joule</em> 2 (12): 2605–17. <a href="https://doi.org/10.1016/j.joule.2018.11.021">https://doi.org/10.1016/j.joule.2018.11.021</a>.
+</div>
+</div>
+<div class="footer">
+<p>Back to Title <a href="#//title">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="../index.html">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+</div>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+<p><a href="https://drganghe.github.io/energy-climate-policy/" class="uri">https://drganghe.github.io/energy-climate-policy/</a></p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': true,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/energy-climate-policy");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+                // target, if specified
+                link.setAttribute("target", "_blank");
+                if (link.getAttribute("rel") === null) {
+                  link.setAttribute("rel", "noopener");
+                }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

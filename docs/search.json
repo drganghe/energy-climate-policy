@@ -60,7 +60,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Energy and climate numbers and project economics\n\n\n\nGang He\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fdundamentals and Impact\n\n\n\nGang He\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems and Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy, Economy, and Demand\n\n\n\nGang He\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy, Environment, Climate, and Human Health\n\n\n\nGang He\n\n\nOct 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Transition and Power Sector Decarbonization\n\n\n\nGang He\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy access, energy and climate justice\n\n\n\nGang He\n\n\nNov 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Energy Efficiency, Behavior, and Sustainable Consumption\n\n\n\nGang He\n\n\nNov 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Climate Policy Instruments\n\n\n\nGang He\n\n\nNov 17, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction: Grand Challenges\n\n\n\nGang He\n\n\nSep 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Energy and climate numbers and project economics\n\n\n\nGang He\n\n\nSep 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Climate Fdundamentals and Impact\n\n\n\nGang He\n\n\nSep 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Energy Systems and Energy Conversion Technologies\n\n\n\nGang He\n\n\nOct 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Energy, Economy, and Demand\n\n\n\nGang He\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Energy, Environment, Climate, and Human Health\n\n\n\nGang He\n\n\nOct 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Energy Transition and Power Sector Decarbonization\n\n\n\nGang He\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Energy access, energy and climate justice\n\n\n\nGang He\n\n\nNov 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Energy Efficiency, Behavior, and Sustainable Consumption\n\n\n\nGang He\n\n\nNov 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Climate Policy Instruments\n\n\n\nGang He\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 11 AI and Big Data for Energy and Climate\n\n\n\nGang He\n\n\nNov 24, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "policymemo.html",
@@ -7768,5 +7768,187 @@
     "title": "Lecture 10 Climate Policy Instruments",
     "section": "What works what’s not",
     "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
+  },
+  {
+    "objectID": "2025/hw3.html",
+    "href": "2025/hw3.html",
+    "title": "Assignment 3 Load Forecasting and EV Penetration",
+    "section": "",
+    "text": "Accurate load forecasting is essential for power system planning and operation. In this assignment, you will explore New York City’s electricity demand using real-world data from NYISO, analyze forecast errors (accuracy), and examine how electric vehicle (EV) adoption could impact the grid.\n\n\n\n\nVisit NYISO Custom Reports page and explore available datasets.\nWe will be focusing on:\n\nDay Head Market Load Forcast (1-hour interval)\nReal Time Dispatch Actual Load (5-min interval)\n\nPreprocessed dataset: I have cleaned and combined the dataset in R. The Combined Load Forecast Actual Data file is available for you to use. If you’re interested, you can access the R code to replicate or modify the dataset.\n\n\n\n\n\nLoad curve and load duration curve. (1pt)\n\n\nUsing Actual Load, plot the hourly load curve and load duration curve of New York City in 2024\nWhat do these curves reveal about NYC’s electricity demand pattern?\n\n\nAverage daily load characteristics. (1pt)\n\nAnalyze and visualize the acutal load profile for:\n\n366 days average load by hour of day (avearage by “Hour_of_Day”)\n\nWeekdays vs. weekends average load by hour of day (avearage by “Hour_of_Day”, organize by “Is_Weekday”)\nMonthly avearge houly load (average by “Month”)\n\nSeasonal average houly load (avearge by “Season”)\n\n\nForecast accuracy. (1pt)\n\n\nIdentifythe hour(s) and day(s) with the largest forecasting error (Actural Load - forecast)\nAnalyze potential causes for these errors (e.g., extreme weather, holidays, economic actiivities)\n\n\nEV adoption and impact on load curve. (1pt)\n\n\nMake reasonable assumptions about EV penetration in New York City,\nAnalyze how EV charging would affect the load curve\nConsider different charging scenarios (e.g., overnight charging, peak-hour charging)\n\n\nPolicy incentives. (1pt)\n\n\nShould ConEdison be concerned about increased EV charging deamnds? Why or why not?\nWhat policies or incentives could be introduced to encourage cost-effective and grid-friendly charging behaviors (e.g., time of use rates, smart charging incentives, vehicle to grid programs)?\n\nFurther reading:\nArvind Jaggi, Senior Economist, Demand Forecasting & Analysis, Electric Vehicle Forecast Impacts (Gold Book 2021)"
+  },
+  {
+    "objectID": "2025/hw3.html#load-forecasting-and-ev-penetration",
+    "href": "2025/hw3.html#load-forecasting-and-ev-penetration",
+    "title": "Assignment 3 Load Forecasting and EV Penetration",
+    "section": "",
+    "text": "Accurate load forecasting is essential for power system planning and operation. In this assignment, you will explore New York City’s electricity demand using real-world data from NYISO, analyze forecast errors (accuracy), and examine how electric vehicle (EV) adoption could impact the grid.\n\n\n\n\nVisit NYISO Custom Reports page and explore available datasets.\nWe will be focusing on:\n\nDay Head Market Load Forcast (1-hour interval)\nReal Time Dispatch Actual Load (5-min interval)\n\nPreprocessed dataset: I have cleaned and combined the dataset in R. The Combined Load Forecast Actual Data file is available for you to use. If you’re interested, you can access the R code to replicate or modify the dataset.\n\n\n\n\n\nLoad curve and load duration curve. (1pt)\n\n\nUsing Actual Load, plot the hourly load curve and load duration curve of New York City in 2024\nWhat do these curves reveal about NYC’s electricity demand pattern?\n\n\nAverage daily load characteristics. (1pt)\n\nAnalyze and visualize the acutal load profile for:\n\n366 days average load by hour of day (avearage by “Hour_of_Day”)\n\nWeekdays vs. weekends average load by hour of day (avearage by “Hour_of_Day”, organize by “Is_Weekday”)\nMonthly avearge houly load (average by “Month”)\n\nSeasonal average houly load (avearge by “Season”)\n\n\nForecast accuracy. (1pt)\n\n\nIdentifythe hour(s) and day(s) with the largest forecasting error (Actural Load - forecast)\nAnalyze potential causes for these errors (e.g., extreme weather, holidays, economic actiivities)\n\n\nEV adoption and impact on load curve. (1pt)\n\n\nMake reasonable assumptions about EV penetration in New York City,\nAnalyze how EV charging would affect the load curve\nConsider different charging scenarios (e.g., overnight charging, peak-hour charging)\n\n\nPolicy incentives. (1pt)\n\n\nShould ConEdison be concerned about increased EV charging deamnds? Why or why not?\nWhat policies or incentives could be introduced to encourage cost-effective and grid-friendly charging behaviors (e.g., time of use rates, smart charging incentives, vehicle to grid programs)?\n\nFurther reading:\nArvind Jaggi, Senior Economist, Demand Forecasting & Analysis, Electric Vehicle Forecast Impacts (Gold Book 2021)"
+  },
+  {
+    "objectID": "2025/lecture11.html#sample-analytic-questions",
+    "href": "2025/lecture11.html#sample-analytic-questions",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the new advancements in AI and big data?\n\nHow AI and big data could be used in facilitating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nEnergy demand driven by AI and data centers?\n\nWhat skills are need to work in this field?"
+  },
+  {
+    "objectID": "2025/lecture11.html#offshore-wind-turbine-inspection-using-drones-and-ai",
+    "href": "2025/lecture11.html#offshore-wind-turbine-inspection-using-drones-and-ai",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Offshore wind turbine inspection using drones and AI",
+    "text": "Offshore wind turbine inspection using drones and AI\n\nA local example\n\n\n\n\nRead more: ULC Technologies"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-is-the-new-electricity",
+    "href": "2025/lecture11.html#ai-is-the-new-electricity",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "“AI is the new electricity”",
+    "text": "“AI is the new electricity”\n\n\n\n\n\n\n\n\n\nJust as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.\n\n–Andrew Ng\n\n\nRead more: Andrew Ng: Why AI Is the New Electricity"
+  },
+  {
+    "objectID": "2025/lecture11.html#milestones-in-ai",
+    "href": "2025/lecture11.html#milestones-in-ai",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Milestones in AI",
+    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n2024: Deepseek\n2025: Gemini Deep Research\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
+  },
+  {
+    "objectID": "2025/lecture11.html#aartifitial-intelligence-machine-learning-and-deep-learning",
+    "href": "2025/lecture11.html#aartifitial-intelligence-machine-learning-and-deep-learning",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Aartifitial intelligence, machine learning, and deep learning",
+    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: Lee and He (2021)"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-algorithms",
+    "href": "2025/lecture11.html#ai-algorithms",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI Algorithms",
+    "text": "AI Algorithms\n\n\nRead more: Lee and He (2021)"
+  },
+  {
+    "objectID": "2025/lecture11.html#how-ai-has-transformed-our-society",
+    "href": "2025/lecture11.html#how-ai-has-transformed-our-society",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "How AI has transformed our society",
+    "text": "How AI has transformed our society\n\n\nFigure source, read more: GAO"
+  },
+  {
+    "objectID": "2025/lecture11.html#key-enabling-factors",
+    "href": "2025/lecture11.html#key-enabling-factors",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Key enabling factors",
+    "text": "Key enabling factors\n\n\n\nTechnological maturity\n\nAvailability and quality of data\n\nGrowing importance of cybersecurity\n\nTraining and re-skilling of energy sector professionals\n\n\n\n\n\n\n\n\n\n\nRead more: IRENA"
+  },
+  {
+    "objectID": "2025/lecture11.html#more-ai-more-data-more-energy",
+    "href": "2025/lecture11.html#more-ai-more-data-more-energy",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "More AI, More Data, More Energy",
+    "text": "More AI, More Data, More Energy\n\n\nSource: IEA, Energy and AI"
+  },
+  {
+    "objectID": "2025/lecture11.html#deep-solar",
+    "href": "2025/lecture11.html#deep-solar",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Deep solar",
+    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Yu et al. (2018)"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-to-improve-wind-perfomance",
+    "href": "2025/lecture11.html#ai-to-improve-wind-perfomance",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI to improve wind perfomance",
+    "text": "AI to improve wind perfomance\n\n\nRead more: Deepmind"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-saves-data-center-cooling-energy",
+    "href": "2025/lecture11.html#ai-saves-data-center-cooling-energy",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI saves data center cooling energy",
+    "text": "AI saves data center cooling energy\n\n\nRead more: Deepmind"
+  },
+  {
+    "objectID": "2025/lecture11.html#global-inventory-of-solar-pv",
+    "href": "2025/lecture11.html#global-inventory-of-solar-pv",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Global inventory of solar PV",
+    "text": "Global inventory of solar PV\n\n\nSource: Kruitwagen et al. (2021)"
+  },
+  {
+    "objectID": "2025/lecture11.html#machine-learning-for-electricity-access",
+    "href": "2025/lecture11.html#machine-learning-for-electricity-access",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Machine learning for electricity access",
+    "text": "Machine learning for electricity access\n\n\nSource: Ratledge et al. (2022)"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-for-climate-solutions",
+    "href": "2025/lecture11.html#ai-for-climate-solutions",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI for climate solutions",
+    "text": "AI for climate solutions\n\n\nSource: Rolnick et al. (2022)"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-for-ghg-mitigation",
+    "href": "2025/lecture11.html#ai-for-ghg-mitigation",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI for GHG mitigation",
+    "text": "AI for GHG mitigation\n\n\nSource: Kaack et al. (2022)"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-and-data-center-power-consumption",
+    "href": "2025/lecture11.html#ai-and-data-center-power-consumption",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI and data center power consumption",
+    "text": "AI and data center power consumption\n\n\nSource: LBL, 2024 Report on U.S. Data Center Energy Use"
+  },
+  {
+    "objectID": "2025/lecture11.html#more-ai-more-data-more-energy-1",
+    "href": "2025/lecture11.html#more-ai-more-data-more-energy-1",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "More AI, More Data, More Energy",
+    "text": "More AI, More Data, More Energy\n\n\nSource: IEA, Energy and AI"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-ethics-why",
+    "href": "2025/lecture11.html#ai-ethics-why",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI ethics: why?",
+    "text": "AI ethics: why?\n\nBiases\n\nPrivacy\n\nMistakes\n\nEnvironmental impacts\n\nOther unaware impacts\n\n\nRead more: Wikipedia, AI Ethics: What It Is And Why It Matters"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-ethics-principles",
+    "href": "2025/lecture11.html#ai-ethics-principles",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI ethics: principles",
+    "text": "AI ethics: principles\n\nProportionality and do no harm\n\nSafety and security\n\nFariness and non-discrimination\n\nSustainability\n\nRight to privacy, and data protection\n\nHuman oversight and determination\n\nTransparency and explainability\n\nResponsibility and accountability\n\nAwareness and literacy\n\nMulti-stakeholder and adaptive governance and colloboration\n\n\nRead more: UNESCO"
+  },
+  {
+    "objectID": "2025/lecture11.html#ai-ethics-how",
+    "href": "2025/lecture11.html#ai-ethics-how",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "AI ethics: how?",
+    "text": "AI ethics: how?\n\nStill slow responding to the fast evolving challenges\nEducation and research\n\nAssessment and communication\n\nGovernance and cooperation\n\nValue alligned design\n\n\nRead more: UNESCO, IEEE Ethics in Action"
+  },
+  {
+    "objectID": "2025/lecture11.html#summary",
+    "href": "2025/lecture11.html#summary",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "Summary",
+    "text": "Summary\n\nAI and big data has transformed how we live, and how can we save the planet\n\nAI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\n\nLearning those new tools and skills becomes necessary to work in the field\n\nThe potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous."
+  },
+  {
+    "objectID": "2025/lecture11.html#references",
+    "href": "2025/lecture11.html#references",
+    "title": "Lecture 11 AI and Big Data for Energy and Climate",
+    "section": "",
+    "text": "References\n\n\nKaack, Lynn H, Priya L Donti, Emma Strubell, George Kamiya, Felix Creutzig, and David Rolnick. 2022. “Aligning Artificial Intelligence with Climate Change Mitigation.” Nature Climate Change, 1–10. https://doi.org/10.1038/s41558-022-01377-7.\n\n\nKruitwagen, L, KT Story, J Friedrich, L Byers, S Skillman, and C Hepburn. 2021. “A Global Inventory of Photovoltaic Solar Energy Generating Units.” Nature 598 (7882): 604–10. https://doi.org/10.1038/s41586-021-03957-7.\n\n\nLee, Mekyung, and Gang He. 2021. “An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017.” Journal of Cleaner Production 297: 126536. https://doi.org/10.1016/j.jclepro.2021.126536.\n\n\nRatledge, Nathan, Gabe Cadamuro, Brandon de la Cuesta, Matthieu Stigler, and Marshall Burke. 2022. “Using Machine Learning to Assess the Livelihood Impact of Electricity Access.” Nature 611 (7936): 491–95. https://doi.org/10.1038/s41586-022-05322-8.\n\n\nRolnick, David, Priya L Donti, Lynn H Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, et al. 2022. “Tackling Climate Change with Machine Learning.” ACM Computing Surveys (CSUR) 55 (2): 1–96. https://doi.org/10.1145/3485128.\n\n\nYu, Jiafan, Zhecheng Wang, Arun Majumdar, and Ram Rajagopal. 2018. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.” Joule 2 (12): 2605–17. https://doi.org/10.1016/j.joule.2018.11.021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/readings.html#lecture-11",
+    "href": "2025/readings.html#lecture-11",
+    "title": "Readings",
+    "section": "Lecture 11",
+    "text": "Lecture 11\n\nMekyung Lee and Gang He “An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017,” Journal of Cleaner Production 297 (2021): 126536, https://doi.org/10.1016/j.jclepro.2021.126536.\nJiafan Yu et al. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States,” Joule 2, no. 12 (2018): 2605–17, https://doi.org/10.1016/j.joule.2018.11.021.\nL Kruitwagen et al. “A Global Inventory of Photovoltaic Solar Energy Generating Units,” Nature 598, no. 7882 (2021): 604–10, https://doi.org/10.1038/s41586-021-03957-7.\nNathan Ratledge et al. “Using Machine Learning to Assess the Livelihood Impact of Electricity Access,” Nature 611, no. 7936 (2022): 491–95, https://doi.org/10.1038/s41586-022-05322-8.\nDavid Rolnick et al. “Tackling Climate Change with Machine Learning,” ACM Computing Surveys (CSUR) 55, no. 2 (2022): 1–96, https://doi.org/10.1145/3485128.\nLynn H Kaack et al. “Aligning Artificial Intelligence with Climate Change Mitigation,” Nature Climate Change, 2022, 1–10, https://doi.org/10.1038/s41558-022-01377-7."
   }
 ]

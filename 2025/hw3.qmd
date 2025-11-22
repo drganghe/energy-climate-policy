@@ -1,0 +1,82 @@
+---
+title: Assignment 3 Load Forecasting and EV Penetration
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## Load Forecasting and EV Penetration
+
+### Background
+
+Accurate load forecasting is essential for power system planning and operation. In this assignment, you will explore New York City's electricity demand using real-world data from NYISO, analyze forecast errors (accuracy), and examine how electric vehicle (EV) adoption could impact the grid.
+
+### Data Source
+
+- Visit NYISO [Custom Reports](https://www.nyiso.com/custom-reports) page and explore available datasets. 
+
+- We will be focusing on:
+
+  - [Day Head Market Load Forcast](OASIS_Day_Ahead_Market_ISO_Load_Forecast.xlsx) (1-hour interval)
+  - [Real Time Dispatch Actual Load](OASIS_Real_Time_Dispatch_Actual_Load.xlsx) (5-min interval)
+  
+- Preprocessed dataset: I have cleaned and combined the dataset in R. The [Combined Load Forecast Actual Data](Combined_Load_Forecast_Actual_Data.csv) file is available for you to use. If you’re interested, you can access the [R code](hw3.R) to replicate or modify the dataset.
+
+### Tasks and Questions
+
+1. Load curve and load duration curve. (1pt)  
+
+- Using Actual Load, plot the hourly load curve and load duration curve of New York City in 2024
+- What do these curves reveal about NYC's electricity demand pattern?
+
+2. Average daily load characteristics. (1pt) 
+
+Analyze and visualize the acutal load profile for: 
+
+  - 366 days average load by hour of day (avearage by "Hour_of_Day")  
+  - Weekdays vs. weekends average load by hour of day (avearage by "Hour_of_Day", organize by "Is_Weekday") 
+  - Monthly avearge houly load (average by "Month")  
+  - Seasonal average houly load (avearge by "Season")  
+
+3. Forecast accuracy. (1pt)
+
+- Identifythe hour(s) and day(s) with the largest forecasting error (Actural Load - forecast) 
+- Analyze potential causes for these errors (e.g., extreme weather, holidays, economic actiivities)
+
+4. EV adoption and impact on load curve. (1pt)
+
+- Make reasonable assumptions about EV penetration in New York City, 
+- Analyze how EV charging would affect the load curve 
+- Consider different charging scenarios (e.g., overnight charging, peak-hour charging)
+
+5. Policy incentives. (1pt)
+
+- Should ConEdison be concerned about increased EV charging deamnds? Why or why not?
+- What policies or incentives could be introduced to encourage cost-effective and grid-friendly charging behaviors (e.g., time of use rates, smart charging incentives, vehicle to grid programs)?
+
+
+**Further reading**: 
+
+Arvind Jaggi, Senior Economist, Demand Forecasting & Analysis, [Electric Vehicle Forecast Impacts (Gold Book 2021)](https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed)
+
+
+
+

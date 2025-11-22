@@ -1,0 +1,341 @@
+---
+title: "Lecture 11 AI and Big Data for Energy and Climate"
+description-meta: "AI and Big Data for Energy and Climate"
+author: "Gang He"
+date: November 24, 2025
+date-format: long
+image: "https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/global-map-of-large-data-centers.png"
+format:
+  revealjs:
+    theme: white
+#    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/energy-climate-policy/>
+#draft: true
+---
+
+## Sample analytic questions
+
+-   What are the new advancements in AI and big data?\
+-   How AI and big data could be used in facilitating clean energy transition and addressing climate change?\
+-   Any good examples or success stories of AI for energy/climate change?\
+-   Energy demand driven by AI and data centers?\
+-   What skills are need to work in this field?\
+
+
+## Offshore wind turbine inspection using drones and AI
+
+<center>
+A local example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6KwFJ19u4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+::: footer
+Read more: [ULC Technologies](https://www.stonybrook.edu/commcms/aertc/conference2018/conference/presentations/Passaretti_Mike_powerpoint.pdf) 
+:::
+
+
+## "AI is the new electricity"
+
+::: columns
+
+:::{.column width="40%"}
+![]({{< var file_path >}}/images/andrew-ng.png){fig-align="center"}
+:::
+
+:::{.column width="60%"}
+>Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.  
+
+--Andrew Ng
+:::
+
+:::
+
+::: footer
+Read more: [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
+:::
+
+
+## Milestones in AI
+
+::: columns
+
+:::{.column width="30%"}
+![]({{< var file_path >}}/images/pale-blut-dot.png){fig-align="center"}
+:::
+
+:::{.column width="30%"}
+::: {style="font-size: 18pt;"}
+Perspective:   
+
+- Universe created:    
+
+  - 13.8 billion years ago  
+
+- Earth created:   
+
+  - 4.54 billion years ago  
+
+- Modern human:    
+
+  - 300,000 years ago  
+
+- Civilization:  
+
+  - 12,000 years ago  
+
+- Written record:  
+
+  - 5,000 years ago  
+
+:::
+:::
+
+:::{.column width="40%"}
+::: {style="font-size: 14pt;"}
+- 1943: Neural networks
+- 1957: Perceptron
+- 1974-86: Backpropagation, RBM, RNN
+- 1989-98: CNN, MNIST, LSTM, Bidirectional RNN
+- 2006: “Deep Learning”, DBN
+- 2009: ImageNet
+- 2012: AlexNet, Dropout
+- 2014: GANs
+- 2014: DeepFace
+- 2016: AlphaGo
+- 2017: AlphaZero, Capsule Networks
+- 2018: AlphaFold 1, BERT
+- 2021: AlphaFold 2
+- 2023: ChatGPT
+- 2024: Deepseek
+- 2025: Gemini Deep Research 
+:::
+:::
+
+:::
+
+::: footer
+Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+:::
+
+
+## Aartifitial intelligence, machine learning, and deep learning
+
+![]({{< var file_path >}}/images/ai-ml-dl.png){fig-align="center"}
+
+::: footer
+Read more: @lee2021empirical
+:::
+
+
+## AI Algorithms
+
+![]({{< var file_path >}}/images/ai-algorithms.png){fig-align="center"}
+
+::: footer
+Read more: @lee2021empirical
+:::
+
+
+## How AI has transformed our society
+
+![]({{< var file_path >}}/images/ai-transformation.webp){fig-align="center"}
+
+::: footer
+Figure [source](https://www.techbooky.com/ai-transforming-business/), read more: [GAO](https://www.gao.gov/products/gao-18-142sp)
+
+:::
+
+
+## Key enabling factors
+
+::: columns
+
+:::{.column width="50%"}
+- Technological maturity  
+- Availability and quality of data  
+- Growing importance of cybersecurity  
+- Training and re-skilling of energy sector
+professionals  
+:::
+
+:::{.column width="50%"}
+![]({{< var file_path >}}/images/ai-re.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: [IRENA](https://www.irena.org/publications/2019/Sep/Artificial-Intelligence-and-Big-Data)
+:::
+
+
+## More AI, More Data, More Energy
+
+![]({{< var file_path >}}/images/ai-applications-in-electricity-sector.png){fig-align="center"}
+
+::: footer
+Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf)
+:::
+
+
+## Deep solar
+
+::: columns
+
+:::{.column width="50%"}
+![]({{< var file_path >}}/images/deep-solar-1.png){fig-align="center"}
+:::
+
+:::{.column width="50%"}
+![]({{< var file_path >}}/images/deep-solar-2.png){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Read more: @yu2018deepsolar
+:::
+
+
+## AI to improve wind perfomance
+
+![]({{< var file_path >}}/images/ml-and-wind.png){fig-align="center"}
+
+::: footer
+Read more: [Deepmind](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy)
+:::
+
+
+## AI saves data center cooling energy
+
+![]({{< var file_path >}}/images/deepmind-data-center-control.png){fig-align="center"}
+
+::: footer
+Read more: [Deepmind](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
+:::
+
+
+## Global inventory of solar PV
+
+![]({{< var file_path >}}/images/solar-pv-inventory.webp){fig-align="center"}
+
+::: footer
+Source: @kruitwagen2021global
+:::
+
+
+## Machine learning for electricity access
+
+![]({{< var file_path >}}/images/electrification-asset-wealth.webp){fig-align="center"}
+
+::: footer
+Source: @ratledge2022using
+:::
+
+
+## AI for climate solutions
+
+![]({{< var file_path >}}/images/climate-solution-ai-areas.png){fig-align="center"}
+
+::: footer
+Source: @rolnick2022tackling
+:::
+
+
+## AI for GHG mitigation
+
+![]({{< var file_path >}}/images/ai-ghg-mitigation.webp){fig-align="center"}
+
+::: footer
+Source: @kaack2022aligning
+:::
+
+
+## AI and data center power consumption
+
+![]({{< var file_path >}}/images/us-data-center-energy-demand.png){fig-align="center"}
+
+::: footer
+Source: LBL, [2024 Report on U.S. Data Center Energy Use](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
+:::
+
+
+## More AI, More Data, More Energy
+
+![]({{< var file_path >}}/images/global-map-of-large-data-centers.png){fig-align="center"}
+
+::: footer
+Source: IEA, [Energy and AI](https://iea.blob.core.windows.net/assets/86ed1178-4d77-45ac-ab38-28e849f3b93f/EnergyandAI.pdf)
+:::
+
+
+## AI ethics: why?
+
+- Biases  
+- Privacy  
+- Mistakes  
+- Environmental impacts  
+- Other unaware impacts  
+
+::: footer
+Read more: [Wikipedia](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence), [AI Ethics: What It Is And Why It Matters](https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters)
+:::
+
+
+## AI ethics: principles{.smaller}
+
+- Proportionality and do no harm  
+- Safety and security  
+- Fariness and non-discrimination   
+- Sustainability  
+- Right to privacy, and data protection  
+- Human oversight and determination  
+- Transparency and explainability  
+- Responsibility and accountability  
+- Awareness and literacy  
+- Multi-stakeholder and adaptive governance and colloboration  
+
+::: footer
+Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
+:::
+
+
+## AI ethics: how?
+
+- Still slow responding to the fast evolving challenges 
+- Education and research  
+- Assessment and communication  
+- Governance and cooperation  
+- Value alligned design  
+
+::: footer
+Read more: [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000381137), [IEEE Ethics in Action](https://ethicsinaction.ieee.org/)
+:::
+
+
+## Summary
+
+-   AI and big data has transformed how we live, and how can we save the planet\
+-   AI does not automatic add new insights, but it provides powerful tools to analyze increasingly available big data\
+-   Learning those new tools and skills becomes necessary to work in the field\
+-   The potential of using AI/big data to analyze our understanding of energy supply/demand and human behavior is enomorous.   
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+
+{{< include /files/includes/_lastslidefooter.qmd >}}
