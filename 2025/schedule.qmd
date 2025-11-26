@@ -21,11 +21,11 @@ repo-actions: false
 | 7 | 10/14 | [Energy, economy, and demand](lecture5.qmd) | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR3 |
 | 8 | 10/24 | [Energy, environment, and health](lecture6.qmd) |  | HW2 |
 | 9 | 10/27 | [Energy transition and power sector decarbonization](lecture7.qmd) |  | PR4 |
-| 10 | 11/3 | [Energy access, energy and climate justice](lecture8.qmd) | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
+| 10 | 11/3 | [Energy access, energy and climate justice](lecture8.qmd) | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | PR5|
 | 11 | 11/10 | [Energy efficiency, human behavior, culture, and sustainable energy consumption](lecture9.qmd) |  | PM Proposal |
-| 12 | 11/17 | [Climate policy instruments](lecture10.qmd) | [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html) | HW4 |
-| 13 | 11/24 | [Big data and AI for energy and climate change](lecture11.qmd) | [Dr. Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR5 |
-| 14 | 12/1 | Uncertainties in policy analysis | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html) | PR6 |
+| 12 | 11/17 | [Climate policy instruments](lecture10.qmd) | [Claudia Villar-Leeman](https://drganghe.github.io/climate-guest-speakers/speakers/claudia-villar-leeman/index.html) | PR6 |
+| 13 | 11/24 | [Big data and AI for energy and climate change](lecture11.qmd) | [Dr. Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR7 |
+| 14 | 12/1 | [Uncertainties in policy analysis](lecture12.qmd) | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html) | HW3 |
 | 15 | 12/8 | Presentation |  |  |
 | 16 | 12/15 | Presentation |  |  |
 | 17 | 12/22 | Policy memo |  |  |
