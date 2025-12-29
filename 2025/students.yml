@@ -46,3 +46,174 @@
 #       subtitle: "Masters of Public Administration"
 # #      date: "2025-05-01"
 #       categories: [profile] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ashley C."
+      project: "The National Climate & Green Economy Workforce Initiative: A Strategy for STEM Excellence & Global Competitiveness"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Abraham L."
+      project: "Expanding Equitable Accessto Community Solar for Renters"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kiet P."
+      project: "Managing the Energy and Water Demands of AI: Risks and Policy Solutions"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Dayana G."
+      project: "Mutual Learning for Clean Public Transportation: Los Angeles, US and Bogota, Colombia"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Puja M."
+      project: "Strategic Expansion of EV Charging Infrastructure in NYC: Enhancing Grid Integration and Equity by 2030"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Malyka M."
+      project: "Accelerating Solar Mini-Grids: The Pathway to Universal Energy Access in Nigeria"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]  
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Berlotte A., Brenda H., Samuel O., Zoe-Brianne C."
+      project: "Agadir, Morocoo: A Palybook for Green Transformation"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Fatima T."
+      project: "Expanding Rural Electrification in Cote D'Inoire Through Solar Mini-grid"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]  
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Dioris V."
+      project: "South Sulawesi, Indonesia Renewable Energy Reform"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]  
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Esther O."
+      project: "Green Infrastructure Projects at CUNY"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]  
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Danielle S."
+      project: "NYS Corporate Climate Responsibility Fund"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Katty G."
+      project: "Artificial Intelligence and U.S. Energy Demand: Policy Options to Manage Data Center Growth"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]        
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Bryan H."
+      project: "Integrating AI to Modernize Energy Infrastructure"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Robert S."
+      project: "Ending Coal Reliance in West Virginia"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Gabrielle B., Mariah G., Veronica S., Melisa S."
+      project: "EBRD Case Study -- Vilnius, Lithuania"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]        
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kirsten P."
+      project: "Establishing Standardization for Data Center Development and AI Implementation"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]        
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Suiun Z."
+      project: "Accelerated Strategy to Reduce Air Pollution in Bishkek, Kyrgyzstan"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Diana M."
+      project: "Addressing the Challenges and Opportunities of Heat Pump Deployment in NYC’s Multifamily Buildings"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Neil S."
+      project: "Improving New York State's Electric Grid and Renewable Energy Supply"
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2025"
+      categories: [project]  

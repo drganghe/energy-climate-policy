@@ -41,12 +41,13 @@ website:
         href: https://github.com/drganghe/energy-climate-policy
   page-navigation: true
   page-footer: 
-    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    right: 
-      - icon: github
-        href: https://github.com/drganghe/energy-climate-policy
-      - icon: twitter 
-        href: https://twitter.com/DrGangHe
+    center: "[Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) class taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # right: 
+    #   - icon: github
+    #     href: https://github.com/drganghe/energy-climate-policy
+    #   - icon: twitter 
+    #     href: https://twitter.com/DrGangHe
   search:
     location: navbar
     type: textbox

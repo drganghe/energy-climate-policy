@@ -25,7 +25,7 @@ listing:
   field-display-names: 
     title: "Concentration"
   grid-item-align: center
-  grid-columns: 4
+  grid-columns: 3
   image-height: 250px
 #  categories: true
   sort-ui: true
@@ -70,7 +70,6 @@ listing:
 ## Student Projects
 :::{#projects}
 :::
-To be added at the end of the semester.
 
 <!--Studnet profile and project update form-->
 {{< include /files/includes/_studentform.qmd >}}

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -139,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-name','listing-project','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-image","listing-name","listing-project","listing-semester","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -218,8 +218,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Energy and Climate Policy</span>
     </a>
@@ -407,7 +405,7 @@ May 5, 2025
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list grid quarto-listing-cols-4">
+<div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="cHJvZmlsZQ==">
 <a href="www.linkedin.com/in/brendahernandezavila" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
@@ -464,25 +462,298 @@ Public Administration MPA
 <h2 class="anchored" data-anchor-id="student-projects">Student Projects</h2>
 <div id="listing-projects" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-name" data-direction="asc">
+        Name
+      </option>
+      <option value="listing-project" data-direction="asc">
+        Project
+      </option>
+      <option value="listing-semester" data-direction="asc">
+        Semester
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table caption-top">
+<table class="quarto-listing-table table">
 <thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th">Name</th>
-<th data-quarto-table-cell-role="th">Project</th>
-<th data-quarto-table-cell-role="th">Semester</th>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-name" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-project" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-semester" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Semester</a>
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
+
+<tr data-index="0" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Abraham L.</span>
+</td>
+<td>
+<span class="listing-project">Expanding Equitable Accessto Community Solar for Renters</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Ashley C.</span>
+</td>
+<td>
+<span class="listing-project">The National Climate &amp; Green Economy Workforce Initiative: A Strategy for STEM Excellence &amp; Global Competitiveness</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Berlotte A., Brenda H., Samuel O., Zoe-Brianne C.</span>
+</td>
+<td>
+<span class="listing-project">Agadir, Morocoo: A Palybook for Green Transformation</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Bryan H.</span>
+</td>
+<td>
+<span class="listing-project">Integrating AI to Modernize Energy Infrastructure</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Danielle S.</span>
+</td>
+<td>
+<span class="listing-project">NYS Corporate Climate Responsibility Fund</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Dayana G.</span>
+</td>
+<td>
+<span class="listing-project">Mutual Learning for Clean Public Transportation: Los Angeles, US and Bogota, Colombia</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Diana M.</span>
+</td>
+<td>
+<span class="listing-project">Addressing the Challenges and Opportunities of Heat Pump Deployment in NYC’s Multifamily Buildings</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Dioris V.</span>
+</td>
+<td>
+<span class="listing-project">South Sulawesi, Indonesia Renewable Energy Reform</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Esther O.</span>
+</td>
+<td>
+<span class="listing-project">Green Infrastructure Projects at CUNY</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Fatima T.</span>
+</td>
+<td>
+<span class="listing-project">Expanding Rural Electrification in Cote D’Inoire Through Solar Mini-grid</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="10" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Gabrielle B., Mariah G., Veronica S., Melisa S.</span>
+</td>
+<td>
+<span class="listing-project">EBRD Case Study – Vilnius, Lithuania</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="11" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Katty G.</span>
+</td>
+<td>
+<span class="listing-project">Artificial Intelligence and U.S. Energy Demand: Policy Options to Manage Data Center Growth</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="12" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Kiet P.</span>
+</td>
+<td>
+<span class="listing-project">Managing the Energy and Water Demands of AI: Risks and Policy Solutions</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="13" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Kirsten P.</span>
+</td>
+<td>
+<span class="listing-project">Establishing Standardization for Data Center Development and AI Implementation</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="14" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Malyka M.</span>
+</td>
+<td>
+<span class="listing-project">Accelerating Solar Mini-Grids: The Pathway to Universal Energy Access in Nigeria</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="15" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Neil S.</span>
+</td>
+<td>
+<span class="listing-project">Improving New York State’s Electric Grid and Renewable Energy Supply</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="16" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Puja M.</span>
+</td>
+<td>
+<span class="listing-project">Strategic Expansion of EV Charging Infrastructure in NYC: Enhancing Grid Integration and Equity by 2030</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="17" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Robert S.</span>
+</td>
+<td>
+<span class="listing-project">Ending Coal Reliance in West Virginia</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
+<tr data-index="18" data-categories="cHJvamVjdA==">
+<td>
+<span class="listing-name">Suiun Z.</span>
+</td>
+<td>
+<span class="listing-project">Accelerated Strategy to Reduce Air Pollution in Bishkek, Kyrgyzstan</span>
+</td>
+<td>
+<span class="listing-semester">Fall 2025</span>
+</td>
+
+</tr>
+
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<p>To be added at the end of the semester.</p>
 <!--Studnet profile and project update form-->
 <p>Note: Students, please use this <a href="https://forms.gle/zuqpu71TZ6NJ4Qz76">form</a> to submit your profile information or request updates to your listing.</p>
 <!--Include social share buttons-->
@@ -910,27 +1181,14 @@ https://quarto.org/docs/authoring/includes.html
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<a href="http://drganghe.github.io">Gang He</a> ©
-<script>document.write(new Date().getFullYear())</script>
-</div>   
-    <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2025/students.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2025/students.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    </div>   
+    <div class="nav-footer-center">
+<a href="https://drganghe.github.io/energy-climate-policy">Energy and Climate Policy</a> class taught by <a href="http://drganghe.github.io">Gang He</a> ©
+<script>document.write(new Date().getFullYear())</script>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/energy-climate-policy/edit/main/2025/students.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/energy-climate-policy/blob/main/2025/students.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drganghe/energy-climate-policy">
-      <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/DrGangHe">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>
