@@ -41,7 +41,7 @@ website:
         href: https://github.com/drganghe/energy-climate-policy
   page-navigation: true
   page-footer: 
-    center: "[Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) class taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "[Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) open course taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     # right: 
     #   - icon: github
@@ -51,7 +51,7 @@ website:
   search:
     location: navbar
     type: textbox
-  reader-mode: true
+  reader-mode: false
   repo-url: https://github.com/drganghe/energy-climate-policy
   repo-actions: [edit, issue, source]
   open-graph: true

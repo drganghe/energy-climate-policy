@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true
 ---
 
@@ -28,7 +28,7 @@ format:
 -   How AI and big data could be used in facilitating clean energy transition and addressing climate change?\
 -   Any good examples or success stories of AI for energy/climate change?\
 -   Energy demand driven by AI and data centers?\
--   What skills are need to work in this field?\
+-   What skills are needed to work in this field?\
 
 
 ## Offshore wind turbine inspection using drones and AI

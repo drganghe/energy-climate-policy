@@ -1,1 +1,15 @@
 /* css styles */
+
+/* Make navbar, content, and footer have the same max-width and center them */
+.navbar .nav-container, 
+.navbar .container-fluid,
+.page-footer {
+    max-width: 1200px; /* Match body width */
+    margin: 0 auto;
+    float: none;
+  }
+
+/* Ensure the background color covers the whole screen */
+.navbar {
+  width: 100%;
+}  
