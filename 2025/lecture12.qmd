@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true
 ---
 
@@ -50,7 +50,7 @@ Source: [Ecofys](http://energypost.eu/world-energy-outlook-hides-real-potential-
 
 
 
-## Science models are in better positions
+## Science models are in a better position
 
 ::: columns
 
@@ -93,7 +93,7 @@ Read more: [Turning Numbers into Knowledge](https://www.koomey.com/books.html)
 :::
 
 
-## Changing landsacpe of new power generation capacities
+## Changing landscape of new power generation capacities
 
 <center> Shale gas revolution </center>
 
@@ -400,7 +400,7 @@ Source: IPCC, [WG2](https://www.ipcc.ch/report/ar6/wg2/figures/technical-summary
 ![]({{< var file_path >}}/images/energy-systems.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
 

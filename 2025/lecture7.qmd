@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true
 ---
 
@@ -27,7 +27,7 @@ format:
 -   What are the drivers of energy transition?\
 -   How should each country think/design/implement its energy transition?\
 -   How to frame the role of different technologies in energy transition?\
--   How geo-politics, wars, and pandemic impact the energy in transiton?\
+-   How geo-politics, wars, and pandemic impact the energy in transition?\
 
 ## Transition history
 
@@ -62,7 +62,7 @@ Source: [LBL](https://newscenter.lbl.gov/wp-content/uploads/sites/2/2021/04/Half
 ::: columns
 
 ::: {.column width="50%"}
-Central, large scale, incresing supply/demand     
+Central, large scale, increasing supply/demand     
 Fossil, nuclear
 :::
 
@@ -88,7 +88,7 @@ Source: @lovins_energy_1976
 - Economics
 
 
-## 100% reneables: a debate
+## 100% renewables: a debate
 
 ::: columns
 

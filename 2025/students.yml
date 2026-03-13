@@ -19,7 +19,7 @@
     #   date: "2025-08-15"
     #   categories: [story] 
 
-    - path: www.linkedin.com/in/brendahernandezavila 
+    - path: https://www.linkedin.com/in/brendahernandezavila 
       image: /files/headshots/brenda-hernandez.jpg
       title: "Brenda Hernandez"
       subtitle: "International Affairs MIA"
@@ -59,7 +59,7 @@
     - path:    #LinkedIn page
       image:   # profile picture
       name: "Abraham L."
-      project: "Expanding Equitable Accessto Community Solar for Renters"
+      project: "Expanding Equitable Access to Community Solar for Renters"
 #      author: 
 #      subtitle: ""
       semester: "Fall 2025"
@@ -104,7 +104,7 @@
     - path:    #LinkedIn page
       image:   # profile picture
       name: "Berlotte A., Brenda H., Samuel O., Zoe-Brianne C."
-      project: "Agadir, Morocoo: A Palybook for Green Transformation"
+      project: "Agadir, Morocco: A Playbook for Green Transformation"
 #      author: 
 #      subtitle: ""
       semester: "Fall 2025"
@@ -113,7 +113,7 @@
     - path:    #LinkedIn page
       image:   # profile picture
       name: "Fatima T."
-      project: "Expanding Rural Electrification in Cote D'Inoire Through Solar Mini-grid"
+      project: "Expanding Rural Electrification in Côte d'Ivoire Through Solar Mini-grid"
 #      author: 
 #      subtitle: ""
       semester: "Fall 2025"

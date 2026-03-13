@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 ---
 
 ## August 2025:	425.48 ppm
@@ -112,7 +112,7 @@ Learn more: <https://drganghe.github.io/climate-guest-speakers/>
 -   Climate change
     -   Impact
     -   Mitigation
-    -   Adaption
+    -   Adaptation
     -   Governance
 :::
 

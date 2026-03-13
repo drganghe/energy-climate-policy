@@ -18,11 +18,11 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true    
 ---
 
-## A five points "climate haiku"
+## A five-point "climate haiku"
 
 ::: columns
 ::: {.column width="50%"}
@@ -58,7 +58,7 @@ Source: @ehrlich_impact_1971
 :::
 
 
-## Kaya identify{.smaller}
+## Kaya identity{.smaller}
 
 ::: columns
 ::: {.column width="50%"}

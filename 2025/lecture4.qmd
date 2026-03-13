@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true    
 ---
 
@@ -27,7 +27,7 @@ format:
 ![]({{< var file_path >}}/images/energy-systems.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
 
@@ -36,11 +36,11 @@ Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/F
 ![]({{< var file_path >}}/images/resource-vs-reserve.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
 
-## Energy and their conversions
+## Energy and its conversions
 
 ![]({{< var file_path >}}/images/energy-and-conversions.png){fig-align="center"}
 
@@ -77,7 +77,7 @@ Source: Our World in Data, [Energy Mix](https://ourworldindata.org/energy-mix)
 ![]({{< var file_path >}}/images/energy-enduse-by-sector.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
 ## Matching supply and demand
@@ -92,7 +92,7 @@ But relies on massive infrastructure, markets, and regulations
 Solution is usually location and temporal based  
 
 
-## Electrify eveything, where are we now
+## Electrify everything, where are we now
 
 ![]({{< var file_path >}}/images/share-of-electricity-in-total-final-consumption-in-selected-countries-and-regions-2000-2020.png){fig-align="center"}
 
@@ -101,7 +101,7 @@ Source: [IEA](https://www.iea.org/data-and-statistics/charts/share-of-electricit
 :::
 
 
-## Electrify eveything, net zero
+## Electrify everything, net zero
 
 ![]({{< var file_path >}}/images/iea-net-zero-electricity-share.png){fig-align="center"}  
 ![]({{< var file_path >}}/images/iea-net-zero-legend.png){fig-align="center"}  
@@ -115,7 +115,7 @@ Source: [IEA](https://www.iea.org/reports/net-zero-by-2050), @iea_net_2021
 ![]({{< var file_path >}}/images/energy-efficiency-lighting.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf) 
 :::
 
 ## Electric efficiency vs fossil efficiency

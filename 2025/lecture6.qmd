@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true
 ---
 
@@ -27,7 +27,7 @@ format:
 -   What are the environmental impacts of a fossil power plant?  
 -   How much water could you save if you replace all water cooling plants with air cooling?  
 -   What are the human health impacts of energy?  
--   How climate change affect human health?  
+-   How does climate change affect human health?  
 -   What are the co-benefits of energy transitions?  
 
 
@@ -52,7 +52,7 @@ format:
 :::
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
 :::
 
 

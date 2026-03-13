@@ -1,6 +1,6 @@
 ---
 title: "Lecture 5 Energy, Economy, and Demand"
-description-meta: "Factors drive energy demand"
+description-meta: "Factors driving energy demand"
 author: "Gang He"
 date: October 14, 2025
 date-format: long
@@ -18,7 +18,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true    
 ---
 
@@ -28,7 +28,7 @@ format:
 - How emerging trends, such as EV and data centers, will change the load?    
 - What drives energy demand growth?  
 - How climate change affects energy demand?   
-- How to make reasonal assumptions about appliances stock turn over?  
+- How to make reasonable assumptions about appliances stock turn over?  
 
 
 ## Germany energy demand 
@@ -40,12 +40,12 @@ Read more: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/german
 :::
 
 
-## Decouping GDP and emissions 
+## Decoupling GDP and emissions 
 
 ![]({{< var file_path >}}/images/gdp-co2-emissions.png){fig-align="center"}
 
 ::: footer
-Read more: [IEA](hhttps://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
+Read more: [IEA](https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely)
 :::
 
 
@@ -66,7 +66,7 @@ $I=P\times A\times T$
 Where,  
 $I$ = Impact   
 $P$ = Population  
-$A$ = Aflluence  
+$A$ = Affluence  
 $T$ = Technology    
 </p>
 </center>
@@ -84,7 +84,7 @@ Source: [UN World Population Prospects](https://population.un.org/wpp/assets/gra
 :::
 
 
-##  Demographic decline and againg
+## Demographic decline and aging
 
 ![]({{< var file_path >}}/images/demographic-decline-and-aging.jpg){fig-align="center"}
 

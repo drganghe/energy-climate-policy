@@ -1,5 +1,5 @@
 ---
-title: "Lecture 3 Climate Fdundamentals and Impact"
+title: "Lecture 3 Climate Fundamentals and Impact"
 description-meta: "Discuss the fundamentals of climate change"
 author: "Gang He"
 date: September 29, 2025
@@ -18,11 +18,11 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 #draft: true    
 ---
 
-## A five points "climate haiku"
+## A five-point "climate haiku"
 
 ::: columns
 ::: {.column width="50%"}
@@ -81,7 +81,7 @@ Source: [National Geographic](https://education.nationalgeographic.org/resource/
 Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
 :::
 
-## Greenhouse Gases(GHG){.smaller}
+## Greenhouse Gases (GHG){.smaller}
 
 
 | GHG                           | GWP-100   | Lifetime (Years) |

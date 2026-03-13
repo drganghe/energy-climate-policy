@@ -1,6 +1,6 @@
 ---
 title: "Student Stories & Profiles & Projects"
-subtitle: "Celebrate student success, hightlight student expertise, and showcase student projects"
+subtitle: "Celebrate student success, highlight student expertise, and showcase student projects"
 image: /files/images/hex-Energy-Climate-Policy.png
 toc: false
 page-layout: full
@@ -71,7 +71,7 @@ listing:
 :::{#projects}
 :::
 
-<!--Studnet profile and project update form-->
+<!--Student profile and project update form-->
 {{< include /files/includes/_studentform.qmd >}}
 
 <!--Include social share buttons-->

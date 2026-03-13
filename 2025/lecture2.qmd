@@ -19,7 +19,7 @@ format:
     center: true
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: "{{< var course_link >}}"
 ---
 
 ## {background-color="black" background-image="https://raw.githubusercontent.com/drganghe/shared-files/refs/heads/main/images/one-ton-co2.jpg"}
@@ -73,7 +73,7 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 :::
 
 
-## Foundamental energy units{.smaller}
+## Fundamental energy units{.smaller}
 
 - Joule: $J\rightarrow newton \times meter$ 
 - calorie: $cal \rightarrow gram \times 1^\circ C$ , $1 cal=4.184 J$ 
@@ -87,7 +87,7 @@ Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
 ![]({{< var file_path >}}/images/energy-units-scale.png){fig-align="center"}
 
 ::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+Source: IIASA, [Energy Primer](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
 :::
 
 

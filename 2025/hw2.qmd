@@ -27,7 +27,7 @@ format:
 
 ### Background  
 
-Please read the stories about the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant)--two nuclear projects with contrasting outcomes. Shoreham was decommisioned without even operating commercially, leaving Long Island rate-payers to cover its costs, Diablo Canyon was offered to extend operation as part of California's clean energy transition.
+Please read the stories about the [Shoreham Nuclear Power Plant](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant) and the [Diablo Canyon Power Plant](https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant)--two nuclear projects with contrasting outcomes. Shoreham was decommissioned without even operating commercially, leaving Long Island rate-payers to cover its costs, Diablo Canyon was offered to extend operation as part of California's clean energy transition.
 
 
 ### Questions
@@ -51,7 +51,7 @@ Using the following assumptions to calculate the duration of ratepayer charges:
 
 2. **Diablo Canyon Power Plant**:
 
-In 2021, Diablo Canyon Power Plant generated nearly 9% of Cailifornia's electricity and roughly 15% of the State's clean energy production. The plant has been granted a 5 year extention beyond its scheduled closure in 2025. 
+In 2021, Diablo Canyon Power Plant generated nearly 9% of California's electricity and roughly 15% of the State's clean energy production. The plant has been granted a 5 year extension beyond its scheduled closure in 2025. 
 
 What's the levelized cost of electricity (LCOE) of Diablo Canyon for its extended operation period (2026-2030)?  (**1pt**)
  
@@ -60,8 +60,8 @@ Use the following assumptions:
 - Nameplate capacity: **2,256 MW**   
 - Capacity factor: **80%**   
 - Discount rate: **4%**   
-- Capical investment cost for extensioon: **$1.4** billion (forgivable loans, considered the only investment, past investments are sunk costs and should not be considered in this calculation).  
-- Assuming the O&M costs are 3% of the investment costs, average fuel costs is [\$5.37/MWh]^[https://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf]. 
+- Capital investment cost for extension: **$1.4** billion (forgivable loans, considered the only investment, past investments are sunk costs and should not be considered in this calculation).  
+- Assuming the O&M costs are 3% of the investment costs, average fuel costs are [\$5.37/MWh]^[https://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf]. 
 
 
 
@@ -76,7 +76,7 @@ Electricity price: **\$0.2/kWh**; Gasoline price: **\$3.5/gallon**
 Efficiency: EV: **28kWh/100mile**; ICE: **30mile/gallon** (mpg)  
 Life-time: **10years**  
 Resale value after 10 years: EV: **\$5,000**; ICE: **\$10,000**  
-Discont rate: **4%**  
+Discount rate: **4%**  
 
 1. Calculating the NPV of the EV and ICE, and decide which vehicle should you purchase based on economics?  
 2. IRA offers **\$7,500** tax credit^[https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after] for EV purchase before September 30, 2025, does that impact your decision?  
@@ -87,7 +87,7 @@ Discont rate: **4%**
 
 ## Further readings
 
-Get to understand what composites the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.
+Get to understand what composes the 6 billion price tag, and what are the hidden costs? Check the political economy of the energy policy and investment decisions.
 
 New York Times, June 19, 1983. [How Long Island Will Pay For Shoreham](https://www.nytimes.com/1983/06/19/nyregion/how-li-will-pay-for-shoreham.html)  
 
