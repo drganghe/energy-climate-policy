@@ -106,13 +106,13 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 [SAM](https://sam.nrel.gov) , The System Advisor Model (SAM) is a performance and financial model designed to facilitate decision making in renewable energy.
 
-[GCAM](https://www.globalchange.umd.edu/gcam), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
+[GCAM](https://gcims.pnnl.gov/modeling/gcam-global-change-analysis-model), Global Change Assessment Model (GCAM), an integrated assessment tool for exploring consequences and responses to global change.
 
-[C-ROADS](https://www.climateinteractive.org/simulations), Climate Rapid Overview and Decision Support
+[C-ROADS](https://www.climateinteractive.org/c-roads/), Climate Rapid Overview and Decision Support
 
 [LEAP](https://leap.sei.org/), The Long-range Energy Alternatives Planning System
 
-[MARKAL](https://iea-etsap.org/index.php/etsaptool/model-generators/markal), Markal is a numerical model used to carry out an economic analysis of different energy related systems at the country level to represent its evolution over a period.
+[TIMES](https://iea-etsap.org/times-the-integrated-markal-efom-system/l), TIMES is a technology-rich, bottom-up, linear optimization framework. 
 
 [MESSAGE](https://webarchive.iiasa.ac.at), Model for Energy Supply Strategy Alternatives and their General Environmental Impact
 
@@ -120,13 +120,13 @@ Stockholm Environment Institute, [Community of Energy, Environment, and Developm
 
 [NEMS](https://www.eia.gov), The National Energy Modeling System (NEMS) is a computer-based, energy-economy modeling system of U.S. through 2030.
 
-[MERGE](https://eea.epri.com/models.html#tab=1), Model for Evaluating the Regional and Global Effects of GHG Reduction Policies
+[MERGE](https://eea.epri.com/models.html#tab=2), Model for Evaluating the Regional and Global Effects of GHG Reduction Policies
 
 [Balmorel](https://www.balmorel.com), Balmorel is a model for analyzing the electricity and combined heat and power sectors in an international perspective.
 
 [GridLAB-D](https://www.gridlabd.org), GridLAB-D is an open-source simulation and analysis tool that models emerging smart grid energy technologies.
 
-[EnergyPlus](https://apps1.eere.energy.gov), EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.
+[EnergyPlus](https://energyplus.net/), EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model energy and water use in buildings.
 
 [OSeMOSYS](https://www.osemosys.org): The Open Source Energy Modeling System
 
